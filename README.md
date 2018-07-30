@@ -1,3 +1,6 @@
-# My Awesome Book
+So, a few days ago, I decided I wanted to run a _Doctor Who_-style RPG: time travel, high adventure, little-to-no violence, brain-based-deus-ex-machina and handwavy paradoxes.
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+I wasn't particularly interested in staying in the same universe \(not all of my players actually know _Doctor Who_, and I have no intention of serving as encyclopaedia\), nor of having one Timelord and a few passengers.
+
+So, here we go for _Ronin Time Bureaucrats._
+
