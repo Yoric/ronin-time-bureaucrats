@@ -10,19 +10,15 @@ All this took place \(subjective\) eons ago. Nowadays, the Agency is known as th
 
 Throughout its existence and despite all these reinventions, the Bureaucracy has devoted and continues to devote considerable efforts to fighting the main threat towards the continued existence of the Universe.
 
-**This threat is, of course,**_**past, future and alternate versions of the Bureaucracy**_. Because, well, they are so very wrong, aren't they?
+**This threat is, of course, **_**past, future and alternate versions of the Bureaucracy**_. Because, well, they are so very wrong, aren't they?
 
 This is a conflict of surprisingly little violence, made of subtle manipulations and grand gestures, of infiltrations, desertions, propaganda, and paradoxes. A Cold War more than a battlefield.
 
 Unsurprisingly, with this Time Cold War, Bureaucrats tend to disappear here and there. Some died, surely, in the line of duty. Others switched allegiance. A few survived the entire erasure of their timeline. As for others, well, they just decided to go their own way, out of boredom, disgust, or on their own personal quests. Once a disappearance is found out, the Bureaucracy searches for its missing Bureaucrats, of course. But, well, Space and Time is a large place, and it’s hard to find someone who may have accidentally misplaced the transponder from their Continuum Indirection and sent it hurling towards a black hole.
-
-
 
 ## Ronin Time Bureaucrats
 
 That’s who you are, by the way. A runaway crew of Ronin Time Bureaucrats, in your Continuum Indirection, flying merrily away from the Bureaucracy and towards... well, towards all of Time and Space!
 
 So what if past/future/alternate versions of the Bureaucracy \(and yourself\) are looking for you and/or greedily rewriting the Continuum while you're away?
-
-
 
