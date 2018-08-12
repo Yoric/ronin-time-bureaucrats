@@ -23,12 +23,13 @@ This story is set in the Ancient Greek city of Euthermios. If you haven't heard 
 
 During the last two weeks, however, the situation has changed considerably. It started with a sick pilgrim, or a sick priest, or perhaps a rat in the granary. A few days later, dozens of people were walking the streets, complaining about their cracking, dry skin, their falling teeth, eyes they could barely keep open. Now, hundreds are dead or dying. Survivors are starving in temples guarded by archers, or hiding in their houses. Those who have attempted to escape report mythical monsters besieging the city. Also, the night is turning yellow.
 
-
-
 ## Aspects of the story
 
 * &lt;Whatever your characters are doing here&gt;
-* This plague could Snafu the entire Continuum.
+* This Plague could Snafu the entire Continuum.
+* Death from Inside, Death from Outside.
+
+
 
 * Aspects of the city
 
