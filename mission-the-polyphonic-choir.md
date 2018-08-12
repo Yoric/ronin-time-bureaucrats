@@ -21,15 +21,19 @@ This story is set in the Ancient Greek city of Euthermios. If you haven't heard 
 >
 > As usual, the only limit is the Entirety of Time and Space. Just remember the reason and make it an Aspect of the story.
 
-During the last two weeks, however, the situation has changed considerably. It started with a sick pilgrim, or a sick priest, or perhaps a rat in the granary. A few days later, dozens of people were walking the streets, complaining about their cracking, dry skin, their falling teeth, eyes they could barely keep open. Now, hundreds are dead or dying. Survivors are starving in temples guarded by archers, or hiding in their houses. Those who have attempted to escape report mythical monsters besieging the city. Also, the night is turning yellow.
+During the last two weeks, however, the situation has changed considerably. It started with a sick pilgrim, or a sick priest, or perhaps a rat in the granary. A few days later, dozens of people were walking the streets, complaining about their cracking, dry skin, their falling teeth, eyes they could barely keep open. Now, hundreds are dead or dying. Survivors are starving in temples guarded by archers, or hiding in their houses. Those who have attempted to escape report mythical monsters besieging the city. Also, the night has new noises. Yellow ones.
+
+If the Crew land within the city, they will immediately realize that something is wrong.
 
 ## Aspects of the story
 
 * &lt;Whatever your characters are doing here&gt;
 * This Plague could Snafu the entire Continuum.
+* Killer monsters, killer mosquitoes, killer heat, and yes, killer Plague.
+
+
+
 * Death from Inside, Death from Outside.
-
-
 
 * Aspects of the city
 
