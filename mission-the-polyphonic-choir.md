@@ -26,8 +26,8 @@ During the last two weeks, however, the situation has changed considerably. It s
 ## Aspects of the story
 
 * &lt;Whatever your characters are doing here&gt;
-* A Time-travelling plague could Snafu the entire Continuum.
-
+* This plague could Snafu the entire Continuum.
+* 
 Aspects of the city
 
 * Holy City of the Ancients.
