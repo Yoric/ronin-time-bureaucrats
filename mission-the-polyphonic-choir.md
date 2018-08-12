@@ -4,7 +4,7 @@ As in most Ronin Time Bureaucracy stories, the number of possibilities afforded 
 
 ## The setting
 
-This story is set in the Ancient Greek city of Euthermios. If you haven't heard about that city, well, there's probably a good reason... Until a few weeks ago, this city was a major cultural and commercial node in the Greek Civilization. It overlooks the sea, controls a river known as the &lt;?&gt;, and is home to one of the greatest libraries of the Mediterranean, natural hot baths, as well as no less than ten temples to the various Gods known and lost, a volcanic crater rumoured to hide an entrance to the Land of the Dead, and a fabled Colossus. Philosophers, merchants and pilgrims came from all over the Mediterranean Sea and the Greek Peninsula to exchange, barter, pray and have their future read. According to legends, this is where Herakles defeated the dreaded Tricorn and buried it somewhere.
+This story is set in the Ancient Greek city of Euthermios. If you haven't heard about that city, well, there's probably a good reason... Until a few weeks ago, this city was a major cultural and commercial node in the Greek Civilization. It overlooks the sea, controls a river known as the &lt;?&gt;, and is home to one of the greatest libraries of the Mediterranean, natural hot baths, as well as no less than ten temples to the various Gods known and lost, a volcanic crater rumoured to hide an entrance to the Land of the Dead, and a fabled Colossus. Philosophers, merchants and pilgrims came from all over the Mediterranean Sea and the Greek Peninsula to exchange, barter, pray and have their future read. According to legends, this is where Herakles defeated the dreaded Tricorn and buried it somewhere. Of course, at the best of times, this is also a city of slavery, one that smells of the piss and sweat of ten thousand human beings \(a true metropolis\), even when it's not beset by mosquitoes.
 
 > **Why are the characters here?**
 >
@@ -27,10 +27,13 @@ During the last two weeks, however, the situation has changed considerably. It s
 
 * &lt;Whatever your characters are doing here&gt;
 * This plague could Snafu the entire Continuum.
-* 
-Aspects of the city
+
+
+
+* Aspects of the city
 
 * Holy City of the Ancients.
+
 * &lt;What your characters are doing here&gt;
 * The Plague walks the streets.
 
