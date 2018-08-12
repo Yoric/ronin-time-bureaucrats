@@ -2,6 +2,8 @@
 
 As in most Ronin Time Bureaucracy stories, the number of possibilities afforded to the Crew is endless, so don't expect a well-delimited plot. Rather, this scenario introduces a few basic places, aspects and characters, and lets the Crew and GM improvise from it.
 
+It can serve as an introduction to the Brick Nation.
+
 ## The setting
 
 This story is set in the Ancient Greek city of Euthermios. If you haven't heard about that city, well, there's probably a good reason... Until a few weeks ago, this city was a major cultural and commercial node in the Greek Civilization. It overlooks the sea, controls a river known as the &lt;?&gt;, and is home to one of the greatest libraries of the Mediterranean, natural hot baths, as well as no less than ten temples to the various Gods known and lost, a volcanic crater rumoured to hide an entrance to the Land of the Dead, and a fabled Colossus. Philosophers, merchants and pilgrims came from all over the Mediterranean Sea and the Greek Peninsula to exchange, barter, pray and have their future read. According to legends, this is where Herakles defeated the dreaded Tricorn and buried it somewhere.
@@ -22,6 +24,13 @@ This story is set in the Ancient Greek city of Euthermios. If you haven't heard 
 > As usual, the only limit is the Entirety of Time and Space. Just remember the reason and make it an Aspect of the story.
 
 
+
+During the last two weeks, however, the situation has changed considerably. It started with a sick pilgrim, or a sick priest, or perhaps a rat in the granary. A few days later, dozens of people were walking the streets, complaining about their cracking, dry skin, their falling teeth, eyes they could barely keep open.
+
+## Aspects of the story
+
+* &lt;Whatever your characters are doing here&gt;
+* A Time-travelling plague could Snafu the entire Continuum.
 
 
 
