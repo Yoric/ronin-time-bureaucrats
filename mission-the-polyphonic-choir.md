@@ -21,6 +21,10 @@ This story is set in the Ancient Greek city of Euthermios. If you haven't heard 
 >
 > As usual, the only limit is the Entirety of Time and Space. Just remember the reason and make it an Aspect of the story.
 
+
+
+
+
 Aspects of the city
 
 * Holy City of the Ancients.
