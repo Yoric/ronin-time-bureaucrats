@@ -1,8 +1,6 @@
 # The Polyphonic Choir
 
-As in most Ronin Time Bureaucracy stories, the number of possibilities afforded to the Crew is endless, so don't expect a well-delimited plot. Rather, this scenario introduces a few basic places, aspects and characters, and lets the Crew and GM improvise from it.
-
-It can serve as an introduction to the Brick Nation.
+As in most Ronin Time Bureaucracy stories, the number of possibilities afforded to the Crew is endless, so don't expect a well-delimited plot. Rather, this scenario introduces a few basic places, aspects and characters, and lets the Crew and GM improvise from it. It can serve as an introduction to the Brick Nation and/or a pathway to unleashing the Brick Nation through Time and Space.
 
 ## The setting
 
@@ -23,16 +21,12 @@ This story is set in the Ancient Greek city of Euthermios. If you haven't heard 
 >
 > As usual, the only limit is the Entirety of Time and Space. Just remember the reason and make it an Aspect of the story.
 
-
-
 During the last two weeks, however, the situation has changed considerably. It started with a sick pilgrim, or a sick priest, or perhaps a rat in the granary. A few days later, dozens of people were walking the streets, complaining about their cracking, dry skin, their falling teeth, eyes they could barely keep open.
 
 ## Aspects of the story
 
 * &lt;Whatever your characters are doing here&gt;
 * A Time-travelling plague could Snafu the entire Continuum.
-
-
 
 Aspects of the city
 
