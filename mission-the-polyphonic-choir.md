@@ -23,7 +23,15 @@ This story is set in the Ancient Greek city of Euthermios. If you haven't heard 
 
 During the last two weeks, however, the situation has changed considerably. It started with a sick pilgrim, or a sick priest, or perhaps a rat in the granary. A few days later, dozens of people were walking the streets, complaining about their cracking, dry skin, their falling teeth, eyes they could barely keep open. Now, thousands are dead or dying. Survivors are starving in temples guarded by archers, or hiding in their houses. Those who have attempted to escape report mythical monsters besieging the city. Also, the night has new noises. Yellow ones.
 
-If the Crew land within the city, they will immediately realize that the streets are near empty. A few dying inhabitants and animals, but no dead. 
+## Around the city
+
+If the Crew lands outside of the city and tries to get in on foot, they may follow a well-travelled dirt road and encounter a temporary camp being dismantled. About twenty merchants, pilgrims and slaves, most of them male, with a merchant called Eurystheus of Athens in charge. The travelers intended to reach the city a few days ago, but they heard of monsters blocking the path, so they decided to make camp here while the two sons Eurystheus scouted ahead. The two young men \(well, teenagers\) have just returned with word of a man-eating, fire-breathing bull laying in ambush. Apparently, they barely escaped with their lives.
+
+## In the city
+
+If the Crew land within the city, they will immediately realize that the streets are near empty. A few dying inhabitants and animals, but no dead.
+
+FIXME: No locks
 
 ## Aspects of the story
 
@@ -31,17 +39,11 @@ If the Crew land within the city, they will immediately realize that the streets
 * This Plague could Snafu the entire Continuum.
 * Killer monsters, killer mosquitoes, killer heat, and yes, killer Plague.
 
-
-
 Going medical
 
 Exploring the temples
 
 The Brigade
-
-
-
-
 
 Death from Inside, Death from Outside.
 
