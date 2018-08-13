@@ -25,7 +25,9 @@ During the last two weeks, however, the situation has changed considerably. It s
 
 ## Around the city
 
-If the Crew lands outside of the city and tries to get in on foot, they may follow a well-travelled dirt road and encounter a temporary camp being dismantled. About twenty merchants, pilgrims and slaves, most of them male, with a merchant called Eurystheus of Athens in charge. The travelers intended to reach the city a few days ago, but they heard of monsters blocking the path, so they decided to make camp here while the two sons Eurystheus scouted ahead. The two young men \(well, teenagers\) have just returned with word of a man-eating, fire-breathing bull laying in ambush. Apparently, they barely escaped with their lives.
+If the Crew lands outside of the city and tries to get in on foot, they may follow a well-travelled dirt road and encounter a temporary camp being dismantled. About fifty merchants, pilgrims, philosophers and slaves, most of them male, with a merchant called Eurystheus of Athens in charge. The travelers intended to reach the city a few days ago, but they heard of monsters blocking the path, so they decided to make camp here while the two sons Eurystheus scouted ahead. The two young men \(twin teenagers, in fact\) have just returned with word of a man-eating, fire-breathing bull laying in ambush. Their tale grows with each retelling, but if they are to be believed, they fought bravely and barely escaped with their lives. While the slaves are busy breaking camp, the merchants are trying to find a way to recoup their losses and the philosophers to make sense of this unlikely monster.
+
+
 
 ## In the city
 
