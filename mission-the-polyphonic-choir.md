@@ -51,7 +51,7 @@ If the Crew attempts to travel through the marshes or off-road, they will actual
 
 ### Getting in through the blockade
 
-Once the Crew has decided to ignore the warnings, they can approach the city. Getting closer to the city, they will witness some mythological monster eating alive a dozen of warriors or sailors, surrounded by black crows. No matter what path they take to approach the city \(including flying\), they will encounter a monster. Interestingly, the monsters leave no bodies, and if the Crew attempts to find where the victims come from, they will realize that said victims left no traces. Alternatively, if they wait long enough, the Crew may realize that _the exact same victims_ get eaten each time. Also, any sufficiently advanced recording equipment will quickly help the Crew conclude that victims and monsters are in fact holographic projections.
+Once the Crew has decided to ignore the warnings, they can approach the city. Within sight of the Walls, they will witness some mythological monster eating alive a dozen of warriors or sailors, surrounded by black crows. No matter what path they take to approach the city \(including flying\), they will encounter a monster. Interestingly, the monsters leave no bodies, and if the Crew attempts to find where the victims come from, they will realize that said victims left no traces. Alternatively, if they wait long enough, the Crew may realize that _the exact same victims_ get eaten each time. Also, any sufficiently advanced recording equipment will quickly help the Crew conclude that victims and monsters are in fact holographic projections.
 
 In fact, the monsters are no threat. They have been set here as part of the blockade to scare travelers in an attempt to limit the plague. The crows, however, are customized Crowd Control Clockworks of the Time Brigade. As such, they are equipped with stun tasers and a rudimentary memory-wipe mechanism meant to convince travelers that they have barely escaped with their life. Should the Crew be memory-wiped, the crude illusion won't stand for more than a few minutes.
 
@@ -67,17 +67,17 @@ In fact, the monsters are no threat. They have been set here as part of the bloc
 
 Stealth will let the Crew past the Crows. Putting up too much of a fight before falling will cause the Crew to be spotted as time travelers and wake up in a cell of the Time Brigade. Being spotted as time travelers but not captured, or damaging too many Crowd Control Crows, will cause one of the monster illusions to actually ask politely the Crew to cease and desist: the city is under quarantine due to a deadly plague and bringing in any Time Traveler would be a Very Bad idea. Should the Crew prove determined, the monsters will deliver an invitation to the Citadel in the center of the City.
 
+Getting past the the three-meter tall walls themselves may offer a minor challenge to the Crew, but nothing that should hold them for long. Here and there, the walls are still manned by a few grim archers, who have been posted to prevent anybody from leaving the city. They look towards the city, though, so it should be easy to hide from them. Also, they are only a few dozens, far from enough to watch the entire wall.
+
 ### Getting out
 
-Attempting to get out of the city is more complicated than getting it. Same monsters, same crows, but increased surveillance using the sophisticated monitoring of the Time Brigade. Also, the Time Brigade may customize its illusions, deploy reinforcements instantaneously, including one or two Polymorphic Provocateurs customized to actually look and behave like mythological monsters, as well as deploy its own crew with advanced technological weapons.
+Attempting to get out of the city is more complicated than getting it. Same walls, same monsters, same crows, but increased surveillance using the sophisticated monitoring of the Time Brigade. Also, the Time Brigade may customize its illusions, deploy reinforcements instantaneously, including one or two Polymorphic Provocateurs customized to actually look and behave like mythological monsters, as well as deploy its own crew with advanced technological weapons.
 
 ## In the city
 
 If the Crew lands within the city, or once they have forced the blockade, they will immediately realize that the streets are pretty much empty.
 
-
-
- A few dying inhabitants and animals, but no dead.
+A few dying inhabitants and animals, but no dead.
 
 FIXME: No locks
 
