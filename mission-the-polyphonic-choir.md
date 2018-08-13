@@ -32,15 +32,15 @@ During the last two weeks, however, the situation has changed considerably. It s
 > * Sophia \(F\)
 > * Stamitos \(M\)
 
-
-
-
-
 ## Around the city
 
-If the Crew lands outside of the city and tries to get in on foot, they may follow a well-travelled dirt road and encounter a temporary camp being dismantled. About fifty merchants, pilgrims, philosophers and slaves, most of them male, with a merchant called Eurystheus of Athens in charge. The travelers intended to reach the city a few days ago, but they heard of monsters blocking the path, so they decided to make camp here while the two sons Eurystheus scouted ahead. The two young men \(twin teenagers, in fact\) have just returned with word of a man-eating, fire-breathing bull laying in ambush. Their tale grows with each retelling, but if they are to be believed, they fought bravely and barely escaped with their lives. While the slaves are busy breaking camp, the merchants are trying to find a way to recoup their losses and the philosophers to make sense of this unlikely monster. 
+The city can easily be reached from a well-travelled dirt road, from the sea, the river. With more efforts, the Crew can also travel off-road or even cross through the marshes \(good luck with the mosquitoes\).
 
-Should the Crew decide to venture forth
+Attempts to
+
+If the Crew lands outside of the city and tries to get in on foot, they may follow a well-travelled dirt road and encounter a temporary camp being dismantled. About fifty merchants, pilgrims, philosophers and slaves, most of them male, with a merchant called Eurystheus of Athens in charge. The travelers intended to reach the city a few days ago, but they heard of monsters blocking the path, so they decided to make camp here while the two sons Eurystheus scouted ahead. The two young men \(twin teenagers, in fact\) have just returned with word of a man-eating, fire-breathing bull laying in ambush. Their tale grows with each retelling, but if they are to be believed, they fought bravely and barely escaped with their lives. While the slaves are busy breaking camp, the merchants are trying to find a way to recoup their losses and the philosophers to make sense of this unlikely monster. With the exception of the two still-excited teens, the travelers are tired and disappointed, but everybody takes that loss reasonably well.
+
+Attempting to circle the city and 
 
 ## In the city
 
