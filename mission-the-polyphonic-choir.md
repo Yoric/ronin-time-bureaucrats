@@ -61,8 +61,8 @@ In fact, the monsters are no threat. They have been set here as part of the bloc
 > * Easy to spot, hard to catch.
 > * Limitless numbers.
 >
-> Fragile.
-> Good at: Flying, tasing, spotting travelers.
+> Fragile.  
+> Good at: Flying, tasing, spotting travelers.  
 > Poor at: Being smart, fighting determined opposition, dealing with time travelers.
 
 Stealth will let the Crew past the Crows. Putting up too much of a fight before falling will cause the Crew to be spotted as time travelers and wake up in a cell of the Time Brigade. Being spotted as time travelers but not captured, or damaging too many Crowd Control Crows, will cause one of the monster illusions to actually ask politely the Crew to cease and desist: the city is under quarantine due to a deadly plague and bringing in any Time Traveler would be a Very Bad idea. Should the Crew prove determined, the monsters will deliver an invitation to the Citadel in the center of the City.
@@ -73,7 +73,11 @@ Attempting to get out of the city is more complicated than getting it. Same mons
 
 ## In the city
 
-If the Crew land within the city, they will immediately realize that the streets are near empty. A few dying inhabitants and animals, but no dead.
+If the Crew lands within the city, or once they have forced the blockade, they will immediately realize that the streets are pretty much empty.
+
+
+
+ A few dying inhabitants and animals, but no dead.
 
 FIXME: No locks
 
