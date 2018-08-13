@@ -34,13 +34,13 @@ During the last two weeks, however, the situation has changed considerably. It s
 
 ## Around the city
 
-The city can easily be reached from a well-travelled dirt road, from the sea, the river. With more efforts, the Crew can also travel off-road or even cross through the marshes \(good luck with the mosquitoes\).
+The city can easily be reached from a well-travelled dirt road, from the sea \(staying close to the land – Greek ships aren't too good and Greek sailors don't like to take chances\), the river. With more efforts, the Crew can also travel off-road or even cross through the marshes \(good luck with the mosquitoes\).
 
-Attempts to
+Coming from the dirt road, from the sea or the river is pretty much the same story: the Crew will encounter a group of ~50 merchants, pilgrims, philosophers and slaves, most of them male, traveling away from the city in a hurry. The leader of the group is a merchant called Eurystheus of Athens. The travelers intended to reach the city a few days ago, but they heard of monsters blocking the path, so they decided to wait here while the twin sons of Eurystheus scouted ahead \(even if the travellers were on a ship, the sons scouted from the land\).
 
-If the Crew lands outside of the city and tries to get in on foot, they may follow a well-travelled dirt road and encounter a temporary camp being dismantled. About fifty merchants, pilgrims, philosophers and slaves, most of them male, with a merchant called Eurystheus of Athens in charge. The travelers intended to reach the city a few days ago, but they heard of monsters blocking the path, so they decided to make camp here while the two sons Eurystheus scouted ahead. The two young men \(twin teenagers, in fact\) have just returned with word of a man-eating, fire-breathing bull laying in ambush. Their tale grows with each retelling, but if they are to be believed, they fought bravely and barely escaped with their lives. While the slaves are busy breaking camp, the merchants are trying to find a way to recoup their losses and the philosophers to make sense of this unlikely monster. With the exception of the two still-excited teens, the travelers are tired and disappointed, but everybody takes that loss reasonably well.
+The two young men \(teenagers, in fact\) have just returned with word of a man-eating, fire-breathing bull laying in ambush and/or a gigantic, many-eyed sea monster devouring ships. According to them, both monsters have killed so many brave men that they are surrounded by flocks of carrion birds, waiting for the next prey to fall into their hands/tentacles. The teenagers are still flush with their adventure and their tale grows with each retelling. In the meantime, the merchants are discussing the best place to travel to sell their wares, the philosophers try to make sense of what is happening, and the pilgrims moan to the Gods. The travellers seem to take the loss reasonably well, though, and are pretty easy to discuss with. Promises of riches will, of course, help chat with merchants, mystery hunting and logical questioning will help with the philosophers, adventure with the teenagers, etc.
 
-Attempting to circle the city and 
+
 
 ## In the city
 
