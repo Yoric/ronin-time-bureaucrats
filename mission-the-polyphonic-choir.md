@@ -96,13 +96,13 @@ FIXME: No locks
 
 ### The Time Brigade Citadel
 
-### The temples
+### The Temples
 
-### The sick
+### Going Medical
 
 ### Where are the dead?
 
->
+&gt;
 
 Going medical
 
