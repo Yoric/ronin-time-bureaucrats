@@ -2,6 +2,8 @@
 
 As in most Ronin Time Bureaucracy stories, the number of possibilities afforded to the Crew is endless, so don't expect a well-delimited plot. Rather, this scenario introduces a few basic places, aspects and characters, and lets the Crew and GM improvise from it. It can serve as an introduction to the Brick Nation and/or a pathway to unleashing the Brick Nation through Time and Space.
 
+Rather than a linear adventure, you'll find **summaries of information** available at places.
+
 ## The setting
 
 This story is set in the Ancient Greek city of Euthermios. If you haven't heard about that city, well, there's probably a good reason... Until a few weeks ago, this city was a major cultural and commercial node in the Greek Civilization. It overlooks the sea, controls a river known as the &lt;?&gt;, and is home to one of the greatest libraries of the Mediterranean, natural hot baths, as well as no less than ten temples to the various Gods known and lost, a volcanic crater rumoured to hide an entrance to the Land of the Dead, and a fabled Colossus. Philosophers, merchants and pilgrims came from all over the Mediterranean Sea and the Greek Peninsula to exchange, barter, pray and have their future read. According to legends, this is where Herakles defeated the dreaded Tricorn and buried it somewhere. Of course, at the best of times, this is also a city of slavery, one that smells of the piss and sweat of ten thousand human beings \(a true metropolis\), even when it's not beset by mosquitoes.
@@ -61,9 +63,8 @@ In fact, the monsters are no threat. They have been set here as part of the bloc
 > * Easy to spot, hard to catch.
 > * Limitless numbers.
 >
->   
-> Good at: Flying, tasing, spotting travelers.  
-> Poor at: Being smart, fighting determined opposition, dealing with time travelers, being resilient to damage.
+>   Good at: Flying, tasing, spotting travelers.  
+>   Poor at: Being smart, fighting determined opposition, dealing with time travelers, being resilient to damage.
 
 Stealth will let the Crew past the Crows. Putting up too much of a fight before falling will cause the Crew to be spotted as time travelers and wake up in a cell of the Time Brigade. Being spotted as time travelers but not captured, or damaging too many Crowd Control Crows, will cause one of the monster illusions to actually ask politely the Crew to cease and desist: the city is under quarantine due to a deadly plague and bringing in any Time Traveler would be a Very Bad idea. Should the Crew prove determined, the monsters will deliver an invitation to the Citadel in the center of the City. Examining a destroyed Crow will let the Crew find out that they belong to the Time Brigade.
 
