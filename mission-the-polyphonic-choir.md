@@ -88,11 +88,23 @@ A few dying inhabitants and animals, but no dead.
 
 FIXME: No locks
 
-## Aspects of the story
+### The Time Brigade Citadel
 
-* &lt;Whatever your characters are doing here&gt;
-* This Plague could Snafu the entire Continuum.
-* Killer monsters, killer mosquitoes, killer heat, and yes, killer Plague.
+
+
+### The temples
+
+### The sick
+
+### The dead
+
+
+
+> **Aspects of the story**
+>
+> * &lt;Whatever the Crew is doing here&gt;
+> * This Plague could Snafu the entire Continuum.
+> * Killer monsters, killer mosquitoes, killer heat, and yes, killer Plague.
 
 Going medical
 
