@@ -90,15 +90,11 @@ FIXME: No locks
 
 ### The Time Brigade Citadel
 
-
-
 ### The temples
 
 ### The sick
 
-### The dead
-
-
+### Where are the dead?
 
 > **Aspects of the story**
 >
