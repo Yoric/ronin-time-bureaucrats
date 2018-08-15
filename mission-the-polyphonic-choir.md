@@ -61,21 +61,27 @@ In fact, the monsters are no threat. They have been set here as part of the bloc
 > * Easy to spot, hard to catch.
 > * Limitless numbers.
 >
-> Fragile.  
+>   
 > Good at: Flying, tasing, spotting travelers.  
-> Poor at: Being smart, fighting determined opposition, dealing with time travelers.
+> Poor at: Being smart, fighting determined opposition, dealing with time travelers, being resilient to damage.
 
-Stealth will let the Crew past the Crows. Putting up too much of a fight before falling will cause the Crew to be spotted as time travelers and wake up in a cell of the Time Brigade. Being spotted as time travelers but not captured, or damaging too many Crowd Control Crows, will cause one of the monster illusions to actually ask politely the Crew to cease and desist: the city is under quarantine due to a deadly plague and bringing in any Time Traveler would be a Very Bad idea. Should the Crew prove determined, the monsters will deliver an invitation to the Citadel in the center of the City.
+Stealth will let the Crew past the Crows. Putting up too much of a fight before falling will cause the Crew to be spotted as time travelers and wake up in a cell of the Time Brigade. Being spotted as time travelers but not captured, or damaging too many Crowd Control Crows, will cause one of the monster illusions to actually ask politely the Crew to cease and desist: the city is under quarantine due to a deadly plague and bringing in any Time Traveler would be a Very Bad idea. Should the Crew prove determined, the monsters will deliver an invitation to the Citadel in the center of the City. Examining a destroyed Crow will let the Crew find out that they belong to the Time Brigade.
 
 Getting past the the three-meter tall walls themselves may offer a minor challenge to the Crew, but nothing that should hold them for long. Here and there, the walls are still manned by a few grim archers, who have been posted to prevent anybody from leaving the city. They look towards the city, though, so it should be easy to hide from them. Also, they are only a few dozens, far from enough to watch the entire wall.
 
+> **Summary of information**
+>
+> * Travelers can't get into the city because of monsters.
+> * Monsters are illusory, but backed by Crows.
+> * Crows belong to the Time Brigade.
+
 ### Getting out
 
-Attempting to get out of the city is more complicated than getting it. Same walls, same monsters, same crows, but increased surveillance using the sophisticated monitoring of the Time Brigade. Also, the Time Brigade may customize its illusions, deploy reinforcements instantaneously, including one or two Polymorphic Provocateurs customized to actually look and behave like mythological monsters, as well as deploy its own crew with advanced technological weapons.
+Attempting to get out of the city is more complicated than getting it. Same walls, same archers, same monsters, same crows, but increased surveillance using the sophisticated monitoring of the Time Brigade. Also, the Time Brigade may customize its illusions, deploy reinforcements instantaneously, including one or two Polymorphic Provocateurs customized to actually look and behave like mythological monsters, as well as deploy its own crew with advanced technological weapons.
 
-## In the city
+## In Euthermios
 
-If the Crew lands within the city, or once they have forced the blockade, they will immediately realize that the streets are pretty much empty.
+If the Crew lands within the city, or once they have forced the blockade, they will immediately realize that the streets are pretty much empty. Survivors hide in temples or in their houses. Interestingly, there are no dead bodies anywhere.
 
 A few dying inhabitants and animals, but no dead.
 
