@@ -1,4 +1,4 @@
-# The Polyphonic Choir
+# The Yellow Choir
 
 As in most Ronin Time Bureaucracy stories, the number of possibilities afforded to the Crew is endless, so don't expect a well-delimited plot. Rather, this scenario introduces a few basic places, aspects and characters, and lets the Crew and GM improvise from it. It can serve as an introduction to the Brick Nation and/or a pathway to unleashing the Brick Nation through Time and Space.
 
@@ -39,6 +39,22 @@ During the last two weeks, however, the situation has changed considerably. It s
 > * Ianthe \(F\)
 > * Sophia \(F\)
 > * Stamitos \(M\)
+
+## Short summary
+
+The story is set in and around the city of Euthermios, in Ancient Greece. An outbreak of Plague is killing its inhabitants, while mythological monsters are besieging the city, preventing anyone from coming in or escaping. It goes without saying that both the Plague and the Monsters have Time-Traveling origins. The Plague itself was designed as a murder weapon by a specific Time Traveler against another one, and was never meant to end up in the distant past. The Monsters are fakes, put together by a Political Officer of the Time Brigade as soon as he realized the gravity of this Plague, in an effort to avoid Snafuing mankind and the universe. Oh, and the Plague is not truly a disease: before being weaponized, it was an advanced cloud of nanobots, designed to brickiform entire cities, turning its objects into plastic bricks and its inhabitants into toy-like Brick Figs.
+
+To save the Continuum, the Crew will need to find a way to either defeat the Plague, negotiate with it, or somehow deflect it to another time and place. All of this under the constant scrutiny of the Time Brigade and an enigmatic Time Smuggler, and before the cloud of nanobots manages to escape and brickiform Ancient Earth.
+
+As it turns out, the mythological monsters are fakes, put together by a Political Officer of the Time Brigade as an attempt to prevent the Plague 
+
+
+
+ but it starts at entirely different coordinates in the Continuum, with an attempted murder in a family of post-human time-travelers. By sheer luck, the young Liu-Xuan-De survived his own murder, only to end up in Euthermios, .
+
+
+
+the attempted murder of Liu-Xuan-De, a young aristocratic beginning.
 
 ## Around the city
 
