@@ -46,15 +46,7 @@ The story is set in and around the city of Euthermios, in Ancient Greece. An out
 
 To save the Continuum, the Crew will need to find a way to either defeat the Plague, negotiate with it, or somehow deflect it to another time and place. All of this under the constant scrutiny of the Time Brigade and an enigmatic Time Smuggler, and before the cloud of nanobots manages to escape and brickiform Ancient Earth.
 
-As it turns out, the mythological monsters are fakes, put together by a Political Officer of the Time Brigade as an attempt to prevent the Plague 
 
-
-
- but it starts at entirely different coordinates in the Continuum, with an attempted murder in a family of post-human time-travelers. By sheer luck, the young Liu-Xuan-De survived his own murder, only to end up in Euthermios, .
-
-
-
-the attempted murder of Liu-Xuan-De, a young aristocratic beginning.
 
 ## Around the city
 
