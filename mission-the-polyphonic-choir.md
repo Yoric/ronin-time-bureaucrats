@@ -123,20 +123,25 @@ Getting past the the three-meter tall walls themselves may offer a minor challen
 >
 > Robustness: Mook \(unless given an opportunity to rest and rearm\).
 >
-> Good at: Spotting people sneaking out of the city, shooting, close combat.
+> Good at: Spotting people sneaking out of the city, shooting, close combat, ignoring the monsters.
 >
 > Poor at: Spotting people sneaking into the city, being sufficiently numerous to cover the entire wall, communicating.
-
+>
 > **Agatone, Last Commander of the Wall**
 >
 > * Seasoned soldier, broken man.
 > * I will fall last.
+> * Driven to duty past sanity.
 >
 > Robustness: Underboss.
 >
 > Good at: Strategy.
 >
 > Poor at: Living with the consequences of his choices.
+
+
+
+Within a few days, once he concludes that his men will soon be too weak to hold the wall, Agatone might come to the conclusion burn the city
 
 
 
@@ -150,7 +155,7 @@ Getting past the the three-meter tall walls themselves may offer a minor challen
 
 Should the Crew attempt to get out of the city without the authorization of the Time Brigade, things may get complicated for them.
 
-The walls and archers are still there, and they have higher chances of spotting the Crew.
+The walls archers are still there, with their archers and Agatone, and they have higher chances of spotting the Crew.
 
 Attempting to get out of the city is more complicated than getting it. Same walls, same archers, same monsters, same crows, but increased surveillance using the sophisticated monitoring of the Time Brigade. Also, the Time Brigade may customize its illusions, deploy reinforcements instantaneously, including one or two Polymorphic Provocateurs customized to actually look and behave like mythological monsters, as well as deploy its own crew with advanced technological weapons.
 
