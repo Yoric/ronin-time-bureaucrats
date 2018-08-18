@@ -166,7 +166,11 @@ The Time Brigade assumes that any Time Pedestrian present in the city will die r
 
 ## In Euthermios
 
-If the Crew has means to reconnoiter the city before getting there, they will find that the streets are nearly empty of any life, whether human or animal. Several spots are difficult/impossible to reconnoiter from afar, most likely because of cloaking devices: part of the Palace
+If the Crew has means to reconnoiter the city before getting there, they will find that the streets are nearly empty of any life, whether human or animal. Two spots are difficult/impossible to reconnoiter from afar, clearly because of cloaking devices: one of the two palaces \(in fact, the Citadel of the Time Brigade\) and the Temple of Lost Gods. The Crew will spot the archers on the city wall, a group of refugee in the crater, as well as archers on the roof of several temples. Where the city should have around fifty-thousand life-forms including animals, less than five-thousand life-forms may be spotted.
+
+Walking inside the city, the Crew will observe essentially the same things, with more risk of being shot at by temple archers. At first sight, the Temple of Lost Gods seems empty. Seen with the bare eye, the second palace is very clearly a Citadel of the Time Brigade.
+
+In a few days time, the number of life-forms will grow again
 
 One of the temples will be visibly impossible to reconnoiter from afar, clearly the Time Citadel has a cloaking device\)
 
