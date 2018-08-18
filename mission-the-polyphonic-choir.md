@@ -162,7 +162,7 @@ Just as importantly, the Time Brigade is convinced that the fate of the Continuu
 >
 > Poor at: Standing up and fighting, coming up with fresh ideas.
 
-The Time Brigade assumes that any Time Pedestrian present in the city will die regardless, so they will not pull any blow unless they realize that the runaways are Time Travelers. If they do realize that the Crew
+The Time Brigade assumes that any Time Pedestrian present in the city will die regardless, so they will not pull any blow unless they realize that the runaways are Time Travelers. On the other hand, they will make efforts to keep Time Travelers alive: if given the opportunity, they are going to politely ask the Travelers to turn back and meet them in the Citadel. If not, they are going to use non-lethal weaponry.
 
 ## In Euthermios
 
