@@ -61,7 +61,10 @@ A few places the Crew may wish to visit:
 * The crater.
 * The Colossus.
 * The Palace.
-* ## Around the city
+* The Theater.
+* The cementary.
+
+## Around the city
 
 The city can easily be reached from a well-travelled dirt road, from the sea \(staying close to the land – Greek ships aren't too good and Greek sailors don't like to take chances\), the river. With more efforts, the Crew can also travel off-road or even cross through the marshes \(good luck with the mosquitoes\).
 
@@ -164,21 +167,21 @@ Just as importantly, the Time Brigade is convinced that the fate of the Continuu
 
 The Time Brigade assumes that any Time Pedestrian present in the city will die regardless, so they will not pull any blow unless they realize that the runaways are Time Travelers. On the other hand, they will make efforts to keep Time Travelers alive: if given the opportunity, they are going to politely ask the Travelers to turn back and meet them in the Citadel. If not, they are going to use non-lethal weaponry.
 
+### The cemetary
+
+The cemetary is outside the city walls. Nothing interesting has happened here.
+
+If you wish to spice things a bit, the Crew may find here a few diseased travelers, camping here. They found a way out of the city through tunnels from one of the temples, but they are too scared of the monsters to go to the next city. They are dying, but they are also irrational and quite possibly hostile.
+
 ## In Euthermios
 
-If the Crew has means to reconnoiter the city before getting there, they will find that the streets are nearly empty of any life, whether human or animal. Two spots are difficult/impossible to reconnoiter from afar, clearly because of cloaking devices: one of the two palaces \(in fact, the Citadel of the Time Brigade\) and the Temple of Lost Gods. The Crew will spot the archers on the city wall, a group of refugee in the crater, as well as archers on the roof of several temples. Where the city should have around fifty-thousand life-forms including animals, less than five-thousand life-forms may be spotted.
+If the Crew has means to reconnoiter the city before getting there, they will find that the streets are nearly empty of any life, whether human or animal. Two spots are difficult/impossible to reconnoiter from afar, clearly because of cloaking devices: one of the two palaces \(in fact, the Citadel of the Time Brigade\) and the Temple of Lost Gods. The Crew will spot the archers on the city wall, a group of refugee in the crater, as well as archers on the roof of several temples. Where the city should have around fifty-thousand life-forms \(including larger animals\), less than five-thousand life-forms may be spotted. A number of houses also seem to have collapsed.
 
-Walking inside the city, the Crew will observe essentially the same things, with more risk of being shot at by temple archers. At first sight, the Temple of Lost Gods seems empty. Seen with the bare eye, the second palace is very clearly a Citadel of the Time Brigade.
+Walking inside the city, the Crew will observe essentially the same things, with more risk of being shot at by temple archers. At first sight, there doesn't seem to be any activity in or around the Temple of Lost Gods. Seen with the bare eye, the second palace is very clearly a Citadel of the Time Brigade configured in siege mode – nobody gets in, nobody gets out. The Crew may notice that no animals may be found in the street or in the air, nor _any_ dead body, human or animal. If the Crew does anything to attract attention, it will be followed by Crowd-Control Crows.
 
-In a few days time, the number of life-forms will grow again
+Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been pillaged, but still no body in sight. 
 
-One of the temples will be visibly impossible to reconnoiter from afar, clearly the Time Citadel has a cloaking device\)
 
-If the Crew lands within the city, or once they have forced the blockade, they will immediately realize that the streets are pretty much empty. Survivors hide in temples or in their houses. Interestingly, there are no dead bodies anywhere.
-
-A few dying inhabitants and animals, but no dead.
-
-FIXME: No locks
 
 ### The Time Brigade Citadel
 
