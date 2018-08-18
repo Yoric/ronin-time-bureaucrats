@@ -60,8 +60,7 @@ A few places the Crew may wish to visit:
 * The Time Brigade Citadel \(once the Crew has found it\).
 * The crater.
 * The Colossus.
-* 
-## Around the city
+* ## Around the city
 
 The city can easily be reached from a well-travelled dirt road, from the sea \(staying close to the land – Greek ships aren't too good and Greek sailors don't like to take chances\), the river. With more efforts, the Crew can also travel off-road or even cross through the marshes \(good luck with the mosquitoes\).
 
@@ -97,7 +96,7 @@ In fact, the monsters are no threat. They have been set here as part of the bloc
 
 Stealth will let the Crew past the Crows. Putting up too much of a fight before falling will cause the Crew to be spotted as time travelers and wake up in a cell of the Time Brigade. Being spotted as time travelers but not captured, or damaging too many Crowd Control Crows, will cause one of the monster illusions to actually ask politely the Crew to cease and desist: the city is under quarantine due to a deadly plague and bringing in any Time Traveler would be a Very Bad idea. Should the Crew prove determined, the monsters will deliver an invitation to the Citadel in the center of the City. Examining a destroyed Crow will let the Crew find out that they belong to the Time Brigade.
 
-Getting past the the three-meter tall walls themselves may offer a minor challenge to the Crew, but nothing that should hold them for long. As the plague started spreading, a traveling philosopher named Tymon has concluded that the city was lost and that nobody should be allowed to leave Euthermios and travel to other cities. He has sent is disciples to the city walls to try and convince the local garrison to enforce this blockade. While some of the officers and soldiers have preferred running either away from the city or towards their families, three dozen archers are manning the walls to try and prevent anybody from leaving the city. By now, they are exhausted and hungry, which makes them both more irritated and less efficient, but they are determined to hold.
+Getting past the the three-meter tall walls themselves may offer a minor challenge to the Crew, but nothing that should hold them for long. As the plague started spreading, a traveling philosopher named Tymon has concluded that the city was lost and that nobody should be allowed to leave Euthermios and travel to other cities. He has sent is disciples to the city walls to try and convince the local garrison to enforce this blockade. While some of the officers and soldiers have preferred running either away from the city or towards their families, three dozen archers are manning the walls to try and prevent anybody from spreading the plague. By now, they are exhausted and hungry, which makes them both more irritated and less efficient, but they are determined to hold. Note that they are looking for people who might attempt to sneak out of the city, rather than people sneaking in, which should simplify the life of the Crew. It might be possible to negotiate with them.
 
 > **The Men on the Wall**
 >
@@ -105,11 +104,13 @@ Getting past the the three-meter tall walls themselves may offer a minor challen
 > * Hungry, tired and irritated.
 > * Nothing to lose.
 >
-> Robustness: Mook.
+> Robustness: Mook \(unless given an opportunity to rest and rearm\).
 >
-> Good at: Keeping watch, shooting, close combat.
+> Good at: Spotting people sneaking out of the city, shooting, close combat.
 >
 > Poor at: Spotting people sneaking in the city, getting reinforcements, communicating.
+
+Agatone, Commender of the Wall
 
 An officer of the local army, Agatone, advised by a traveling philosopher named Tymon has taken upon himself to prevent the plague from spreading.
 
