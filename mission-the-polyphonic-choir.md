@@ -177,9 +177,24 @@ If you wish to spice things a bit, the Crew may find here a few diseased travele
 
 If the Crew has means to reconnoiter the city before getting there, they will find that the streets are nearly empty of any life, whether human or animal. Two spots are difficult/impossible to reconnoiter from afar, clearly because of cloaking devices: one of the two palaces \(in fact, the Citadel of the Time Brigade\) and the Temple of Lost Gods. The Crew will spot the archers on the city wall, a group of refugee in the crater, as well as archers on the roof of several temples. Where the city should have around fifty-thousand life-forms \(including larger animals\), less than five-thousand life-forms may be spotted. A number of houses also seem to have collapsed.
 
-Walking inside the city, the Crew will observe essentially the same things, with more risk of being shot at by temple archers. At first sight, there doesn't seem to be any activity in or around the Temple of Lost Gods. Seen with the bare eye, the second palace is very clearly a Citadel of the Time Brigade configured in siege mode – nobody gets in, nobody gets out. The Crew may notice that no animals may be found in the street or in the air, nor _any_ dead body, human or animal. A very thorough examination may also lead to the conclusion that wood, straw, clothes, food, even excrements are disappearing. If the Crew does anything to attract attention, it will be followed by Crowd-Control Crows.
+Walking inside the city, the Crew will observe essentially the same things, with more risk of being shot at by temple archers. At first sight, there doesn't seem to be any activity in or around the Temple of Lost Gods. Seen with the bare eye, the second palace is very clearly a Citadel of the Time Brigade configured in siege mode – nobody gets in, nobody gets out. The Crew may notice that no animals may be found in the street or in the air, nor _any_ dead body, human or animal. A very thorough examination may also lead to the conclusion that wood, straw, clothes, food, even excrements are disappearing – anything remotely alive. If the Crew does anything to attract attention, it will be followed by Crowd-Control Crows.
 
-Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been pillaged, but still not a single dead body in sight.
+Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been pillaged and some hold survivors. While bodies, food, etc. disappear, it is still possible to find some in houses that have not been visited by the plague. If the Crew ends up finding a body, this will systematically be that of someone dead from hunger, thirst or violence – it remains impossible to find the body of a citizen killed by the plague. Should the Crew revisit a place that held a body \(or leftover food, etc.\), there are good chances that the body will have vanished in the meantime. With the necessary equipment, the process can be captured on camera, and will show the body slowly melting – note that this is not what happens to people who have actually caught the plague.
+
+Eventually, the Crew should find some surviving citizens. Say Althea and her two surviving children. 
+
+
+
+> **Summary of informations**
+>
+> * The plague kills humans and animals alike, but does not leave bodies.
+> * The plague actually attacks all organic matter.
+> * Survivors hide in their houses or in temples.
+> * Nobody is in charge.
+
+
+
+It is still possible to find some food as a few bodies, dead of hunger, thirst or violence, but apparently, nobody who has died from the plague. Should the Crew revisit a place that held a body \(or leftover food, they may realize that things keep vanishing, without any visible
 
 Surviving citizens are scared. Somehow, they have heard of both the plague and the monsters outside of the city
 
