@@ -177,7 +177,7 @@ Just as importantly, the Time Brigade is convinced that the fate of the Continuu
 >
 > Poor at: Standing up and fighting, coming up with fresh ideas.
 
-The Time Brigade assumes that any Time Pedestrian present in the city is dying, so they will not pull any blow unless they realize that the runaways are Time Travelers. On the other hand, they will make efforts to keep Time Travelers alive: if given the opportunity, they are going to politely ask the Travelers to turn back and meet them in the Citadel. If not, they are going to use non-lethal weaponry.
+The Time Brigade assumes that any Time Pedestrian present in the city is dying, so by default, they will not pull any blow. While they have limited reserves of weapons, if needed, they may teleport Crowd-Control Crows to drop explosives on top of the Crew. If they realize that they are targeting Time Travelers, though, they will attempt to use non-lethal means, starting with a simple order delivered from thin air: turn back and meet at the Citadel.
 
 ### The cemetary
 
