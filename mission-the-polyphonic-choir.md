@@ -48,9 +48,10 @@ Historically, women in Ancient Greece was expected to remain hidden in the gynae
 
 A few ideas to let a woman walk freely in such a conservative society:
 
-* pretend to be a priestess;
+* pretend to be some kind of priestess;
 * pretend to be some kind of goddess;
-* pretend to be a man or a teenage boy.
+* pretend to be a man or a teenage boy;
+* pretend to be a slave \(yes, that's probably not ideal\).
 
 ## The City of Euthermios
 
@@ -97,7 +98,7 @@ If the Crew attempts to travel through the marshes or off-road, they will actual
 >
 > **The twins**
 >
-> * Impressionable teenager
+> * Eager and gullible
 
 ### Getting in through the blockade
 
@@ -191,7 +192,9 @@ Walking inside the city, the Crew will observe essentially the same things, with
 
 Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been pillaged and some hold survivors. While bodies, food, etc. disappear, it is still possible to find some in houses that have not been visited by the plague. If the Crew ends up finding a body, this will systematically be that of someone dead from hunger, thirst or violence – it remains impossible to find the body of a citizen killed by the plague. Should the Crew revisit a place that held a body \(or leftover food, etc.\), there are good chances that the body will have vanished in the meantime. With the necessary equipment, the process can be captured on camera, and will show the body slowly melting – note that this is not what happens to people who have actually caught the plague.
 
-Eventually, the Crew should find some surviving citizens. Say Althea and her two surviving children. Her husband Nektarios died of the plagu They know very little.
+Eventually, the Crew should find some surviving citizens. Say Althea and her two surviving children. Ten days ago, her husband Nektarios heard the sheep screaming and went to investigate with their elder son son Nikolaos.
+
+died of the plagu They know very little.
 
 > **Summary of informations**
 >
