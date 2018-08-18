@@ -42,6 +42,12 @@ To save Ancient Greece – and the Continuum itself – the Crew will need to fi
 > * Sophia \(F\)
 > * Stamitos \(M\)
 
+## What about women in Ancient Greece?
+
+Historically, women in Ancient Greece was expected to remain hidden in the gynaeceum, they were not supposed to take any decision outside of the household, etc. Playing a woman outsmarting these rules might actually be fun, but not all players would enjoy it. So if one of your Player Characters is a woman and the player isn't particularly interested in this side of role-playing, just assume that all the Time Peasants in and around Euthermios are so much in a state of shock that they don't have time to pay attention to the outrage that is a woman actually speaking without her male relative's permission.
+
+
+
 ## The City of Euthermios
 
 This story is set in the Ancient Greek city of Euthermios. If you haven't heard about that city, well, there's probably a good reason... Until a few weeks ago, this city was a major cultural and commercial node in the Greek Civilization. It overlooks the sea, controls a river known as the Lakedon, and is home to one of the greatest libraries of the Mediterranean, natural hot baths, as well as no less than ten temples to the various Gods known and lost, a volcanic crater rumoured to hide an entrance to the Land of the Dead, and a fabled Colossus. Philosophers, merchants and pilgrims came from all over the Mediterranean Sea and the Greek Peninsula to exchange, barter, pray and have their future read. According to legends, this is where Herakles defeated the dreaded Tricorn and buried it somewhere. Of course, at the best of times, this is also a city of slavery, one that smells of the piss and sweat of ten thousand human beings \(a true metropolis\), even when it's not beset by mosquitoes.
@@ -181,9 +187,7 @@ Walking inside the city, the Crew will observe essentially the same things, with
 
 Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been pillaged and some hold survivors. While bodies, food, etc. disappear, it is still possible to find some in houses that have not been visited by the plague. If the Crew ends up finding a body, this will systematically be that of someone dead from hunger, thirst or violence – it remains impossible to find the body of a citizen killed by the plague. Should the Crew revisit a place that held a body \(or leftover food, etc.\), there are good chances that the body will have vanished in the meantime. With the necessary equipment, the process can be captured on camera, and will show the body slowly melting – note that this is not what happens to people who have actually caught the plague.
 
-Eventually, the Crew should find some surviving citizens. Say Althea and her two surviving children. 
-
-
+Eventually, the Crew should find some surviving citizens. Say Althea and her two surviving children. Her husband Nektarios died of the plagu They know very little.
 
 > **Summary of informations**
 >
@@ -191,8 +195,7 @@ Eventually, the Crew should find some surviving citizens. Say Althea and her two
 > * The plague actually attacks all organic matter.
 > * Survivors hide in their houses or in temples.
 > * Nobody is in charge.
-
-
+> * There is a Time Brigade Citadel in the city.
 
 It is still possible to find some food as a few bodies, dead of hunger, thirst or violence, but apparently, nobody who has died from the plague. Should the Crew revisit a place that held a body \(or leftover food, they may realize that things keep vanishing, without any visible
 
