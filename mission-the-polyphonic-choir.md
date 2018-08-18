@@ -32,9 +32,7 @@ To save Ancient Greece – and the Continuum itself – the Crew will need to fi
 > * &lt;Whatever the Crew is doing here&gt;
 > * This Plague could Snafu the entire Continuum
 > * Killer monsters, killer mosquitoes, killer heat, and killer Plague.
-
-
-
+>
 > **A few Greek names, should you need them**
 >
 > * Agafya \(F\)
@@ -63,8 +61,6 @@ A few places the Crew may wish to visit:
 * The crater.
 * The Colossus.
 * 
-
-
 ## Around the city
 
 The city can easily be reached from a well-travelled dirt road, from the sea \(staying close to the land – Greek ships aren't too good and Greek sailors don't like to take chances\), the river. With more efforts, the Crew can also travel off-road or even cross through the marshes \(good luck with the mosquitoes\).
@@ -94,12 +90,30 @@ In fact, the monsters are no threat. They have been set here as part of the bloc
 > * Easy to spot, hard to catch.
 > * Limitless numbers.
 >
->   Good at: Flying, tasing, spotting travelers.  
->   Poor at: Being smart, fighting determined opposition, dealing with time travelers, being resilient to damage.
+>   Robustness: Mook.
+>
+> Good at: Flying, tasing, spotting travelers.  
+> Poor at: Being smart, fighting determined opposition, dealing with time travelers, being resilient to damage.
 
 Stealth will let the Crew past the Crows. Putting up too much of a fight before falling will cause the Crew to be spotted as time travelers and wake up in a cell of the Time Brigade. Being spotted as time travelers but not captured, or damaging too many Crowd Control Crows, will cause one of the monster illusions to actually ask politely the Crew to cease and desist: the city is under quarantine due to a deadly plague and bringing in any Time Traveler would be a Very Bad idea. Should the Crew prove determined, the monsters will deliver an invitation to the Citadel in the center of the City. Examining a destroyed Crow will let the Crew find out that they belong to the Time Brigade.
 
-Getting past the the three-meter tall walls themselves may offer a minor challenge to the Crew, but nothing that should hold them for long. Here and there, the walls are still manned by a few grim archers, who have been posted to prevent anybody from leaving the city. They look towards the city, though, so it should be easy to hide from them. Also, they are only a few dozens, far from enough to watch the entire wall.
+Getting past the the three-meter tall walls themselves may offer a minor challenge to the Crew, but nothing that should hold them for long. As the plague started spreading, a traveling philosopher named Tymon has concluded that the city was lost and that nobody should be allowed to leave Euthermios and travel to other cities. He has sent is disciples to the city walls to try and convince the local garrison to enforce this blockade. While some of the officers and soldiers have preferred running either away from the city or towards their families, three dozen archers are manning the walls to try and prevent anybody from leaving the city. By now, they are exhausted and hungry, which makes them both more irritated and less efficient, but they are determined to hold.
+
+> **The Men on the Wall**
+>
+> * Determined to hold.
+> * Hungry, tired and irritated.
+> * Nothing to lose.
+>
+> Robustness: Mook.
+>
+> Good at: Keeping watch, shooting, close combat.
+>
+> Poor at: Spotting people sneaking in the city, getting reinforcements, communicating.
+
+An officer of the local army, Agatone, advised by a traveling philosopher named Tymon has taken upon himself to prevent the plague from spreading.
+
+Here and there, the walls are still manned by a few grim archers, who have been posted to prevent anybody from leaving the city. They look towards the city, though, so it should be easy to hide from them. Also, they are only a few dozens, far from enough to watch the entire wall.
 
 > **Summary of information**
 >
@@ -108,6 +122,10 @@ Getting past the the three-meter tall walls themselves may offer a minor challen
 > * Crows belong to the Time Brigade.
 
 ### Getting out
+
+Should the Crew attempt to get out of the city without the authorization of the Time Brigade, things may get complicated for them.
+
+The walls and archers are still there, and they have higher chances of spotting the Crew.
 
 Attempting to get out of the city is more complicated than getting it. Same walls, same archers, same monsters, same crows, but increased surveillance using the sophisticated monitoring of the Time Brigade. Also, the Time Brigade may customize its illusions, deploy reinforcements instantaneously, including one or two Polymorphic Provocateurs customized to actually look and behave like mythological monsters, as well as deploy its own crew with advanced technological weapons.
 
