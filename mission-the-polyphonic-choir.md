@@ -51,7 +51,8 @@ A few ideas to let a woman walk freely in such a conservative society:
 * pretend to be some kind of priestess;
 * pretend to be some kind of goddess;
 * pretend to be a man or a teenage boy;
-* pretend to be a slave \(yes, that's probably not ideal\).
+* pretend to be a slave \(yes, that's probably not ideal\);
+* pretend to be an Amazon \(this will scare off the men, may intrigue the women\).
 
 ## The City of Euthermios
 
@@ -182,11 +183,11 @@ The Time Brigade assumes that any Time Pedestrian present in the city is dying, 
 
 The cemetary is outside the city walls. Nothing interesting has happened here.
 
-If you wish to spice things a bit, the Crew may find here a dozen of deserters, camping here. They found a way out of the city through tunnels from one of the temples, but so far, every attempt they have made to leave the city has been blocked by the monsters. They have realized only yesterday that they are touched by the plague. Now, they are planning to run for it, no matter what the cost.
+If you wish to spice things a bit, the Crew may find here a dozen of deserters, camping here. They found a way out of the city through tunnels from one of the temples, but so far, every attempt they have made to leave the city has been blocked by the monsters. They have realized only yesterday that they are touched by the plague. Now, they are planning to run for it, no matter what the cost. They desperation makes them very dangerous, and quite possibly very aggressive.
 
-## The crater
+### The crater
 
-
+Another band of survivors made its way to the crater before the Time Brigade and Agatone's men managed to cordon off the city.
 
 ## In Euthermios
 
