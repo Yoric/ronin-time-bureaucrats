@@ -131,15 +131,15 @@ Getting past the the three-meter tall walls themselves may offer a minor challen
 >
 > * Seasoned soldier, broken man.
 > * I will fall last.
-> * Driven past sanity.
+> * The crows talk to me.
 >
 > Robustness: Underboss.
 >
-> Good at: Strategy, holding no matter what.
+> Good at: Strategy, hand to hand combat, holding no matter what.
 >
 > Poor at: Living with the consequences of his choices.
 
-Within a few days, Agatone will conclude that his men are becoming too weak to hold the wall, and he will try to burn down the city.
+
 
 > **Summary of information**
 >
@@ -149,11 +149,25 @@ Within a few days, Agatone will conclude that his men are becoming too weak to h
 
 ### Getting out
 
-Should the Crew attempt to get out of the city without the authorization of the Time Brigade, things may get complicated for them.
+Should the Crew attempt to get out of the city, things may get complicated for them, especially if they do not have the authorization of the Time Brigade. For one thing, the wall, the archers and their commander will still be present, and they will be looking in the right direction.
 
-The walls archers are still there, with their archers and Agatone, and they have higher chances of spotting the Crew.
+Just as importantly, the Time Brigade has launched a satellite to monitor the walls properly. They will spot anyone attempting to leave the city. Unless a diversion has been prepared, they will send their Crows to make sure that Agatone has archers in the right place to block the Crew and the Crows will run interference against the Crew while the Archers attempt to drive them back and/or kill them. Should this be insufficient, the Gods will send reinforcements to aid the Archers – namely a few Polymorphic Provocateurs teleported from the Time Citadel. While the Provocateurs are nearly as strong as the Crew, they
 
-Attempting to get out of the city is more complicated than getting it. Same walls, same archers, same monsters, same crows, but increased surveillance using the sophisticated monitoring of the Time Brigade. Also, the Time Brigade may customize its illusions, deploy reinforcements instantaneously, including one or two Polymorphic Provocateurs customized to actually look and behave like mythological monsters, as well as deploy its own crew with advanced technological weapons.
+> **Polymorphic Provocateurs**
+>
+> * No will of my own.
+> * I can be anything or anyone.
+> * As smart as needed for a specific task.
+>
+> Good at: Shapeshifting into anything, including divine creatures, archers, Crew members, innocent bystanders or inanimate objects. Backstabbing. Overhearing any plan.
+>
+> Poor at: Standing up and fighting, coming up with fresh ideas.
+
+
+
+If the Time Brigade has identified the Crew as Time Travelers, they will do their best to ensure that the results are non-lethal.
+
+
 
 ## In Euthermios
 
