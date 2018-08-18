@@ -60,6 +60,7 @@ A few places the Crew may wish to visit:
 * The Time Brigade Citadel \(once the Crew has found it\).
 * The crater.
 * The Colossus.
+* The Palace.
 * ## Around the city
 
 The city can easily be reached from a well-travelled dirt road, from the sea \(staying close to the land – Greek ships aren't too good and Greek sailors don't like to take chances\), the river. With more efforts, the Crew can also travel off-road or even cross through the marshes \(good luck with the mosquitoes\).
@@ -138,9 +139,7 @@ Getting past the the three-meter tall walls themselves may offer a minor challen
 > Good at: Strategy, hand to hand combat, holding no matter what.
 >
 > Poor at: Living with the consequences of his choices.
-
-
-
+>
 > **Summary of information**
 >
 > * Travelers can't get into the city because of monsters.
@@ -149,9 +148,9 @@ Getting past the the three-meter tall walls themselves may offer a minor challen
 
 ### Getting out
 
-Should the Crew attempt to get out of the city, things may get complicated for them, especially if they do not have the authorization of the Time Brigade. For one thing, the wall, the archers and their commander will still be present, and they will be looking in the right direction.
+Should the Crew attempt to get out of the city, things may get complicated for them if they do not have the authorization of the Time Brigade. For one thing, the wall, the archers and their commander will still be present, and they will be looking in the right direction.
 
-Just as importantly, the Time Brigade has launched a satellite to monitor the walls properly. They will spot anyone attempting to leave the city. Unless a diversion has been prepared, they will send their Crows to make sure that Agatone has archers in the right place to block the Crew and the Crows will run interference against the Crew while the Archers attempt to drive them back and/or kill them. Should this be insufficient, the Gods will send reinforcements to aid the Archers – namely a few Polymorphic Provocateurs teleported from the Time Citadel. While the Provocateurs are nearly as strong as the Crew, they
+Just as importantly, the Time Brigade is convinced that the fate of the Continuum depends on making sure that absolutely nobody leaves the city, and they are doing pretty well given the limited means at hand. The Time Brigade has launched a satellite to monitor the walls properly. They will spot anyone attempting to leave the city. Unless a diversion has been prepared, they will send their Crows to make sure that Agatone has archers in the right place to block the Crew and the Crows will run interference against the Crew while the Archers attempt to drive them back and/or kill them. Should this be insufficient, the Gods will send reinforcements to aid the Archers – namely a few Polymorphic Provocateurs teleported from the Time Citadel. While the Provocateurs are nearly as strong as the Crew, they are very good in a support role.
 
 > **Polymorphic Provocateurs**
 >
@@ -163,13 +162,15 @@ Just as importantly, the Time Brigade has launched a satellite to monitor the wa
 >
 > Poor at: Standing up and fighting, coming up with fresh ideas.
 
-
-
-If the Time Brigade has identified the Crew as Time Travelers, they will do their best to ensure that the results are non-lethal.
+The Time Brigade assumes that any Time Pedestrian present in the city will die regardless, so they will not pull any blow unless they realize that the runaways are Time Travelers. If they do realize that the Crew
 
 
 
 ## In Euthermios
+
+If the Crew has means to reconnoiter the city before getting there, they will find that the streets are nearly empty of any life, whether human or animal. Several spots are difficult/impossible to reconnoiter from afar, most likely because of cloaking devices: part of the Palace
+
+One of the temples will be visibly impossible to reconnoiter from afar, clearly the Time Citadel has a cloaking device\)
 
 If the Crew lands within the city, or once they have forced the blockade, they will immediately realize that the streets are pretty much empty. Survivors hide in temples or in their houses. Interestingly, there are no dead bodies anywhere.
 
