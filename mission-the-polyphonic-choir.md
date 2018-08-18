@@ -155,10 +155,10 @@ Just as importantly, the Time Brigade is convinced that the fate of the Continuu
 > **Polymorphic Provocateurs**
 >
 > * No will of my own.
-> * I can be anything or anyone.
+> * I am the person standing next to you, the civilian at the end of the street, or perhaps your teacup.
 > * As smart as needed for a specific task.
 >
-> Good at: Shapeshifting into anything, including divine creatures, archers, Crew members, innocent bystanders or inanimate objects. Backstabbing. Overhearing any plan.
+> Good at: Causing Chaos, backstabbing, overhearing any plan.
 >
 > Poor at: Standing up and fighting, coming up with fresh ideas.
 
