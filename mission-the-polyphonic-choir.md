@@ -177,11 +177,11 @@ If you wish to spice things a bit, the Crew may find here a few diseased travele
 
 If the Crew has means to reconnoiter the city before getting there, they will find that the streets are nearly empty of any life, whether human or animal. Two spots are difficult/impossible to reconnoiter from afar, clearly because of cloaking devices: one of the two palaces \(in fact, the Citadel of the Time Brigade\) and the Temple of Lost Gods. The Crew will spot the archers on the city wall, a group of refugee in the crater, as well as archers on the roof of several temples. Where the city should have around fifty-thousand life-forms \(including larger animals\), less than five-thousand life-forms may be spotted. A number of houses also seem to have collapsed.
 
-Walking inside the city, the Crew will observe essentially the same things, with more risk of being shot at by temple archers. At first sight, there doesn't seem to be any activity in or around the Temple of Lost Gods. Seen with the bare eye, the second palace is very clearly a Citadel of the Time Brigade configured in siege mode – nobody gets in, nobody gets out. The Crew may notice that no animals may be found in the street or in the air, nor _any_ dead body, human or animal. If the Crew does anything to attract attention, it will be followed by Crowd-Control Crows.
+Walking inside the city, the Crew will observe essentially the same things, with more risk of being shot at by temple archers. At first sight, there doesn't seem to be any activity in or around the Temple of Lost Gods. Seen with the bare eye, the second palace is very clearly a Citadel of the Time Brigade configured in siege mode – nobody gets in, nobody gets out. The Crew may notice that no animals may be found in the street or in the air, nor _any_ dead body, human or animal. A very thorough examination may also lead to the conclusion that wood, straw, clothes, food, even excrements are disappearing. If the Crew does anything to attract attention, it will be followed by Crowd-Control Crows.
 
-Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been pillaged, but still no body in sight. 
+Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been pillaged, but still not a single dead body in sight.
 
-
+Surviving citizens are scared. Somehow, they have heard of both the plague and the monsters outside of the city
 
 ### The Time Brigade Citadel
 
