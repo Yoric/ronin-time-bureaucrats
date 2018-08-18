@@ -82,9 +82,8 @@ If the Crew attempts to travel through the marshes or off-road, they will actual
 > * I'm a merchant, not a hero
 >
 > **The twins**
+>
 > * Impressionable teenager
-
-
 
 ### Getting in through the blockade
 
@@ -96,11 +95,11 @@ In fact, the monsters are no threat. They have been set here as part of the bloc
 >
 > * Nothing but an illusion
 >
-> Good at: Scaring people to death.
+> Good at: Scaring people to death.  
 > Poor at: Pretty much everything else.
 >
 > Robustness: Pretty much unkillable.
-
+>
 > **Crowd Control Crows**
 >
 > * Hidden among illusions.
@@ -126,13 +125,20 @@ Getting past the the three-meter tall walls themselves may offer a minor challen
 >
 > Good at: Spotting people sneaking out of the city, shooting, close combat.
 >
-> Poor at: Spotting people sneaking in the city, getting reinforcements, communicating.
+> Poor at: Spotting people sneaking into the city, being sufficiently numerous to cover the entire wall, communicating.
 
-Agatone, Commender of the Wall
+> **Agatone, Last Commander of the Wall**
+>
+> * Seasoned soldier, broken man.
+> * I will fall last.
+>
+> Robustness: Underboss.
+>
+> Good at: Strategy.
+>
+> Poor at: Living with the consequences of his choices.
 
-An officer of the local army, Agatone, advised by a traveling philosopher named Tymon has taken upon himself to prevent the plague from spreading.
 
-Here and there, the walls are still manned by a few grim archers, who have been posted to prevent anybody from leaving the city. They look towards the city, though, so it should be easy to hide from them. Also, they are only a few dozens, far from enough to watch the entire wall.
 
 > **Summary of information**
 >
