@@ -131,19 +131,15 @@ Getting past the the three-meter tall walls themselves may offer a minor challen
 >
 > * Seasoned soldier, broken man.
 > * I will fall last.
-> * Driven to duty past sanity.
+> * Driven past sanity.
 >
 > Robustness: Underboss.
 >
-> Good at: Strategy.
+> Good at: Strategy, holding no matter what.
 >
 > Poor at: Living with the consequences of his choices.
 
-
-
-Within a few days, once he concludes that his men will soon be too weak to hold the wall, Agatone might come to the conclusion burn the city
-
-
+Within a few days, Agatone will conclude that his men are becoming too weak to hold the wall, and he will try to burn down the city.
 
 > **Summary of information**
 >
