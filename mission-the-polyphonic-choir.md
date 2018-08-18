@@ -8,20 +8,6 @@ Rather than a linear adventure, you'll find **summaries of information** availab
 
 The story is set in and around the city of Euthermios, in Ancient Greece. An outbreak of Plague is killing its inhabitants, while mythological monsters are besieging the city, preventing anyone from coming in or escaping. It goes without saying that both the Plague and the Monsters have Time-Traveling origins. The Monsters are fakes, put together by a Political Officer of the Time Brigade as soon as he realized the gravity of this Plague, in an effort to avoid Snafuing mankind and the universe. Oh, and the Plague is not technically a disease: rather, it is a an advanced cloud of nanobots, designed to _brickiform_ entire cities, turning its objects into plastic bricks and its inhabitants into toy-like Brick Figs.
 
-To save Ancient Greece – and the Continuum itself – the Crew will need to find a way to deal with both the locals, the Time Brigade, and a vaguely threatening Time Smuggler, while finding a way to either defeat the Plague, negotiate with it, or somehow deflect it to another time and place. 
-
-> **Aspects of the story**
->
-> * &lt;Whatever the Crew is doing here&gt;
-> * This Plague could Snafu the entire Continuum
-> * Killer monsters, killer mosquitoes, killer heat, and killer Plague.
-
-## The setting
-
-&gt;
-
-This story is set in the Ancient Greek city of Euthermios. If you haven't heard about that city, well, there's probably a good reason... Until a few weeks ago, this city was a major cultural and commercial node in the Greek Civilization. It overlooks the sea, controls a river known as the Lakedon, and is home to one of the greatest libraries of the Mediterranean, natural hot baths, as well as no less than ten temples to the various Gods known and lost, a volcanic crater rumoured to hide an entrance to the Land of the Dead, and a fabled Colossus. Philosophers, merchants and pilgrims came from all over the Mediterranean Sea and the Greek Peninsula to exchange, barter, pray and have their future read. According to legends, this is where Herakles defeated the dreaded Tricorn and buried it somewhere. Of course, at the best of times, this is also a city of slavery, one that smells of the piss and sweat of ten thousand human beings \(a true metropolis\), even when it's not beset by mosquitoes.
-
 > **Why are the characters here?**
 >
 > A few ideas:
@@ -32,12 +18,22 @@ This story is set in the Ancient Greek city of Euthermios. If you haven't heard 
 > * appointment with a smuggler \(Alfredo Jester is a good candidate, see below\);
 > * bounty hunting through time and space \(for instance Alfredo Jester or the Tricorn\);
 > * one of the Crew is afflicted with some ill, and the temples of Euthermios were rumored to be able to cure all diseases;
-> * looking for a vanished Crew of the Time Brigade \(see below\), either as a rescue mission, as a search & destroy mission, as an opportunity to steal some Time Brigade technology, looking for conveniently missing time travelers to sustain a Pocket Continuum, ...;
+> * looking for a vanished Crew of the Time Brigade \(see below\), either as a rescue mission, as a search 
+>   &
+>    destroy mission, as an opportunity to steal some Time Brigade technology, looking for conveniently missing time travelers to sustain a Pocket Continuum, ...;
 > * ...
 >
 > As usual, the only limit is the Entirety of Time and Space. Just remember the reason and make it an Aspect of the story.
 
-During the last two weeks, however, the situation has changed considerably. It started with a sick pilgrim, or a sick priest, or perhaps a rat in the granary. A few days later, dozens of people were walking the streets, complaining about their cracking, dry skin, their falling teeth, eyes they could barely keep open. Now, thousands are dead or dying. Survivors are starving in temples guarded by archers, or hiding in their houses. Those who have attempted to escape report mythical monsters besieging the city. Also, the night has new noises. Yellow ones.
+To save Ancient Greece – and the Continuum itself – the Crew will need to find a way to deal with both the locals, the Time Brigade, and a vaguely threatening Time Smuggler, while finding a way to either defeat the Plague, negotiate with it, or somehow deflect it to another time and place.
+
+> **Aspects of the story**
+>
+> * &lt;Whatever the Crew is doing here&gt;
+> * This Plague could Snafu the entire Continuum
+> * Killer monsters, killer mosquitoes, killer heat, and killer Plague.
+
+
 
 > **A few Greek names, should you need them**
 >
@@ -48,7 +44,26 @@ During the last two weeks, however, the situation has changed considerably. It s
 > * Sophia \(F\)
 > * Stamitos \(M\)
 
-## 
+## The City of Euthermios
+
+This story is set in the Ancient Greek city of Euthermios. If you haven't heard about that city, well, there's probably a good reason... Until a few weeks ago, this city was a major cultural and commercial node in the Greek Civilization. It overlooks the sea, controls a river known as the Lakedon, and is home to one of the greatest libraries of the Mediterranean, natural hot baths, as well as no less than ten temples to the various Gods known and lost, a volcanic crater rumoured to hide an entrance to the Land of the Dead, and a fabled Colossus. Philosophers, merchants and pilgrims came from all over the Mediterranean Sea and the Greek Peninsula to exchange, barter, pray and have their future read. According to legends, this is where Herakles defeated the dreaded Tricorn and buried it somewhere. Of course, at the best of times, this is also a city of slavery, one that smells of the piss and sweat of ten thousand human beings \(a true metropolis\), even when it's not beset by mosquitoes.
+
+During the last two weeks, however, the situation has changed considerably. It started with a sick pilgrim, or a sick priest, or perhaps a rat in the granary. A few days later, dozens of people were walking the streets, complaining about their cracking, dry skin, their falling teeth, eyes they could barely keep open. Now, thousands are dead or dying. Survivors are starving in temples guarded by archers, or hiding in their houses. Those who have attempted to escape report mythical monsters besieging the city. Also, the night has new noises. Yellow ones.
+
+A few places the Crew may wish to visit:
+
+* The road to the city.
+* The marshes.
+* The city walls.
+* The sea.
+* The port.
+* The river.
+* A dozen temples.
+* The Time Brigade Citadel \(once the Crew has found it\).
+* The crater.
+* The Colossus.
+* 
+
 
 ## Around the city
 
