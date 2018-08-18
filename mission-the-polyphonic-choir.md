@@ -46,7 +46,11 @@ To save Ancient Greece – and the Continuum itself – the Crew will need to fi
 
 Historically, women in Ancient Greece was expected to remain hidden in the gynaeceum, they were not supposed to take any decision outside of the household, etc. Playing a woman outsmarting these rules might actually be fun, but not all players would enjoy it. So if one of your Player Characters is a woman and the player isn't particularly interested in this side of role-playing, just assume that all the Time Peasants in and around Euthermios are so much in a state of shock that they don't have time to pay attention to the outrage that is a woman actually speaking without her male relative's permission.
 
+A few ideas to let a woman walk freely in such a conservative society:
 
+* pretend to be a priestess;
+* pretend to be some kind of goddess;
+* pretend to be a man or a teenage boy.
 
 ## The City of Euthermios
 
