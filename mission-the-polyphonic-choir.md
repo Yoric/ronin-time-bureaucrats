@@ -4,13 +4,21 @@ As in most Ronin Time Bureaucracy stories, the number of possibilities afforded 
 
 Rather than a linear adventure, you'll find **summaries of information** available at places.
 
-## The setting
+## Synopsys
+
+The story is set in and around the city of Euthermios, in Ancient Greece. An outbreak of Plague is killing its inhabitants, while mythological monsters are besieging the city, preventing anyone from coming in or escaping. It goes without saying that both the Plague and the Monsters have Time-Traveling origins. The Monsters are fakes, put together by a Political Officer of the Time Brigade as soon as he realized the gravity of this Plague, in an effort to avoid Snafuing mankind and the universe. Oh, and the Plague is not technically a disease: rather, it is a an advanced cloud of nanobots, designed to _brickiform_ entire cities, turning its objects into plastic bricks and its inhabitants into toy-like Brick Figs.
+
+To save the Continuum, the Crew will need to find a way to either defeat the Plague, negotiate with it, or somehow deflect it to another time and place. All of this under the constant scrutiny of the Time Brigade and an enigmatic Time Smuggler, and before the cloud of nanobots manages to escape and brickiform Ancient Earth.
 
 > **Aspects of the story**
 >
 > * &lt;Whatever the Crew is doing here&gt;
-> * This Plague could Snafu the entire Continuum.
-> * Killer monsters, killer mosquitoes, killer heat, and yes, killer Plague.
+> * This Plague could Snafu the entire Continuum
+> * Killer monsters, killer mosquitoes, killer heat, and killer Plague.
+
+## The setting
+
+>
 
 This story is set in the Ancient Greek city of Euthermios. If you haven't heard about that city, well, there's probably a good reason... Until a few weeks ago, this city was a major cultural and commercial node in the Greek Civilization. It overlooks the sea, controls a river known as the Lakedon, and is home to one of the greatest libraries of the Mediterranean, natural hot baths, as well as no less than ten temples to the various Gods known and lost, a volcanic crater rumoured to hide an entrance to the Land of the Dead, and a fabled Colossus. Philosophers, merchants and pilgrims came from all over the Mediterranean Sea and the Greek Peninsula to exchange, barter, pray and have their future read. According to legends, this is where Herakles defeated the dreaded Tricorn and buried it somewhere. Of course, at the best of times, this is also a city of slavery, one that smells of the piss and sweat of ten thousand human beings \(a true metropolis\), even when it's not beset by mosquitoes.
 
@@ -40,13 +48,7 @@ During the last two weeks, however, the situation has changed considerably. It s
 > * Sophia \(F\)
 > * Stamitos \(M\)
 
-## Short summary
-
-The story is set in and around the city of Euthermios, in Ancient Greece. An outbreak of Plague is killing its inhabitants, while mythological monsters are besieging the city, preventing anyone from coming in or escaping. It goes without saying that both the Plague and the Monsters have Time-Traveling origins. The Plague itself was designed as a murder weapon by a specific Time Traveler against another one, and was never meant to end up in the distant past. The Monsters are fakes, put together by a Political Officer of the Time Brigade as soon as he realized the gravity of this Plague, in an effort to avoid Snafuing mankind and the universe. Oh, and the Plague is not truly a disease: before being weaponized, it was an advanced cloud of nanobots, designed to brickiform entire cities, turning its objects into plastic bricks and its inhabitants into toy-like Brick Figs.
-
-To save the Continuum, the Crew will need to find a way to either defeat the Plague, negotiate with it, or somehow deflect it to another time and place. All of this under the constant scrutiny of the Time Brigade and an enigmatic Time Smuggler, and before the cloud of nanobots manages to escape and brickiform Ancient Earth.
-
-
+## 
 
 ## Around the city
 
