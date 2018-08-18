@@ -150,7 +150,7 @@ Getting past the the three-meter tall walls themselves may offer a minor challen
 
 Should the Crew attempt to get out of the city, things may get complicated for them if they do not have the authorization of the Time Brigade. For one thing, the wall, the archers and their commander will still be present, and they will be looking in the right direction.
 
-Just as importantly, the Time Brigade is convinced that the fate of the Continuum depends on making sure that absolutely nobody leaves the city, and they are doing pretty well given the limited means at hand. The Time Brigade has launched a satellite to monitor the walls properly. They will spot anyone attempting to leave the city. Unless a diversion has been prepared, they will send their Crows to make sure that Agatone has archers in the right place to block the Crew and the Crows will run interference against the Crew while the Archers attempt to drive them back and/or kill them. Should this be insufficient, the Gods will send reinforcements to aid the Archers – namely a few Polymorphic Provocateurs teleported from the Time Citadel. While the Provocateurs are nearly as strong as the Crew, they are very good in a support role.
+Just as importantly, the Time Brigade is convinced that the fate of the Continuum depends on making sure that absolutely nobody leaves the city, and they are doing pretty well given the limited means at hand. The Time Brigade has launched a satellite to monitor the walls properly. They will spot anyone attempting to leave the city. Unless a diversion has been prepared, they will send their Crows to make sure that Agatone has archers in the right place to block the Crew and the Crows will run interference against the Crew while the Archers attempt to drive them back and/or kill them. Should this be insufficient, the Gods will send reinforcements to aid the Archers – namely a few Polymorphic Provocateurs teleported from the Time Citadel. While the Provocateurs are nearly as strong as the Crew, they are very efficient in a support role.
 
 > **Polymorphic Provocateurs**
 >
@@ -163,8 +163,6 @@ Just as importantly, the Time Brigade is convinced that the fate of the Continuu
 > Poor at: Standing up and fighting, coming up with fresh ideas.
 
 The Time Brigade assumes that any Time Pedestrian present in the city will die regardless, so they will not pull any blow unless they realize that the runaways are Time Travelers. If they do realize that the Crew
-
-
 
 ## In Euthermios
 
