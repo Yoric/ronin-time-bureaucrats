@@ -176,13 +176,17 @@ Just as importantly, the Time Brigade is convinced that the fate of the Continuu
 >
 > Poor at: Standing up and fighting, coming up with fresh ideas.
 
-The Time Brigade assumes that any Time Pedestrian present in the city will die regardless, so they will not pull any blow unless they realize that the runaways are Time Travelers. On the other hand, they will make efforts to keep Time Travelers alive: if given the opportunity, they are going to politely ask the Travelers to turn back and meet them in the Citadel. If not, they are going to use non-lethal weaponry.
+The Time Brigade assumes that any Time Pedestrian present in the city is dying, so they will not pull any blow unless they realize that the runaways are Time Travelers. On the other hand, they will make efforts to keep Time Travelers alive: if given the opportunity, they are going to politely ask the Travelers to turn back and meet them in the Citadel. If not, they are going to use non-lethal weaponry.
 
 ### The cemetary
 
 The cemetary is outside the city walls. Nothing interesting has happened here.
 
-If you wish to spice things a bit, the Crew may find here a few diseased travelers, camping here. They found a way out of the city through tunnels from one of the temples, but they are too scared of the monsters to go to the next city. They are dying, but they are also irrational and quite possibly hostile.
+If you wish to spice things a bit, the Crew may find here a dozen of deserters, camping here. They found a way out of the city through tunnels from one of the temples, but so far, every attempt they have made to leave the city has been blocked by the monsters. They have realized only yesterday that they are touched by the plague. Now, they are planning to run for it, no matter what the cost.
+
+## The crater
+
+
 
 ## In Euthermios
 
