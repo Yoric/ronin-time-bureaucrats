@@ -77,11 +77,29 @@ The two young men \(teenagers, in fact\) have just returned with word of a man-e
 
 If the Crew attempts to travel through the marshes or off-road, they will actually meet the twin teenagers heading back to the camp with the same story.
 
+> **Eurystheus of Athens**
+>
+> * I'm a merchant, not a hero
+>
+> **The twins**
+> * Impressionable teenager
+
+
+
 ### Getting in through the blockade
 
 Once the Crew has decided to ignore the warnings, they can approach the city. Within sight of the Walls, they will witness some mythological monster eating alive a dozen of warriors or sailors, surrounded by black crows. No matter what path they take to approach the city \(including flying\), they will encounter a monster. Interestingly, the monsters leave no bodies, and if the Crew attempts to find where the victims come from, they will realize that said victims left no traces. Alternatively, if they wait long enough, the Crew may realize that _the exact same victims_ get eaten each time. Also, any sufficiently advanced recording equipment will quickly help the Crew conclude that victims and monsters are in fact holographic projections.
 
 In fact, the monsters are no threat. They have been set here as part of the blockade to scare travelers in an attempt to limit the plague. The crows, however, are customized Crowd Control Clockworks of the Time Brigade. As such, they are equipped with stun tasers and a rudimentary memory-wipe mechanism meant to convince travelers that they have barely escaped with their life. Should the Crew be memory-wiped, the crude illusion won't stand for more than a few minutes.
+
+> **The Monsters**
+>
+> * Nothing but an illusion
+>
+> Good at: Scaring people to death.
+> Poor at: Pretty much everything else.
+>
+> Robustness: Pretty much unkillable.
 
 > **Crowd Control Crows**
 >
