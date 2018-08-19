@@ -191,9 +191,13 @@ Another band of survivors made its way to the crater before the Time Brigade and
 
 The plague hasn't reached that far \(they were not infected\), so the bodies are still there, as well as the remains of a Crowd-Control Clockwork that didn't make it out in time.
 
+In the crater, there is also a small empty shrine to Herakles.
+
 ## In Euthermios
 
 If the Crew has means to reconnoiter the city before getting there, they will find that the streets are nearly empty of any life, whether human or animal. Two spots are difficult/impossible to reconnoiter from afar, clearly because of cloaking devices: one of the two palaces \(in fact, the Citadel of the Time Brigade\) and the Temple of Lost Gods. The Crew will spot the archers on the city wall, a group of refugee in the crater, as well as archers on the roof of several temples. Where the city should have around fifty-thousand life-forms \(including larger animals\), less than five-thousand life-forms may be spotted. A number of houses also seem to have collapsed.
+
+### Streets and houses
 
 Walking inside the city, the Crew will observe essentially the same things, with more risk of being shot at by temple archers. At first sight, there doesn't seem to be any activity in or around the Temple of Lost Gods. Seen with the bare eye, the second palace is very clearly a Citadel of the Time Brigade configured in siege mode – nobody gets in, nobody gets out. The Crew may notice that no animals may be found in the street or in the air, nor _any_ dead body, human or animal. A very thorough examination may also lead to the conclusion that wood, straw, clothes, food, even excrements are disappearing – anything remotely alive. If the Crew does anything to attract attention, it will be followed by Crowd-Control Crows.
 
@@ -209,9 +213,7 @@ Eventually, the Crew should find some surviving citizens. Say Althea and her two
 > * Nobody is in charge.
 > * There is a Time Brigade Citadel in the city.
 
-It is still possible to find some food as a few bodies, dead of hunger, thirst or violence, but apparently, nobody who has died from the plague. Should the Crew revisit a place that held a body \(or leftover food, they may realize that things keep vanishing, without any visible
-
-Surviving citizens are scared. Somehow, they have heard of both the plague and the monsters outside of the city
+Another interesting place is the local brothel.
 
 ### The Time Brigade Citadel
 
