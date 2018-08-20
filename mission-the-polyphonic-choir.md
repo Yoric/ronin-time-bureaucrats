@@ -58,6 +58,7 @@ A few ideas to let a woman walk freely in such a conservative society:
 * pretend to be some kind of goddess;
 * pretend to be a man or a teenage boy;
 * pretend to be a slave \(yes, that's probably not ideal\);
+* pretend to be the authoritarian mother/wife/sister of a male Crew member \(may actually be fun to role-play\);
 * pretend to be an Amazon \(this will scare off many men, may intrigue some women\).
 
 ## The City of Euthermios
@@ -226,8 +227,6 @@ The port is, like the rest of the city, dying. Part of if burnt during the early
 In fact, one of the first measures taken by the Time Brigade was to make sure that the ships could not leave the port. Two Polymorphic Provocateurs were sent to burn down the ships, disguised as sailors. While the mission was a success, one of the Provocateurs was torn to pieces by the crowd of angry sailors. The other one managed to run away and was later sent to help gather the citizens into the Temples, where they could die without contaminating anyone.
 
 During the chaos, the dozen or so of brothel slaves vanished and made their way to one of the Temples.
-
-
 
 ### The Time Brigade Citadel
 
