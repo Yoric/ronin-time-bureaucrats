@@ -69,19 +69,23 @@ During the last two weeks, however, the situation has changed considerably. It s
 
 A few places the Crew may wish to visit:
 
-* The road to the city.
-* The marshes.
-* The city walls.
-* The sea.
-* The port.
-* The river.
-* A dozen temples.
-* The Time Brigade Citadel \(once the Crew has found it\).
-* The crater.
-* The Colossus.
-* The Palace.
-* The Theater.
-* The cementary.
+* Around the city
+  * The road to the city.
+  * The marshes.
+  * The city walls.
+  * The sea.
+  * The river.
+  * The crater.
+  * The cementary.
+* In the city
+  * The streets.
+  * Houses.
+  * A dozen temples.
+  * The Time Brigade Citadel \(once the Crew has found it\).
+  * The Colossus.
+  * The Palace.
+  * The Theater.
+  * The port.
 
 ## Around the city
 
