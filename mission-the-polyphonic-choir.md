@@ -1,12 +1,18 @@
-# The Yellow Choir
+# Mission Report
 
-As in most Ronin Time Bureaucracy stories, the number of possibilities afforded to the Crew is endless, so don't expect a well-delimited plot. Rather, this scenario introduces a few basic places, aspects and characters, and lets the Crew and GM improvise from it. It can serve as an introduction to the Brick Nation and/or a pathway to unleashing the Brick Nation through Time and Space.
+Ronin Time Bureaucracy is not meant to be a plot-driven game. Rather, it is meant to be improv-driven. This mission report is designed as a loose canvas upon which to unleash your Crew. It's more than ok if they step out of the boundaries, start tearing holes in everything you have planned, or go adventuring somewhere else, as long as everybody is having fun – just go with the flow.
 
-Rather than a linear adventure, you'll find **summaries of information** available at places.
+Just don't forget to remind them that creating a Pocket Continuum is generally a very bad idea, and that Snafuing the universe is something that should be avoided at any cost. Well, at least for a Crew of beginners.
+
+Out of the box, this Mission Report involves:
+
+* the dictatorial Time Brigade, albeit not necessarily in its default role of boogeyman;
+* the toylike Brick Nation, which may end up becoming the Big Threat in your campaign, depending of how the Crew handles things;
+* the mysterious/annoying Time Hierarchy, which may be used to spice things and/or provide deus ex machina services.
 
 ## Synopsis
 
-The story is set in and around the city of Euthermios, in Ancient Greece. An outbreak of Plague is killing its inhabitants, while mythological monsters are besieging the city, preventing anyone from coming in or escaping. It goes without saying that both the Plague and the Monsters have Time-Traveling origins. The Monsters are fakes, put together by a Political Officer of the Time Brigade as soon as he realized the gravity of this Plague, in an effort to avoid Snafuing mankind and the universe. Oh, and the Plague is not technically a disease: rather, it is a an advanced cloud of nanobots, designed to _brickiform_ entire cities, turning its objects into plastic bricks and its inhabitants into toy-like Brick Figs.
+The mission is set in and around the city of Euthermios, in Ancient Greece. An outbreak of Plague is killing its inhabitants, while mythological monsters are besieging the city, preventing anyone from coming in or escaping. It goes without saying that both the Plague and the Monsters have Time-Traveling origins. The Monsters are fakes, put together by a Political Officer of the Time Brigade as soon as he realized the gravity of this Plague, in an effort to avoid Snafuing mankind and the universe. Oh, and the Plague is not technically a disease: rather, it is a an advanced cloud of nanobots, designed to _brickiform_ entire cities, turning its objects into plastic bricks and its inhabitants into toy-like Brick Figs.
 
 > **Why are the characters here?**
 >
@@ -215,7 +221,13 @@ Eventually, the Crew should find some surviving citizens. Say Althea and her two
 
 ### The port
 
-One of the first measures taken by the Time Brigade was to make sure that the ships could not leave the port. A many-tentacled \(illusory\) monster is keeping watch and two Polymorphic Provocateurs were sent to burn down the ships, disguised as sailors. While the mission was a success, one of the Provocateurs was torn to pieces by the crowd of angry sailors. The other one managed to run away but never made it back to the Citadel – indeed, it was taken by the Plague.
+The port is, like the rest of the city, dying. Part of if burnt during the early days of the Plague, along with all the ships, a many-tentacled monster is daring the sailors to brave the water, and even the brothel has closed down.
+
+In fact, one of the first measures taken by the Time Brigade was to make sure that the ships could not leave the port. Two Polymorphic Provocateurs were sent to burn down the ships, disguised as sailors. While the mission was a success, one of the Provocateurs was torn to pieces by the crowd of angry sailors. The other one managed to run away and was later sent to help gather the citizens into the Temples, where they could die without contaminating anyone.
+
+During the chaos, the dozen or so of brothel slaves vanished and made their way to one of the Temples.
+
+
 
 ### The Time Brigade Citadel
 
