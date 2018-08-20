@@ -203,7 +203,7 @@ Walking inside the city, the Crew will observe essentially the same things, with
 
 Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been pillaged and some hold survivors. While bodies, food, etc. disappear, it is still possible to find some in houses that have not been visited by the plague. If the Crew ends up finding a body, this will systematically be that of someone dead from hunger, thirst or violence – it remains impossible to find the body of a citizen killed by the plague. Should the Crew revisit a place that held a body \(or leftover food, etc.\), there are good chances that the body will have vanished in the meantime. With the necessary equipment, the process can be captured on camera, and will show the body slowly melting – note that this is not what happens to people who have actually caught the plague.
 
-Eventually, the Crew should find some surviving citizens. Say Althea and her two surviving children. Ten days ago, her husband Nektarios heard the sheep screaming, grabbed a knife, and went to investigate, followed by elder son son Nikolaos. Neither of them returned. When they didn't return, Althea attempted to follow, but found no trace of either her husband, her son or the sheep. When she attempted to find refuge in the Temple of Athena with her four other children, along with other survivors, they were shot at by archers. Two of the children died trampled. She then attempted to reach the Palace, only to discover it barred.
+Eventually, the Crew should find some surviving citizens. Say Althea and her two surviving children. Ten days ago, her husband Nektarios heard the sheep screaming, grabbed a knife, and went to investigate, followed by elder son son Nikolaos. Neither of them returned. When they didn't return, Althea attempted to follow, but found no trace of either her husband, her son or the sheep. When she attempted to find refuge in the Temple of Athena with her four other children, along with other survivors, they were shot at by archers. Two of the children died trampled during the panic. She then attempted to reach the Palace, only to discover it barred. She is terrified both for the life of her surviving children and for the unburied souls of those she lost.
 
 > **Summary of informations**
 >
@@ -213,7 +213,9 @@ Eventually, the Crew should find some surviving citizens. Say Althea and her two
 > * Nobody is in charge.
 > * There is a Time Brigade Citadel in the city.
 
-Another interesting place is the local brothel.
+### The port
+
+One of the first measures taken by the Time Brigade was to make sure that the ships could not leave the port. A many-tentacled \(illusory\) monster is keeping watch and two Polymorphic Provocateurs were sent to burn down the ships, disguised as sailors. While the mission was a success, one of the Provocateurs was torn to pieces by the crowd of angry sailors. The other one managed to run away but never made it back to the Citadel – indeed, it was taken by the Plague.
 
 ### The Time Brigade Citadel
 
