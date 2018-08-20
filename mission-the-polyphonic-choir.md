@@ -232,11 +232,13 @@ In fact, one of the first measures taken by the Time Brigade was to make sure th
 
 During the chaos, the dozen or so of brothel slaves vanished and made their way to one of the Temples.
 
+If the Crew is looking for diseased sailors, they can easily find a few here.
+
 ### The Time Brigade Citadel
 
 For some reason, the City of Euthermios has two palaces. Well, there is a good reason: one of them has been there for decades, while the other one materialized from the future about two weeks ago. This second palace is a highly recognizable Time Brigad Citadel, full of high walls, flags and eagles. To describe it, draw inspiration from your the architecture of your \(least\) favorite dictatorship. As is standard, the Citadel uses a cloaking mechanism that makes it hard to scan using Time Bureaucracy technology, but the mechanism does not protect against examination with the naked eye.
 
-The Time Brigade arrived here by following \[ \], a loud-mouthed non-affiliated Time Traveler whom they believe to be a Time Smuggler. Upon arrival, they received a distress signal and they proceeded to land, make their arrest, and investigate the signal.
+The Time Brigade arrived here by following \[ \], a loud-mouthed non-affiliated Time Traveler whom they believe to be a Time Smuggler. Upon arrival, the Time Brigade received a distress signal and they proceeded to land, make their arrest, and investigate the signal, which came from the Temple of Lost Gods.
 
 ### The Temples
 
