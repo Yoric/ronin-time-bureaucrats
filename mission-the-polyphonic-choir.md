@@ -218,6 +218,8 @@ Breaking and entering in houses is quite simple, given that locks have not been 
 
 Eventually, the Crew should find some surviving citizens. Say Althea and her two surviving children. Ten days ago, her husband Nektarios heard the sheep screaming, grabbed a knife, and went to investigate, followed by elder son son Nikolaos. Neither of them returned. When they didn't return, Althea attempted to follow, but found no trace of either her husband, her son or the sheep. When she attempted to find refuge in the Temple of Athena with her four other children, along with other survivors, they were shot at by archers. Two of the children died trampled during the panic. She then attempted to reach the Palace, only to discover it barred. She is terrified both for the life of her surviving children and for the unburied souls of those she lost.
 
+With some effort, it should be possible to find diseased citizens hiding in their house.
+
 > **Summary of informations**
 >
 > * The plague kills humans and animals alike, but does not leave bodies.
@@ -234,7 +236,7 @@ In fact, one of the first measures taken by the Time Brigade was to make sure th
 
 During the chaos, the dozen or so of brothel slaves vanished and made their way to one of the Temples.
 
-If the Crew is looking for diseased sailors, they can easily find a few here.
+If the Crew is looking for diseased sailors, they can easily find a few here. Say Stephanos, the old drunkard. If you believe him, he's traveled through all the seas, has been to the Pillars of Herakles more than once, and had to fight more than his share of sea monsters. Actually, don't believe him. Also, he's more cunning than he looks: if he sees a way out of the city, he'll take it.
 
 ### The Time Brigade Citadel
 
@@ -244,7 +246,7 @@ The Time Brigade arrived here by following \[ \], a loud-mouthed non-affiliated 
 
 ### The Temples
 
-### Going Medical
+### The Plague itself
 
 ### Where are the dead?
 
