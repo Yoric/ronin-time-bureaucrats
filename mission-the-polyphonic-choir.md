@@ -242,15 +242,13 @@ If the Crew is looking for diseased sailors, they can easily find a few here. Sa
 >
 > * Ghosts burnt all the ships, but were somehow defeated by the sailors.
 
-
-
 ### The Time Brigade Citadel
 
 For some reason, the City of Euthermios has two palaces. Well, there is a good reason: one of them has been there for decades, while the other one materialized from the future about two weeks ago. This second palace is a highly recognizable Time Brigad Citadel, full of high walls, flags and eagles. To describe it, draw inspiration from your the architecture of your \(least\) favorite dictatorship. As is standard, the Citadel uses a cloaking mechanism that makes it hard to scan using Time Bureaucracy technology, but the mechanism does not protect against examination with the naked eye.
 
 The Time Brigade arrived here by following \[ \], a loud-mouthed non-affiliated Time Traveler whom they believe to be a Time Smuggler. Upon arrival, the Time Brigade received a distress signal and they proceeded to land, make their arrest, and investigate the signal, which came from the Temple of Lost Gods.
 
-Communication was lost in the Temple of Lost Gods, apparently scrambled. None of the Brigadeers returned. The only persons left in the Citadel are Political Officer Sergei Tedesco and Engineering Officer Natacha Putto. While they were still in the process of putting together a rescue mission made of Polymorphic Provocateurs and Crowd-Control Clockworks, they realized that the city was stage to an outbreak of some disease. Fearing a connection and a larger plot, they diverted a Polymorphic Provocateurs and a few Crowd-Control Clockworks to investigate. Once they realized that the symptoms of the disease matched those of a Highly Censored/Snafu Potential outbreak on their computers, they decided to implement full lockdown on the city, 
+Communication was lost in the Temple of Lost Gods, apparently scrambled. None of the Brigadeers returned. The only persons left in the Citadel are Political Officer Sergei Tedesco and Engineering Officer Natacha Putto. While they were still in the process of putting together a rescue mission made of Polymorphic Provocateurs and Crowd-Control Clockworks, they realized that the city was stage to an outbreak of some disease. Fearing a connection and a larger plot, they diverted a Polymorphic Provocateurs and a few Crowd-Control Clockworks to investigate. Once they realized that the symptoms of the disease matched those of a Highly Censored/Snafu Potential outbreak on their computers, they decided to implement full lockdown on the city. They launched an observation satellite, hacked camouflage for the Crowd-Control Crows, scrounged together satellite-projected illusions for the various monsters, burnt the ships, tracked down escaped survivors to kill them. 
 
 ### The Temples
 
