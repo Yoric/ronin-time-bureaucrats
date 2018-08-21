@@ -59,7 +59,9 @@ A few ideas to let a woman walk freely in such a conservative society:
 * pretend to be a man or a teenage boy;
 * pretend to be a slave \(yes, that's probably not ideal\);
 * pretend to be the authoritarian mother/wife/sister of a male Crew member \(may actually be fun to role-play\);
-* pretend to be an Amazon \(this will scare off many men, may intrigue some women\).
+* pretend to be an Amazon \(this will scare off many men, may intrigue some women\);
+* pretend to be some Barbarian queen;
+* ...
 
 ## The City of Euthermios
 
