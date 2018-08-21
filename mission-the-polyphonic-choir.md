@@ -216,7 +216,7 @@ Walking inside the city, the Crew will observe essentially the same things, with
 
 Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been pillaged and some hold survivors. While bodies, food, etc. disappear, it is still possible to find some in houses that have not been visited by the plague. If the Crew ends up finding a body, this will systematically be that of someone dead from hunger, thirst or violence – it remains impossible to find the body of a citizen killed by the plague. Should the Crew revisit a place that held a body \(or leftover food, etc.\), there are good chances that the body will have vanished in the meantime. With the necessary equipment, the process can be captured on camera, and will show the body slowly melting – note that this is not what happens to people who have actually caught the plague.
 
-Eventually, the Crew should find some surviving citizens. Say Althea and her two surviving children. Ten days ago, her husband Nektarios heard the sheep screaming, grabbed a knife, and went to investigate, followed by elder son son Nikolaos. Neither of them returned. When they didn't return, Althea attempted to follow, but found no trace of either her husband, her son or the sheep. When she attempted to find refuge in the Temple of Athena with her four other children, along with other survivors, they were shot at by archers. Two of the children died trampled during the panic. She then attempted to reach the Palace, only to discover it barred. She is terrified both for the life of her surviving children and for the unburied souls of those she lost.
+Eventually, the Crew should find some surviving citizens. Say Althea and her two surviving children. Ten days ago, her husband Nektarios heard the sheep screaming, grabbed a knife, and went to investigate, followed by elder son son Nikolaos. Neither of them returned. When they didn't return, Althea attempted to follow, but found no trace of either her husband, her son or the sheep. When she attempted to find refuge in the Temple of Athena with her four other children, along with other survivors, they were shot at by archers. Two of the children died trampled during the panic. She then attempted to reach the Palace, only to discover it barred. She is terrified both for the life of her surviving children and for the unburied souls of those she lost. According to her, the night hides yellow ghosts.
 
 With some effort, it should be possible to find diseased citizens hiding in their house. Say Hannah, a child slave they may find lying, feverish, in the street in front of a rich \(and still inhabited\) house, surrounded by all her meager belongings. The house had remained closed and guarded during most of the outbreak and had escaped the Plague, until a diseased bird pecked Hannah. She was promptly \(and literally\) thrown into the street. This won't save the house. At this stage, Hannah is delirious and praying in her mother's tongue \(Hebrew\).
 
@@ -234,9 +234,15 @@ The port is, like the rest of the city, dying. Part of if burnt during the early
 
 In fact, one of the first measures taken by the Time Brigade was to make sure that the ships could not leave the port. Two Polymorphic Provocateurs were sent to burn down the ships, disguised as sailors. While the mission was a success, one of the Provocateurs was torn to pieces by the crowd of angry sailors. The other one managed to run away and was later sent to help gather the citizens into the Temples, where they could die without contaminating anyone.
 
-During the chaos, the dozen or so of brothel slaves vanished and made their way to one of the Temples.
+During the chaos, the dozen or so of brothel slaves ran for it and made their way to one of the Temples.
 
 If the Crew is looking for diseased sailors, they can easily find a few here. Say Stephanos, the old drunkard. If you believe him, he's traveled through all the seas, has been to the Pillars of Herakles more than once, and had to fight more than his share of sea monsters. Actually, don't believe him. Also, while he's not very mobile, he's more cunning than he looks: if he sees a way out of the city, he'll take it.
+
+> **Summary of informations**
+>
+> * Ghosts burnt all the ships, but were somehow defeated by the sailors.
+
+
 
 ### The Time Brigade Citadel
 
@@ -244,9 +250,11 @@ For some reason, the City of Euthermios has two palaces. Well, there is a good r
 
 The Time Brigade arrived here by following \[ \], a loud-mouthed non-affiliated Time Traveler whom they believe to be a Time Smuggler. Upon arrival, the Time Brigade received a distress signal and they proceeded to land, make their arrest, and investigate the signal, which came from the Temple of Lost Gods.
 
+Communication was lost in the Temple of Lost Gods, apparently scrambled. None of the Brigadeers returned. The only persons left in the Citadel are Political Officer Sergei Tedesco and Engineering Officer Natacha Putto. While they were still in the process of putting together a rescue mission made of Polymorphic Provocateurs and Crowd-Control Clockworks, they realized that the city was stage to an outbreak of some disease. Fearing a connection and a larger plot, they diverted a Polymorphic Provocateurs and a few Crowd-Control Clockworks to investigate. Once they realized that the symptoms of the disease matched those of a Highly Censored/Snafu Potential outbreak on their computers, they decided to implement full lockdown on the city, 
+
 ### The Temples
 
-### The Plague itself
+### The disease
 
 ### Where are the dead?
 
