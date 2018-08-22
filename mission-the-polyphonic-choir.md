@@ -186,9 +186,13 @@ Just as importantly, the Time Brigade is convinced that the fate of the Continuu
 > * I am the person standing next to you, the civilian at the end of the street, or perhaps your teacup.
 > * As smart as needed for a specific task.
 >
+> Durability: Underboss.
+>
 > Good at: Causing Chaos, backstabbing, overhearing any plan.
 >
 > Poor at: Standing up and fighting, coming up with fresh ideas.
+>
+> Note that Polymorphic Provocateurs are largely organic and may be infected by the Plague.
 
 The Time Brigade assumes that any Time Pedestrian present in the city is dying, so by default, they will not pull any blow. While they have limited reserves of weapons, if needed, they may teleport Crowd-Control Crows to drop explosives on top of the Crew. If they realize that they are targeting Time Travelers, though, they will attempt to use non-lethal means, starting with a simple order delivered from thin air: turn back and meet at the Citadel.
 
@@ -248,7 +252,15 @@ For some reason, the City of Euthermios has two palaces. Well, there is a good r
 
 The Time Brigade arrived here by following \[ \], a loud-mouthed non-affiliated Time Traveler whom they believe to be a Time Smuggler. Upon arrival, the Time Brigade received a distress signal and they proceeded to land, make their arrest, and investigate the signal, which came from the Temple of Lost Gods.
 
-Communication was lost in the Temple of Lost Gods, apparently scrambled. None of the Brigadeers returned. The only persons left in the Citadel are Political Officer Sergei Tedesco and Engineering Officer Natacha Putto. While they were still in the process of putting together a rescue mission made of Polymorphic Provocateurs and Crowd-Control Clockworks, they realized that the city was stage to an outbreak of some disease. Fearing a connection and a larger plot, they diverted a Polymorphic Provocateurs and a few Crowd-Control Clockworks to investigate. Once they realized that the symptoms of the disease matched those of a Highly Censored/Snafu Potential outbreak on their computers, they decided to implement full lockdown on the city. They launched an observation satellite, hacked camouflage for the Crowd-Control Crows, scrounged together satellite-projected illusions for the various monsters, burnt the ships, tracked down escaped survivors to kill them. 
+The team sent to the Temple of Lost Gods lost communications, apparently scrambled. None of them returned. The only persons left in the Citadel are Political Officer Sergei Tedesco and Engineering Officer Natacha Putto. While they were still in the process of putting together a rescue mission made of Polymorphic Provocateurs and Crowd-Control Clockworks, they realized that the city was stage to an outbreak of some disease. Fearing a connection and a larger plot, they diverted a Polymorphic Provocateurs and a few Crowd-Control Clockworks to investigate. Once they realized that the symptoms of the disease matched those of a Highly Censored/Snafu Potential outbreak on their computers, they decided to implement full lockdown on the city.
+
+They launched an observation satellite, hacked together some camouflage for the Crowd-Control Crows, scrounged together satellite-projected illusions for the various monsters, burnt the ships, tracked down escaped survivors to kill them. Things haven't got easier since then. They quickly realized that they simply didn't have enough Crowd-Control Crows or Polymorphic Provocateurs or ammo to keep everybody inside, so they used their illusions to get in touch with Agatone. They projected other illusions of ghosts in the streets to scare everyone into the Temples, and when this proved insufficient, they threw in most of their remaining Polymorphic Provocateurs to convince everyone to crowd into these houses of death. More than once, survivors have attempted to break into the Citadel, as well as cloaked figures that may not have been human. Most of the deployed Polymorphic Provocateurs have vanished, some taken by the 
+
+
+
+Since then, they have kept watch night and day, reprogramming the Provocateurs as needed, attempting to come up with a better plan and to get in touch with their hierarchy. Oh, and also attempting to interrogate their prisoner 
+
+While
 
 ### The Temples
 
