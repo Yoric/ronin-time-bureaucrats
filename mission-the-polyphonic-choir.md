@@ -12,14 +12,16 @@ Out of the box, this Mission Report involves:
 
 ## Synopsis
 
-The mission is set in and around the city of Euthermios, in Ancient Greece. An outbreak of Plague is killing its inhabitants, while mythological monsters are besieging the city, preventing anyone from coming in or escaping. It goes without saying that both the Plague and the Monsters have Time-Traveling origins. The Monsters are fakes, put together by a Political Officer of the Time Brigade as soon as he realized the gravity of this Plague, in an effort to avoid Snafuing mankind and the universe. Oh, and the Plague is not technically a disease: rather, it is a an advanced cloud of nanobots, designed to _brickiform_ entire cities, turning its objects into plastic bricks and its inhabitants into toy-like Brick Figs.
+The mission is set in and around the city of Euthermios, in Ancient Greece. An outbreak of Plague is killing its inhabitants, while mythological monsters are besieging the city, preventing anyone from coming in or escaping. Of course, none of the dwiddling number of inhabitants seems to pay particular attention to either the Plague or the Monsters. It goes without saying that both the Plague and the Monsters have Time-Traveling origins. The Monsters are fakes, put together by a Political Officer of the Time Brigade as soon as he realized the gravity of this Plague, in an effort to avoid Snafuing mankind and the universe. As for the Plague, it is not technically a disease: rather, it is a an advanced cloud of nanobots, designed to _brickiform_ entire cities, turning its objects into plastic bricks and its inhabitants into toy-like Brick Figs.
 
 > **Why are the characters here?**
 >
 > A few ideas:
 >
 > * the usual "let's visit a fun part of time & space";
-> * the just as usual distress signal/ship malfunction/that's not where we aimed to land \(quite possibly because of the Interdictor, see below\)
+> * the Time Brigade has launched a distress signal, which the Crew may have caught;
+> * the Time Brigade is trying its best to prevent a Continuum Indirection from taking off, this may have side-effects on other Indirections traveling nearby;
+
 > * the Crew has found a manuscript about this city, except no other archive seems to ever mention the city, and they are after a mystery;
 > * appointment with a smuggler \(Alfredo Jester is a good candidate, see below\);
 > * bounty hunting through time and space \(for instance Alfredo Jester or the Tricorn\);
