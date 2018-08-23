@@ -31,6 +31,7 @@ The mission is set in and around the city of Euthermios, in Ancient Greece. An o
 > * one of the Crew is afflicted with some ill, and the temples of Euthermios were rumored to be able to cure all diseases;
 >
 > * looking for a vanished Crew of the Time Brigade \(see below\), either as a rescue mission, as a search & destroy mission, as an opportunity to steal some Time Brigade technology, looking for conveniently missing time travelers to sustain a Pocket Continuum, ...;
+>
 > * ...
 >
 > As usual, the only limit is the Entirety of Time and Space. Just remember the reason and make it an Aspect of the story.
@@ -237,35 +238,41 @@ A few things are odd, though:
 
 Walking inside the city, the Crew will progressively observe essentially the same things: everything is very, very normal, except that there may not be quite enough people, and there seem to be a whole lot of crows. At first, noticing the Plague itself will be difficult. What may be more obvious is a number of empty houses and masked soldiers conducting random searches for sick people.
 
-The masked soldiers are regular city soldiers wearing incongruous tragedy masks. These masks themselves have been outfitted with improvised respiratory filters that the Time Brigade hopes will help them avoid contagion.
+The masked soldiers are regular city soldiers wearing incongruous tragedy masks. The masks themselves have been outfitted with improvised respiratory filters that the Time Brigade hopes will help them avoid contagion. The soldiers only know that they are looking for people with either a high fever or a cracking, yellow, skin, and they should bring them to the \(real\) Palace. They should also burn down dead bodies, as well as their possessions.
 
 > **Masked soldiers**
 >
+> * Bronze age, half-naked soldiers.
 > * Everything is perfectly fine, citizen.
 > * Just doing my job.
-> * 
+
 > Robustness: Robust
->
 > Good at: Controlling the crowd, athletics, fighting
 >
-> Poor at: Dealing with unexpected threats
+> Poor at: Dealing with unexpected threats, knowing what's going on
 
-., with more risk of being shot at by temple archers. At first sight, there doesn't seem to be any activity in or around the Temple of Lost Gods. Seen with the bare eye, the second palace is very clearly a Citadel of the Time Brigade configured in siege mode – nobody gets in, nobody gets out. The Crew may notice that no animals may be found in the street or in the air, nor _any_ dead body, human or animal. A very thorough examination may also lead to the conclusion that wood, straw, clothes, food, even excrements are disappearing – anything remotely alive. If the Crew does anything to attract attention, it will be followed by Crowd-Control Crows.
+More walking along city streets will show that:
 
-Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been pillaged and some hold survivors. While bodies, food, etc. disappear, it is still possible to find some in houses that have not been visited by the plague. If the Crew ends up finding a body, this will systematically be that of someone dead from hunger, thirst or violence – it remains impossible to find the body of a citizen killed by the plague. Should the Crew revisit a place that held a body \(or leftover food, etc.\), there are good chances that the body will have vanished in the meantime. With the necessary equipment, the process can be captured on camera, and will show the body slowly melting – note that this is not what happens to people who have actually caught the plague.
+* people seem very, very relaxed;
+* yes, there is a second Palace, and it is obviously a tightly-closed Citadel of the Time Brigade;
+* orators invite people who feel sick or who have loved ones who feel sick to attend blessings in the \(real\) Palace.
 
-Eventually, the Crew should find some surviving citizens. Say Althea and her two surviving children. Ten days ago, her husband Nektarios heard the sheep screaming, grabbed a knife, and went to investigate, followed by elder son son Nikolaos. Neither of them returned. When they didn't return, Althea attempted to follow, but found no trace of either her husband, her son or the sheep. When she attempted to find refuge in the Temple of Athena with her four other children, along with other survivors, they were shot at by archers. Two of the children died trampled during the panic. She then attempted to reach the Palace, only to discover it barred. She is terrified both for the life of her surviving children and for the unburied souls of those she lost. According to her, the night hides yellow ghosts.
+If the Crew somehow attracts attention, they will be followed by Crowd-Control Crows.
 
-With some effort, it should be possible to find diseased citizens hiding in their house. Say Hannah, a child slave they may find lying, feverish, in the street in front of a rich \(and still inhabited\) house, surrounded by all her meager belongings. The house had remained closed and guarded during most of the outbreak and had escaped the Plague, until a diseased bird pecked Hannah. She was promptly \(and literally\) thrown into the street. This won't save the house. At this stage, Hannah is delirious and praying in her mother's tongue \(Hebrew\).
+Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been empty, some burnt down. A few of the burnt down houses appear to have somehow melted, as if they were made of plastic. At this stage, the Crew will not find any dead bodies.
+
+Eventually, the Crew might find panicked citizens. Say Althea and her two surviving children. Ten days ago, her husband Nektarios heard the sheep screaming, grabbed a knife, and went to investigate, followed by elder son son Nikolaos. Neither of them returned. When they didn't return, Althea attempted to follow, but found no trace of either her husband, her son or the sheep. She is terrified both for the life of her surviving children and for the unburied souls of those she lost. According to her, the night hides yellow ghosts. Nobody seems to pay care about what has happened.
+
+Eventually, the Crew might also find diseased citizens who haven't been collected by the Masked Soldiers yet. Say Hannah, a child slave they may find lying, feverish, in the street in front of a rich \(and still inhabited\) house, surrounded by all her meager belongings. As a sick slave, she was promptly \(and literally\) thrown into the street. At this stage, Hannah is delirious and praying in her mother's tongue \(Hebrew\).
 
 > **Summary of informations**
 >
 > * The plague kills humans and animals alike, but does not leave bodies.
-> * The plague actually attacks all organic matter.
-> * Survivors hide in their houses or in temples.
-> * Nobody is in charge.
+> * Some houses seem to be made of plastic, but not all.
 > * There is a Time Brigade Citadel in the city.
-> * Arrival of the Time Brigade seemed to coincide with the start of the Plague.
+> * There is a Plague in the city, and monsters without, but nobody seems to care all that much.
+
+
 
 ### The port
 
