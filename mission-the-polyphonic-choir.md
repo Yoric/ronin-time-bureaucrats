@@ -27,6 +27,7 @@ The mission is set in and around the city of Euthermios, in Ancient Greece. An o
 > * appointment with a smuggler \(\[\] is a good candidate, see below\);
 >
 > * bounty hunting through time and space \(again, \[\] is a good candidate\);
+>
 > * one of the Crew is afflicted with some ill, and the temples of Euthermios were rumored to be able to cure all diseases;
 > * looking for a vanished Crew of the Time Brigade \(see below\), either as a rescue mission, as a search & destroy mission, as an opportunity to steal some Time Brigade technology, looking for conveniently missing time travelers to sustain a Pocket Continuum, ...;
 > * ...
@@ -98,6 +99,8 @@ A few places the Crew may wish to visit:
 ## Around the city
 
 The city can easily be reached from a well-travelled dirt road, from the sea \(staying close to the land – Greek ships aren't too good and Greek sailors don't like to take chances\), the river. With more efforts, the Crew can also travel off-road or even cross through the marshes \(good luck with the mosquitoes\).
+
+If the Crew attempts some kind of airborne/remote reconnaissance, they will notice a number of moving points that cannot be scanned, clearly because of cloaking devices \(the Crowd-Control Crows\) and they may notice a monster or two tearing a part a few travelers.
 
 Aspects:
 
@@ -205,8 +208,6 @@ The Time Brigade assumes that any Time Pedestrian present in the city is dying, 
 ### The cemetary
 
 The cemetary is outside the city walls. A dozen of deserters are camping here. They found a way out of the city through tunnels from one of the temples, but so far, every attempt they have made to leave the city has been blocked by the monsters. They have realized only yesterday that they are touched by the plague. Now, they are planning to run for it, no matter what the cost. By opposition to most people, they realize that something is very wrong. Their despair makes them very dangerous and very aggressive.
-
-
 
 ### The crater
 
