@@ -25,6 +25,7 @@ The mission is set in and around the city of Euthermios, in Ancient Greece. An o
 > * the Crew has found a manuscript about this city, except no other archive seems to ever mention the city, and they are after a mystery;
 >
 > * appointment with a smuggler \(\[\] is a good candidate, see below\);
+>
 > * bounty hunting through time and space \(again, \[\] is a good candidate\);
 > * one of the Crew is afflicted with some ill, and the temples of Euthermios were rumored to be able to cure all diseases;
 > * looking for a vanished Crew of the Time Brigade \(see below\), either as a rescue mission, as a search & destroy mission, as an opportunity to steal some Time Brigade technology, looking for conveniently missing time travelers to sustain a Pocket Continuum, ...;
@@ -66,7 +67,7 @@ Otherwise, a few ideas to let a woman walk freely in such a conservative society
 
 ## What about Barbarians in Ancient Greece?
 
-Anybody too blond/red-haired/fair-skinned/dark-skinned/tall/short/... will undoubtedly look outlandish in Ancient Greece and will be considered a Barbarian. While Ancient Greeks openly despise Barbarians, they are willing to make exceptions for Greek-speaking ones and/or rich-looking ones. Also, Ancient Greeks are not stupid, the are not going to provoke fights they cannot win. 
+Anybody too blond/red-haired/fair-skinned/dark-skinned/tall/short/... will undoubtedly look outlandish in Ancient Greece and will be considered a Barbarian. While Ancient Greeks openly despise Barbarians, they are willing to make exceptions for Greek-speaking ones and/or rich-looking ones. Also, Ancient Greeks are not stupid, the are not going to provoke fights they cannot win.
 
 ## The City of Euthermios
 
@@ -147,7 +148,7 @@ In fact, the monsters are no threat. They have been set here as part of the bloc
 
 Stealth will let the Crew past the Crows. Putting up too much of a fight before falling will cause the Crew to be spotted as time travelers and wake up in a cell of the Time Brigade. Being spotted as time travelers but not captured, or damaging too many Crowd Control Crows, will cause one of the monster illusions to actually ask politely the Crew to cease and desist: the city is under quarantine due to a deadly plague and bringing in any Time Traveler would be a Very Bad idea. Should the Crew prove determined, the monsters will deliver an invitation to the Citadel in the center of the City. Examining a destroyed Crow will let the Crew find out that they belong to the Time Brigade.
 
-Getting past the the three-meter tall walls themselves may offer a minor challenge to the Crew, but nothing that should hold them for long. As the plague started spreading, a traveling philosopher named Tymon has concluded that the city was lost and that nobody should be allowed to leave Euthermios and travel to other cities. He has sent is disciples to the city walls to try and convince the local garrison to enforce this blockade. While some of the officers and soldiers have preferred running either away from the city or towards their families, three dozen archers are manning the walls to try and prevent anybody from spreading the plague. By now, they are exhausted and hungry, which makes them both more irritated and less efficient, but they are determined to hold. Note that they are looking for people who might attempt to sneak out of the city, rather than people sneaking in, which should simplify the life of the Crew. It might be possible to negotiate with them.
+Getting past the the three-meter tall walls themselves may offer a minor challenge to the Crew, but nothing that should hold them for long. As the plague started spreading, a traveling philosopher named Tymon has concluded that the city was lost and that nobody should be allowed to leave Euthermios and travel to other cities. He has sent is disciples to the city walls to try and convince the local garrison to enforce this blockade. While some of the officers and soldiers have preferred running either away from the city or towards their families, a few dozen archers are manning the walls to try and prevent anybody from spreading the plague. By now, they are exhausted and hungry, which makes them both more irritated and less efficient, but they are determined to hold. Note that they are looking for people who might attempt to sneak out of the city, rather than people sneaking in, which should simplify the life of the Crew. It might be possible to negotiate with them.
 
 > **The Men on the Wall**
 >
@@ -203,9 +204,9 @@ The Time Brigade assumes that any Time Pedestrian present in the city is dying, 
 
 ### The cemetary
 
-The cemetary is outside the city walls. Nothing interesting has happened here.
+The cemetary is outside the city walls. A dozen of deserters are camping here. They found a way out of the city through tunnels from one of the temples, but so far, every attempt they have made to leave the city has been blocked by the monsters. They have realized only yesterday that they are touched by the plague. Now, they are planning to run for it, no matter what the cost. By opposition to most people, they realize that something is very wrong. Their despair makes them very dangerous and very aggressive.
 
-If you wish to spice things a bit, the Crew may find here a dozen of deserters, camping here. They found a way out of the city through tunnels from one of the temples, but so far, every attempt they have made to leave the city has been blocked by the monsters. They have realized only yesterday that they are touched by the plague. Now, they are planning to run for it, no matter what the cost. They desperation makes them very dangerous and very aggressive.
+
 
 ### The crater
 
@@ -217,7 +218,18 @@ In the crater, there is also a small empty shrine to Herakles.
 
 ## In Euthermios
 
-If the Crew has means to reconnoiter the city before getting there, they will find that the streets are nearly empty of any life, whether human or animal. Two spots are difficult/impossible to reconnoiter from afar, clearly because of cloaking devices: one of the two palaces \(in fact, the Citadel of the Time Brigade\) and the Temple of Lost Gods. The Crew will spot the archers on the city wall, a group of refugee in the crater, as well as archers on the roof of several temples. Where the city should have around fifty-thousand life-forms \(including larger animals\), less than five-thousand life-forms may be spotted. A number of houses also seem to have collapsed.
+If the Crew has means to reconnoiter the city before getting there, they will find that things are normal... almost. Plenty of citizens roaming around the city, as if nothing strange was happening. Philosophers teaching their students, priests collecting sacrifices to the Gods, a marketplace, etc.
+
+A few things are odd, though:
+
+* hundreds of spots are difficult/impossible to reconnoiter from afar, clearly because of cloaking devices, including
+  * one of the two palaces \(in fact, the Citadel of the Time Brigade\);
+  * one of the Temples \(namely, the Temple of Lost Gods\);
+  * many moving points \(in fact, Crowd-Control Crows and Polymorphic Provocateurs\);
+* archers on the city wall are looking inside instead of outside;
+* no travelers coming in or leaving the city;
+* the port seems to have been partially burnt, along with all the ships;
+* the number of inhabitants and animals seems quite lower than expected.
 
 ### Streets and houses
 
