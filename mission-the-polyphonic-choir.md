@@ -21,14 +21,13 @@ The mission is set in and around the city of Euthermios, in Ancient Greece. An o
 > * the usual "let's visit a fun part of time & space";
 > * the Time Brigade has launched a distress signal, which the Crew may have caught;
 > * the Time Brigade is trying its best to prevent a Continuum Indirection from taking off, this may have side-effects on other Indirections traveling nearby;
-
+>
 > * the Crew has found a manuscript about this city, except no other archive seems to ever mention the city, and they are after a mystery;
-> * appointment with a smuggler \(Alfredo Jester is a good candidate, see below\);
-> * bounty hunting through time and space \(for instance Alfredo Jester or the Tricorn\);
+>
+> * appointment with a smuggler \(\[\] is a good candidate, see below\);
+> * bounty hunting through time and space \(again, \[\] is a good candidate\);
 > * one of the Crew is afflicted with some ill, and the temples of Euthermios were rumored to be able to cure all diseases;
-> * looking for a vanished Crew of the Time Brigade \(see below\), either as a rescue mission, as a search 
->   &
->    destroy mission, as an opportunity to steal some Time Brigade technology, looking for conveniently missing time travelers to sustain a Pocket Continuum, ...;
+> * looking for a vanished Crew of the Time Brigade \(see below\), either as a rescue mission, as a search & destroy mission, as an opportunity to steal some Time Brigade technology, looking for conveniently missing time travelers to sustain a Pocket Continuum, ...;
 > * ...
 >
 > As usual, the only limit is the Entirety of Time and Space. Just remember the reason and make it an Aspect of the story.
@@ -54,7 +53,7 @@ To save Ancient Greece – and the Continuum itself – the Crew will need to fi
 
 Historically, women in Ancient Greece were expected to remain hidden in the gynaeceum, they were not supposed to take any decision outside of the household, etc. Playing a woman outsmarting these rules might actually be fun, but not all players would enjoy it. So if one of your Player Characters is a woman and the player isn't particularly interested in this side of role-playing, just assume that all the Time Peasants in and around Euthermios are so much in a state of shock that they don't have time to pay attention to the outrage that is a woman actually speaking without her male relative's permission.
 
-A few ideas to let a woman walk freely in such a conservative society:
+Otherwise, a few ideas to let a woman walk freely in such a conservative society:
 
 * pretend to be some kind of priestess;
 * pretend to be some kind of goddess;
@@ -62,14 +61,18 @@ A few ideas to let a woman walk freely in such a conservative society:
 * pretend to be a slave \(yes, that's probably not ideal\);
 * pretend to be the authoritarian mother/wife/sister of a male Crew member \(may actually be fun to role-play\);
 * pretend to be an Amazon \(this will scare off many men, may intrigue some women\);
-* pretend to be some Barbarian queen;
+* pretend to be some Barbarian queen – Ancient Greeks may despise Barbarians, but they are always willing to trade with them;
 * ...
+
+## What about Barbarians in Ancient Greece?
+
+Anybody too blond/red-haired/fair-skinned/dark-skinned/tall/short/... will undoubtedly look outlandish in Ancient Greece and will be considered a Barbarian. While Ancient Greeks openly despise Barbarians, they are willing to make exceptions for Greek-speaking ones and/or rich-looking ones. Also, Ancient Greeks are not stupid, the are not going to provoke fights they cannot win. 
 
 ## The City of Euthermios
 
 This story is set in the Ancient Greek city of Euthermios. If you haven't heard about that city, well, there's probably a good reason... Until a few weeks ago, this city was a major cultural and commercial node in the Greek Civilization. It overlooks the sea, controls a river known as the Lakedon, and is home to one of the greatest libraries of the Mediterranean, natural hot baths, as well as no less than ten temples to the various Gods known and lost, a volcanic crater rumoured to hide an entrance to the Land of the Dead, and a fabled Colossus. Philosophers, merchants and pilgrims came from all over the Mediterranean Sea and the Greek Peninsula to exchange, barter, pray and have their future read. According to legends, this is where Herakles defeated the dreaded Tricorn and buried it somewhere. Of course, at the best of times, this is also a city of slavery, one that smells of the piss and sweat of ten thousand human beings \(a true metropolis\), even when it's not beset by mosquitoes.
 
-During the last two weeks, however, the situation has changed considerably. It started with a sick pilgrim, or a sick priest, or perhaps a rat in the granary. A few days later, dozens of people were walking the streets, complaining about their cracking, dry skin, their falling teeth, eyes they could barely keep open. Now, thousands are dead or dying. Survivors are starving in temples guarded by archers, or hiding in their houses. Those who have attempted to escape report mythical monsters besieging the city. Also, the night has new noises. Yellow ones.
+During the last two weeks, however, the situation has taken a turn for the worse. It started with a sick pilgrim, or a sick priest, or perhaps a rat in the granary. A few days later, dozens of people were walking the streets, complaining about their cracking, dry skin, their falling teeth, eyes they could barely keep open. Now, thousands are dead or dying... and very few seem to pay attention to that fact. Yes, there seems to be a trend of reinforcing the walls to prevent citizens from leaving, and of citizens going to pray in Temple until their death, but surely, everything is normal. Also, some who have attempted to leave the city report mythical monsters besieging Euthermios. Oh, and, the night has new noises. Yellow ones.
 
 A few places the Crew may wish to visit:
 
