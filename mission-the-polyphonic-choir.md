@@ -29,6 +29,7 @@ The mission is set in and around the city of Euthermios, in Ancient Greece. An o
 > * bounty hunting through time and space \(again, \[\] is a good candidate\);
 >
 > * one of the Crew is afflicted with some ill, and the temples of Euthermios were rumored to be able to cure all diseases;
+>
 > * looking for a vanished Crew of the Time Brigade \(see below\), either as a rescue mission, as a search & destroy mission, as an opportunity to steal some Time Brigade technology, looking for conveniently missing time travelers to sustain a Pocket Continuum, ...;
 > * ...
 >
@@ -234,7 +235,22 @@ A few things are odd, though:
 
 ### Streets and houses
 
-Walking inside the city, the Crew will observe essentially the same things, with more risk of being shot at by temple archers. At first sight, there doesn't seem to be any activity in or around the Temple of Lost Gods. Seen with the bare eye, the second palace is very clearly a Citadel of the Time Brigade configured in siege mode – nobody gets in, nobody gets out. The Crew may notice that no animals may be found in the street or in the air, nor _any_ dead body, human or animal. A very thorough examination may also lead to the conclusion that wood, straw, clothes, food, even excrements are disappearing – anything remotely alive. If the Crew does anything to attract attention, it will be followed by Crowd-Control Crows.
+Walking inside the city, the Crew will progressively observe essentially the same things: everything is very, very normal, except that there may not be quite enough people, and there seem to be a whole lot of crows. At first, noticing the Plague itself will be difficult. What may be more obvious is a number of empty houses and masked soldiers conducting random searches for sick people.
+
+The masked soldiers are regular city soldiers wearing incongruous tragedy masks. These masks themselves have been outfitted with improvised respiratory filters that the Time Brigade hopes will help them avoid contagion.
+
+> **Masked soldiers**
+>
+> * Everything is perfectly fine, citizen.
+> * Just doing my job.
+> * 
+> Robustness: Robust
+>
+> Good at: Controlling the crowd, athletics, fighting
+>
+> Poor at: Dealing with unexpected threats
+
+., with more risk of being shot at by temple archers. At first sight, there doesn't seem to be any activity in or around the Temple of Lost Gods. Seen with the bare eye, the second palace is very clearly a Citadel of the Time Brigade configured in siege mode – nobody gets in, nobody gets out. The Crew may notice that no animals may be found in the street or in the air, nor _any_ dead body, human or animal. A very thorough examination may also lead to the conclusion that wood, straw, clothes, food, even excrements are disappearing – anything remotely alive. If the Crew does anything to attract attention, it will be followed by Crowd-Control Crows.
 
 Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been pillaged and some hold survivors. While bodies, food, etc. disappear, it is still possible to find some in houses that have not been visited by the plague. If the Crew ends up finding a body, this will systematically be that of someone dead from hunger, thirst or violence – it remains impossible to find the body of a citizen killed by the plague. Should the Crew revisit a place that held a body \(or leftover food, etc.\), there are good chances that the body will have vanished in the meantime. With the necessary equipment, the process can be captured on camera, and will show the body slowly melting – note that this is not what happens to people who have actually caught the plague.
 
