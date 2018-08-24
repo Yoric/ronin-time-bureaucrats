@@ -245,8 +245,8 @@ The masked soldiers are regular city soldiers wearing incongruous tragedy masks.
 > * Bronze age, half-naked soldiers.
 > * Everything is perfectly fine, citizen.
 > * Just doing my job.
-
-> Robustness: Robust
+>
+> Robustness: Robust  
 > Good at: Controlling the crowd, athletics, fighting
 >
 > Poor at: Dealing with unexpected threats, knowing what's going on
@@ -261,7 +261,7 @@ If the Crew somehow attracts attention, they will be followed by Crowd-Control C
 
 Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been empty, some burnt down. A few of the burnt down houses appear to have somehow melted, as if they were made of plastic. At this stage, the Crew will not find any dead bodies.
 
-Eventually, the Crew might find panicked citizens. Say Althea and her two surviving children. Ten days ago, her husband Nektarios heard the sheep screaming, grabbed a knife, and went to investigate, followed by elder son son Nikolaos. Neither of them returned. When they didn't return, Althea attempted to follow, but found no trace of either her husband, her son or the sheep. She is terrified both for the life of her surviving children and for the unburied souls of those she lost. According to her, the night hides yellow ghosts. Nobody seems to pay care about what has happened.
+Eventually, the Crew might find a few panicked citizens. Say Althea and her two surviving children. Ten days ago, her husband Nektarios heard the sheep screaming, grabbed a knife, and went to investigate, followed by elder son son Nikolaos. Neither of them returned. When they didn't return, Althea attempted to follow, but found no trace of either her husband, her son or the sheep. She is terrified both for the life of her surviving children and for the unburied souls of those she lost. According to her, the night hides yellow ghosts. Nobody seems to pay care about what has happened.
 
 Eventually, the Crew might also find diseased citizens who haven't been collected by the Masked Soldiers yet. Say Hannah, a child slave they may find lying, feverish, in the street in front of a rich \(and still inhabited\) house, surrounded by all her meager belongings. As a sick slave, she was promptly \(and literally\) thrown into the street. At this stage, Hannah is delirious and praying in her mother's tongue \(Hebrew\).
 
@@ -271,8 +271,6 @@ Eventually, the Crew might also find diseased citizens who haven't been collecte
 > * Some houses seem to be made of plastic, but not all.
 > * There is a Time Brigade Citadel in the city.
 > * There is a Plague in the city, and monsters without, but nobody seems to care all that much.
-
-
 
 ### The port
 
