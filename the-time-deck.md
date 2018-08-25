@@ -2,7 +2,9 @@
 
 The Time Deck is a tool for improvising and brainstorming ideas, situations, outcomes, characters, places, descriptions...
 
-Although game can be played with Time Deck alone, it is generally not meant to replace your favorite ruleset. Think of it as a some kind of Divination Tarot, except you're using it for coming up with ideas inside a game, not doing whatever people who use Divination Decks do with it in real life.
+Although Ronin Time Bureaucrats can be played with Time Deck alone, the Time Deck is generally not meant to replace your favorite ruleset. That's because the single use of the Time Deck is: _if you need an idea, draw a card, see if it inspires you_.
+
+This chapter consists in the cards themselves, and a few examples on how to use them.
 
 ## Introducing The Time Deck
 
