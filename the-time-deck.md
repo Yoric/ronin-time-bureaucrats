@@ -77,11 +77,9 @@ So, an obstacle overlooked, people drowning in the sea...
 
 ## &c...
 
-Truly, there are no limits to what you can do with the Time Deck. Use it whenever there is a lull in the story, or to explain why one of the players couldn't join today, or how a new player + character managed to join while you were obviously alone in a locked chamber, etc.
+Truly, as there are no rules, there are no limits to what you can do with the Time Deck. Use it whenever there is a lull in the story, or to explain why one of the players couldn't join today, or how a new player + character managed to join while you were obviously alone in a locked chamber, to help a player with character creation, etc.
 
 If you feel like it, you can even use the Time Deck in place of dice resolution. Assume that the action succeeds-by-default if the character has sufficient points, fails-by-default otherwise, then draw a card and describe what happens. Any success can be turned into a failure with the right card, and vice-versa.
 
 As usual, remember that the objective is to have fun, so make sure that everybody is on the same wavelength!
-
-
 
