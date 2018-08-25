@@ -33,7 +33,8 @@ There are very few rules to using the Time Deck:
 5. Look at the picture, the title, the question mark facing you.
 6. If you have an idea, use it.
 7. If you don't have any idea, don't hesitate to ask around the table.
-8. Ignore all these rules as you see fit.
+8. You can draw more than one card.
+9. Ignore all these rules as you see fit.
 
 ### ...in a dungeon
 
@@ -115,13 +116,19 @@ So something new is born. Possibly a new life-form, or a new technology, or a ne
 
 Moses crossing the Red Sea? Ok, so it's obviously a new religion. Or perhaps a god? Nah, let's stick with religion.
 
-So, a new religion is being born in that psychiatric clinic. Maybe this can be connected with an existing religion or antagonist that the Crew has encountered in a previous Mission. Maybe the Crew is interested in anthropology. Finding out how this involves the Crew is the GM's job, but in the worst case, the Crew might just show up because of a distress signal / just for fun / because of a mechanical problem.
+So, a new religion is being born in that psychiatric clinic. Maybe this can be connected with an existing religion or antagonist that the Crew has encountered in a previous Mission. Maybe the Crew is interested in anthropology. Let's wait for the stake until we commit to a specific manner of involving the Crew.
 
 #### The stake
 
 So, what's at stake? Well, the religion is already a lot, but let's ask the Deck:
 
+![](/assets/small_even2.png)
 
+Ahah, communications trouble!
+
+So,_ in some future, that religion will manage to erase all information on &lt;insert something of interest to your Crew&gt;. Apparently, this has been a dogma since the first day of the religion. Which explains why the Crew will need to time-travel to that specific psychiatric clinic, during that specific riot, to witness the birth of that religion and find out why this &lt;insert something of interest to your Crew&gt; needs to be erased from memories_.
+
+We got ourselves a plot!
 
 ## &c...
 
