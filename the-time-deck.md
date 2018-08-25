@@ -67,6 +67,8 @@ So, after deftly eloping with the bomb and made sure that it explodes in their s
 
 Oh, joy, it's an enigma! Obviously, a planet filled with puzzles and brain-teasers. So "A_s you exit your escape pod, you stumble upon the remainings of a huge cardboard statue of a bull-headed children-friendly creature. You seem to be in the middle of some kind of glass labyrinth. Judging from the music, it looks like you have landed in some kind of amusement park! Apparently, you've done some damage while landing._"
 
+Note that if the card had been facing **Mysteries?**, the players might instead have been instead landed on some kind of holy planet, or inside a cathedral.
+
 Let's add some flavor
 
 ![](/assets/small_odd4.png)
