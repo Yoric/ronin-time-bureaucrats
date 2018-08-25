@@ -151,7 +151,7 @@ In fact, the monsters are no threat. They have been set here as part of the bloc
 > Good at: Flying, tasing, spotting travelers.  
 > Poor at: Being smart, fighting determined opposition, dealing with time travelers, being resilient to damage.
 
-Stealth will let the Crew past the Crows. Putting up too much of a fight before falling will cause the Crew to be spotted as time travelers and wake up in a cell of the Time Brigade. Being spotted as time travelers but not captured, or damaging too many Crowd Control Crows, will cause one of the monster illusions to actually ask politely the Crew to cease and desist: the city is under quarantine due to a deadly plague and bringing in any Time Traveler would be a Very Bad idea. Should the Crew prove determined, the monsters will deliver an invitation to the Citadel in the center of the City. Examining a destroyed Crow will let the Crew find out that they belong to the Time Brigade.
+Stealth will let the Crew past the Crows. Putting up too much of a fight before falling will cause the Crew to be spotted as time travelers and wake up in a cell of the Palace, to be interrogated by the Envoy of Apollo. Being spotted as time travelers but not captured, or damaging too many Crowd Control Crows, will cause one of the monster illusions to actually ask politely the Crew to cease and desist: the city is under quarantine due to a deadly plague and bringing in any Time Traveler would be a Very Bad idea. Should the Crew prove determined, the monsters will deliver an invitation to the Citadel in the center of the City. Examining a destroyed Crow will let the Crew find out that they belong to the Time Brigade.
 
 Getting past the the three-meter tall walls themselves may offer a minor challenge to the Crew, but nothing that should hold them for long. As the plague started spreading, a traveling philosopher named Tymon has concluded that the city was lost and that nobody should be allowed to leave Euthermios and travel to other cities. He has sent is disciples to the city walls to try and convince the local garrison to enforce this blockade. While some of the officers and soldiers have preferred running either away from the city or towards their families, a few dozen archers are manning the walls to try and prevent anybody from spreading the plague. By now, they are exhausted and hungry, which makes them both more irritated and less efficient, but they are determined to hold. Note that they are looking for people who might attempt to sneak out of the city, rather than people sneaking in, which should simplify the life of the Crew. It might be possible to negotiate with them.
 
@@ -296,7 +296,7 @@ This shouldn't be a real problem for the Crew. Once inside, they will find out t
 
 A mysterious prisoner is kept alone and isolated in the gaols.
 
-With imagination, it may be possible to convince Masked Soldiers to spare some prisoners. Just do not forget that they are contagious and that the gaols of the castle are very small.
+With imagination, it may be possible to convince Masked Soldiers to spare some of the Plague prisoners.
 
 In fact, the Envoy of God Apollo is just another Polymorphic Provocateur. Nothing odd has happened to King Isocrates – as any well-educated Ancient Greek, he just wants to remain as far as possible from any kind of God. Luckily for him, this also keeps him away from the Plague.
 
