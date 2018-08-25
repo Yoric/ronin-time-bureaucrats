@@ -65,5 +65,21 @@ So, after deftly eloping with the bomb and made sure that it explodes in their s
 
 ![](/assets/small_even0.png)
 
-Oh, joy, it's an enigma! Obviously, a planet filled with puzzles and brain-teasers. Hey, "It looks like you have landed in some kind of amusement park!"
+Oh, joy, it's an enigma! Obviously, a planet filled with puzzles and brain-teasers. So "A_s you exit your escape pod, you stumble upon the remainings of a huge cardboard statue of a bull-headed children-friendly creature. You seem to be in the middle of some kind of glass labyrinth. Judging from the music, it looks like you have landed in some kind of amusement park! Apparently, you've done some damage while landing._"
+
+Let's add some flavor
+
+![](/assets/small_odd4.png)
+
+So, an obstacle overlooked, people drowning in the sea...
+
+"_Might be quite some damage, indeed, if you hear the panicked screams that somehow manage to drown the music. Looking at your feet, you see water. It's at ankle-level, but you could swear that there was no water a few seconds ago. Oh, yeah, memory confirmed by observation: it's rising pretty fast. What do you do?_"
+
+## &c...
+
+Truly, there are no limits to what you can do with the Time Deck. Use it whenever there is a lull in the story, or to explain why one of the players couldn't join today, or how a new player + character managed to join while you were obviously alone in a locked chamber, etc.
+
+If you feel like it, you can even use the Time Deck in place of dice resolution. Assume that the action succeeds-by-default if the character has sufficient points, fails-by-default otherwise, then draw a card and describe what happens. Any success can be turned into a failure with the right card, and vice-versa.
+
+
 
