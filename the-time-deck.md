@@ -1,10 +1,14 @@
 # The Time Deck
 
-The Time Deck is a tool for improvising and brainstorming ideas, situations, outcomes, characters, places, descriptions...
+Ronin Time Bureaucrats is a game designed for improv. Let's face it: your Crew can travel through Space and Time, has access to impossible amounts of information and technological shenanigans, so they are going to go off the rails.
 
-Although Ronin Time Bureaucrats can be played with Time Deck alone, the Time Deck is generally not meant to replace your favorite ruleset. That's because the single use of the Time Deck is: _if you need an idea, draw a card, see if it inspires you_.
+Yes, when looking for a cure for the Disease of Omniscience, they are going to jump across the Continuum to look for the Holy Grail. When attempting to fight the One-hundred Eyed Guardian of the Indolent Tree of the XVIIIrd Century, they are going start by finding a way to hire Herakles and Imhotep.
 
-This chapter consists in the cards themselves, and a few examples on how to use them.
+And that's all good, it's part of the fun. On the other hand, you, as a GM, need the ability to react to this quickly. 
+
+The Time Deck is a tool to help the GM do just that: improvise or brainstorm ideas, situations, outcomes, characters, places, descriptions... Of course, be warned, it may just as well be used by the Players to come up with even-more-sophisticated shenanigans.
+
+This chapter consists in the cards themselves, and a few examples on how to use them. Don't expect sophisticated rules, though. Everything is a variant of: _if you need an idea, draw a card, see if it inspires you_.
 
 ## Introducing The Time Deck
 
