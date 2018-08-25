@@ -6,4 +6,5 @@
 * [The Time Deck](the-time-deck.md)
 * [Cultures and Aliens](cultures-and-aliens.md)
 * [Mission Report: The Polyphonic Choir](mission-the-polyphonic-choir.md)
+* [Further readings](further-readings.md)
 
