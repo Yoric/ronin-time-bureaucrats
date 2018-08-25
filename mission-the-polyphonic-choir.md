@@ -294,11 +294,11 @@ The palace is currently off-limits, with the exception of the Masked Soldiers an
 
 This shouldn't be a real problem for the Crew. Once inside, they will find out that King Isocrates will see nobody, and that anybody caught with the disease is actually executed and burnt immediately, by order of the Envoy of God Apollo. In practice, everybody in the palace seems to obey this mysterious Envoy while King Isocrates is cowering with a few slaves and plenty of food and wine in a cave below the castle.
 
-A mysterious prisoner is kept alone and isolated in the gaols.
+A mysterious prisoner is kept isolated in the gaols. 
 
-With imagination, it may be possible to convince Masked Soldiers to spare some of the Plague prisoners.
+With imagination, it may be possible to convince Masked Soldiers to spare some of the Plague prisoners, or to let the Crew talk to the Isolated prisoner. His name is Suen Ng-hung, and he's part of this plot both as an local color, as an annoyance or, if necessary, as a Deus Ex Machina.
 
-In fact, the Envoy of God Apollo is just another Polymorphic Provocateur. Nothing odd has happened to King Isocrates – as any well-educated Ancient Greek, he just wants to remain as far as possible from any kind of God. Luckily for him, this also keeps him away from the Plague.
+Note that the Envoy of God Apollo is just another Polymorphic Provocateur. Nothing odd has happened to King Isocrates – as any well-educated Ancient Greek, he just wants to remain as far as possible from any kind of God. Luckily for him, this also keeps him away from the Plague.
 
 ### The Time Brigade Citadel
 
@@ -311,8 +311,6 @@ The team sent to the Temple of Lost Gods lost communications, apparently scrambl
 They launched an observation satellite, hacked together some camouflage for the Crowd-Control Crows, scrounged together satellite-projected illusions for the various monsters, burnt the ships, tracked down escaped survivors to kill them. Things haven't got easier since then. They quickly realized that they simply didn't have enough Crowd-Control Crows or Polymorphic Provocateurs or ammo to keep everybody inside the city for long, so they used their illusions to get in touch with Agatone and get his help against anyone attempting to leave the city. They used more illusions, as well as Polymorphic Provocateurs, to get in touch with King Isocrates, convince him that the God Apollo himself was in the city, hunting down and capturing the Nosoi \(Plague Gods\), and that full cooperation was needed. As anybody educated in Ancient Greece, King Isocrates was fully aware that getting in the way of any God whatsoever was courting an everlasting curse, and is consequently doing his best to provide any help requested by Apollo's envoys while remaining out of sight. Through their Envoy, they use the King's Masked Soldiers to attempt and contain the Plague, while pondering whether they shouldn't rather burn down the entire city before things get out of hand.
 
 So far, Second Political Officer Sergei Tedesco and Engineering Officer Natacha Putt have things mostly under control. However, this lockdown needs almost all their Polymorphic Provocateurs \(only two remain in the Citadel\) and Crowd-Control Crows, while burning down the ships and executing escapees has used most of their ammo. Also, neither the Polymorphic Provocateurs, nor the Crowd-Control Crows or Masked Soldiers is particularly good at taking initiatives, which means that both officers have had very little time to sleep since the lockdown started, or to perform any kind of medical examinations on the living or the dead, or even to interrogate their prisoner. They are on the point of collapsing from exhaustion and are very well aware that they are the only thing standing between the Continuum and – at best – an Observable Contradiction, or – at worse – a Snafu, if the Plague somehow gets hold of the Continuum Indirection hidden in the Temple to Lost Gods.
-
-
 
 ### The Temples
 
