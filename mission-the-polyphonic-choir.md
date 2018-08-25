@@ -288,6 +288,12 @@ If the Crew is looking for diseased sailors, they can easily find a few here. Sa
 > * Arrival of the Monsters seemed to coincide with that of the Second Palace \(the Citadel\).
 > * It's not clear whether the Monsters arrived before or after the Plague.
 
+### The Palace
+
+The palace is currently off-limits, with the exception of the Masked Soldiers and a mysterious Envoy of God Apollo.
+
+This shouldn't be a real problem for the Crew. Once inside, they will find out that King Isocrates will see nobody, and that anybody caught with the disease is actually executed and burnt immediately.
+
 ### The Time Brigade Citadel
 
 For some reason, the City of Euthermios has two palaces. Well, there is a good reason: one of them has been there for decades, while the other one materialized from the future about two weeks ago. This second palace is a highly recognizable Time Brigad Citadel, pompous, full of high concrete walls, flags and eagles. To describe it, draw inspiration from the architecture of your \(least\) favorite dictatorship. As is standard, the Citadel uses a cloaking mechanism that makes it hard to scan using Time Bureaucracy technology, but the mechanism does not protect against examination with the naked eye.
@@ -298,9 +304,7 @@ The team sent to the Temple of Lost Gods lost communications, apparently scrambl
 
 They launched an observation satellite, hacked together some camouflage for the Crowd-Control Crows, scrounged together satellite-projected illusions for the various monsters, burnt the ships, tracked down escaped survivors to kill them. Things haven't got easier since then. They quickly realized that they simply didn't have enough Crowd-Control Crows or Polymorphic Provocateurs or ammo to keep everybody inside the city for long, so they used their illusions to get in touch with Agatone and get his help against anyone attempting to leave the city. They used more illusions, as well as Polymorphic Provocateurs, to get in touch with King Isocrates, convince him that the God Apollo himself was in the city, hunting down and capturing the Nosoi \(Plague Gods\), and that full cooperation was needed. As anybody educated in Ancient Greece, King Isocrates was fully aware that getting in the way of any God whatsoever was courting an everlasting curse, and is consequently doing his best to provide any help requested by Apollo's envoys while remaining out of sight.
 
-
-
- They projected other illusions of ghosts in the streets to scare everyone into the Temples, and when this proved insufficient, they threw in most of their remaining Polymorphic Provocateurs to convince everyone to crowd into these houses of death. More than once, survivors have attempted to break into the Citadel, as well as cloaked figures that may not have been human. Most of the deployed Polymorphic Provocateurs have eventually broken down, and a few have
+They projected other illusions of ghosts in the streets to scare everyone into the Temples, and when this proved insufficient, they threw in most of their remaining Polymorphic Provocateurs to convince everyone to crowd into these houses of death. More than once, survivors have attempted to break into the Citadel, as well as cloaked figures that may not have been human. Most of the deployed Polymorphic Provocateurs have eventually broken down, and a few have
 
 Since then, they have kept watch night and day, reprogramming the Provocateurs as needed, attempting to come up with a better plan and to get in touch with their hierarchy. Oh, and also attempting to interrogate their prisoner
 
@@ -311,8 +315,6 @@ While
 ### The disease
 
 ### Where are the dead?
-
-
 
 
 
