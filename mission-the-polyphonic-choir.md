@@ -280,7 +280,7 @@ In fact, one of the first measures taken by the Time Brigade was to make sure th
 
 During the chaos, the dozen or so of brothel slaves ran for it and made their way to one of the Temples.
 
-If the Crew is looking for diseased sailors, they can easily find a few here. Say Stephanos, the old drunkard. If you believe him, he's traveled through all the seas, has been to the Pillars of Herakles more than once, and had to fight more than his share of sea monsters. Actually, don't believe him. Also, while he's not very mobile, he's more cunning than he looks: if he sees a way out of the city, he'll take it.
+If the Crew is looking for diseased sailors, they can easily find a few here. Say Stephanos, the old drunkard. If you believe him, he's traveled through all the seas, has been to the Pillars of Herakles more than once, and had to fight more than his share of sea monsters. Actually, don't believe him. Also, while he's not very mobile, he's more cunning than he looks: if he sees a way out of the city, he might just take it.
 
 > **Summary of informations**
 >
@@ -290,13 +290,17 @@ If the Crew is looking for diseased sailors, they can easily find a few here. Sa
 
 ### The Time Brigade Citadel
 
-For some reason, the City of Euthermios has two palaces. Well, there is a good reason: one of them has been there for decades, while the other one materialized from the future about two weeks ago. This second palace is a highly recognizable Time Brigad Citadel, full of high walls, flags and eagles. To describe it, draw inspiration from your the architecture of your \(least\) favorite dictatorship. As is standard, the Citadel uses a cloaking mechanism that makes it hard to scan using Time Bureaucracy technology, but the mechanism does not protect against examination with the naked eye.
+For some reason, the City of Euthermios has two palaces. Well, there is a good reason: one of them has been there for decades, while the other one materialized from the future about two weeks ago. This second palace is a highly recognizable Time Brigad Citadel, pompous, full of high concrete walls, flags and eagles. To describe it, draw inspiration from the architecture of your \(least\) favorite dictatorship. As is standard, the Citadel uses a cloaking mechanism that makes it hard to scan using Time Bureaucracy technology, but the mechanism does not protect against examination with the naked eye.
 
-The Time Brigade arrived here by following Suen Ng-hung, a loud-mouthed non-affiliated Time Traveler whom they believe to be a Time Smuggler. Upon arrival, the Time Brigade received a distress signal and they proceeded to land, make their arrest, and investigate the signal, which came from the Temple of Lost Gods.
+The Time Brigade arrived here by following Suen Ng-hung, a loud-mouthed non-affiliated Time Traveler whom they believe to be a Time Smuggler. Upon arrival, the Time Brigade detected a distress signal and they proceeded to land, make their arrest, and investigate the signal, which came from the Temple of Lost Gods.
 
-The team sent to the Temple of Lost Gods lost communications, apparently scrambled. None of them returned. The only persons left in the Citadel are Political Officer Sergei Tedesco and Engineering Officer Natacha Putto. While they were still in the process of putting together a rescue mission made of Polymorphic Provocateurs and Crowd-Control Clockworks, they realized that the city was stage to an outbreak of some disease. Fearing a connection and a larger plot, they diverted a Polymorphic Provocateurs and a few Crowd-Control Clockworks to investigate. Once they realized that the symptoms of the disease matched those of a Highly Censored/Snafu Potential outbreak on their computers, they decided to implement full lockdown on the city.
+The team sent to the Temple of Lost Gods lost communications, apparently scrambled, and never returned. The only persons left in the Citadel are Second Political Officer Sergei Tedesco and Engineering Officer Natacha Putto. While they were still in the process of putting together a rescue mission for their team, using Polymorphic Provocateurs and Crowd-Control Clockworks, they realized that the city was stage to an outbreak of some disease. Fearing a connection and a larger plot, they diverted a Polymorphic Provocateurs and a few Crowd-Control Clockworks to investigate. Once they realized that the symptoms of the disease matched those of a Highly Censored/Snafu Potential outbreak in their databanks, they decided to implement full lockdown on the city.
 
-They launched an observation satellite, hacked together some camouflage for the Crowd-Control Crows, scrounged together satellite-projected illusions for the various monsters, burnt the ships, tracked down escaped survivors to kill them. Things haven't got easier since then. They quickly realized that they simply didn't have enough Crowd-Control Crows or Polymorphic Provocateurs or ammo to keep everybody inside, so they used their illusions to get in touch with Agatone. They projected other illusions of ghosts in the streets to scare everyone into the Temples, and when this proved insufficient, they threw in most of their remaining Polymorphic Provocateurs to convince everyone to crowd into these houses of death. More than once, survivors have attempted to break into the Citadel, as well as cloaked figures that may not have been human. Most of the deployed Polymorphic Provocateurs have eventually broken down, and a few have
+They launched an observation satellite, hacked together some camouflage for the Crowd-Control Crows, scrounged together satellite-projected illusions for the various monsters, burnt the ships, tracked down escaped survivors to kill them. Things haven't got easier since then. They quickly realized that they simply didn't have enough Crowd-Control Crows or Polymorphic Provocateurs or ammo to keep everybody inside the city for long, so they used their illusions to get in touch with Agatone and get his help against anyone attempting to leave the city. They used more illusions, as well as Polymorphic Provocateurs, to get in touch with King Isocrates, convince him that the God Apollo himself was in the city, hunting down and capturing the Nosoi \(Plague Gods\), and that full cooperation was needed. As anybody educated in Ancient Greece, King Isocrates was fully aware that getting in the way of any God whatsoever was courting an everlasting curse, and is consequently doing his best to provide any help requested by Apollo's envoys while remaining out of sight.
+
+
+
+ They projected other illusions of ghosts in the streets to scare everyone into the Temples, and when this proved insufficient, they threw in most of their remaining Polymorphic Provocateurs to convince everyone to crowd into these houses of death. More than once, survivors have attempted to break into the Citadel, as well as cloaked figures that may not have been human. Most of the deployed Polymorphic Provocateurs have eventually broken down, and a few have
 
 Since then, they have kept watch night and day, reprogramming the Provocateurs as needed, attempting to come up with a better plan and to get in touch with their hierarchy. Oh, and also attempting to interrogate their prisoner
 
@@ -308,27 +312,7 @@ While
 
 ### Where are the dead?
 
-&gt;
 
-Going medical
-
-Exploring the temples
-
-The Brigade
-
-Death from Inside, Death from Outside.
-
-* Aspects of the city
-
-* Holy City of the Ancients.
-
-* &lt;What your characters are doing here&gt;
-
-* The Plague walks the streets.
-
-The temples
-
-* Temple of Hades, rumored
 
 
 
