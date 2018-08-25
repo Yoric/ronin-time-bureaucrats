@@ -12,6 +12,16 @@ All images are believed to allow reproduction and reuse.
 
 ![](/assets/small_even0.png)![](/assets/small_odd0.png)![](/assets/small_even1.png)![](/assets/small_odd1.png)![](/assets/small_even2.png)![](/assets/small_odd2.png)![](/assets/small_even3.png)![](/assets/small_odd3.png)![](/assets/small_even4.png)![](/assets/small_odd4.png)![](/assets/small_even5.png)![](/assets/small_odd5.png)![](/assets/small_even6.png)![](/assets/small_odd6.png)![](/assets/small_even7.png)![](/assets/small_odd7.png)![](/assets/small_even8.png)![](/assets/small_odd8.png)![](/assets/small_even9.png)![](/assets/small_odd9.png)![](/assets/small_even10.png)![](/assets/small_odd10.png)
 
+
+
+As you can see, each card has:
+
+* an image;
+* a title;
+* two default \(generally opposite\) interpretations.
+
+We'll use all of them for improvisation.
+
 [High-resolution, two-cards per deck, designed for printing as 11x15 photos.](https://photos.app.goo.gl/uYLnUiLAku8hLUcE7)
 
 ## Using The Time Deck
