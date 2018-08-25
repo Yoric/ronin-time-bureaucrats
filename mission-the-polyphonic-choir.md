@@ -24,9 +24,9 @@ The mission is set in and around the city of Euthermios, in Ancient Greece. An o
 >
 > * the Crew has found a manuscript about this city, except no other archive seems to ever mention the city, and they are after a mystery;
 >
-> * appointment with a smuggler \(\[\] is a good candidate, see below\);
+> * appointment with a smuggler \(Suen Ng-hung is a good candidate, see below\);
 >
-> * bounty hunting through time and space \(again, \[\] is a good candidate\);
+> * bounty hunting through time and space \(again, Suen Ng-hung is a good candidate\);
 >
 > * one of the Crew is afflicted with some ill, and the temples of Euthermios were rumored to be able to cure all diseases;
 >
@@ -215,7 +215,7 @@ The cemetary is outside the city walls. A dozen of deserters are camping here. T
 
 Another band of survivors made its way to the crater before the Time Brigade and Agatone's men managed to cordon off the city. One of the first actions undertaken by the Time Brigade in Euthermios was to send a few Crowd-Control Clockworks loaded with explosives and detonate these survivors.
 
-The plague hasn't reached that far \(they were not infected\), so the bodies are still there, as well as the remains of a Crowd-Control Clockwork that didn't make it out in time.
+The plague hasn't reached that far \(these survivors were not infected\), so the bodies are still there, as well as the remains of a Crowd-Control Clockwork that didn't make it out in time.
 
 In the crater, there is also a small empty shrine to Herakles.
 
@@ -259,7 +259,7 @@ More walking along city streets will show that:
 
 If the Crew somehow attracts attention, they will be followed by Crowd-Control Crows.
 
-Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been empty, some burnt down. A few of the burnt down houses appear to have somehow melted, as if they were made of plastic. At this stage, the Crew will not find any dead bodies.
+Breaking and entering in houses is quite simple, given that locks have not been invented yet. Most houses, with the exception of temples and a few shops, are one-room, one-floor mud-and-straw houses, which also makes them pretty easy to search. Many have been emptied, some burnt down. A few of the burnt down houses appear to have somehow melted, as if they were made of plastic. At this stage, the Crew will not find any dead bodies.
 
 Eventually, the Crew might find a few panicked citizens. Say Althea and her two surviving children. Ten days ago, her husband Nektarios heard the sheep screaming, grabbed a knife, and went to investigate, followed by elder son son Nikolaos. Neither of them returned. When they didn't return, Althea attempted to follow, but found no trace of either her husband, her son or the sheep. She is terrified both for the life of her surviving children and for the unburied souls of those she lost. According to her, the night hides yellow ghosts. Nobody seems to pay care about what has happened.
 
@@ -292,7 +292,7 @@ If the Crew is looking for diseased sailors, they can easily find a few here. Sa
 
 For some reason, the City of Euthermios has two palaces. Well, there is a good reason: one of them has been there for decades, while the other one materialized from the future about two weeks ago. This second palace is a highly recognizable Time Brigad Citadel, full of high walls, flags and eagles. To describe it, draw inspiration from your the architecture of your \(least\) favorite dictatorship. As is standard, the Citadel uses a cloaking mechanism that makes it hard to scan using Time Bureaucracy technology, but the mechanism does not protect against examination with the naked eye.
 
-The Time Brigade arrived here by following \[ \], a loud-mouthed non-affiliated Time Traveler whom they believe to be a Time Smuggler. Upon arrival, the Time Brigade received a distress signal and they proceeded to land, make their arrest, and investigate the signal, which came from the Temple of Lost Gods.
+The Time Brigade arrived here by following Suen Ng-hung, a loud-mouthed non-affiliated Time Traveler whom they believe to be a Time Smuggler. Upon arrival, the Time Brigade received a distress signal and they proceeded to land, make their arrest, and investigate the signal, which came from the Temple of Lost Gods.
 
 The team sent to the Temple of Lost Gods lost communications, apparently scrambled. None of them returned. The only persons left in the Citadel are Political Officer Sergei Tedesco and Engineering Officer Natacha Putto. While they were still in the process of putting together a rescue mission made of Polymorphic Provocateurs and Crowd-Control Clockworks, they realized that the city was stage to an outbreak of some disease. Fearing a connection and a larger plot, they diverted a Polymorphic Provocateurs and a few Crowd-Control Clockworks to investigate. Once they realized that the symptoms of the disease matched those of a Highly Censored/Snafu Potential outbreak on their computers, they decided to implement full lockdown on the city.
 
