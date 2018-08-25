@@ -12,8 +12,6 @@ All images are believed to allow reproduction and reuse.
 
 ![](/assets/small_even0.png)![](/assets/small_odd0.png)![](/assets/small_even1.png)![](/assets/small_odd1.png)![](/assets/small_even2.png)![](/assets/small_odd2.png)![](/assets/small_even3.png)![](/assets/small_odd3.png)![](/assets/small_even4.png)![](/assets/small_odd4.png)![](/assets/small_even5.png)![](/assets/small_odd5.png)![](/assets/small_even6.png)![](/assets/small_odd6.png)![](/assets/small_even7.png)![](/assets/small_odd7.png)![](/assets/small_even8.png)![](/assets/small_odd8.png)![](/assets/small_even9.png)![](/assets/small_odd9.png)![](/assets/small_even10.png)![](/assets/small_odd10.png)
 
-
-
 As you can see, each card has:
 
 * an image;
@@ -86,6 +84,44 @@ Let's add some flavor
 So, an obstacle overlooked, people drowning in the sea...
 
 "_Might be quite some damage, indeed, if you hear the panicked screams that somehow manage to drown the music. Looking at your feet, you see water. It's at ankle-level, but you could swear that there was no water a few seconds ago. Oh, yeah, memory confirmed by observation: it's rising pretty fast. What do you do?_"
+
+## ...desiging a plot
+
+Quick, the players are coming and no prep has been done. I can heir their coming up the stairs!
+
+A good plot needs:
+
+* a place;
+* a hook;
+* a stake.
+
+#### The place
+
+![](/assets/small_even4.png)
+
+Apparently, it's a battlefield, or some kind of revolution. Given the flag, it could be a French Revolution, but let's draw a second card to keep it surprising.
+
+![](/assets/small_odd7.png)
+
+Ok, so the story is set in a madhouse, during an uprising. Or maybe a madhouse in which political opponents are kept? Let's combine both: _the story is set a psychiatric clinic, designed to renormalize the opponents to the regime, but during a riot_.
+
+#### The hook
+
+![](/assets/reversed_small_odd0.png)
+
+So something new is born. Possibly a new life-form, or a new technology, or a new type of government. Let's see what
+
+![](/assets/small_odd4.png)
+
+Moses crossing the Red Sea? Ok, so it's obviously a new religion. Or perhaps a god? Nah, let's stick with religion.
+
+So, a new religion is being born in that psychiatric clinic. Maybe this can be connected with an existing religion or antagonist that the Crew has encountered in a previous Mission. Maybe the Crew is interested in anthropology. Finding out how this involves the Crew is the GM's job, but in the worst case, the Crew might just show up because of a distress signal / just for fun / because of a mechanical problem.
+
+#### The stake
+
+So, what's at stake? Well, the religion is already a lot, but let's ask the Deck:
+
+
 
 ## &c...
 
