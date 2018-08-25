@@ -8,6 +8,14 @@ Although game can be played with Time Deck alone, it is generally not meant to r
 
 The Time Deck consists in 22 cards, loosely inspired from the Major Arcana of a Divination Tarot Deck.
 
+All images are believed to allow reproduction and reuse.
+
+
+
+![](/assets/small_even0.png)![](/assets/small_odd0.png)![](/assets/small_even1.png)![](/assets/small_odd1.png)![](/assets/small_even2.png)![](/assets/small_odd2.png)![](/assets/small_even3.png)![](/assets/small_odd3.png)![](/assets/small_even4.png)![](/assets/small_odd4.png)![](/assets/small_even5.png)![](/assets/small_odd5.png)![](/assets/small_even6.png)![](/assets/small_odd6.png)![](/assets/small_even7.png)![](/assets/small_odd7.png)![](/assets/small_even8.png)![](/assets/small_odd8.png)![](/assets/small_even9.png)![](/assets/small_odd9.png)![](/assets/small_even10.png)![](/assets/small_odd10.png)
+
+[High-resolution, two-cards per deck, designed for printing as 11x15 photos.](https://photos.app.goo.gl/uYLnUiLAku8hLUcE7)
+
 ## Using The Time Deck
 
 There are very few rules to using the Time Deck:
@@ -24,7 +32,23 @@ There are very few rules to using the Time Deck:
 
 As things are bound to happen, your Time Traveling Crew is being pursued by giant, pixellated Pac-Man Ghosts in the underground tunnels below the Castle of Arthur Pendragon. Just another day in the life of a Ronin Time Bureaucrat. Of course, the GM has no map for the dungeon, because how could have guessed that the Crew would decide to dig below the crypt by shoveling earth and rock through time and space using their Continuum Indirection?
 
-Ok, so the Crew is running like madpeople and eventually stumbles upon a deadend. Wait, just a deadend? That's not very interesting. Let's draw a card. The card is... **X. Leaping like a Giant**, showing **Great Progress?**, and it represents a human-faced moon with a rocket in its eye.
+Ok, so the Crew is running like madpeople and eventually stumbles upon a deadend. Wait, just a deadend? That's not very interesting. Let's draw a card. And the card is...
+
+![](/assets/moon.png)
+
+So, we may decide to use **Great Progress?**, **X. Leaping like a Giant!** and/or that weird human-faced moon with a bullet in its eye.  Personally, I'd like to use **Leaping like a Giant!**, and interpret it as "_After following that corridor for a hundred meters or so, you suddenly enter a giant cavern, much larger than anything you had seen below the castle so far. Unfortunately, that cavern is barred by a huge chasm, much too large for any human to jump_."
+
+Also, let's add some flavor/plot hook based on the illustration: "_On the other side of the chasm, you barely see the outline of something that looks like a round statue head, facing you. It appears that the statue is winking at you._"
+
+Oh, wait a second. A round statue head? While being hunted by Pac-Man Ghosts? This just has to be Pac-Man. Here you go, you just got a new plot hook.
+
+For the moment, the Pac-Man Ghosts are arriving, so it's time for the Crew to do something!
+
+### ...designing a NPC
+
+So, while the Queen of Chandernagor is waiting for the Ambassador of Shangrila to land, the Crew has decided to rollback time, scout ahead and investigate around the seediest part of Chandernagor, looking for anything that could help the Ambassador negotiate a better peace treaty. So, here they are, finally facing their contact... whom the GM knows nothing about, because that entire story was supposed to be an escort mission starting only after the Ambassador landed.
+
+Let's first draw one card to determine what the contact looks like: **XVI. Taking Flight**, showing **Sadly, it's just imagination?** Well, the appearance of that card already gives us 
 
 
 
