@@ -20,6 +20,8 @@ As you can see, each card has:
 
 We'll use all of them for improvisation.
 
+As a minigame, you can try and find what each of these pictures represents and how they're related to their title and interpretations.
+
 [High-resolution, two-cards per deck, designed for printing as 11x15 photos.](https://photos.app.goo.gl/uYLnUiLAku8hLUcE7)
 
 ## Using The Time Deck
