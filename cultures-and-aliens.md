@@ -12,3 +12,5 @@ Here are a few samples:
 
 
 
+The Universe is a large place, with plenty of space for more Cultures and Aliens. Do you wish to add Daleks, Harry Potter, the Spider Queen and Thanos? Sure, you can put them over there. But you can just as well come up with new, more exotic things of your own. And, of course don't hesitate to use the Time Deck to improvise new civilizations, that's what it's here for!
+
