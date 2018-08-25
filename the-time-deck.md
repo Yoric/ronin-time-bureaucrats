@@ -4,7 +4,7 @@ Ronin Time Bureaucrats is a game designed for improv. Let's face it: your Crew c
 
 Yes, when looking for a cure for the Disease of Omniscience, they are going to jump across the Continuum to look for the Holy Grail. When attempting to fight the One-hundred Eyed Guardian of the Indolent Tree of the XVIIIrd Century, they are going start by finding a way to hire Herakles and Imhotep.
 
-And that's all good, it's part of the fun. On the other hand, you, as a GM, need the ability to react to this quickly. 
+And that's all good, it's part of the fun. On the other hand, you, as a GM, need the ability to react to this quickly.
 
 The Time Deck is a tool to help the GM do just that: improvise or brainstorm ideas, situations, outcomes, characters, places, descriptions... Of course, be warned, it may just as well be used by the Players to come up with even-more-sophisticated shenanigans.
 
@@ -107,7 +107,9 @@ So, an obstacle overlooked, people drowning in the sea...
 
 ## ...desiging a plot
 
-Quick, the players are coming and no prep has been done. I can heir their coming up the stairs!
+« I can hear the players coming up the stairs and I have no idea for the session. I am doomed!
+
+* Have no fear, fair GM, and put your faith in the Time Deck! »
 
 A good plot needs:
 
