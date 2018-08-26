@@ -6,7 +6,9 @@ Aliens of all shapes and colour exist, including on Earth – in some parts of t
 
 The **Morpheus Contagion** is a semi-sentient disease that affects both machines and human beings. Infected humans fall into a deep sleep, while machines progressively become aware and capable of movement and initiative.
 
-![](/assets/Dream.png)
+| ![](/assets/Dream.png) |
+| :---: |
+
 
 Unfortunately, while infected, humans and machines alike enter a dream state and become effectively unable to perceive reality.
 
