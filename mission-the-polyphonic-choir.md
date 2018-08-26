@@ -294,9 +294,15 @@ The palace is currently off-limits, with the exception of the Masked Soldiers an
 
 This shouldn't be a real problem for the Crew. Once inside, they will find out that King Isocrates will see nobody, and that anybody caught with the disease is actually executed and burnt immediately, by order of the Envoy of God Apollo. In practice, everybody in the palace seems to obey this mysterious Envoy while King Isocrates is cowering with a few slaves and plenty of food and wine in a cave below the castle.
 
-A mysterious prisoner is kept isolated in the gaols. 
+A mysterious prisoner is kept isolated in the gaols.
 
 With imagination, it may be possible to convince Masked Soldiers to spare some of the Plague prisoners, or to let the Crew talk to the Isolated prisoner. His name is Suen Ng-hung, and he's part of this plot both as an local color, as an annoyance or, if necessary, as a Deus Ex Machina.
+
+> **Suen Ng-hung**
+>
+> * Trickster of the family.
+> * I can't help it if I'm smarter, stronger, faster and funnier than you.
+> * Looking for good time.
 
 Note that the Envoy of God Apollo is just another Polymorphic Provocateur. Nothing odd has happened to King Isocrates – as any well-educated Ancient Greek, he just wants to remain as far as possible from any kind of God. Luckily for him, this also keeps him away from the Plague.
 
