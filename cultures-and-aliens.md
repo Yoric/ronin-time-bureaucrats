@@ -22,11 +22,13 @@ The have been known to show up in the most curious places and take charge of thi
 
 ## The Brick Nation
 
-The **Brick Nation** come in all sizes, from the toy-sized Minifigs and the even smaller Microfigs to the titanic Overfigs. Most of them may easily be recognized from their round, yellow heads and lack of fingers, but Brick Overlords have been known to maskerade as other species. They are a semi-mimetic artificial life-form apparently bent on taking over the Universe. Their mode of operation is generally peaceful: join a culture, then progressively replace its technology by brick-tech, then its main characters, and finally the world. While their efforts used to be limited in scope \(see the Brick City, the Boy Who Bricked and its Magic Brick School, the Block Knight of Brickham City, etc.\), they have recently completed their takeover of an entire galactic civilization \(Death Star Included\). Do not under estimate their smiling faces and open hands. Also, who is to say that they have not taken over one of the versions of the Bureaucracy yet?
+The **Brick Nation** come in all sizes, from the toy-sized Minifigs and the even smaller Microfigs to the titanic Overfigs. Most of them may easily be recognized from their round, yellow heads and lack of fingers, but Brick Overlords have been known to maskerade as other species. They are a semi-mimetic artificial life-form apparently bent on taking over the Universe. Their mode of operation is generally peaceful: join a culture, then progressively replace its technology by brick-tech, then its main characters, and finally the world. While their efforts used to be limited in scope \(see the Brick City, the Boy Who Bricked and its Magic Brick School, the Block Knight of Brickham City, etc.\), they have recently completed their takeover of an entire galactic civilization \(Death Star Included\).
 
 | ![](/assets/Lego.png) |
 | :---: |
 
+
+Do not under estimate their smiling faces and open hands. Also, who is to say that they have not taken over one of the versions of the Bureaucracy yet?
 
 ## The Time Hierarchy
 
