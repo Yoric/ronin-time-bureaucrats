@@ -2,13 +2,13 @@
 >
 > Ad found in this morning's edition of _The Mirror_.
 
-
-
 Have you ever wanted to visit time and space, fighting impossible enemies with your wits and handwaving away paradoxes?
 
 This is the daily life of the Time Bureaucrats. Just don't forget to stay on the lookout for mad scientists, time-traveling diseases and dictators, the odd black hole, and the permanent risk of turning your life into an explosive Pocket Continuum. Also, please fill three copies of this form.
 
-Or desert, become a Ronin Time Bureaucrat and let others deal with most of the consequences. After all, they did sign up for the Bureaucracy, the poor shmucks.
+Or – even better – desert, become a Ronin Time Bureaucrat and let others deal with most of the consequences. After all, they did sign up for the Bureaucracy, the poor shmucks.
+
+###### ![](/assets/Full cover.png)
 
 ###### Acknowledgements
 
