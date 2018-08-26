@@ -8,7 +8,7 @@ This is the daily life of the Time Bureaucrats. Just don't forget to stay on the
 
 Or – even better – desert, become a Ronin Time Bureaucrat and let others deal with most of the consequences. After all, they did sign up for the Bureaucracy, the poor shmucks.
 
-###### ![](/assets/Full cover.png)
+###### 
 
 ###### Acknowledgements
 
