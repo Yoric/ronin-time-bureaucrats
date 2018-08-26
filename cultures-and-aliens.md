@@ -2,17 +2,23 @@
 
 Aliens of all shapes and colour exist, including on Earth – in some parts of the Universe, they’re just pretty well hidden, including on Earth. Strangely, most aliens tend to look and feel human, or nearly so. It is theorised that these Aliens have actually been created by Time Travellers, but who is to know for sure?
 
-## The Clockwork Dream
+## The Morpheus Contagion
 
-The **Clockwork Dream** is a semi-sentient disease that only affects machines, and causes them to dream. While dreaming, machines become intelligent and capable of more movement and initiative than expected, but they only perceive their dream, rather than reality.
+The **Morpheus Contagion** is a semi-sentient disease that affects both machines and human beings. Infected humans fall into a deep sleep, while machines progressively become aware and capable of movement and initiative.
+
+![](/assets/Dream.png)
+
+Unfortunately, while infected, humans and machines alike enter a dream state and become effectively unable to perceive reality.
 
 ## The Chroniclers of the Snafu
 
-The **Chroniclers of the Snafu** are a cult apparently omnipresent in Time and Space that seems both non-violent and dedicated to chronicle the actions of Bureaucrats. While they do not seem to employ Time Travel themselves, their chronicles have a tendency to be synchronised between epochs.
+The **Chroniclers of the Snafu** are a cult apparently omnipresent in Time and Space that seems both non-violent and dedicated to chronicle the actions of Bureaucrats.
 
 | ![](/assets/Chroniclers.png) |
 | :---: |
 
+
+While they do not seem to employ Time Travel themselves, their chronicles have a tendency to be synchronised between epochs.
 
 ## The 0.001%
 
