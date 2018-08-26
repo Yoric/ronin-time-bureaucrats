@@ -22,13 +22,25 @@ The have been known to show up in the most curious places and take charge of thi
 
 ## The Brick Nation
 
-The **Brick Nation** come in all sizes, from the toy-sized Minifigs and the even smaller Microfigs to the titanic Overfigs. Most of them may easily be recognized from their round, yellow heads and lack of fingers, but Brick Overlords have been known to maskerade as other species. They are a semi-mimetic artificial life-form bent on taking over the Universe. Their mode of operation is generally peaceful: join a culture, then progressively replace its technology by brick-tech, then its main characters, and finally the world. While their efforts used to be limited in scope \(see the Brick City, the Boy Who Bricked and its Magic Brick School, the Block Knight of Brickham City, etc.\), they have recently completed their takeover of an entire galactic civilization \(Death Star Included\). Do not under estimate their smiling faces and open hands. Also, who is to say that they have not taken over one of the versions of the Bureaucracy yet?
-
-
+The **Brick Nation** come in all sizes, from the toy-sized Minifigs and the even smaller Microfigs to the titanic Overfigs. Most of them may easily be recognized from their round, yellow heads and lack of fingers, but Brick Overlords have been known to maskerade as other species. They are a semi-mimetic artificial life-form apparently bent on taking over the Universe. Their mode of operation is generally peaceful: join a culture, then progressively replace its technology by brick-tech, then its main characters, and finally the world. While their efforts used to be limited in scope \(see the Brick City, the Boy Who Bricked and its Magic Brick School, the Block Knight of Brickham City, etc.\), they have recently completed their takeover of an entire galactic civilization \(Death Star Included\). Do not under estimate their smiling faces and open hands. Also, who is to say that they have not taken over one of the versions of the Bureaucracy yet?
 
 | ![](/assets/Lego.png) |
 | :---: |
 
+
+## The Time Hierarchy
+
+It is clear that the **Time Hierarchy** is somehow related to the Time Bureaucracy. Just as most branches of the Time Bureaucracy, the Time Hierarchy has a few agents that travel freely all over the Continuum, appearing and vanishing as they see fit, and somehow seem to be present around pretty much every critical juncture of history, past, present and future.
+
+What is less clear is, well, pretty much everything else. Nobody seems to know from which time or place the Time Hierarchy originates or operates from, or what its agenda is. Its agents have been known to survive impossible wounds and diseases, as well as to outsmart highly-decorated Bureaucrats, which led to many conjectures, from a Post-Human origin to anthropomorphic robots or other kinds of artificial constructs.
+
+| ![](/assets/Posthuman.png) |
+| :---: |
+
+
+Just as importantly, its agents are know to be arrogant pricks. Oh, and the lack of data on the Time Hierarchy has led most branches of the Time Bureaucracy to assume that agents of the Hierarchy have somehow managed to either infiltrate their ranks or break into their vaults, databanks and archives to erase any concrete information on the Hierarchy.
+
+It is, of course, possible, that the Time Hierarchy is only a rumor. Or has been. Or will be.
 
 ## ...and more
 
