@@ -10,6 +10,10 @@ The **Clockwork Dream** is a semi-sentient disease that only affects machines, a
 
 The **Chroniclers of the Snafu** are a cult apparently omnipresent in Time and Space that seems both non-violent and dedicated to chronicle the actions of Bureaucrats. While they do not seem to employ Time Travel themselves, their chronicles have a tendency to be synchronised between epochs.
 
+| ![](/assets/Chroniclers.png) |
+| :---: |
+
+
 ## The 0.001%
 
 They **0.001%** are a ramshackle group of refugees that claim to come from before the Great Snafu \(or, depending on translation, to have been mis-fixed from the Great Snafu\). They have been spotted all across the Continuum, attempting to gather supporters, resources, materials, and laundering it all through Time and Space, for objectives unknown.
