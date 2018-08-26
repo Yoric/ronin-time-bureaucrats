@@ -6,5 +6,5 @@
 * [The Time Deck](the-time-deck.md)
 * [Cultures and Aliens](cultures-and-aliens.md)
 * [Mission Report: The Yellow Curse of Euthermios](mission-the-polyphonic-choir.md)
-* [Further readings](further-readings.md)
+* [Further sources](further-readings.md)
 
