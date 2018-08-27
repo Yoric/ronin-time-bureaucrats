@@ -12,6 +12,12 @@ The **Morpheus Contagion** is a semi-sentient disease that affects both machines
 
 Unfortunately, while infected, humans and machines alike enter a dream state and become effectively unable to perceive reality.
 
+> **Time Dispatch**
+>
+> "This is a call to all Agents in the time+space vicinity. The year is 1901 and the Eiffel Tower is dancing, I repeat, the Eiffel Tower is dancing. This is not a code, the Eiffel Tower is dancing. Oh, now, it seems to be starting to... yes, the Eiffel Tower is stripping its clothes, apparently, it intends to dance naked in the streets. I repeat, the Eiffel Tower is preparing to dance naked in the streets of Paris 1901.
+>
+> Please, Agents, it's growing too big for a single Crew, we need reinforcements!"
+
 ## The Chroniclers of the Snafu
 
 The **Chroniclers of the Snafu** are a cult apparently omnipresent in Time and Space that seems both non-violent and dedicated to chronicle the actions of Bureaucrats.
