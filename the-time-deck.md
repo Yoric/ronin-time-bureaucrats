@@ -33,11 +33,9 @@ As you can see, each card has:
 
 * an image;
 * a title;
-* two default \(generally opposite\) interpretations.
+* two interpretations, depending on how you hold the card.
 
 We'll use all of them for improvisation.
-
-As a minigame, you can try and find what each of these pictures represents and how they're related to their title and interpretations.
 
 [High-resolution, two-cards per deck, designed for printing as 11x15 photos.](https://photos.app.goo.gl/uYLnUiLAku8hLUcE7)
 
