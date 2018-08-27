@@ -12,9 +12,7 @@ The **Morpheus Contagion** is a semi-sentient disease that affects both machines
 
 This would not be such a problem if infected, humans and machines alike didn't enter a dream state and became effectively unable to perceive reality. And it wouldn't be quite _that_ bad if their dreams didn't end up having on effect on reality around them.
 
-
-
-> **Time Dispatch --- Urgent --- Time Dispatch**
+> **Time Dispatch --- Urgent --- Time Dispatch --- Urgent --- Time Dispatch --- Urgent --- Time Dispatch**
 >
 > "This is a call to all Agents in the time+space vicinity. The year is 1901 and the Eiffel Tower is dancing, I repeat, the Eiffel Tower is dancing. This is not a code, the Eiffel Tower is dancing. Oh, now, it seems to be starting to... yes, the Eiffel Tower is stripping its clothes, apparently, it intends to dance naked in the streets. I repeat, the Eiffel Tower is preparing to dance naked in the streets of Paris 1901.
 >
@@ -30,7 +28,7 @@ The **Chroniclers of the Snafu** are a cult apparently omnipresent in Time and S
 
 While they do not seem to employ Time Travel themselves, their chronicles have a tendency to be synchronised between epochs.
 
-> **Time Dispatch**
+> **Time Chronicle**
 >
 > "I remember, the first time I heard the name of 'Robin Hode', I was but a child. The Monk entered my parent's house, and he asked whether he had heard an archer called this Robin Hode. My parents had heard of no such man, they answered, so the Monk smiled and bade his goodbye. I heard that name again when I was twelve, maybe thirteen. It was an old woman, with a mule and parchment, and even a book, and she asked whether Robin Hode had arrived, but there was no such person as Robin Hode, so she left, muttering nonsense as old women do. Three times, they came, asking for this Robin Hode, as I grew up, and married, and built my own house for my family. And yesterday, a Nun came, walking alone on the road, and asked whether Robin Hode had arrived. 'Yes, I answered, my name is Little John, and after all these years, I can lead you to him.' And she answered 'Little John, you say? I always thought that Little John was a cute brown bear, I'll have to tell them to correct the archives.'"
 >
