@@ -47,19 +47,21 @@ There are very few rules to using the Time Deck:
 
 1. The Time Deck is about getting ideas, so there are no hard rules.
 2. Anybody can use the Time Deck whenever they're looking for an idea.
-3. Don't forget to shuffle it, once in a while.
-4. When you pick a card, choose its orientation before looking at it, then place it on the table.
+3. Think up a question to which you need an answer. It can be as general as "What's going to happen?" or as precise as "What's on the desk?"
+4. When you draw a card, choose its orientation before looking at it, then place it on the table.
 5. Look at the picture, the title, the question mark facing you.
-6. If you have an idea, use it.
-7. If you don't have any idea, don't hesitate to ask around the table.
-8. You can draw more than one card.
-9. Ignore all these rules as you see fit.
+6. If you have an idea, use it. Otherwise, don't hesitate to discuss it around the table.
+7. Draw more cards if you feel you need to.
 
 ### ...in a dungeon
 
 As things are bound to happen, your Time Traveling Crew is being pursued by giant, pixellated Pac-Man Ghosts in the underground tunnels below the Castle of Arthur Pendragon. Just another day in the life of a Ronin Time Bureaucrat. Of course, the GM has no map for the dungeon, because how could have guessed that the Crew would decide to dig below the crypt by shoveling earth and rock through time and space using their Continuum Indirection?
 
-Ok, so the Crew is running like madpeople and eventually stumbles upon a deadend. Wait, just a deadend? That's not very interesting. Let's draw a card. And the card is...
+Ok, so the Crew is running like madpeople and eventually stumbles upon a deadend. Wait, just a deadend? That's not very interesting.
+
+#### _What does the Crew find at the end of this corridor?_
+
+Let's draw a card. And the card is...
 
 ![](/assets/reversed_small_even5.png)
 
@@ -67,7 +69,7 @@ So, we may decide to use **Great Progress?**, **X. Leaping like a Giant!** and/o
 
 Also, let's add some flavor/plot hook based on the illustration: "_On the other side of the chasm, you barely see the outline of something that looks like a round statue head, facing you. It appears that the statue is winking at you._"
 
-Oh, wait a second. A round statue head? While being hunted by Pac-Man Ghosts? This just has to be Pac-Man. Here you go, you just got a new plot hook.
+Oh, wait a second. A round statue head? While being hunted by Pac-Man Ghosts? This just has to be Pac-Man! Here you go, you have a new plot hook for free.
 
 For the moment, the Pac-Man Ghosts are arriving, so it's time for the Crew to do something!
 
@@ -75,13 +77,13 @@ For the moment, the Pac-Man Ghosts are arriving, so it's time for the Crew to do
 
 So, while the Queen of Chandernagor is waiting for the Ambassador of Shangrila to land, the Crew has decided to rollback time, scout ahead and investigate around the seediest part of Chandernagor, looking for anything that could help the Ambassador negotiate a better peace treaty. So, here they are, finally facing their contact... whom the GM knows nothing about, because that entire story was supposed to be an escort mission starting only after the Ambassador landed.
 
-Let's first draw one card to determine what the contact looks like:
+#### _What does the contact look like?_
 
 ![](/assets/small_even8.png)
 
 Ok, no need to go much further. The contact is a human being \(let's say female-looking\) "_with an extremely sophisticated hat that looks like an umbrella and a feather, as well as a moving cape that looks extremely uncomfortable for walking. Also, spines on her back_."
 
-Now, what does the NPC want?
+#### _What does the contact want?_
 
 ![](/assets/reversed_small_even1.png)
 
@@ -89,7 +91,9 @@ This NPC is obviously into partying \(maybe the meeting point is some kind of ga
 
 ### ...designing a place
 
-So, after deftly eloping with the bomb and made sure that it explodes in their ship instead of in the crowded city, the Crew is shipwrecked on yet another alien planet. Quick, what does the planet look like?
+So, after deftly eloping with the bomb and made sure that it explodes in their ship instead of in the crowded city, the Crew is shipwrecked on yet another alien planet. Quick, it's time to use the Time Deck!
+
+#### _What does the planet look like_?
 
 ![](/assets/small_even0.png)
 
@@ -97,7 +101,9 @@ Oh, joy, it's an enigma! Obviously, a planet filled with puzzles and brain-tease
 
 Note that if the card had been facing **Mysteries?**, the players might instead have been instead landed on some kind of holy planet, or inside a cathedral.
 
-Let's add some flavor
+Let's add some flavor.
+
+#### _What is happening right now on that planet?_
 
 ![](/assets/small_odd4.png)
 
@@ -117,21 +123,25 @@ A good plot needs:
 * a hook;
 * a stake.
 
-#### The place
+#### _Where and when does the story take place?_
 
 ![](/assets/small_even4.png)
 
 Apparently, it's a battlefield, or some kind of revolution. Given the flag, it could be a French Revolution, but let's draw a second card to keep it surprising.
 
+#### _What kind of revolution?_
+
 ![](/assets/small_odd7.png)
 
-Ok, so the story is set in a madhouse, during an uprising. Or maybe a madhouse in which political opponents are kept? Let's combine both: _the story is set a psychiatric clinic, designed to renormalize the opponents to the regime, but during a riot_.
+Ok, so the story is set in a madhouse, during an uprising. Or maybe a madhouse in which political opponents are kept? Let's combine both: _the story is set during a riot inside a psychiatric clinic – the patients are actually opponents to the regime, sent there to be renormalized_.
 
-#### The hook
+#### _What is happening?_
 
 ![](/assets/reversed_small_odd0.png)
 
-So something new is born. Possibly a new life-form, or a new technology, or a new type of government. Let's see what
+So something new is born. Possibly a new life-form, or a new technology, or a new type of government. Let's see what..
+
+#### _What is being born?_
 
 ![](/assets/small_odd4.png)
 
@@ -139,9 +149,9 @@ Moses crossing the Red Sea? Ok, so it's obviously a new religion. Or perhaps a g
 
 So, a new religion is being born in that psychiatric clinic. Maybe this can be connected with an existing religion or antagonist that the Crew has encountered in a previous Mission. Maybe the Crew is interested in anthropology. Let's wait for the stake until we commit to a specific manner of involving the Crew.
 
-#### The stake
+#### _What's at stake?_
 
-So, what's at stake? Well, the religion is already a lot, but let's ask the Deck:
+Well, the religion is already a lot, but let's ask the Deck:
 
 ![](/assets/small_even2.png)
 
