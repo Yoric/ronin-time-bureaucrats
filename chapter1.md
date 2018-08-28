@@ -14,8 +14,6 @@ Throughout its existence and despite all these reinventions, the Bureaucracy has
 
 ![](/assets/agency.png)
 
-
-
 This is a conflict of surprisingly little violence, made of subtle manipulations and grand gestures, of infiltrations, desertions, propaganda, and paradoxes. A Cold War more than a battlefield.
 
 Unsurprisingly, with this Time Cold War, Bureaucrats tend to disappear here and there. Some died, surely, in the line of duty. Others switched allegiance. A few survived the entire erasure of their timeline. As for others, well, they just decided to go their own way, out of boredom, disgust, or on their own personal quests. Once a disappearance is found out, the Bureaucracy searches for its missing Bureaucrats, of course. But, well, Space and Time is a large place, and it’s hard to find someone who may have accidentally misplaced the transponder from their Continuum Indirection and sent it hurling towards a black hole.
