@@ -46,13 +46,25 @@ The have been known to show up in the most curious places and take charge of thi
 
 ## The Brick Nation
 
-The **Brick Nation** come in all sizes, from the toy-sized Minifigs and the even smaller Microfigs to the titanic Overfigs. Most of them may easily be recognized from their round, yellow heads and lack of fingers, but Brick Overlords have been known to maskerade as other species. They are a semi-mimetic artificial life-form apparently bent on taking over the Universe. Their mode of operation is generally peaceful: join a culture, then progressively replace its technology by brick-tech, then its main characters, and finally the world. While their efforts used to be limited in scope \(see the Brick City, the Boy Who Bricked and its Magic Brick School, the Block Knight of Brickham City, etc.\), they have recently completed their takeover of an entire galactic civilization \(Death Star Included\).
+The **Brick Nation** come in all sizes, from the toy-sized Minifigs and the even smaller Microfigs to the titanic Overfigs. Most of them may easily be recognized from their round, yellow heads and lack of fingers, but Brick Overlords have been known to maskerade as other species. They are a semi-mimetic artificial life-form apparently bent on taking over the Universe. Their mode of operation is generally peaceful: join a culture, then progressively replace its technology by brick-tech, then its main characters, and finally an entire city – or sometimes an entire world.
+
+Do not under estimate their smiling faces and open hands. Also, who is to say that they have not taken over one of the versions of the Bureaucracy yet?
 
 | ![](/assets/Lego.png) |
 | :---: |
 
 
-Do not under estimate their smiling faces and open hands. Also, who is to say that they have not taken over one of the versions of the Bureaucracy yet?
+> **Time Dispatch --- Classified --- Time Dispatch --- Classified**
+>
+> "Captain report, space+time coordinates... er, not sure, but we're plenty far from Earth Central and Delta Time is strongly negative.
+>
+> So, last time we approached this civilization, they seemed to be locked in a very aggressive space war, with large battleships happily pounding each other, and they had apparently recently reached the technological level to destroy entire planets with some of their larger battlestations. Needless to say, we decided to leave them one or two generations and to return once they had picked a winner.
+>
+> So, on that side, well, not much of a success. The war is still raging, with pretty much the same kind of battleships and battlestations. Actually, that's a bit weirder. Apparently, the very same people seem to be raging that very same war, including some that we were pretty sure had died. For instance, there's this weird man with a breathing mask called \(Hey, ensign, what's the name of that guy in black? The asthmatic one with a glowing stick. No, not that one, I think that's his his grandson, I want the old one. No, not the weird one with a face like granite and two glowing sticks. Ah, never mind!\), well, I can't find his name, but anyway, we're pretty sure that he had been killed after betraying his chief, and here he is, again, cape and mask glowing stick and all. Also, they still have planet-destruction technology, they're still trigger-happy, and there's still no way we're going to go close to them.
+>
+> My recommendation is that we cordon off their galaxy with a sanitation field, to make sure that their do not export their bloody war to our stars. Also, maybe it's me being prejudiced, but all the humans in this galaxy have a very yellow skin, so maybe there's a case of consanguinity that might explain why there can't be star peace around here? We should investigate who first settled this galaxy.
+>
+> Well, that's all for that space+time. So, on we go, for another season of our discovery mission. Our next stop is a place called, er, Magic Britain, where last time, they were preparing for civil war. With any luck, _they_'ll be more reasonable."
 
 ## The Time Hierarchy
 
