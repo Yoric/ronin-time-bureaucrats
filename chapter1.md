@@ -10,7 +10,7 @@ All this took place \(subjective\) eons ago. Nowadays, the Agency is known as th
 
 Throughout its existence and despite all these reinventions, the Bureaucracy has devoted and continues to devote considerable efforts to fighting the main threat towards the continued existence of the Universe.
 
-**This threat is, of course, **_**past, future and alternate versions of the Bureaucracy**_. Because, well, they are so very wrong, aren't they?
+**This threat is, of course, every single **_**past, future and alternate versions of the Bureaucracy**_. Because, well, they are so very wrong, aren't they?
 
 ![](/assets/agency.svg)
 
