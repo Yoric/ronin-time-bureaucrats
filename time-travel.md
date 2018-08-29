@@ -23,9 +23,11 @@ Since you are a Ronin Time Bureaucrat, the aspect and features of your Continuum
 
 ### The Militarists
 
+The **Space-Time Fleet** combines large orbital ships and smaller dropships and gunships, along with battle-ready Space-Time Marines. These Continuum Indirections, however, have only been used very briefly in the history of the Bureaucracy: once the law of Observable Contradictions became evident, the Space-Time Fleet was forced to deduce the obsolescence of its brand new equipment. While a few missions of the Space-Time Fleet may still be witnessed here and there in Space+Time, 
+
 The **Time Brigade** variant of the Bureaucracy tends to prefer huge buildings of concrete featuring prominent eagles, and hosting a few Bureaucrats, a few Perfect Polymorphic Provocateurs and thousands of Crowd-Control Clockworks. Walking inside the long and tall corridors of a Time Citadel, one may encounter automatons wearing military uniforms, pass in front of large paintings extolling the Virtue of the People and hear, or at least imagine, choirs stuck singing patriotic hymns. The Crew of a Time Citadel is mixed-gender \(only two genders\) and always contains exactly one Political Officers, who is generally a male.
 
-Continuum Indirections of the **People's Time Liberation Army** are very similar to those of the Time Brigade from which the PTLA initially defected. Eagles have been struck down and replaced with Hammers, Sickles, Stars or other symbols of the People's evident freedom. Crowd-Control Clockworks are still present, but Perfect Polymorphic Provocateurs are generally absent, leaving more space for Political Reeducation Chambers, large enough to treat hundreds of political opponents. The Crew of a Time Citadel is also mixed-gender \(only two genders\) and always contains exactly one Political Office, who is generally a male.
+Continuum Indirections of the **People's Time Liberation Army** are very similar to those of the Time Brigade from which the PTLA initially defected. Eagles have been struck down and replaced with Hammers, Sickles, Stars or other symbols of the People's evident freedom. Crowd-Control Clockworks are still present, but Perfect Polymorphic Provocateurs are generally absent, leaving more space for Political Reeducation Chambers, large enough to _cure_ hundreds of political opponents. The Crew of a Time Citadel is also mixed-gender \(only two genders\) and always contains exactly one Political Office, who is generally a male.
 
 ### The Academics
 
