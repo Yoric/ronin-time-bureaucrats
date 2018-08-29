@@ -1,5 +1,9 @@
 # Time Travel
 
+Technologically, Time Travel is quite simple. It involves bombarding a core of `[REDACTED]` with a steady flux of `[REDACTED]-[REDACTED]` until it `[REDACTED]`, then letting it `[REDACTED]` for `[REDACTED]`. Nothing that couldn't have been invented with the materials available during `[REDACTED]`! Now, aiming is a little more complicated. The best technology known to this day  requires a the full `[REDACTED] `of a `[REDACTED]`, and a `[REDACTED]` to improve `[REDACTED]`. As you may imagine, such `[REDACTED]` may only be found `[REDACTED]`, which understandably does tend to limit the number of Time Travelers in the Continuum!
+
+
+
 Time Travel is simple. Hop into your Indirection, point it to coordinates in the current Continuum and press the button. Barring any problem, a few subjective minutes later, you’ll have arrived.
 
 Indirections take all sorts of forms, depending on the whim of the Bureaucracy and the Designer. For instance:
@@ -18,7 +22,7 @@ While Indirections can go nearly anywhere in time and space, a few places have p
 
 Of course, problems with Time Travel are not unusual and Bureaucrats regularly end up on planets and time periods that they had no intention of reaching. Again, this is theorised to be the cause of Gamma Meson Interference. In particular, Indirections have been known to travel to alternate universes. While this is actually quite easy to do, experience shows that it is extremely hard to do _on purpose_.
 
-##  
+## 
 
 ## Paradoxes and Pocket Continuums
 
@@ -35,9 +39,6 @@ For instance:
 * However, if there is a reason to believe that your Grandmother lied to your parents about the identity of your Grandfather, everything is ok, because there is no Observable Contradiction, just a further indication that your Grandmother could really not be trusted. But then, with her past working as a Corporate Acquisition Lawyer, you already knew about that.
 * If your Grandmother didn’t lie, perhaps the man who sired your parent was an imposter? Perhaps a Polymorphic Provocateur of the Time Brigades? If you can somehow make it likely, there is no Observable Contradiction, just odd looks from the rest of your Crew.
 * Now, if other hypotheses are unreasonable, you have create a Pocket Continuum.
-
-  
-
 
 As it turns out, Paradoxes can very well exist in the universe, although generating a Paradox is seldom in your own interest:
 
