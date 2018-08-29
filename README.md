@@ -12,7 +12,7 @@ Or – even better – desert, become a Ronin Time Bureaucrat and let others dea
 
 ###### Acknowledgements
 
-This game is strongly inspired by the BBC TV Series _Doctor Who_.
+This game is strongly inspired from the BBC TV Series _Doctor Who_.
 
 Some inspiration may also be found in the Role-Playing Games _Everyway_, _Engel_ and _Amber Diceless RPG_.
 
