@@ -23,35 +23,31 @@ Indirections take all sorts of forms, depending on the whim of the Bureaucracy a
 
 Let us visit a few examples.
 
-### Time Brigade
+### The Militarists
 
-The **Time Brigade** variant of the Bureaucracy tends to prefer huge buildings of concrete featuring prominent eagles, and hosting a few Bureaucrats, a few Perfect Polymorphic Provocateurs and thousands of Crowd-Control Clockworks.
+The **Time Brigade** variant of the Bureaucracy tends to prefer huge buildings of concrete featuring prominent eagles, and hosting a few Bureaucrats, a few Perfect Polymorphic Provocateurs and thousands of Crowd-Control Clockworks. Walking inside the long and tall corridors of a Citadel, one may encounter automatons wearing military uniforms, pass in front of large paintings extolling the Virtue of the People and hear, or at least imagine, choirs stuck singing patriotic hymns.
 
-### Time Library
+
+
+### The Academics
 
 On the other hand, the **Time Library** has employed hand-held Indirections that let Bureaucrats simply walk from any library in Time and Space \(in a pinch, a large enough bookshop will do\) to any other one through temporary L-Dimensional tunnels.
 
-### Time Museum
-
 Even more stealthy, the **Time Museum** hides Indirections inside pieces of art that can easily travel between public and private collections, including manuscripts and paintings, and uses Myp-Morphism to let the Bureaucrats discreetly enter or leave their mostly bidimensional Indirection.
 
-### Time Federation
+### The Governments
 
 The ambitious **Time Federation**, has ordered hundreds of Spacecraft Indirections, designed to travel the \(somewhat\) slow way across the universe, orbit around planets, and teleport Bureaucrats from and to the surface. Unfortunately, teleportation has been known to be subject to GM \(Gamma Mesons, of course\) Interference at the most inconvenient times.
 
-### Time Hanse
+### The Private Sector
 
 The opulent agents of the **Time Hanse** could never manage to travel without their riches. After a few attempts at designing something more portable, they gave up and used city-sized Indirections, full with employees, factories and hangars.
-
-### Union of Time Investigators
 
 Contractually, the shady **Union of Time Investigators** \(or "Private I", as they are apparently called in hip circles\) must have their office above or behind Chinese Restaurants. To simplify things, their Indirection generally contains both the office and the Chinese Restaurant, and upon landing, will try to integrate to an existing building. Such Indirections have been known to accidentally trap clients busy eating at the Restaurant, but so far, nobody has complained.
 
 ### Camouflage and Time Peasants
 
 It has been noticed that, regardless of time and space, the so-called Time Plebeians \(aka non-Time Travelers\) do not seem to care all that much about the appearance of a new shop, piece of art, building or even city, so after a time, Indirection engineers gave up on attempts at camouflage and just rolled with it.
-
-
 
 ## Paradoxes and Pocket Continuums
 
