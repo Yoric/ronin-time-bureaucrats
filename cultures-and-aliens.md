@@ -80,6 +80,18 @@ Just as importantly, its agents are know to be arrogant pricks. Oh, and the lack
 
 It is, of course, possible, that the Time Hierarchy is only a rumor. Or has been. Or will be.
 
+> **Time Report**
+>
+> "So, I was at the precinct, like every other day, and this huge guy shows up, I mean, built like a bodybuilding bear on steroids, with sunglasses – it was night, right? – and he was dressed like a biker. He was holding a box of flowers, but when I caught sight of him, I knew he was bad news. I got up from my desk as he was walking towards the duty officer, he was maybe three or four steps away, I motioned my partner and we moved to intercept.
+>
+> But before I have the time to get within distance, that steroid bear drops the box of flowers and draws some kind of pump gun, and he points it at the duty officer, and he calls, with a very loud, very German voice, 'Where is Sarah Connor?' and the duty officer looks up and he's frozen and he can't answer, so the Steroid Biker Bear shoots him in the chest, and we open fire.
+>
+> After this, it's... it's... I don't really remember what happened. It's pure chaos. I remember shooting, getting shot a few times and being surprised that I'm still alive, and looking at my blood, and realizing 
+>
+> The last thing he said was 'I'll be back'."
+>
+> Extract from a tape on the Precinct X incident. Place and time of incident could not be identified. No other report seem to have survived. No witnesses found. May have happened in a Pocket Continuum. Steroid Biker Bear still at large.
+
 ## ...and more
 
 The Universe is a large place, with plenty of space for more Cultures and Aliens. Do you wish to add Daleks, Harry Potter, the Spider Queen and Thanos? Sure, you can put them over there. But you can just as well come up with new, more exotic things of your own.
