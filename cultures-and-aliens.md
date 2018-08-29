@@ -70,7 +70,7 @@ Do not under estimate their smiling faces and open hands. Also, who is to say th
 
 It is clear that the **Time Hierarchy** is somehow related to the Time Bureaucracy. Just as most branches of the Time Bureaucracy, the Time Hierarchy has a few agents that travel freely all over the Continuum, appearing and vanishing as they see fit, and somehow seem to be present around pretty much every critical juncture of history, past, present and future.
 
-What is less clear is, well, pretty much everything else. Nobody seems to know from which time or place the Time Hierarchy originates or operates from, or what its agenda is. Its agents have been known to survive impossible wounds and diseases, as well as to outsmart highly-decorated Bureaucrats, which led to many conjectures, from a Post-Human origin to anthropomorphic robots or other kinds of artificial constructs.
+What is less clear is, well, pretty much everything else. Nobody seems to know from which time or place the Time Hierarchy originates or operates from, or what its agenda is. Its agents have been known to survive impossible wounds and diseases, as well as to outsmart highly-decorated Bureaucrats, which led to many conjectures, from a Post-Human origin to anthropomorphic robots or other kinds of artificial constructs. Agents of the Hierarchy seem to care much less about Observable Contradictions than any of the known branches of the Time Bureaucracy, which might be explained either by a more advanced Time Travel technology that would allow them to leave Pocket Continuums more easily or by the assumption that the Time Hierarchy will show up to cleanup after them.
 
 | ![](/assets/Posthuman.png) |
 | :---: |
