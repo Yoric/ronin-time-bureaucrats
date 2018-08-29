@@ -2,27 +2,56 @@
 
 Technologically, Time Travel is quite simple. It involves bombarding a core of `[REDACTED]` with a steady flux of `[REDACTED]-[REDACTED]` until it `[REDACTED]`, then letting it `[REDACTED]` for `[REDACTED]`. Nothing that couldn't have been invented with the materials available during `[REDACTED]`! Now, aiming is a little more complicated. The best technology known to this day  requires a the full `[REDACTED]`of a `[REDACTED]`, and a `[REDACTED]` to improve `[REDACTED]`. As you may imagine, such `[REDACTED]` may only be found `[REDACTED]`, which understandably does tend to limit the number of Continuum Indirections in this Continuum – and from there, the number of Time Travelers!
 
+Also, while most people can enter a Continuum Indirection without problem, please make sure to visit a doctor every few trips, to ensure that you do not experience Space+Time Allergy, or worse, the Space+Time Rejection Syndrome.
 
+## Where can I go?
 
-Time Travel is simple. Hop into your Indirection, point it to coordinates in the current Continuum and press the button. Barring any problem, a few subjective minutes later, you’ll have arrived.
+Well, pretty much anywhere you want. With an up-to-date Continuum Indirection, nearly all of Space+Time is within your reach. Continuum Indirections travel thanks to the `[REDACTED]` effect, which means that you can reach Space+Time coordinates even if a traditional 4D path would have taken you through solid matter. The travel itself may take a few seconds – or, in some cases, a few minutes – _et voilà_!
 
-Indirections take all sorts of forms, depending on the whim of the Bureaucracy and the Designer. For instance:
+Now, there are some limitations to where your Continuum Indirection can take you:
 
-* The **Time Brigade** variant of the Bureaucracy tends to prefer huge buildings of concrete featuring prominent eagles, and hosting a few Bureaucrats, a few Polymorphic Provocateurs and thousands of Crowd-Control Automatons.
-* On the other hand, the **Time Library** has employed hand-held Indirections that let Bureaucrats simply walk from any library in Time and Space \(in a pinch, a large enough bookshop will do\) to any other one through temporary L-Dimensional tunnels.
-* Even more stealthy, the **Time Museum** hides Indirections inside pieces of art that can easily travel between public and private collections, including manuscripts and paintings, and uses Myp-Morphism to let the Bureaucrats discreetly enter or leave their mostly bidimensional Indirection.
-* The ambitious **Time Federation**, has ordered hundreds of Spacecraft Indirections, designed to travel the \(somewhat\) slow way across the universe, orbit around planets, and teleport Bureaucrats from and to the surface. Unfortunately, teleportation has been known to be subject to GM \(Gamma Mesons, of course\) Interference at the most inconvenient times.
-* The opulent agents of the **Time Hanse** could never manage to travel without their riches. After a few attempts at designing something more portable, they gave up and used city-sized Indirections, full with employees, factories and hangars.
-* Contractually, the shady **Union of Time Private Detectives** must have their office above or behind Chinese Restaurants. To simplify things, their Indirection generally contains both the office and the Chinese Restaurant, and upon landing, will try to integrate to an existing building. Such Indirections have been known to accidentally trap clients busy eating at the Restaurant, but so far, nobody has complained.
-* Etc.
+1. Most Laws of Physics degrade seriously when approaching either the Big Bang or the Big Crunch. The second corollary of the Law of `[REDACTED]` determines that a Continuum Indirection may not travel before the Afterglow \(any time between the Big Bang and BB + 375,000 years\) or after the Black Density of the Universe reaches approximately _10^-16_ \(also known as Big Black Horizon\).
+2. For the same reasons, Continuum Indirections may not travel to or through Smaller Bangs and Smaller Crunches.
+3. Similarly, the seventh corollary of the Law of `[REDACTED]` clearly determines that Continuum Indirections cannot escape from a High-Gravity Curvature, such as the close proximity of a Black Hole, the inside of a star, or the heart of a planet. For these reasons, your Continuum Indirection is programmed to automatically avoid such Space+Time coordinates. Not that you would survive in one, anyway.
+4. Technically, a Continuum Indirection may materialize at the same coordinates as a body, including most gases, liquids and solids. The Continuum Indirection will _displace_ this body, as proved by `[REDACTED`\]'s corrolary of `[REDACTED]`'s well known Law. However, while displacing gases, liquids or plasmas is generally mostly safe, displacing solids tends to pulverise them. All Continuum Indirections are equipped with advanced `[REDACTED]` that strongly decrease the probability displacing sentient creatures. However, caution is suggested.
+5. Sufficiently dense Gamma Meson bombardments have been known to play havoc on the `[REDACTED]` of Continuum Indirections, which may theoretically end up with your Continuum Indirection landing at Space+Time coordinates slightly different from those you had in mind. However, don't let this scare you. The probability of encountering a dense Gamma Meson bombardment in the entirety of Space+Time is so infinitesimally small that you could spend millenia traveling with your Continuum Indirection without encountering a single one! 
+6. On occasion, Continuum Indirections have been known to travel to and from alternate universes. While this is actually quite easy to do, experience shows that it is extremely hard to do _on purpose_.
+
+## What does my Continuum Indirection look like?
+
+Indirections take all sorts of forms, depending on the whim of the Bureaucracy and the Designer.
+
+Let us visit a few examples.
+
+### Time Brigade
+
+The **Time Brigade** variant of the Bureaucracy tends to prefer huge buildings of concrete featuring prominent eagles, and hosting a few Bureaucrats, a few Perfect Polymorphic Provocateurs and thousands of Crowd-Control Clockworks.
+
+### Time Library
+
+On the other hand, the **Time Library** has employed hand-held Indirections that let Bureaucrats simply walk from any library in Time and Space \(in a pinch, a large enough bookshop will do\) to any other one through temporary L-Dimensional tunnels.
+
+### Time Museum
+
+Even more stealthy, the **Time Museum** hides Indirections inside pieces of art that can easily travel between public and private collections, including manuscripts and paintings, and uses Myp-Morphism to let the Bureaucrats discreetly enter or leave their mostly bidimensional Indirection.
+
+### Time Federation
+
+The ambitious **Time Federation**, has ordered hundreds of Spacecraft Indirections, designed to travel the \(somewhat\) slow way across the universe, orbit around planets, and teleport Bureaucrats from and to the surface. Unfortunately, teleportation has been known to be subject to GM \(Gamma Mesons, of course\) Interference at the most inconvenient times.
+
+### Time Hanse
+
+The opulent agents of the **Time Hanse** could never manage to travel without their riches. After a few attempts at designing something more portable, they gave up and used city-sized Indirections, full with employees, factories and hangars.
+
+### Union of Time Investigators
+
+Contractually, the shady **Union of Time Investigators** \(or "Private I", as they are apparently called in hip circles\) must have their office above or behind Chinese Restaurants. To simplify things, their Indirection generally contains both the office and the Chinese Restaurant, and upon landing, will try to integrate to an existing building. Such Indirections have been known to accidentally trap clients busy eating at the Restaurant, but so far, nobody has complained.
+
+### Camouflage and Time Peasants
 
 It has been noticed that, regardless of time and space, the so-called Time Plebeians \(aka non-Time Travelers\) do not seem to care all that much about the appearance of a new shop, piece of art, building or even city, so after a time, Indirection engineers gave up on attempts at camouflage and just rolled with it.
 
-While Indirections can go nearly anywhere in time and space, a few places have proved impossible \(so far\) to approach: the Big Bang, the Big Crunch and quite a few smaller Bangs and Crunches. Scientists theorise that the laws of physics are sufficiently different at these coordinates that Indirections just can’t reach them.
 
-Of course, problems with Time Travel are not unusual and Bureaucrats regularly end up on planets and time periods that they had no intention of reaching. Again, this is theorised to be the cause of Gamma Meson Interference. In particular, Indirections have been known to travel to alternate universes. While this is actually quite easy to do, experience shows that it is extremely hard to do _on purpose_.
-
-## 
 
 ## Paradoxes and Pocket Continuums
 
