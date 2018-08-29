@@ -21,7 +21,7 @@ Now, there are some limitations to where your Continuum Indirection can take you
 
 Since you are a Ronin Time Bureaucrat, the aspect and features of your Continuum Indirection depends a lot of where it comes from, and how you have customized it since you deserted. Let us visit a few examples.
 
-### The Militarists
+### Baseline militarists Continuum Indirections
 
 The **Space-Time Fleet** combines large orbital ships and smaller dropships and gunships, along with hundreds of fully-armored, battle-ready Space-Time Marines. These Continuum Indirections, however, have only been used very briefly in the history of the Bureaucracy: once the law of Observable Contradictions became evident, the Space-Time Fleet was forced to deduce the obsolescence of its brand new equipment. While a few missions of the Space-Time Fleet may still be witnessed here and there in Space+Time, most of this fleet has either been scrapped in favor of Time Brigade or Time Federation equipment – or stolen by Ronin Time Bureaucrats. Space-Time Fleet Crews are mixed-gender \(all genders\), and positions of authority are generally either held by one of the most common genders \(males, females\).
 
