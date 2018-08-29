@@ -86,9 +86,9 @@ It is, of course, possible, that the Time Hierarchy is only a rumor. Or has been
 >
 > But before I have the time to get within distance, that steroid bear drops the box of flowers and draws some kind of pump gun, and he points it at the duty officer, and he calls, with a very loud, very German voice, 'Where is Sarah Connor?' and the duty officer looks up and he's frozen and he can't answer, so the Steroid Biker Bear shoots him in the chest, and we open fire.
 >
-> After this, it's... it's... I don't really remember what happened. It's pure chaos. I remember shooting, getting shot a few times and being surprised that I'm still alive, and looking at my blood, and realizing 
+> After this, it's... it's... I don't really remember what happened. It's pure chaos. I remember shooting, getting shot a few times and being surprised that I'm still alive, and looking at my blood, and realizing that it was green, and that I had been shot by a paintball gun, and that we were shooting real bullets at a crazy guy with a paintball gun. So I got up and tried to yell everyone to stop, but the Steroid Biker Bear was still standing, happily painting all the officers around, and most of them were down, and he shot me again, more than once.
 >
-> The last thing he said was 'I'll be back'."
+> The last thing he said was 'I'll be back', and he had a very, very odd expression that still haunts me every night. I think he was trying to smile."
 >
 > Extract from a tape on the Precinct X incident. Place and time of incident could not be identified. No other report seem to have survived. No witnesses found. May have happened in a Pocket Continuum. Steroid Biker Bear still at large.
 
