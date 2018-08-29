@@ -19,15 +19,13 @@ Now, there are some limitations to where your Continuum Indirection can take you
 
 ## What does my Continuum Indirection look like?
 
-Indirections take all sorts of forms, depending on the whim of the Bureaucracy and the Designer.
-
-Let us visit a few examples.
+Since you are a Ronin Time Bureaucrat, the aspect and features of your Continuum Indirection depends a lot of where it comes from, and how you have customized it since you deserted. Let us visit a few examples.
 
 ### The Militarists
 
-The **Time Brigade** variant of the Bureaucracy tends to prefer huge buildings of concrete featuring prominent eagles, and hosting a few Bureaucrats, a few Perfect Polymorphic Provocateurs and thousands of Crowd-Control Clockworks. Walking inside the long and tall corridors of a Citadel, one may encounter automatons wearing military uniforms, pass in front of large paintings extolling the Virtue of the People and hear, or at least imagine, choirs stuck singing patriotic hymns.
+The **Time Brigade** variant of the Bureaucracy tends to prefer huge buildings of concrete featuring prominent eagles, and hosting a few Bureaucrats, a few Perfect Polymorphic Provocateurs and thousands of Crowd-Control Clockworks. Walking inside the long and tall corridors of a Time Citadel, one may encounter automatons wearing military uniforms, pass in front of large paintings extolling the Virtue of the People and hear, or at least imagine, choirs stuck singing patriotic hymns. The Crew of a Time Citadel is mixed-gender \(only two genders\) and always contains exactly one Political Officers, who is generally a male.
 
-
+Continuum Indirections of the **People's Time Liberation Army** are very similar to those of the Time Brigade from which the PTLA initially defected. Eagles have been struck down and replaced with Hammers, Sickles, Stars or other symbols of the People's evident freedom. Crowd-Control Clockworks are still present, but Perfect Polymorphic Provocateurs are generally absent, leaving more space for Political Reeducation Chambers, large enough to treat hundreds of political opponents. The Crew of a Time Citadel is also mixed-gender \(only two genders\) and always contains exactly one Political Office, who is generally a male.
 
 ### The Academics
 
