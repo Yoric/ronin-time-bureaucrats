@@ -1,6 +1,6 @@
 # The Bureaucracy
 
-Nobody remembers exactly in which year the Cosmic Snafu took place, but people generally agree that it was on a September, or perhaps on a Saturday afternoon. Also, it involved blowing up the Universe, which made pretty much everybody unhappy, except for a few people who had been waiting for this opportunity to loudly exclaim "I told you so", and even them were not happy for long.
+Nobody remembers exactly in which year the Great Snafu took place, but people generally agree that it was on a September, or perhaps on a Saturday afternoon. Also, it involved blowing up the Universe, which made pretty much everybody unhappy, except for a few people who had been waiting for this opportunity to loudly exclaim "I told you so", and even they were not happy for long.
 
 So, when the Universe was rebooted "with a 99.999% confidence value", the House of Smiling Hands was barred from Time Travel indefinitely and the Agency for Preservation of Space-Time Continuity was created. Brave Agents dashing around time and space in their Continuum Indirections, fighting off mad scientists, resolving the Y2K bugs before they could overwrite the Universe, bodyguarding baby Adolf Hitler and generally maintaining the status quo.
 
@@ -16,11 +16,15 @@ Throughout its existence and despite all these reinventions, the Bureaucracy has
 
 This is a conflict of surprisingly little violence, made of subtle manipulations and grand gestures, of infiltrations, desertions, propaganda, and paradoxes. A Cold War more than a battlefield.
 
-Unsurprisingly, with this Time Cold War, Bureaucrats tend to disappear here and there. Some died, surely, in the line of duty. Others switched allegiance. A few survived the entire erasure of their timeline. As for others, well, they just decided to go their own way, out of boredom, disgust, or on their own personal quests. Once a disappearance is found out, the Bureaucracy searches for its missing Bureaucrats, of course. But, well, Space and Time is a large place, and it’s hard to find someone who may have accidentally misplaced the transponder from their Continuum Indirection and sent it hurling towards a black hole.
+Welcome to Time+Space!
+
+
 
 ## Ronin Time Bureaucrats
 
-That’s who you are, by the way. A runaway crew of Ronin Time Bureaucrats, in your Continuum Indirection, flying merrily away from the Bureaucracy and towards... well, towards all of Time and Space!
+Unsurprisingly, with this Time Cold War, Bureaucrats tend to disappear here and there. A few died, surely, in the line of duty. Others switched allegiance. Some even survived the erasure of their entire timeline. As for others, well, they just decided to go their own way, out of boredom, disgust, or on their own personal quests. Once a disappearance is found out, the Bureaucracy searches for its missing Bureaucrats, of course. But, well, Space+Time is a large place, and it’s hard to find someone who may have accidentally misplaced the transponder from their Continuum Indirection and sent it hurling towards a black hole.
 
-So what if past/future/alternate versions of the Bureaucracy \(and yourself\) are looking for you and/or greedily rewriting the Continuum while you're away?
+That’s who you are, by the way. A runaway crew of Ronin Time Bureaucrats, in your Continuum Indirection, flying merrily away from the Bureaucracy and towards... well, towards all of Space+Time!
+
+So what if past/future/alternate versions of the Bureaucracy \(and possibly yourself\) are looking for you and/or greedily rewriting the Continuum while you're away? It's none of your business, right?
 
