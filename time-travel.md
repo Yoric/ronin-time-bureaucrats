@@ -21,13 +21,13 @@ Now, there are some limitations to where your Continuum Indirection can take you
 
 Since you are a Ronin Time Bureaucrat, the aspect and features of your Continuum Indirection depends a lot of where it comes from, and how you have customized it since you, er, eloped. Let us visit a few examples.
 
+Before the Bureaucracy was officially created, its agents were already dispatched through Time+Space in desperate attempts to fix the Snafu before the Entirety of Everything was Lost \(tm\). For this reason, the first generation of the Agency – a dozen or so Continuum Indirections – had hardly any opportunity to compare their tools. It is known that one of the Continuum Indirections looked like a cinema, another one like a car, one like a train, one like a flying computerized skateboard. At least one looked like a Nuclear Power Plant and only allowed one-way travel.
+
 ### Baseline Administrative Continuum Indirections
 
-Before the **Agency for the Continuity of Space and Time** was given its name, its agents were already dispatched through Time+Space in desperate attempts to fix the Snafu before the Entirety of Everything was Lost \(tm\). For this reason, the first generation of the Agency – a dozen or so Continuum Indirections – had hardly any opportunity to compare their tools. It is known that one of the Continuum Indirections looked like a cinema, another one like a car, one like a train, one like a flying computerized skateboard. At least one looked like a Nuclear Power Plant and only allowed one-way travel.
+After this period of rush, **Agency for the Continuity of Space and Time **was given its name and official tasks and industry contracts started to kick in and normalize Continuum Indirections and equipment. The standard Continuum Indirection of this period looked like a large metallic sphere standing on three feet, with enough space to accomodate the 3-5 Crew members, dry toilets, and their backpacks. These vehicles were not meant for extended stay, and there was in particular not enough room to sleep. This design proved unpopular and was abandoned by all the other branches of the Bureaucracy.
 
-After this period of rush, industry contracts started to kick in and normalize Continuum Indirections and equipment. The standard Continuum Indirection of this period looked like a large metallic sphere standing on three feet, with enough space to accomodate the 3-5 Crew members, dry toilets, and their backpacks. These vehicles were not meant for extended stay, and there was in particular not enough room to sleep. This design proved unpopular and was abandoned by all the other branches of the Bureaucracy.
-
-Much later, the **Office of Time & Measures**, whose main task was safety inspection and taxation, 
+Much later, the **Office of Time & Measures**, whose main task was safety inspection and taxation,
 
 ### Baseline Militarist Continuum Indirections
 
