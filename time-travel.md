@@ -35,11 +35,19 @@ Learning from the errors of the Space+Time Fleet, the **Time Brigade** adopted a
 
 > **Time Brigade Citadel**
 >
-> * Strong-arm architecture.
+> * Extolling the Virtue of the People.
 > * Surveillance, infiltration and Crowd Control.
-> * Threats over weapons.
+> * Strong-arm tactics without weapons.
 
 When the **People's Time Liberation Army** defected from the Time Brigade, it did so with very similar Citadels. Eagles were struck down and replaced with Hammers, Sickles, Stars or other symbols reminding the People of just how free it actually was, despite appearances. Crowd-Control Clockworks were maintained, but the expensive and fragile robots and Perfect Polymorphic Provocateurs were dumped and replaced with more cost-efficient Political Reeducation Chambers, large enough to _cure_ hundreds of political opponents. While getting the first few Time Peasants into a Political Reeducation Chamber is sometimes a difficult task for the Crew, once the Time Peasants have completed their Reeducation, they become extremely useful well-indoctrinated Educated Citizens \(also known as "zombies"\). The Crew of People's Time Liberation Citadels is typically composed of one Political Officer \(often male\), several hundred Educated Citizens \(renormalized to two genders\) and a dozen of Officers \(two genders\). The Political Officer is the only one with the keys required to travel through time or reprogram the Political Reeducation Chambers.
+
+> **People's Time Liberation Citadels**
+>
+> * Extolling the Freedom of the People.
+> * Educating Citizens.
+> * Nobody goes anywhere without the say-so of the Political Officer.
+
+### 
 
 ### The Academics
 
