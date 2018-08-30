@@ -27,11 +27,11 @@ All images are believed to allow reproduction and reuse.
 | ![](/assets/small_odd3.png) | ... |
 | ![](/assets/small_even4.png) | ... |
 | ![](/assets/small_odd4.png) | ... |
-| ![](/assets/small_even5.png) | ... |
+| ![](/assets/small_even5.png) | The Space Fleet, The Space+Time Fleet |
 | ![](/assets/small_odd5.png) | The Office for Time & Measures |
-| ![](/assets/small_even6.png) | The Agency for Continuity of Space & Time |
-| ![](/assets/small_odd6.png) | Perfect Polymorphic Provocateurs |
-| ![](/assets/small_even7.png) | The Time Hanse |
+| ![](/assets/small_even6.png) | The Agency for Continuity of Space & Time, the Time Museum |
+| ![](/assets/small_odd6.png) | Perfect Polymorphic Provocateurs, the Time Adjustment Foundation, Time Magazine,  |
+| ![](/assets/small_even7.png) | The Time Hanse, the Time Museum |
 | ![](/assets/small_odd7.png) | The Time Hierarchy |
 | ![](/assets/small_even8.png) | ... |
 | ![](/assets/small_odd8.png) | ... |
