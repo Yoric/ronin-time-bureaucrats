@@ -81,6 +81,8 @@ For instance:
 * If your Grandmother didn’t lie, perhaps the man who sired your parent was an imposter? Perhaps a Polymorphic Provocateur of the Time Brigades? If you can somehow make it likely, there is no Observable Contradiction, just odd looks from the rest of your Crew.
 * Now, if other hypotheses are unreasonable, you have create a Pocket Continuum.
 
+### Circular symphonies
+
 ### Pocket Continuums
 
 As it turns out, Paradoxes can very well exist in the universe, although generating a Paradox is seldom in your own interest:
