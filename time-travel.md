@@ -31,8 +31,6 @@ Ignoring the recommendations of the scientists in charge of Time Travel, the **S
 > * Countless soldiers and crew members.
 > * Takes forever to get ready.
 
-
-
 Learning from the errors of the Space+Time Fleet, the **Time Brigade** adopted an approach based on a combination of infiltration and strongarm tactics. The Continuum Indirections of the Time Brigade, known as Citadels, resemble huge buildings of concrete, large enough to host military marches, and featuring prominent flags and eagles. The Crew of a Citadel is typically small \(3-10 Bureaucrats, including a Political Officer\), supplemented by a few Perfect Polymorphic Provocateurs and thousands of Crowd-Control Clockworks. To avoid the temptation of the Crew violating the Law of Observable Contradictions, only the Political Officer may carry a non-lethal weapon, or weaponize the otherwise weak Crowd-Control Clockworks. Walking inside the long and tall corridors of a Time Citadel, one may encounter automatons wearing military uniforms, pass in front of large paintings extolling the Virtue of the People and hear, or at least imagine, choirs stuck singing patriotic hymns. The Crew of a Time Citadel is mixed-gender \(only two genders\) and always contains exactly one Political Officers, who is generally a male.
 
 > **Time Brigade Citadel**
@@ -65,12 +63,16 @@ It has been noticed that, regardless of time and space, the so-called Time Plebe
 
 ## Paradoxes and Pocket Continuums
 
+### The Law of Observable Contradictions
+
 One of the main risks of Time Travel is the Paradox. Any action by a Time Traveller can theoretically have extreme consequences on the Continuum.
 
 This has been formulated as the Axiom of Observable Contradictions:
 
 * An action by Time Travellers on Time causes Paradox if and only if it is causes a contradiction observable by any Time Traveller \(including the ones who caused the action or will cause the action\) at another set of coordinates.
 * An apparent contradiction that can somehow be explained reasonably enough to be waved away is not really an Observable Contradiction and will therefore not cause Paradox.
+
+### Killing your own grand-father
 
 For instance:
 
@@ -79,19 +81,19 @@ For instance:
 * If your Grandmother didn’t lie, perhaps the man who sired your parent was an imposter? Perhaps a Polymorphic Provocateur of the Time Brigades? If you can somehow make it likely, there is no Observable Contradiction, just odd looks from the rest of your Crew.
 * Now, if other hypotheses are unreasonable, you have create a Pocket Continuum.
 
+### Pocket Continuums
+
 As it turns out, Paradoxes can very well exist in the universe, although generating a Paradox is seldom in your own interest:
 
 * Paradoxes cause Pocket Continuums.
 * Naturally, a Pocket Continuums will tend to fold upon itself and vanish very quickly, with everything and everyone who happened to be in the Continuum at the time.
 * Importing materials and Time Energy to a Pocket Continuum will strengthen it, possibly turning it into an alternate Continuum. Conversely, exporting materials and Time Energy from a Continuum will sap it, eventually turning it into an unstable Pocket Continuum.
 
-E
-
 You may wish to remain in this Continuum, in which your parent was never born, nor were you, but unless you find a very good way to strengthen it, it will quickly implode. You may survive the implosion if you are in your Indirection at the time.
 
 * If you really, really want the Pocket Continuum to survive, you will have to strengthen it. If you can somehow lure many Time Travellers \(perhaps by importing a whole section of the Time Cold War?\) into your Pocket Continuum, it will eventually become a full-fledged Continuum. With more effort, you could even erase the Continuum in which your Grandfather survived.
 
-## Life and Death of a Bureaucrat
+### Killing off Bureaucrats
 
 An important consequence of the Axiom of Observable Contradictions is that Time Travellers \(and people aware of Time Travel\) tend to take extreme measures to avoid killing anyone, in particular other Time Travellers. Killing a Time Traveller \(or, if you are a Time Traveller, killing a time-immobile witness\) tends to cause all sorts of unexpected Observable Contradictions, which in turn has pretty good chances of trapping you in a Pocket Continuum from which you might not be able to escape.
 
