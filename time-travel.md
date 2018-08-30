@@ -21,9 +21,19 @@ Now, there are some limitations to where your Continuum Indirection can take you
 
 Since you are a Ronin Time Bureaucrat, the aspect and features of your Continuum Indirection depends a lot of where it comes from, and how you have customized it since you, er, eloped. Let us visit a few examples.
 
-### Baseline militarists Continuum Indirections
+### Baseline Administrative Continuum Indirections
 
-Ignoring the recommendations of the scientists in charge of Time Travel, the **Space+Time Fleet** was designed for Shock and Awe: reaching Space+Time coordinates with an orbital ship \(to avoid the difficulties of traveling at ground-level\), then dropping combat-ready Space+Time Marines with a combination of dropships and shock capsules, depending on just how much Awe and enemy-flattening was deemed necessary. The design of the orbital ships was itself based on that of airplane carriers \(for the large ones\) and combat deployment helicopters \(for the smaller ones\). These Continuum Indirections, however, have only been used very briefly in the history of the Bureaucracy: once even the highest-ranking officers of the Space+Time Fleet had to admit that the Law of Observable Contradictions was not a "Leftie Liberal Hoax", the Space+Time Fleet was forced to deduce the obsolescence of most of its brand new equipment. While a few missions of the Space+Time Fleet may still be witnessed here and there in Space+Time, most of this fleet has been either scrapped, recycled into Time Federation equipment – or vanished. Standard Space+Time Fleet Crews are mixed-gender \(all genders\), and positions of authority are generally either held by one of the two normative genders \(males, females\).
+Before the **Agency for the Continuity of Space and Time** was given its name, its agents were already dispatched through Time+Space in desperate attempts to fix the Snafu before the Entirety of Everything was Lost \(tm\). For this reason, the first generation of the Agency – a dozen or so Continuum Indirections – had hardly any opportunity to compare their tools. It is known that one of the Continuum Indirections looked like a cinema, another one like a car, one like a train, one like a flying computerized skateboard. At least one looked like a Nuclear Power Plant and only allowed one-way travel.
+
+After this period of rush, industry contracts started to kick in and normalize Continuum Indirections and equipment. The standard Continuum Indirection of this period looked like a large metallic sphere standing on three feet, with enough space to accomodate the 3-5 Crew members, dry toilets, and their backpacks. These vehicles were not meant for extended stay, and there was in particular not enough room to sleep. This design proved unpopular and was abandoned by all the other branches of the Bureaucracy.
+
+Much later, the **Office of Time & Measures**, whose main task was safety inspection and taxation, 
+
+### Baseline Militarist Continuum Indirections
+
+Ignoring the recommendations of the scientists in charge of Time Travel, the **Space+Time Fleet** was designed for Shock and Awe: reaching Space+Time coordinates with an orbital ship \(to avoid the difficulties of traveling at ground-level\), then dropping combat-ready Space+Time Marines with a combination of dropships and shock capsules, depending on just how much Awe and enemy-flattening was deemed necessary. The design of the orbital ships was itself based on that of airplane carriers \(for the large ones\) and combat deployment helicopters \(for the smaller ones\).
+
+These Continuum Indirections, however, have only been used very briefly in the history of the Bureaucracy: once even the highest-ranking officers of the Space+Time Fleet had to admit that the Law of Observable Contradictions was not a "Leftie Liberal Hoax", the Space+Time Fleet was forced to deduce the obsolescence of most of its brand new equipment. While a few missions of the Space+Time Fleet may still be witnessed here and there in Space+Time, most of this fleet has been either scrapped, recycled into Time Federation equipment – or vanished. Standard Space+Time Fleet Crews are mixed-gender \(all genders\), and positions of authority are generally either held by one of the two normative genders \(males, females\).
 
 > **Space+Time Fleet**
 >
@@ -31,7 +41,9 @@ Ignoring the recommendations of the scientists in charge of Time Travel, the **S
 > * Countless soldiers and crew members.
 > * Takes forever to get ready.
 
-Learning from the errors of the Space+Time Fleet, the **Time Brigade** adopted an approach based on a combination of infiltration and strongarm tactics. The Continuum Indirections of the Time Brigade, known as Citadels, resemble huge buildings of concrete, large enough to host military marches, and featuring prominent flags and eagles. The Crew of a Citadel is typically small \(3-10 Bureaucrats, including a Political Officer\), supplemented by a few Perfect Polymorphic Provocateurs and thousands of Crowd-Control Clockworks. To avoid the temptation of the Crew violating the Law of Observable Contradictions, only the Political Officer may carry a non-lethal weapon, or weaponize the otherwise weak Crowd-Control Clockworks. Walking inside the long and tall corridors of a Time Citadel, one may encounter automatons wearing military uniforms, pass in front of large paintings extolling the Virtue of the People and hear, or at least imagine, choirs stuck singing patriotic hymns. The Crew of a Time Citadel is mixed-gender \(only two genders\) and always contains exactly one Political Officers, who is generally a male.
+Learning from the errors of the Space+Time Fleet, the **Time Brigade** adopted an approach based on a combination of infiltration and strongarm tactics. The Continuum Indirections of the Time Brigade, known as Citadels, resemble huge buildings of concrete, large enough to host military marches, and featuring prominent flags and eagles. The Crew of a Citadel is typically small \(3-10 Bureaucrats, including a Political Officer\), supplemented by a few Perfect Polymorphic Provocateurs and thousands of Crowd-Control Clockworks.
+
+To avoid the temptation of the Crew violating the Law of Observable Contradictions, only the Political Officer may carry a non-lethal weapon, or weaponize the otherwise weak Crowd-Control Clockworks. Walking inside the long and tall corridors of a Time Citadel, one may encounter automatons wearing military uniforms, pass in front of large paintings extolling the Virtue of the People and hear, or at least imagine, choirs stuck singing patriotic hymns. The Crew of a Time Citadel is mixed-gender \(only two genders\) and always contains exactly one Political Officers, who is generally a male.
 
 > **Time Brigade Citadel**
 >
@@ -39,7 +51,9 @@ Learning from the errors of the Space+Time Fleet, the **Time Brigade** adopted a
 > * Surveillance, infiltration and Crowd Control.
 > * Strong-arm tactics without weapons.
 
-When the **People's Time Liberation Army** defected from the Time Brigade, it did so with very similar Citadels. Eagles were struck down and replaced with Hammers, Sickles, Stars or other symbols reminding the People of just how free it actually was, despite appearances. Crowd-Control Clockworks were maintained, but the expensive and fragile robots and Perfect Polymorphic Provocateurs were dumped and replaced with more cost-efficient Political Reeducation Chambers, large enough to _cure_ hundreds of political opponents. While getting the first few Time Peasants into a Political Reeducation Chamber is sometimes a difficult task for the Crew, once the Time Peasants have completed their Reeducation, they become extremely useful well-indoctrinated Educated Citizens \(also known as "zombies"\). The Crew of People's Time Liberation Citadels is typically composed of one Political Officer \(often male\), several hundred Educated Citizens \(renormalized to two genders\) and a dozen of Officers \(two genders\). The Political Officer is the only one with the keys required to travel through time or reprogram the Political Reeducation Chambers.
+When the **People's Time Liberation Army** defected from the Time Brigade, it did so with very similar Citadels. Eagles were struck down and replaced with Hammers, Sickles, Stars or other symbols reminding the People of just how free it actually was, despite appearances. Crowd-Control Clockworks were maintained, but the expensive and fragile robots and Perfect Polymorphic Provocateurs were dumped and replaced with more cost-efficient Political Reeducation Chambers, large enough to _cure_ hundreds of political opponents. While getting the first few Time Peasants into a Political Reeducation Chamber is sometimes a difficult task for the Crew, once the Time Peasants have completed their Reeducation, they become extremely useful well-indoctrinated Educated Citizens \(also known as "zombies"\).
+
+The Crew of People's Time Liberation Citadels is typically composed of one Political Officer \(often male\), several hundred Educated Citizens \(renormalized to two genders\) and a dozen of Officers \(two genders\). The Political Officer is the only one with the keys required to travel through time or reprogram the Political Reeducation Chambers.
 
 > **People's Time Liberation Citadels**
 >
@@ -47,7 +61,7 @@ When the **People's Time Liberation Army** defected from the Time Brigade, it di
 > * Educating Citizens.
 > * Nobody goes anywhere without the say-so of the Political Officer.
 
-### 
+These are but a few examples of militarist Continuum Interactions. As usual, do not hesitate to come up with your own.
 
 ### The Academics
 
