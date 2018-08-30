@@ -17,9 +17,7 @@ Now, there are some limitations to where your Continuum Indirection can take you
 5. Sufficiently dense Gamma Meson bombardments have been known to play havoc on the `[REDACTED]` of Continuum Indirections, which may theoretically end up with your Continuum Indirection landing at Space+Time coordinates slightly different from those you had in mind. However, don't let this scare you. The probability of encountering a dense Gamma Meson bombardment in the entirety of Space+Time is so infinitesimally small that you could spend millenia traveling with your Continuum Indirection without encountering a single one! 
 6. On occasion, Continuum Indirections have been known to travel to and from alternate universes. While this is actually quite easy to do, experience shows that it is extremely hard to do _on purpose_.
 
-
-
-Many – though not all – Continuum Indirections are also designed to allow communications through Time+Space.
+Many – though not all – Continuum Indirections are also designed to allow communications through Space·Time.
 
 ## What does my Continuum Indirection look like?
 
