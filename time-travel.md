@@ -76,7 +76,7 @@ The Crew of People's Time Liberation Citadels is typically composed of one Polit
 
 ### The Academics
 
-On the other hand, the **Time Library** has employed hand-held Indirections that let Bureaucrats simply walk from any library in Time and Space \(in a pinch, a large enough bookshop will do\) to any other one through temporary L-Dimensional tunnels.
+Almost since its opening, the **Time Library** has determined that it needed its own Continuum Indirections, and that the main use of these Continuum Indirections would be to visit libraries all over Space·Time. Indeed, the first mission entrusted by the Time Library to a Crew of Librarians was to visit the Great Library of Alexandria during its destruction, join the rioters, and take the opportunity to grab as many books as possible. While this Crew quickly discovered that there was no riot about to destroy the Great Library and that they would have to cause one themselves if they were to be able to fulfill this mission, the modus operandi has been, by and large, conserved: sneak into a library holding precious documents, replace them with fakes, then run. For this purpose, the Time Library employs small Crews – typically only two or three Librarians – wearing hand-held Continuum Indirections that let them simply walk from any library in Space·Time to any other one through temporary L-Dimensional corridors. In a pinch, a large enough bookshop will do.
 
 Even more stealthy, the **Time Museum** hides Indirections inside pieces of art that can easily travel between public and private collections, including manuscripts and paintings, and uses Myp-Morphism to let the Bureaucrats discreetly enter or leave their mostly bidimensional Indirection.
 
