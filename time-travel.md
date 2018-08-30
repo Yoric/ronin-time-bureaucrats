@@ -25,9 +25,23 @@ Since you are a Ronin Time Bureaucrat, the aspect and features of your Continuum
 
 Ignoring the recommendations of the scientists in charge of Time Travel, the **Space+Time Fleet** was designed for Shock and Awe: reaching Space+Time coordinates with an orbital ship \(to avoid the difficulties of traveling at ground-level\), then dropping combat-ready Space+Time Marines with a combination of dropships and shock capsules, depending on just how much Awe and enemy-flattening was deemed necessary. The design of the orbital ships was itself based on that of airplane carriers \(for the large ones\) and combat deployment helicopters \(for the smaller ones\). These Continuum Indirections, however, have only been used very briefly in the history of the Bureaucracy: once even the highest-ranking officers of the Space+Time Fleet had to admit that the Law of Observable Contradictions was not a "Leftie Liberal Hoax", the Space+Time Fleet was forced to deduce the obsolescence of most of its brand new equipment. While a few missions of the Space+Time Fleet may still be witnessed here and there in Space+Time, most of this fleet has been either scrapped, recycled into Time Federation equipment – or vanished. Standard Space+Time Fleet Crews are mixed-gender \(all genders\), and positions of authority are generally either held by one of the two normative genders \(males, females\).
 
+> **Space+Time Fleet**
+>
+> * Shock + Awe
+> * Countless soldiers and crew members.
+> * Takes forever to get ready.
+
+
+
 Learning from the errors of the Space+Time Fleet, the **Time Brigade** adopted an approach based on a combination of infiltration and strongarm tactics. The Continuum Indirections of the Time Brigade, known as Citadels, resemble huge buildings of concrete, large enough to host military marches, and featuring prominent flags and eagles. The Crew of a Citadel is typically small \(3-10 Bureaucrats, including a Political Officer\), supplemented by a few Perfect Polymorphic Provocateurs and thousands of Crowd-Control Clockworks. To avoid the temptation of the Crew violating the Law of Observable Contradictions, only the Political Officer may carry a non-lethal weapon, or weaponize the otherwise weak Crowd-Control Clockworks. Walking inside the long and tall corridors of a Time Citadel, one may encounter automatons wearing military uniforms, pass in front of large paintings extolling the Virtue of the People and hear, or at least imagine, choirs stuck singing patriotic hymns. The Crew of a Time Citadel is mixed-gender \(only two genders\) and always contains exactly one Political Officers, who is generally a male.
 
-When the **People's Time Liberation Army** defected from the Time Brigade, it did so with very similar Citadels. Eagles were struck down and replaced with Hammers, Sickles, Stars or other symbols reminding the People of just how free it actually was, despite appearances. Crowd-Control Clockworks were maintained, but the expensive and fragile Perfect Polymorphic Provocateurs were dumped and replaced with more cost-efficient Political Reeducation Chambers, large enough to _cure_ hundreds of political opponents. While getting the first few Time Peasants into a Political Reeducation Chamber is sometimes a difficult task for the Crew, once the Time Peasants have completed their Reeducation, they become extremely useful well-indoctrinated zombies. The Crew of a Time Citadel is also mixed-gender \(only two genders\) and always contains exactly one Political Office, who is generally a male.
+> **Time Brigade Citadel**
+>
+> * Strong-arm architecture.
+> * Surveillance, infiltration and Crowd Control.
+> * Threats over weapons.
+
+When the **People's Time Liberation Army** defected from the Time Brigade, it did so with very similar Citadels. Eagles were struck down and replaced with Hammers, Sickles, Stars or other symbols reminding the People of just how free it actually was, despite appearances. Crowd-Control Clockworks were maintained, but the expensive and fragile robots and Perfect Polymorphic Provocateurs were dumped and replaced with more cost-efficient Political Reeducation Chambers, large enough to _cure_ hundreds of political opponents. While getting the first few Time Peasants into a Political Reeducation Chamber is sometimes a difficult task for the Crew, once the Time Peasants have completed their Reeducation, they become extremely useful well-indoctrinated Educated Citizens \(also known as "zombies"\). The Crew of People's Time Liberation Citadels is typically composed of one Political Officer \(often male\), several hundred Educated Citizens \(renormalized to two genders\) and a dozen of Officers \(two genders\). The Political Officer is the only one with the keys required to travel through time or reprogram the Political Reeducation Chambers.
 
 ### The Academics
 
