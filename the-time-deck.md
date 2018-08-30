@@ -19,7 +19,7 @@ All images are believed to allow reproduction and reuse.
 | Card | Additional interpretations |
 | :---: | :--- |
 | ![](/assets/small_odd0.png) | ... |
-| ![](/assets/small_even1.png) | ... |
+| ![](/assets/small_even1.png) | The Time Commune |
 | ![](/assets/small_odd1.png) | The Space+Time Fleet, a Time Citadel. |
 | ![](/assets/small_even2.png) | The Most Benevolent Administrators. |
 | ![](/assets/small_odd2.png) | ... |
@@ -30,7 +30,7 @@ All images are believed to allow reproduction and reuse.
 | ![](/assets/small_even5.png) | The Space Fleet, The Space+Time Fleet |
 | ![](/assets/small_odd5.png) | The Office for Time & Measures |
 | ![](/assets/small_even6.png) | The Agency for Continuity of Space & Time, the Time Museum |
-| ![](/assets/small_odd6.png) | Perfect Polymorphic Provocateurs, the Time Adjustment Foundation, Time Magazine,  |
+| ![](/assets/small_odd6.png) | Perfect Polymorphic Provocateurs, the Time Adjustment Foundation, Time Magazine, |
 | ![](/assets/small_even7.png) | The Time Hanse, the Time Museum |
 | ![](/assets/small_odd7.png) | The Time Hierarchy |
 | ![](/assets/small_even8.png) | ... |
