@@ -17,7 +17,7 @@ The Time Deck consists in 22 cards, loosely inspired from the Major Arcana of a 
 All images are believed to allow reproduction and reuse.
 
 | Image | Interpretations |
----------
+---------------------------
 | ![](/assets/small_odd0.png) | ... |
 | ![](/assets/small_even1.png) | ... |
 | ![](/assets/small_odd1.png) | ... |
