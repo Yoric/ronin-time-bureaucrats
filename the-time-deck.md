@@ -45,7 +45,8 @@ As you can see, each card has:
 
 * an image;
 * a title;
-* two interpretations, depending on how you hold the card.
+* two interpretations, depending on how you hold the card;
+* also, a few ideas of additional interpretations.
 
 We'll use all of them for improvisation.
 
