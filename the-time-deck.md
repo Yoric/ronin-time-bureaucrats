@@ -16,30 +16,30 @@ The Time Deck consists in 22 cards, loosely inspired from the Major Arcana of a 
 
 All images are believed to allow reproduction and reuse.
 
-| Card | Example interpretations |
-| --- | ------------------------ |
+| Card | Additional interpretations |
+| :---: | :--- |
 | ![](/assets/small_odd0.png) | ... |
 | ![](/assets/small_even1.png) | ... |
-| ![](/assets/small_odd1.png) | ... |
-| ![](/assets/small_even2.png) | ... |
+| ![](/assets/small_odd1.png) | The Space+Time Fleet, a Time Citadel. |
+| ![](/assets/small_even2.png) | The Most Benevolent Administrators. |
 | ![](/assets/small_odd2.png) | ... |
 | ![](/assets/small_even3.png) | ... |
 | ![](/assets/small_odd3.png) | ... |
 | ![](/assets/small_even4.png) | ... |
 | ![](/assets/small_odd4.png) | ... |
 | ![](/assets/small_even5.png) | ... |
-| ![](/assets/small_odd5.png) | ... |
-| ![](/assets/small_even6.png) | ... |
-| ![](/assets/small_odd6.png) | ... |
-| ![](/assets/small_even7.png) | ... |
-| ![](/assets/small_odd7.png) | ... |
+| ![](/assets/small_odd5.png) | The Office for Time & Measures |
+| ![](/assets/small_even6.png) | The Agency for Continuity of Space & Time |
+| ![](/assets/small_odd6.png) | Perfect Polymorphic Provocateurs |
+| ![](/assets/small_even7.png) | The Time Hanse |
+| ![](/assets/small_odd7.png) | The Time Hierarchy |
 | ![](/assets/small_even8.png) | ... |
 | ![](/assets/small_odd8.png) | ... |
 | ![](/assets/small_even9.png) | ... |
 | ![](/assets/small_odd9.png) | ... |
 | ![](/assets/small_even10.png) | ... |
 | ![](/assets/small_odd10.png) | ... |
-| ![](/assets/small_even0.png) | ... |
+| ![](/assets/small_even0.png) | Time itself |
 
 As you can see, each card has:
 
