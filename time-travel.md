@@ -81,6 +81,7 @@ Almost since its opening, the **Time Library** has determined that it needed its
 > **L-Dimensional Corridors**
 >
 > * From any library to any other one.
+> * Fits in the pocket.
 
 While the more militant **Special Operations Division of the Time Library** \(or SOD\) started as a simple effort to track down books stolen from the Time Library by Time Travelers, it eventually grew into a powerful branch of the Time Bureaucracy in its own right. Special Operatives now track thieves through Space·Time, as well as enemies of the SOD and book molesters of all sorts. The SOD is known for its patience – some recovery operations have taken subjective years, spent progressively fictionalizing the life of a target for future generations, word by word, going progressively forward in time until the Special Operatives could be certain that replacing their target with an idealized Digitized Copy would remain unobservable. A Crew of Special Operatives typically consists in 4 of 5 persons, patiently hidden within the vast confines of their Continuum Indirection. These Continuum Indirections have both the shape and size of a \(hollowed out\) book, and may only be entered by using Myp-Morphism keys concealed on the person of the Librarians.
 
