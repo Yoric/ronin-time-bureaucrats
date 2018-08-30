@@ -1,4 +1,4 @@
-> "Have Time Machine, will travel throughout time and space. First need to escape from the British Library. Help needed."
+> "Have Time Machine, will travel throughout Space·Time. First need to escape from the British Library. Urgent help needed."
 >
 > Ad found in this morning's edition of _The Mirror_.
 

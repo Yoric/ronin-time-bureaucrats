@@ -16,15 +16,15 @@ Throughout its existence and despite all these reinventions, the Bureaucracy has
 
 This is a conflict of surprisingly little violence, made of subtle manipulations and grand gestures, of infiltrations, desertions, propaganda, and paradoxes. A Cold War more than a battlefield.
 
-Welcome to Time+Space!
+Welcome to Time·Space!
 
 
 
 ## Ronin Time Bureaucrats
 
-Unsurprisingly, with this Time Cold War, Bureaucrats tend to disappear here and there. A few died, surely, in the line of duty. Others switched allegiance. Some even survived the erasure of their entire timeline. As for others, well, they just decided to go their own way, out of boredom, disgust, or on their own personal quests. Once a disappearance is found out, the Bureaucracy searches for its missing Bureaucrats, of course. But, well, Space+Time is a large place, and it’s hard to find someone who may have accidentally misplaced the transponder from their Continuum Indirection and sent it hurling towards a black hole.
+Unsurprisingly, with this Time Cold War, Bureaucrats tend to disappear here and there. A few died, surely, in the line of duty. Others switched allegiance. Some even survived the erasure of their entire timeline. As for others, well, they just decided to go their own way, out of boredom, disgust, or on their own personal quests. Once a disappearance is found out, the Bureaucracy searches for its missing Bureaucrats, of course. But, well, Space·Time is a large place, and it’s hard to find someone who may have accidentally misplaced the transponder from their Continuum Indirection and sent it hurling towards a black hole.
 
-That’s who you are, by the way. A runaway crew of Ronin Time Bureaucrats, in your Continuum Indirection, flying merrily away from the Bureaucracy and towards... well, towards all of Space+Time!
+That’s who you are, by the way. A runaway crew of Ronin Time Bureaucrats, in your Continuum Indirection, flying merrily away from the Bureaucracy and towards... well, towards all of Space·Time!
 
 So what if past/future/alternate versions of the Bureaucracy \(and possibly yourself\) are looking for you and/or greedily rewriting the Continuum while you're away? It's none of your business, right?
 

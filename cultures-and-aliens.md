@@ -14,7 +14,7 @@ This would not be such a problem if infected, humans and machines alike didn't e
 
 > **Time Dispatch --- Urgent --- Time Dispatch --- Urgent --- Time Dispatch --- Urgent --- Time Dispatch**
 >
-> "This is a call to all Agents in the time+space vicinity. The year is 1901 and the Eiffel Tower is dancing, I repeat, the Eiffel Tower is dancing. This is not a code, the Eiffel Tower is dancing. Oh, now, it seems to be starting to... yes, the Eiffel Tower is stripping its clothes, apparently, it intends to dance naked in the streets. I repeat, the Eiffel Tower is preparing to dance naked in the streets of Paris 1901.
+> "This is a call to all Agents in the Time·Space vicinity. The year is 1901 and the Eiffel Tower is dancing, I repeat, the Eiffel Tower is dancing. This is not a code, the Eiffel Tower is dancing. Oh, now, it seems to be starting to... yes, the Eiffel Tower is stripping its clothes, apparently, it intends to dance naked in the streets. I repeat, the Eiffel Tower is preparing to dance naked in the streets of Paris 1901.
 >
 > Please, Agents, it's growing too big for a single Crew, we need reinforcements!"
 
@@ -42,9 +42,9 @@ They **0.001%** are a ramshackle group of refugees that claim to come from befor
 
 The **Most Benevolent Administrators** are believed to be leftovers of a dead branch of the Bureaucracy. They may be found scattered around time and space. While they look quite harmless – who would fear something that appears essentially to be photocopier on wheeltracks – the sheets of paper that they print sometimes make them very dangerous.
 
-Most Benevolent Administrators are generally Poets and Philosophs, able of deep reflections on the nature of the human psyche, among others. They are also extremely perceptive and their writings are eloquent as very few human can be. Surprisingly, they often use these skills, combine, for the perceived benefits of others. Wherever a Most Benevolent Administrator shows up – which may be pretty much anywhere in space+time – expect that within a few months, people will be inventing Social Security and Universities and Parliaments, building Cathedrals, Towers of Babel and Starships and Utopias. Sadly, very few civilizations can survive such a level of ascension, and the rule of a Most Benevolent Administrator most often ends with bloody revolutions, invasions, cataclysms or self-immolation.
+Most Benevolent Administrators are generally Poets and Philosophs, able of deep reflections on the nature of the human psyche, among others. They are also extremely perceptive and their writings are eloquent as very few human can be. Surprisingly, they often use these skills, combine, for the perceived benefits of others. Wherever a Most Benevolent Administrator shows up – which may be pretty much anywhere in Space·Time – expect that within a few months, people will be inventing Social Security and Universities and Parliaments, building Cathedrals, Towers of Babel and Starships and Utopias. Sadly, very few civilizations can survive such a level of ascension, and the rule of a Most Benevolent Administrator most often ends with bloody revolutions, invasions, cataclysms or self-immolation.
 
-Most Benevolent Administrators are rather peaceful, and will not incite a civilization to war when it could be using its own life essence to produce immortal pieces of art. The only known exception is when two Most Benevolent Administrators show up in the same time+space – this always ends up in a savage war ito the last man standing, for obscure philosophical or religious reasons.
+Most Benevolent Administrators are rather peaceful, and will not incite a civilization to war when it could be using its own life essence to produce immortal pieces of art. The only known exception is when two Most Benevolent Administrators show up in the same Time·Space – this always ends up in a savage war ito the last man standing, for obscure philosophical or religious reasons.
 
 ## The Brick Nation
 
@@ -58,7 +58,7 @@ Do not under estimate their smiling faces and open hands. Also, who is to say th
 
 > **Time Dispatch --- Classified --- Time Dispatch --- Classified**
 >
-> "Captain report, space+time coordinates... er, not sure, but we're plenty far from Earth Central and Delta Time is strongly negative.
+> "Captain report, Space·Time coordinates... er, not sure, but we're plenty far from Earth Central and Delta Time is strongly negative.
 >
 > So, last time we approached this civilization, they seemed to be locked in a very aggressive space war, with large battleships happily pounding each other, and they had apparently recently reached the technological level to destroy entire planets with some of their larger battlestations. Needless to say, we decided to leave them one or two generations and to return once they had picked a winner.
 >
@@ -66,7 +66,7 @@ Do not under estimate their smiling faces and open hands. Also, who is to say th
 >
 > My recommendation is that we cordon off their galaxy with a sanitation field, to make sure that their do not export their bloody war to our stars. Also, maybe it's me being prejudiced, but all the humans in this galaxy have a very yellow skin, so maybe there's a case of consanguinity that might explain why there can't be star peace around here? We should investigate who first settled this galaxy.
 >
-> Well, that's all for that space+time. So, on we go, for another season of our discovery mission. Our next stop is a place called, er, Magic Britain, where last time, they were preparing for civil war. With any luck, _they_'ll be more reasonable."
+> Well, that's all for that Space·Time. So, on we go, for another season of our discovery mission. Our next stop is a place called, er, Magic Britain, where last time, they were preparing for civil war. With any luck, _they_'ll be more reasonable."
 
 ## The Time Hierarchy
 
