@@ -78,12 +78,16 @@ The Crew of People's Time Liberation Citadels is typically composed of one Polit
 
 Almost since its opening, the **Time Library** has determined that it needed its own Continuum Indirections, and that the main use of these Continuum Indirections would be to visit libraries all over Space·Time. Indeed, the first mission entrusted by the Time Library to a Crew of Librarians was to visit the Great Library of Alexandria during its destruction, join the rioters, and take the opportunity to grab as many books as possible. While this Crew quickly discovered that there was no riot about to destroy the Great Library and that they would have to cause one themselves if they were to be able to fulfill this mission, the modus operandi has been, by and large, conserved: sneak into a library holding precious documents, replace them with fakes, then run. For this purpose, the Time Library employs small Crews – typically only two or three Librarians – wearing hand-held Continuum Indirections that let them simply walk from any library in Space·Time to any other one through temporary L-Dimensional corridors. In a pinch, a large enough bookshop will do. This techniques is shared by agents of the **Time Museum**.
 
-> **L-Dimensional Corridors**
+> **L-Dimensional Time Corridors**
 >
 > * From any library to any other one.
 > * Fits in the pocket.
 
 While the more militant **Special Operations Division of the Time Library** \(or SOD\) started as a simple effort to track down books stolen from the Time Library by Time Travelers, it eventually grew into a powerful branch of the Time Bureaucracy in its own right. Special Operatives now track thieves through Space·Time, as well as enemies of the SOD and book molesters of all sorts. The SOD is known for its patience – some recovery operations have taken subjective years, spent progressively fictionalizing the life of a target for future generations, word by word, going progressively forward in time until the Special Operatives could be certain that replacing their target with an idealized Digitized Copy would remain unobservable. A Crew of Special Operatives typically consists in 4 of 5 persons, patiently hidden within the vast confines of their Continuum Indirection. These Continuum Indirections have both the shape and size of a \(hollowed out\) book, and may only be entered by using Myp-Morphism keys concealed on the person of the Librarians.
+
+> **Time Books**
+>
+> * df
 
 ### The Governments
 
@@ -100,6 +104,16 @@ Contractually, the shady **Union of Time Investigators** \(or "Private I", as th
 It has been noticed that, regardless of time and space, the so-called Time Plebeians \(aka non-Time Travelers\) do not seem to care all that much about the appearance of a new shop, piece of art, building or even city, so after a time, Indirection engineers gave up on attempts at camouflage and just rolled with it.
 
 ## Paradoxes and Pocket Continuums
+
+Many things can happen in time without any kind of consequence. Do you wish to teach the 5th Symphony to Beethoven? Not a problem. Step on a butterfly? Most likely not a problem, either. Give the Mona Lisa a [moustache](https://www.dalipaintings.com/self-portrait-mona-lisa.jsp) while Leonardo Da Vinci is asleep? Chances are that he's going to fix the issue tomorrow morning. Kill baby Hitler or your grandfather? Ah, that might be a problem. Or then, it might not.
+
+This has been formulated as the Law of Observable Contradictions.
+
+* An action by a Time Traveler \(or a group of Time Travelers\) increases Paradox if and only if it causes a contradiction with respect to whatever that Time Traveler has observed in their subjective past.
+* However, if the apparent observable contradiction that may be explained reasonably enough to be waved away will cause little-to-no Paradox increase.
+* Too much Paradox will eventually cause the local Continuum to fold into a Pocket Continuum. That is not good.
+
+In terms of rules, Paradox is Damage to the Continuum. Time Travelers have a reserve of Time Jokers, that may be used among other things to Explain Observable Contradictions. Oh, and to get help from your past or future self.
 
 ### The Law of Observable Contradictions
 
