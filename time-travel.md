@@ -23,7 +23,7 @@ Many – though not all – Continuum Indirections are also designed to allow co
 
 Since you are a Ronin Time Bureaucrat, the aspect and features of your Continuum Indirection depends a lot of where it comes from, and how you have customized it since you, er, eloped. Let us visit a few examples.
 
-Before the Bureaucracy was officially created, its agents were already dispatched through Time·Space in desperate attempts to fix the Snafu before the Entirety of Everything was Lost \(tm\). For this reason, the first generation of the Agency – a dozen or so Continuum Indirections – had hardly any opportunity to compare their tools. It is known that one of the Continuum Indirections looked like a cinema, another one like a car, one like a train, one like a flying computerized skateboard. At least one looked like a Nuclear Power Plant and only allowed one-way travel.
+Before the Bureaucracy was officially created, its agents were already dispatched through Time·Space in desperate attempts to fix the Snafu before the Entirety of Everything was Lost \(tm\). For this reason, the first generation of the Agency – a dozen or so Continuum Indirections – had hardly any opportunity to compare their tools. It is known that one of the Continuum Indirections looked like a cinema, another one like a car, one like a train, one like a flying computer keyboard, one like a set of time-connected toilet stalls and one like a Jaccuzi. Another was essentially a Nuclear Power Plant and only allowed one-way travel.
 
 ### Baseline Administrative Continuum Indirections
 
@@ -112,6 +112,30 @@ This has been formulated as the Law of Observable Contradictions.
 * An action by a Time Traveler \(or a group of Time Travelers\) increases Paradox if and only if it causes a contradiction with respect to whatever that Time Traveler has observed in their subjective past.
 * However, if the apparent observable contradiction that may be explained reasonably enough to be waved away will cause little-to-no Paradox increase.
 * Too much Paradox will eventually cause the local Continuum to fold into a Pocket Continuum. That is not good.
+
+Example:
+
+* Time Traveler Tom just shot the Big Bad Masked Man, without realizing that, behind the mask, BBMM was also Grandfather Gerry, before he met Grandmother Greta.
+
+* Apparently, this is an Observable Contradiction. If left untreated, it will damage cause Paradox, damaging the Continuum.
+
+* Paradox is bad. Time Traveler Tom doesn't like Paradox. So Time Traveler Tom will attempt to Explain the Apparent Contradiction.
+
+* First, Time Traveler Tom argues that Grandmother Greta has always been a compulsive drunk, who had sex with just about any stranger. She was also a compulsive liar. So, there are very good chances that Grandmother Greta had no clue who Time Traveler Tom's grandfather really was, and just used the picture of a random man.
+
+* "Fair enough, responds the Fair GM, this may have been. Your future self will need to ensure that she uses this specific picture, though. Does this suit you?"
+
+* Time Traveler Tom accepts, hands out one Time Point to ensure that his future self will put the picture at the right place, and rolls his dice to protect the Continuum.
+
+* Sadly, Time Traveler Tom fails in his roll. Is the Continuum doomed?
+
+* Fear not, as Time Traveler Tani announces that she her past self has overheard an evil Polymorphic Provocateur announce his intention of replacing Big Bad Masked Man. Time Traveler Tani hands out one Time Point to thank her past self for this help.
+
+* This time, Time Traveler Tani succeeds in her roll. The Paradox disappears and the Continuum is saved!
+
+* Had Time Traveler Tani failed in her roll, the Paradox would have been maintained.
+
+* A sufficiently low level of Paradox is acceptable, as there are so may ways the Continuum could have eventually saved itself without the help of the Time Travelers. However, should the Continuum run out of Paradox, this would have caused...
 
 In terms of rules, Paradox is Damage to the Continuum. Time Travelers have a reserve of Time Jokers, that may be used among other things to Explain Observable Contradictions. Oh, and to get help from your past or future self.
 
