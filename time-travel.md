@@ -83,19 +83,21 @@ Almost since its opening, the **Time Library** has determined that it needed its
 > * From any library to any other one.
 > * Fits in the pocket.
 
-While the more militant **Special Operations Division of the Time Library** \(or SOD\) started as a simple effort to track down books stolen from the Time Library by Time Travelers, it eventually grew into a feared branch of the Time Bureaucracy in its own right. Special Operatives are now in charge of tracking not only thieves through Space·Time, but also enemies of the Special Operations Division itself – and book molesters. It seems fair to describe the Special Operations Division has been described as an entity whose sole role is to use books and covert operations to increase its own reach and power. A Crew of Special Operatives typically consists in 4 of 5 persons, patiently hidden within the \(locally\) vast confines of their Continuum Indirection. These Continuum Indirections have both the shape and size of a \(hollowed out\) book, and may only be entered by using changing the size of the Librarian or visitor through the use of a Myp-Morphism key. Each book contains not only a vast arsenal of \(both lethal and non-lethal\) weaponry, but also interrogation rooms, comprehensive surveillance archives, and a 
-
-
-
-By opposition, the **Acquisition Department of the Museum of Time** is quite benign, really. Its Acquirers travel through Space·Time with the mere help of an \(admittedly not entirely mundane\) map, which they often dutifully forget to complete.
-
-\[Indiana Jones\]
-
- Special Operatives now track thieves through Space·Time, as well as enemies of the SOD and book molesters of all sorts. The SOD is known for its patience – some recovery operations have taken subjective years, spent progressively fictionalizing the life of a target for future generations, word by word, going progressively forward in time until the Special Operatives could be certain that replacing their target with an idealized Digitized Copy would remain unobservable. 
+While the more militant **Special Operations Division of the Time Library** \(or SOD\) started as a simple effort to track down books stolen from the Time Library by Time Travelers, it eventually grew into a feared branch of the Time Bureaucracy in its own right. Special Operatives are now in charge of tracking not only thieves through Space·Time, but also enemies of the Special Operations Division itself – and book molesters. It seems fair to describe the Special Operations Division has been described as an entity whose sole role is to use books and covert operations to increase its own reach and power. Their Continuum Indirections have both the shape and size of a \(hollowed out\) book, and may only be entered by using changing the size of the Librarian or visitor through the use of a Myp-Morphism key. Each book contains not only a vast arsenal of \(both lethal and non-lethal\) weaponry, but also interrogation rooms, comprehensive surveillance archives, and a seemingly endless reserve of time-relevant costumes and currencies. For some reason, Crews are generally composed of 3 to 5 square-jawed, square-shouldered men's men in fedoras, dress shirts, holsters and suit jackets, sometimes accompanied by the odd femme fatale.
 
 > **Time Books**
 >
-> * df
+> * Larger on the inside. Or maybe you're just smaller.
+> * Everything you need to upset the Balance of Power.
+> * Found in any large enough library.
+
+By opposition, the **Acquisition Department of the Museum of Time** is quite benign, really. Its adventuring Acquirers travel through Space·Time with the mere help of an \(admittedly not entirely mundane\) map, which they often dutifully forget to complete. They brave untold dangers to recover forgotten artifacts and lost knowledge, resolutely ignoring any warning engraved on the walls of the tumbs by the brave people whose sacrifice made sure that said artifacts and knowledge could finally be considered lost. While Acquirers have a high rate of success at recovering, they have been known to need a little help here and there from other branches of the Hierarchy to put back to sleep the odd Elder God, Plague Spirit or Contagious Warmind. While the first documented Crews of Acquirers were entirely male, further generations of the Acquisition Department have seen a much broader variety at all positions, from Tenured Acquirers to Grad Students. Also, expect a host of Time Peasant carriers, with a rather high mortality rate.
+
+> **Time Maps**
+>
+> * If you hold the Map just like this, you can half-see the outline of a corridor through Space·Time that's about to close in about 5 seconds.
+
+
 
 ### The Governments
 
