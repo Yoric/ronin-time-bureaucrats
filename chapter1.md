@@ -12,13 +12,9 @@ Throughout its existence and despite all these reinventions, the Bureaucracy has
 
 **This threat is, of course, every single **_**past, future and alternate versions of the Bureaucracy**_. Because, well, they are so very wrong, aren't they?
 
-![](/assets/agency.png)
-
 This is a conflict of surprisingly little violence, made of subtle manipulations and grand gestures, of infiltrations, desertions, propaganda, and paradoxes. A Cold War more than a battlefield.
 
 Welcome to Time·Space!
-
-
 
 ## Ronin Time Bureaucrats
 
