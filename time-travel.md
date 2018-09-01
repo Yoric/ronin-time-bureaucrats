@@ -96,8 +96,7 @@ By opposition, the **Acquisition Department of the Museum of Time** is quite ben
 > **Time Maps**
 >
 > * If you hold the Map just like this, you can half-see the outline of a corridor through Space·Time that's about to close in about 5 seconds.
-
-
+> * This belongs in The Museum.
 
 ### The Governments
 
