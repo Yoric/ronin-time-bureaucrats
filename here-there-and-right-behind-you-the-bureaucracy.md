@@ -1,4 +1,89 @@
 # Here, There and Right Behind You: The Bureaucracy
 
-![](/assets/agency.png)
+The Bureaucracy has evolved quite a bit since it started, all these \(subjective\) eons ago.
+
+![](/assets/agency.png)Before the Bureaucracy was officially created, its agents were already dispatched through Time·Space in desperate attempts to fix the Snafu before the Entirety of Everything was Lost \(tm\). For this reason, the first generation of the Agency – a dozen or so Continuum Indirections – had hardly any opportunity to compare their tools. It is known that one of the Continuum Indirections looked like a cinema, another one like a car, one like a train, one like a flying computer keyboard, one like a set of time-connected toilet stalls and one like a Jaccuzi. Another was essentially a Nuclear Power Plant and only allowed one-way travel.
+
+### The Administrations
+
+After this period of rush, **Agency for the Continuity of Space and Time **was given its name and official tasks and industry contracts started to kick in and normalize Continuum Indirections and equipment. The standard Continuum Indirection of this period looked like a large metallic sphere standing on three feet, with enough space to accomodate the 3-5 Crew members, dry toilets, and their backpacks. These vehicles were not meant for extended stay, and there was in particular not enough room to sleep. This design proved unpopular and was abandoned by all the other branches of the Bureaucracy.
+
+> **Time Bowls**
+>
+> * Robust, functional, shiny.
+> * Uncomfortable and quickly overcrowded.
+
+Much later, the **Office of Time & Measures**, whose main task was safety inspection and taxation, took a very different approach. The Office of Time & Measures itself was installed in an abandoned administrative building of the First Time Parliament \(formerly, a Babylon Time Station\), and the Continuum Indirections were individual offices of the Office, along with their desk, uncomfortable chair, obsolete computer, and out-of-order photocopier. One of the doors of these Time Offices opened on the Main Office itself, while the other door opened wherever the Continuum Indirection was currently located. From the outside, these Time Offices looked much like prefabs. The Crew of a Time Office is typically two people, although a Time Office can awkwardly accommodate 5 to 10 people.
+
+> **Time Offices**
+>
+> * Boring, deprecated and understaffed.
+> * Communicates with the Main Office.
+> * Enough paperwork to drown an army.
+
+### The Militarists
+
+Ignoring the recommendations of the scientists in charge of Time Travel, the **Space·Time Fleet** was designed by the same contractors that had served the Space Fleet, and with the clear goal of Shock & Awe: reaching Space·Time coordinates with an orbital ship \(to avoid the difficulties of traveling at ground-level\), then dropping combat-ready Space·Time Marines with a combination of dropships and shock capsules, depending on just how much Awe and enemy-flattening was deemed necessary. The design of the orbital ships was itself based on that of airplane carriers \(for the large ones\) and combat deployment helicopters \(for the smaller ones\).
+
+These Continuum Indirections, however, have only been used very briefly in the history of the Bureaucracy: once even the highest-ranking officers of the Space·Time Fleet had to admit that the Law of Observable Contradictions was not a "Leftie Liberal Hoax", the Space·Time Fleet was forced to deduce the obsolescence of most of its brand new equipment. While a few missions of the Space·Time Fleet may still be witnessed here and there in Space·Time, most of this fleet has been either scrapped, recycled into Time Federation equipment – or vanished. Standard Space·Time Fleet Crews are mixed-gender \(all genders\), and positions of authority are generally either held by one of the two normative genders \(males, females\).
+
+> **Space·Time Fleet**
+>
+> * Shock + Awe
+> * Countless soldiers and crew members.
+> * Takes forever to get ready.
+
+Learning from the errors of the Space·Time Fleet, the **Time Brigade** adopted an approach based on a combination of infiltration and strongarm tactics. The Continuum Indirections of the Time Brigade, known as Citadels, resemble huge buildings of concrete, large enough to host military marches, and featuring prominent flags and eagles. The Crew of a Citadel is typically small \(3-10 Bureaucrats, including a Political Officer\), supplemented by a few Perfect Polymorphic Provocateurs and thousands of Crowd-Control Clockworks.
+
+To avoid the temptation of the Crew violating the Law of Observable Contradictions, only the Political Officer may carry a non-lethal weapon, or weaponize the otherwise weak Crowd-Control Clockworks. Walking inside the long and tall corridors of a Time Citadel, one may encounter automatons wearing military uniforms, pass in front of large paintings extolling the Virtue of the People and hear, or at least imagine, choirs stuck singing patriotic hymns. The Crew of a Time Citadel is mixed-gender \(only two genders\) and always contains exactly one Political Officers, who is generally a male.
+
+> **Time Brigade Citadel**
+>
+> * Extolling the Virtue of the People.
+> * Surveillance, infiltration and Crowd Control.
+> * Strong-arm tactics without weapons.
+
+When the **People's Time Liberation Army** defected from the Time Brigade, it did so with very similar Citadels. Eagles were struck down and replaced with Hammers, Sickles, Stars or other symbols reminding the People of just how free it actually was, despite appearances. Crowd-Control Clockworks were maintained, but the expensive and fragile robots and Perfect Polymorphic Provocateurs were dumped and replaced with more cost-efficient Political Reeducation Chambers, large enough to _cure_ hundreds of political opponents. While getting the first few Time Peasants into a Political Reeducation Chamber is sometimes a difficult task for the Crew, once the Time Peasants have completed their Reeducation, they become extremely useful well-indoctrinated Educated Citizens \(also known as "zombies"\).
+
+The Crew of People's Time Liberation Citadels is typically composed of one Political Officer \(often male\), several hundred Educated Citizens \(renormalized to two genders\) and a dozen of Officers \(two genders\). The Political Officer is the only one with the keys required to travel through time or reprogram the Political Reeducation Chambers.
+
+> **People's Time Liberation Citadels**
+>
+> * Extolling the Freedom of the People.
+> * Educating Citizens.
+> * Nobody goes anywhere without the say-so of the Political Officer.
+
+### The Academics
+
+Almost since its opening, the **Time Library** has determined that it needed its own Continuum Indirections, and that the main use of these Continuum Indirections would be to visit libraries all over Space·Time. Indeed, the first mission entrusted by the Time Library to a Crew of Librarians was to visit the Great Library of Alexandria during its destruction, join the rioters, and take the opportunity to grab as many books as possible. While this Crew quickly discovered that there was no riot about to destroy the Great Library and that they would have to cause one themselves if they were to be able to fulfill this mission, the modus operandi has been, by and large, conserved: sneak into a library holding precious documents, replace them with fakes, then run. For this purpose, the Time Library employs small Crews – typically only two or three Librarians – wearing hand-held Continuum Indirections that let them simply walk from any library in Space·Time to any other one through temporary L-Dimensional corridors. In a pinch, a large enough bookshop will do. Such techniques and technologies are shared by agents of the **Time Museum**.
+
+> **L-Dimensional Time Corridors**
+>
+> * From any library to any other one.
+> * Fits in the pocket.
+
+While the more militant **Special Operations Division of the Time Library** \(or SOD\) started as a simple effort to track down books stolen from the Time Library by Time Travelers, it eventually grew into a feared branch of the Time Bureaucracy in its own right. Special Operatives are now in charge of tracking not only thieves through Space·Time, but also enemies of the Special Operations Division itself – and book molesters. It seems fair to describe the Special Operations Division has been described as an entity whose sole role is to use books and covert operations to increase its own reach and power. Their Continuum Indirections have both the shape and size of a \(hollowed out\) book, and may only be entered by using changing the size of the Librarian or visitor through the use of a Myp-Morphism key. Each book contains not only a vast arsenal of \(both lethal and non-lethal\) weaponry, but also interrogation rooms, comprehensive surveillance archives, and a seemingly endless reserve of time-relevant costumes and currencies. For some reason, Crews are generally composed of 3 to 5 square-jawed, square-shouldered men's men in fedoras, dress shirts, holsters and suit jackets, sometimes accompanied by the odd femme fatale.
+
+> **Time Books**
+>
+> * Larger on the inside. Or maybe you're just smaller.
+> * Everything you need to upset the Balance of Power.
+> * Found in any large enough library.
+
+By opposition, the **Acquisition Department of the Museum of Time** is quite benign, really. Its adventuring Acquirers travel through Space·Time with the mere help of an \(admittedly not entirely mundane\) map, which they often dutifully forget to complete. They brave untold dangers to recover forgotten artifacts and lost knowledge, resolutely ignoring any warning engraved on the walls of the tumbs by the brave people whose sacrifice made sure that said artifacts and knowledge could finally be considered lost. While Acquirers have a high rate of success at recovering, they have been known to need a little help here and there from other branches of the Hierarchy to put back to sleep the odd Elder God, Plague Spirit or Contagious Warmind. While the first documented Crews of Acquirers were entirely male, further generations of the Acquisition Department have seen a much broader variety at all positions, from Tenured Acquirers to Grad Students. Also, expect a host of Time Peasant carriers, with a rather high mortality rate.
+
+> **Time Maps**
+>
+> * If you hold the Map just like this, you can half-see the outline of a corridor through Space·Time that's about to close in about 5 seconds.
+> * This belongs in The Museum.
+
+### The Governments
+
+The ambitious **Time Federation**, has ordered hundreds of Spacecraft Indirections, designed to travel the \(somewhat\) slow way across the universe, orbit around planets, and teleport Bureaucrats from and to the surface. Unfortunately, teleportation has been known to be subject to GM \(Gamma Mesons, of course\) Interference at the most inconvenient times.
+
+### The Private Sector
+
+The opulent agents of the **Time Hanse** could never manage to travel without their riches. After a few attempts at designing something more portable, they gave up and used city-sized Indirections, full with employees, factories and hangars.
+
+Contractually, the shady **Union of Time Investigators** \(or "Private I", as they are apparently called in hip circles\) must have their office above or behind Chinese Restaurants. To simplify things, their Indirection generally contains both the office and the Chinese Restaurant, and upon landing, will try to integrate to an existing building. Such Indirections have been known to accidentally trap clients busy eating at the Restaurant, but so far, nobody has complained.
 
