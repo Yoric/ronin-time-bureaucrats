@@ -1,8 +1,12 @@
 # Here, There and Right Behind You: The Bureaucracy
 
-The Bureaucracy has evolved quite a bit since it started, all these \(subjective\) eons ago.
+Before the Bureaucracy was officially created, its soon-to-be agents were already dispatched through Time·Space in desperate attempts to fix the Snafu before the Entirety of Everything was Lost \(tm\). For this reason, the first generation of the Agency – a dozen or so Continuum Indirections – had hardly any opportunity to compare their tools. It is known that one of the Continuum Indirections looked like a cinema, another one like a car, one like a train, one like a flying computer keyboard, one like a set of time-connected toilet stalls and one like a Jaccuzi. Another was essentially a Nuclear Power Plant and only allowed one-way travel.
 
-![](/assets/agency.png)Before the Bureaucracy was officially created, its agents were already dispatched through Time·Space in desperate attempts to fix the Snafu before the Entirety of Everything was Lost \(tm\). For this reason, the first generation of the Agency – a dozen or so Continuum Indirections – had hardly any opportunity to compare their tools. It is known that one of the Continuum Indirections looked like a cinema, another one like a car, one like a train, one like a flying computer keyboard, one like a set of time-connected toilet stalls and one like a Jaccuzi. Another was essentially a Nuclear Power Plant and only allowed one-way travel.
+Since then, the Bureaucracy has evolved quite a bit.
+
+![](/assets/agency.png)
+
+
 
 ### The Administrations
 
