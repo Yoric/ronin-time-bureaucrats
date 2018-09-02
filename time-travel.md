@@ -55,27 +55,7 @@ Example:
 
 * Finally, Time Traveler Tom adds that he's pretty sure his mother never asked question about her father because Grandmother Greta had always told her that Grandfather Gerry was a violent and unstable man.
 
-* Is this a sufficient Explanation? We'll see...
-
-### The Law of Observable Contradictions
-
-One of the main risks of Time Travel is the Paradox. Any action by a Time Traveller can theoretically have extreme consequences on the Continuum.
-
-This has been formulated as the Axiom of Observable Contradictions:
-
-* An action by Time Travellers on Time causes Paradox if and only if it is causes a contradiction observable by any Time Traveller \(including the ones who caused the action or will cause the action\) at another set of coordinates.
-* An apparent contradiction that can somehow be explained reasonably enough to be waved away is not really an Observable Contradiction and will therefore not cause Paradox.
-
-### Killing your own grand-father
-
-For instance:
-
-* Killing your Grandfather is not a good idea, as this causes the Observable Contradiction of you not existing at a past set of coordinates.
-* However, if there is a reason to believe that your Grandmother lied to your parents about the identity of your Grandfather, everything is ok, because there is no Observable Contradiction, just a further indication that your Grandmother could really not be trusted. But then, with her past working as a Corporate Acquisition Lawyer, you already knew about that.
-* If your Grandmother didn’t lie, perhaps the man who sired your parent was an imposter? Perhaps a Polymorphic Provocateur of the Time Brigades? If you can somehow make it likely, there is no Observable Contradiction, just odd looks from the rest of your Crew.
-* Now, if other hypotheses are unreasonable, you have create a Pocket Continuum.
-
-### Circular symphonies
+* Is this a sufficient Explanation? Let's hope it is, because otherwise, you might end up with a...
 
 ### Pocket Continuums
 
@@ -83,7 +63,7 @@ As it turns out, Paradoxes can very well exist in the universe, although generat
 
 * Paradoxes cause Pocket Continuums.
 * Naturally, a Pocket Continuums will tend to fold upon itself and vanish very quickly, with everything and everyone who happened to be in the Continuum at the time.
-* Importing materials and Time Energy to a Pocket Continuum will strengthen it, possibly turning it into an alternate Continuum. Conversely, exporting materials and Time Energy from a Continuum will sap it, eventually turning it into an unstable Pocket Continuum.
+* Importing Time Travelers and Continuum Indirections to a Pocket Continuum _might_ strengthen it, possibly turning it into an alternate Continuum. Conversely, exporting materials and Time Energy from a Continuum will sap it, eventually turning it into an unstable Pocket Continuum.
 
 You may wish to remain in this Continuum, in which your parent was never born, nor were you, but unless you find a very good way to strengthen it, it will quickly implode. You may survive the implosion if you are in your Indirection at the time.
 
