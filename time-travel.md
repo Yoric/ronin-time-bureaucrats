@@ -17,8 +17,6 @@ Now, there are some limitations to where your Continuum Indirection can take you
 5. Sufficiently dense Gamma Meson bombardments have been known to play havoc on the `[REDACTED]` of Continuum Indirections, which may theoretically end up with your Continuum Indirection landing at Space·Time coordinates slightly different from those you had in mind. However, don't let this scare you. The probability of encountering a dense Gamma Meson bombardment in the entirety of Space·Time is so infinitesimally small that you could spend millenia traveling with your Continuum Indirection without encountering a single one! 
 6. On occasion, Continuum Indirections have been known to travel to and from alternate universes. While this is actually quite easy to do, experience shows that it is extremely hard to do _on purpose_.
 
-Many – though not all – Continuum Indirections are also designed to allow communications through Space·Time. There are, however, dozens – if not hundreds – of incompatible Space·Time communication technologies, not counting the local space-communication techniques developed by natives, which explains why having a phone conversation through Space·Time is generally much harder than simply walking to discuss face-to-face with your interlocutor.
-
 ## What does my Continuum Indirection look like?
 
 Since you are a Ronin Time Bureaucrat, the aspect and features of your Continuum Indirection depends a lot of where it comes from, and how you have customized it since you, er, eloped.
@@ -29,7 +27,7 @@ A wide host of different technologies afford of Continuum Indirections that look
 | :---: |
 
 
-
+Many – though not all – Continuum Indirections are also designed to allow communications through Space·Time. There are, however, dozens – if not hundreds – of incompatible Space·Time communication technologies, not counting the local space-communication techniques developed by natives, which explains why having a phone conversation through Space·Time is generally much harder than simply walking to discuss face-to-face with your interlocutor.
 
 It has been noticed that, regardless of time and space, the so-called Time Plebeians \(aka non-Time Travelers\) do not seem to care all that much about the appearance of a new shop, piece of art, building or even city, so after a time, Indirection engineers gave up on attempts at camouflage and just rolled with it.
 
