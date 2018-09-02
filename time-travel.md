@@ -43,29 +43,19 @@ This has been formulated as the Law of Observable Contradictions.
 
 Example:
 
-* Time Traveler Tom just shot the Big Bad Masked Man, without realizing that, behind the mask, BBMM was also Grandfather Gerry, before he met Grandmother Greta.
+* Time Traveler Tom just shot the Big Bad Masked Man, without realizing that, behind the mask, Big Bad Masked Man was also Grandfather Gerry, before he met Grandmother Greta.
 
 * Apparently, this is an Observable Contradiction. If left untreated, it will damage cause Paradox, damaging the Continuum.
 
 * Paradox is bad. Time Traveler Tom doesn't like Paradox. So Time Traveler Tom will attempt to Explain the Apparent Contradiction.
 
-* First, Time Traveler Tom argues that Grandmother Greta has always been a compulsive drunk, who had sex with just about any stranger. She was also a compulsive liar. So, there are very good chances that Grandmother Greta had no clue who Time Traveler Tom's grandfather really was, and just used the picture of a random man.
+* Time Traveler Tom argues that Grandmother Greta has always been a compulsive drunk, who had sex with just about any stranger. She was also a compulsive liar. So, there are very good chances that Grandmother Greta had no clue who Time Traveler Tom's grandfather really was, and just used the picture of a random man.
 
-* "Fair enough, responds the Fair GM, this may have been. Your future self will need to ensure that she uses this specific picture, though. Does this suit you?"
+* Time Traveler Tina adds that she volunteers to slip that picture to Grandmother Greta, at some point in the future.
 
-* Time Traveler Tom accepts, hands out one Time Point to ensure that his future self will put the picture at the right place, and rolls his dice to protect the Continuum.
+* Finally, Time Traveler Tom adds that he's pretty sure his mother never asked question about her father because Grandmother Greta had always told her that Grandfather Gerry was a violent and unstable man.
 
-* Sadly, Time Traveler Tom fails in his roll. Is the Continuum doomed?
-
-* Fear not, as Time Traveler Tani announces that she her past self has overheard an evil Polymorphic Provocateur announce his intention of replacing Big Bad Masked Man. Time Traveler Tani hands out one Time Point to thank her past self for this help.
-
-* This time, Time Traveler Tani succeeds in her roll. The Paradox disappears and the Continuum is saved!
-
-* Had Time Traveler Tani failed in her roll, the Paradox would have been maintained.
-
-* A sufficiently low level of Paradox is acceptable, as there are so may ways the Continuum could have eventually saved itself without the help of the Time Travelers. However, should the Continuum run out of Paradox, this would have caused...
-
-In terms of rules, Paradox is Damage to the Continuum. Time Travelers have a reserve of Time Jokers, that may be used among other things to Explain Observable Contradictions. Oh, and to get help from your past or future self.
+* Is this a sufficient Explanation? We'll see...
 
 ### The Law of Observable Contradictions
 
