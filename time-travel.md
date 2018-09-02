@@ -25,6 +25,12 @@ Since you are a Ronin Time Bureaucrat, the aspect and features of your Continuum
 
 A wide host of different technologies afford of Continuum Indirections that look like, well, pretty much anything. It may be a spaceship as well as a a bathtub, a restaurant as well as a book, or a map, or a corridor or a sports car, or, well, did we mention pretty much anything? And yes, it may be larger on the inside, although it doesn't have to.
 
+| ![](/assets/Indirections.png) |
+| :---: |
+
+
+
+
 It has been noticed that, regardless of time and space, the so-called Time Plebeians \(aka non-Time Travelers\) do not seem to care all that much about the appearance of a new shop, piece of art, building or even city, so after a time, Indirection engineers gave up on attempts at camouflage and just rolled with it.
 
 ## Paradoxes and Pocket Continuums
