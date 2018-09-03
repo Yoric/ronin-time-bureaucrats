@@ -31,11 +31,11 @@ The Continuum can be damaged by Observable Contradictions. For this reasons,
 
   * Example of Major Consequence:
 
-    * The Universe doesn't exist anymore. Consequently, any object within your reach may vanish arbitrarily.
+    * The Universe doesn't exist anymore. Expect any object within your reach to vanish at the worst possible time.
+
+    * Time Travel has been erased. Expect your Time Indirection to stop working.
 
     * Mankind has been erased.
-
-    * Time Travel has been erased.
 
 * These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs.
 

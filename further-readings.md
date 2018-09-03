@@ -16,6 +16,7 @@
 
 * [_Time Travel: Paradoxes as Improv Practice_, by Aaron Marks](https://cannibalhalflinggaming.com/2018/07/18/time-travel-paradoxes-as-improv-practice/)
 * _Le Visiteur du Futur_, for the wibbly-wobbly hopelessness of saving the Continuum. Also, for the futility of a Time Police.
+* [_TableTop Fate Core_](https://www.youtube.com/watch?v=NOFXtAHg7vU), for a nice example of role-playing with Fate.
 
 ## On the larger screen
 
