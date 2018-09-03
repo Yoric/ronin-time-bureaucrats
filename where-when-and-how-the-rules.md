@@ -2,7 +2,12 @@
 
 ## Starting with Fate Core
 
-Well, Ronin Time Bureaucrats is, at its core, a Fate Hack. We're not going to copy the rules of Fate here, but there's a great [two-pages comic book summary for these rules at http://www.uptofourplayers.com/fate-core-rules/](http://www.uptofourplayers.com/fate-core-rules/) .
+Ok, time to confess it: Ronin Time Bureaucrats does not come with its own ruleset. There are so many good rulesets around, why invent a new one? So, rather than doing so, let's pick Fate Core, a simple ruleset designed for cool-over-simulation, improv-over-planning, and we customize it for the setting.
+
+We're not going to copy the rules of Fate here, but:
+
+* the rules are Pay-what-you-want, so you can simply [grab them at Evil Hat's \(https://www.evilhat.com/home/fate-core-downloads/\)](https://www.evilhat.com/home/fate-core-downloads/);
+* the fine crew at Up To Four Players dedicated a great [two-pages webcomic introducing pretty much all the rules \(http://www.uptofourplayers.com/fate-core-rules/](http://www.uptofourplayers.com/fate-core-rules/)\).
 
 So, starting from this line, we're going to assume that you know the rules of Fate Core!
 
