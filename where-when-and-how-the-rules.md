@@ -14,9 +14,23 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 The Continuum can be damaged by Observable Contradictions. For this reasons,
 
-* The Continuum has its own Stress Track.
+* The Continuum has its own Stress Track. Inducing Stress means that the Continuum has been lucky so far and not actually damaged. However, Stress may show up. A good example is pictures fading, books rewriting themselves, etc.
 
-* The Continuum has its own Consequences Track \(Minor/Moderate/Major\).
+* The Continuum has its own Consequences Track \(Minor/Moderate/Major\). As for any character, Consequence damage does show up. Each Consequence is an Aspect that alters the Continuum and may be Compelled against any Time Traveler in the vicinity.
+
+  * Examples of Minor Consequence:
+
+    * The layout of Time Indirections has changed. You may have trouble finding things you have stashed, or using the new cockpit. Variants: the clothing of Time Travelers has changed.
+
+    * Immunization shots are not so good anymore. You may find yourself getting sick from diseases to which you were previously immune.
+
+  * Example of Moderate Consequence:
+
+    * The Bureaucracy won't answer.
+
+  * Example of Major Consequence:
+
+    * 
 
 * These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs.
 
