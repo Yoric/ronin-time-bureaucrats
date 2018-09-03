@@ -8,9 +8,9 @@
 
 # On the telly \(you know, that streaming box that people used to watch before they knew better\)
 
-* All the seasons of _Doctor Who_, of course, for wibbly-wobbly Time mechanics and hiding aliens in plain sight. Also, because it's fun.
+* All the seasons of _Doctor Who_, of course, for wibbly-wobbly Time mechanics and hiding aliens in plain sight. Also, because it's fun. Also, Time Ladies & Lords could be a possible version of the Time Hierarchy.
 * The TV series _Continuum_, for what happens when different Continuums collide.
-* The TV series _Terminator: The Sarah Connor Chronicles_, also for what happens when different Continuums collide. Also, one of the versions of Skynet could be one possible source of inspiration for the Time Hierarchy.
+* The TV series _Terminator: The Sarah Connor Chronicles_, also for what happens when different Continuums collide. Also, one of the versions of Skynet could be one possible version of the Time Hierarchy.
 
 # On the interweb
 
@@ -27,12 +27,12 @@
 
 * _Day of the Tentacle_, just because. Also, fun time paradoxes.
 * The _Monkey Island_ series, just because. Also, more fun time paradoxes.
-* The _Legacy of Kain_/_Blood Omen_ series, for cosmic-level intrigues through Space·Time.
+* The _Legacy of Kain_/_Blood Omen_ series, for cosmic-level intrigues through Space·Time. Also, the \(mad?\) Guardians of the Pillars could be one possible version of the Time Hierarchy.
 
 # Role-Playing Games
 
-* _Nobilis_, by Rebecca Sean Borgstrom, for how easy it is to extinguish all life in the universe by messing up with reality. Also, for how easy it is to reboot the universe without noticing. Also, one possible source of inspiration for the Time Hierarchy.
-* _Amber Diceless Role-Playing Game_, by Erick Wujcik, for guidelines on everything cosmic-scale, in particular confrontations. Also, one possible source of inspiration for the Time Hierarchy.
+* _Nobilis_, by Rebecca Sean Borgstrom, for how easy it is to extinguish all life in the universe by messing up with reality. Also, for how easy it is to reboot the universe without noticing. Also, one possible version of the Time Hierarchy.
+* _Amber Diceless Role-Playing Game_, by Erick Wujcik, for guidelines on everything cosmic-scale, in particular confrontations. Also, one possible version of the Time Hierarchy.
 
 
 
