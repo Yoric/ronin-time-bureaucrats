@@ -80,6 +80,10 @@ Example:
 * The Pocket Continuum is really, really unstable. Very soon, it's going to implode. Let's hope that Time Traveler Tina and Time Traveler Tom can manage to find a way out and back into the Main Continuum!
 * Or perhaps this had been Time Traveler Tom and Time Traveler Tina's plan all along? Maybe they do have a plan to consolidate the Pocket Continuum and get it to replace the Main Continuum? Space·Time will tell...
 
+### Help thyself
+
+
+
 ### Killing off Bureaucrats
 
 An important consequence of the Axiom of Observable Contradictions is that Time Travellers \(and people aware of Time Travel\) tend to take extreme measures to avoid killing anyone, in particular other Time Travellers. Killing a Time Traveller \(or, if you are a Time Traveller, killing a time-immobile witness\) tends to cause all sorts of unexpected Observable Contradictions, which in turn has pretty good chances of trapping you in a Pocket Continuum from which you might not be able to escape.
