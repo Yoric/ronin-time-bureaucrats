@@ -54,7 +54,11 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 * Stealth
 
-* Surveillance
+  * Doing things without people noticing, including their pockets.
+
+* Tactics
+
+  * Planning things ahead for you and other people.
 
 * Theatrics
 
@@ -62,7 +66,7 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 * Tinkering
 
-  * Making things work.
+  * Making things work. Making things stop to work, too, if you prefer.
 
 * Will
 
