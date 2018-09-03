@@ -6,18 +6,11 @@ Well, Ronin Time Bureaucrats is, at its core, a Fate Hack. We're not going to co
 
 So, starting from this line, we're going to assume that you know the rules of Fate Core!
 
-## Skills
+## Available Skills
 
 \(TBD\)
 
-## Built-in Stunts
-
-Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
-
-* Because I can **Help Myself**, whenever I need to, I can spend 1 Fate Point to receive the help from my Future Self. My Future Self may do anything I would have done. If I am in presence of my Future Self for more than a brief instant, however, this causes damage equivalent to an Observable Contradiction.
-* Because I'm a **Death-Defying Space·Time Traveler**, I can deflect any damage taken by myself to the Continuum.
-
-## The Continuum
+## Health of The Continuum
 
 The Continuum can be damaged by Observable Contradictions. For this reasons,
 
@@ -30,6 +23,15 @@ The Continuum can be damaged by Observable Contradictions. For this reasons,
 * Many Paradoxes, no matter how much good will went into creating them, are an attack against the robustness of the Continuum, and may therefore cause damage \(Stress/Consequences\).
 
 * The Continuum may be Taken Out, causing creation of a Pocket Continuum. That’s Bad.
+
+
+
+## Built-in Stunts
+
+Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
+
+* Because I can **Help Myself**, whenever I need to, I can spend 1 Fate Point to receive the help from my Future Self. My Future Self may do anything I would have done. If I am in presence of my Future Self for more than a brief instant, however, this causes damage equivalent to an Observable Contradiction.
+* Because I'm a **Death-Defying Space·Time Traveler**, I can deflect any damage taken by myself to the Continuum.
 
 ## Explaining Away an Observable Contradiction
 
