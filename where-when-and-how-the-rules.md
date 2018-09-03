@@ -62,13 +62,15 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 * Theatrics
 
-  * Attracting attention, impressing people, also scaring or provoking people.
+  * Attracting attention, impressing people, also scaring or provoking people, or resisting Empathy.
 
 * Tinkering
 
   * Making things work. Making things stop to work, too, if you prefer.
 
 * Will
+
+  * Resisting attempts to convince, trick or brainwash you.
 
 During character creation, pick:
 
