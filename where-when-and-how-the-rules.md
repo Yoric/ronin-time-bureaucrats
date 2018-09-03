@@ -14,7 +14,6 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 ## Available Skills
 
-* Burglary
 * Consensus
 * Empathy
 
@@ -43,6 +42,13 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 * Tinkering
 
 * Will
+
+During character creation, pick:
+
+* one skill at which your character is Great \(+4\)
+* two skills at which your character is Good \(+3\)
+* three skills at which your character is Fair \(+2\)
+* four skills at which your character is Average \(+1\)
 
 ## Health of The Continuum
 
