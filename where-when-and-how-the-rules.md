@@ -6,3 +6,21 @@ Well, Ronin Time Bureaucrats is, at its core, a Fate Hack. We're not going to co
 
 So, starting from this line, we're going to assume that you know the rules of Fate Core!
 
+## Skills
+
+\(TBD\)
+
+## Built-in Stunts
+
+\(TBD\)
+
+## Continuum
+
+\(TBD\)
+
+## Explaining away an Observable Contradiction
+
+
+
+
+
