@@ -12,6 +12,10 @@ We're not going to copy the rules of Fate here, but:
 
 So, starting from this line, we're going to assume that you know the rules of Fate Core. If you don't, please hop into your Continuum Indirection and rewind Space·Time to read those rules!
 
+## Health
+
+In Space·Time, most threats are deadly. Unless they have specialized Stunts, characters only have one Consequence slot.
+
 ## Available Skills
 
 * Awareness
@@ -206,4 +210,10 @@ Most Non-Player Characters are described by:
 Whenever there are at least two NPCs opposing the PCs, there are at least two ways to play the NPCs. They can be a **Passerbys** or a **Team**. Passerbys act independently from each other. For instance, in a combat situation, typically, each of them will attack one PC. By opposition, Teams work together. For instance, in a combat situation, the strongest will attack one of the PCs, while the others will run interference, Creating Advantages for their vanguard, until that one may strike at the PC.
 
 With the exact same group of NPCs, you will notice that Teams are much better at actually hurting the PCs than Passerbys. Deciding whether they do this is up to the GM.
+
+## The Character Sheet
+
+![](/assets/Character sheet.png)
+
+
 
