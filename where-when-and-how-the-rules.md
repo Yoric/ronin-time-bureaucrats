@@ -14,26 +14,24 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 ## Available Skills
 
-
-
 * Awe
 * Burglary
 * Consensus
-* Contacts \(makes no sense\)
-
 * Empathy
 
 * Fight
+
 * History
 * Investigate
 * Misdirection
 * Mobility
 
 * Patching
+
 * Physique
 
-* Resources \(makes no sense\)
 * Spelunking
+
 * Shoot
 * Stealth
 * Surveillance
