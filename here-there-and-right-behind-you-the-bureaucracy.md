@@ -44,6 +44,26 @@ To avoid the temptation of the Crew violating the Law of Observable Contradictio
 > * Extolling the Virtue of the People.
 > * Surveillance, infiltration and Crowd Control.
 > * Strong-arm tactics without weapons.
+>
+> **Crowd Control Clockworks**
+>
+> * Easy to spot, hard to catch.
+> * Limitless numbers.
+>
+> * Emit a quietness field that dissuades most witnesses from realizing that something is wrong.
+>
+> * Good at: Flying, shooting non-lethal \(by default\)/lethal projectiles, making people behave.
+> * Bad at: Being smart, fighting determined opposition, resisting damage, dealing with Space·Time travelers
+>
+> **Perfect Polymorphic Provocateurs**
+>
+> * No will of my own.
+> * I am the person standing next to you, the civilian at the end of the street, or perhaps your teacup.
+> * Exactly as smart as needed for a specific task.
+> * Good at: Causing Chaos, backstabbing, disappearing, overhearing any plan, carrying out a plan.
+> * Bad at: Standing up and fighting, coming up with fresh ideas.
+
+
 
 When the **People's Time Liberation Army** defected from the Time Brigade, it did so with very similar Citadels. Eagles were struck down and replaced with Hammers, Sickles, Stars or other symbols reminding the People of just how free it actually was, despite appearances. Crowd-Control Clockworks were maintained, but the expensive and fragile robots and Perfect Polymorphic Provocateurs were dumped and replaced with more cost-efficient Political Reeducation Chambers, large enough to _cure_ hundreds of political opponents. While getting the first few Time Peasants into a Political Reeducation Chamber is sometimes a difficult task for the Crew, once the Time Peasants have completed their Reeducation, they become extremely useful well-indoctrinated Educated Citizens \(also known as "zombies"\).
 
