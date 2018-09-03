@@ -14,6 +14,8 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 ## Available Skills
 
+* Awareness
+  * Noticing things. Also, 6th sense.
 * Consensus
   * Everything related to building consensus without threats. Dealing peacefully with crowds or individuals.
 * Empathy
