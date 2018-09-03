@@ -11,8 +11,7 @@
   * VI: Public Domain \(source: Wikipedia\).
   * VII: English: Mushroom cloud of 'Gadget' over Trinity, seconds after detonation. Public Domain \(source: Wikipedia\).
   * VIII: Eugène Delacroix — Erich Lessing Culture and Fine Arts Archives via artsy.net. Public Domain \(source: Wikipedia\).
-  * IX:
-    Bartolo di Fredi – Collegiate Church of San Gimignano, Italy. from the Old Testament cycle: The Israelites safely cross the Red Sea, but Pharaoh and his troops are drowned. Public Domain \(source: Wikipedia\).
+  * IX: Bartolo di Fredi – Collegiate Church of San Gimignano, Italy. from the Old Testament cycle: The Israelites safely cross the Red Sea, but Pharaoh and his troops are drowned. Public Domain \(source: Wikipedia\).
   * X: Le voyage dans la Lune, George Méliès. Public Domain \(source: Wikipedia\).
   * XI: Uncertain, either Levy & Fils or Kuhn. Public Domain \(source: Wikipedia\)
   * XII: editor Austen Henry Layard , drawing by L. Gruner, '_Monuments of Nineveh, Second Series_' plate 5, London, J. Murray, 1853. Public Domain \(source: Wikipedia\).
