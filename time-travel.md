@@ -82,6 +82,10 @@ Example:
 
 ### Help thyself
 
+One of the perks of traveling in Space·Time is the ability to help oneself throughout the difficulties of life. Consider the latest meeting between Time Traveler Tina and Doctor Devil. Remember how Doctor Devil fired his Devilray of Devilry at Time Traveler Tina, hoping to turn her into a pile of cinders? But no, Time Traveler Tina did not die, for she received the surprise visit of Future Time Traveler Tina, who pushed her away at the last moment, avoiding the certain doom that would otherwise have befallen her.
+
+Remember how Time Traveler Tom was trapped into the Serpentine Schrödinger Sinuisity and could not find his way out, because he did not have the schematics that would let him disarm the quantum clock that laid at its heart? 
+
 ### Killing off Bureaucrats
 
 An important consequence of the Axiom of Observable Contradictions is that Time Travellers \(and people aware of Time Travel\) tend to take extreme measures to avoid killing anyone, in particular other Time Travellers. Killing a Time Traveller \(or, if you are a Time Traveller, killing a time-immobile witness\) tends to cause all sorts of unexpected Observable Contradictions, which in turn has pretty good chances of trapping you in a Pocket Continuum from which you might not be able to escape.
