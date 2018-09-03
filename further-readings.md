@@ -18,9 +18,10 @@
 
 # On the larger screen
 
-* The Terminator, because it's cool.
-* Terminator 2, because it's cool, too.
-* Even Terminator 3, for an Explanation that somehow Bandages the Continuum from all the damage done in Terminator 2.
+* _The Terminator_, because it's cool.
+* _Terminator 2_, because it's cool, too.
+* Even _Terminator 3_, for an Explanation that somehow Bandages the Continuum from all the damage done in Terminator 2.
+* _Back to the Future_ trilogy, for more wibbly-wobbly time paradoxes.
 
 ## On your computer
 
