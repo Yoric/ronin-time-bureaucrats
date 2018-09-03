@@ -80,7 +80,7 @@ Example:
 * The Pocket Continuum is really, really unstable. Very soon, it's going to implode. Let's hope that Time Traveler Tina and Time Traveler Tom can manage to find a way out and back into the Main Continuum!
 * Or perhaps this had been Time Traveler Tom and Time Traveler Tina's plan all along? Maybe they do have a plan to consolidate the Pocket Continuum and get it to replace the Main Continuum? Space·Time will tell...
 
-Note that _small enough_ Observable Contradictions will not immediately cause the creation of a Pocket Continuum.
+Note that _small enough_ Observable Contradictions will not immediately cause the creation of a Pocket Continuum. In fact, small enough Observable Contradictions may even be Bandaged in such a way that the Continuum will manage to heal. However, an accumulation of unbandaged small Observable Contradictions is just as bad as a large Observable Contradiction. More details on Observable Contradictions and Bandaging them will be discussed in chapter [Where, When and How: The Rules](/where-when-and-how-the-rules.md).
 
 ### Help thyself
 
@@ -98,22 +98,16 @@ More technical details on Death Defying Space·Time Travelers and their ability 
 
 ### Killing off Bureaucrats
 
-An important consequence of both the Law of Observable Contradictions and the ability to Help Themselves is that Time Travellers \(and people aware of Time Travel\) tend to take extreme measures to avoid killing:
+An important consequence of both the Law of Observable Contradictions and the ability to Help Themselves is that Time Travellers \(and people aware of Time Travel\) tend to take measures to avoid killing:
 
 * anyone in their past;
 * anyone who might be a Time Traveler;
 * anyone who might somehow interact with their past;
 * in particular, themselves.
 
-That's because any such death has a tendency to snowball into an Observable Contradiction that may end up being very hard to Explain or Bandage.
+That's because any such death has a tendency to snowball into an Observable Contradiction that may end up being very hard to Explain or Bandage. This does _not_ mean that Time Travelers \(or witnesses\) never die in Space·Time. While a Time Traveler will be much more likely to use, say, sleeping gas, manipulation or brainwashing, than a gun or a tank full of sharks, they may have planned ahead on how to get that death to stick – for instance, Time Citadels of the Time Brigade are fully stocked with Perfect Polymorphic Provocateurs, designed specifically to morph into their victims, hence Explaining many Observable Contradictions that may have been left by the Time Brigade.
 
-* , in particular other Time Travellers. Killing a Time Traveller \(or, if you are a Time Traveller, killing a time-immobile witness\) tends to cause all sorts of unexpected Observable Contradictions, which in turn has pretty good chances of trapping you in a Pocket Continuum from which you might not be able to escape.
 
-Corollaries:
-
-* If there is a chance that the Time Travellers died, generally, it turned out that they didn’t, because this story is set in the Continuum in which they didn’t die.
-* If there is a chance that the Time Traveller killed someone, generally, it turned out that they didn’t, because this story is set in the Continuum in which they didn’t die.
-* If you Have a Plan to make your killing stick, ignore the above.
 
 
 
