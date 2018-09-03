@@ -1,6 +1,6 @@
 * **Writing** David Teller
-* **Illustrations** David Teller
-* Pictures used in illustrations
+* **Illustrations and Time Deck** David Teller
+* Pictures used in Illustrations and Time Deck
   * TBD
 
 
