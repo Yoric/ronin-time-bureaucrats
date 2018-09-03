@@ -6,7 +6,7 @@
 
 # 
 
-# On the telly \(you know, that streaming box that people used to use before they knew better\)
+# On the telly \(you know, that streaming box that people used to watch before they knew better\)
 
 * All the seasons of _Doctor Who_, of course, for wibbly-wobbly Time mechanics and hiding aliens in plain sight. Also, because it's fun.
 * The TV series _Continuum_, for what happens when different Continuums collide.
