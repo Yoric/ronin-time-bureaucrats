@@ -16,7 +16,7 @@ The Continuum can be damaged by Observable Contradictions. For this reasons,
 
 * The Continuum has its own Stress Track. Inducing Stress means that the Continuum has been lucky so far and not actually damaged. However, Stress may show up. A good example is pictures fading, books rewriting themselves, etc.
 
-* The Continuum has its own Consequences Track \(Minor/Moderate/Major\). As for any character, Consequence damage does show up. Each Consequence is an Aspect that alters the Continuum and may be Compelled against any Time Traveler in the vicinity.
+* The Continuum has its own Consequences Track \(Minor/Moderate/Major\). As for any character, Consequence damage does show up. Each Consequence is an Aspect that alters the Continuum and may be Compelled against any Time Traveler in the vicinity. You are encouraged to come up with possible stories that explain how things got that bad.
 
   * Examples of Minor Consequence:
 
@@ -26,17 +26,22 @@ The Continuum can be damaged by Observable Contradictions. For this reasons,
 
   * Example of Moderate Consequence:
 
-    * The Bureaucracy won't answer.
+    * The Bureaucracy won't answer. It may have been erased, or maybe the communications technology just doesn't work so well anymore.
+    * Random Time Travelers \(including you?\) have been erased from memories. Doing things is harder when people have trouble remembering that you exist.
 
   * Example of Major Consequence:
 
-    * 
+    * The Universe doesn't exist anymore. Consequently, any object within your reach may vanish arbitrarily.
+
+    * Mankind has been erased.
+
+    * Time Travel has been erased.
 
 * These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs.
 
 * Observable Contradictions, no matter how much good will went into creating them, are an attack against the robustness of the Continuum, and may therefore cause damage \(Stress/Consequences\).
 
-* The Continuum may be Taken Out, causing creation of a Pocket Continuum. That’s Bad.
+* The Continuum may be Taken Out, causing creation of a Pocket Continuum. That’s Bad. However, when the Continuum is Taken Out, any Stress and Consequences disappear immediately.
 
 ## Built-in Stunts
 
