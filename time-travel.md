@@ -67,11 +67,18 @@ As it turns out, Paradoxes can very well exist in the universe, although generat
 
 * Paradoxes cause Pocket Continuums.
 * Naturally, a Pocket Continuums will tend to fold upon itself and vanish very quickly, with everything and everyone who happened to be in the Continuum at the time.
-* Importing Time Travelers and Continuum Indirections to a Pocket Continuum _might_ strengthen it, possibly turning it into an alternate Continuum. Conversely, exporting materials and Time Energy from a Continuum will sap it, eventually turning it into an unstable Pocket Continuum.
+* You may wish to remain in this Continuum, in which your parent was never born, nor were you, but unless you find a very good way to strengthen it, it will quickly implode. You may survive the implosion if you are in your Indirection at the time.
 
-You may wish to remain in this Continuum, in which your parent was never born, nor were you, but unless you find a very good way to strengthen it, it will quickly implode. You may survive the implosion if you are in your Indirection at the time.
+* If you really, really want the Pocket Continuum to survive, you will have to strengthen it. If you can somehow lure many Time Travellers \(perhaps by importing a whole section of the Time Cold War?\) into your Pocket Continuum, it will eventually become the Main Continuum – or perhaps _a_ Main Continuum, experiments on the topic have never been quite conclusive.
 
-* If you really, really want the Pocket Continuum to survive, you will have to strengthen it. If you can somehow lure many Time Travellers \(perhaps by importing a whole section of the Time Cold War?\) into your Pocket Continuum, it will eventually become a full-fledged Continuum. With more effort, you could even erase the Continuum in which your Grandfather survived.
+Example:
+
+* Let's assume that Time Traveler Tom and Time Traveler Tina never managed to Explain the Grandfather Gerry Paradox.
+* The Continuum has just split.
+* In the Main Continuum, Grandfather Gerry was never killed, Time Traveler Tom's ancestry was never doubtful and both Time Traveler Tina and Time Traveler Tom entered their Continuum Indirection to travel through Space·Time. Unfortunately, they simply vanished and never arrived. They may have been reported Missing In Space·Stime.
+* In the Pocket Continuum, Grandfather Gerry was killed by Time Traveler Tom. Time Traveler Tom was never born, but he's a visitor from a different Continuum. Time Traveler Tina was born normally, assuming that nobody killed _her_ Grandfather \(Time Traveler Tima's Grandfather Georges says hello, so, yes, he seems to be alright, also, he wants to know when he's going to have great-grand children, sigh\).
+* The Pocket Continuum is really, really unstable. Very soon, it's going to implode. Let's hope that Time Traveler Tina and Time Traveler Tom can manage to find a way out and back into the Main Continuum!
+* Or perhaps this had been Time Traveler Tom and Time Traveler Tina's plan all along? Maybe they do have a plan to consolidate the Pocket Continuum and get it to replace the Main Continuum? Space·Time will tell...
 
 ### Killing off Bureaucrats
 
