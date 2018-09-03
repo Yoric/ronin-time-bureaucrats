@@ -18,9 +18,41 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 \(TBD\)
 
-## Explaining away an Observable Contradiction
+## Explaining Away an Observable Contradiction
 
+Recall how Time Traveler Tani and Time Traveler Tom were trying to Explain Away why killing Time Traveler Tom's Grandfather Gerry before he met Grandmother Gina wasn't such an Observable Contradiction?
 
+The mechanism is called **Explaining Away** a Contradiction. It's how you defend the Continuum against whenever an Observable Contradiction attacks it. It's also, later, how you Bandage the Consequences of an Observable Contradiction.
+
+All the players who wish to participate should offer a possible explanation and roll \(**what skill? To be determined**\) against a Good \(+3\) difficulty. The highest winner picks the story, establishing a temporary Fact, which may not be contradicted in this story.
+
+1. All the players who wish to participate should offer the second part of the explanation and roll against the Success Level of the previous highest success. Highest winner picks the second part of the story, establishing a second Fact \(same rules\).
+
+2. Continue until nobody wins and/or players run out of ideas.
+
+Note:
+
+* On a Tie, the Fact just established provides a Boost to the player for the rest of the Explanation
+
+* On Success/Success with Style, this Fact provides Free Invocations which may be used either while coming up with the Explanation or later, when confronting this Explanation against the Paradox.
+
+* If everybody fails, the players may wish to continue the Explanation may continue, in which case there will be a Free Invocation _against_ the Continuum.
+
+* If your Fact may need the help of your Future Self, you may, as usual, pay one Fate Point to use your Aspect Time Traveler and get that help.
+
+This establishes an **Explanation**.
+
+Here, Time Traveler Tom and Time Traveler Tina established the following Explanation:
+
+* Grandmother Greta was a drunk who had no clue who Time Traveler Tom’s grandfather really was.
+
+* Someone took a picture of \(not-really-\) Grandfather Gerry and convinced Grandmother Greta that this was the real Grandfather – the roll wasn’t really good enough, but Time Traveler Tom is willing to spend one Fate Point to ensure that his Future Self will do it, so he got to reroll.
+
+* Grandmother Greta always told Mother Maria that Grandfather Gerry was a violent man, so Mother Maria never attempted to get in touch with him.
+
+Each Fact established during the Explanation serves as an Advantage \(with possibly Free Invocations – too late for Boosts\) to defend the Continuum. If it makes narrative sense, other characters may create further advantages to further help the Continuum. Roll an Attack as usual.
+
+If the Attack fails, the Explanation becomes a permanent Aspect of these Space·Time coordinates.
 
 
 
