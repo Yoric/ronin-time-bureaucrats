@@ -96,7 +96,7 @@ It is, of course, possible, that the Time Hierarchy is only a rumor. Or has been
 
 ## ...and more
 
-The Universe is a large place, with plenty of space for more Cultures and Aliens. Do you wish to add Daleks and Weeping Angels, Venom and Thanos, the Spider Queen and the One Ring, Ether-propelled ships and the Court of Auberon? Sure, put them over there. But you can just as well come up with new, more exotic things of your own.
+The Universe is a large place, with plenty of space for more Cultures and Aliens. Do you wish to add Daleks or Skynet, Doctor Doom or Ether-propelled ships, Time-Turners or the Court of Auberon? Sure, put them over there. But you can just as well come up with new, more exotic things of your own.
 
 And, of course don't hesitate to use the Time Deck to improvise entire new civilizations, that's what it's here for!
 
