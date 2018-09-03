@@ -19,7 +19,7 @@ Now, there are some limitations to where your Continuum Indirection can take you
 
 ## What does my Continuum Indirection look like?
 
-Since you are a Ronin Time Bureaucrat, the aspect and features of your Continuum Indirection depends a lot of where it comes from, and how you have customized it since you, er, eloped.
+Since you are a Ronin Time Bureaucrat, the aspect and features of your Continuum Indirection depends a lot of where it comes from, and how you have customized it since you, er, eloped. You may find information on standard Continuum Indirections in chapter [_Here, There and Right Behind You: The Bureaucracy_](/here-there-and-right-behind-you-the-bureaucracy.md).
 
 A wide host of different technologies afford of Continuum Indirections that look like, well, pretty much anything. It may be a spaceship as well as a a bathtub, a restaurant as well as a book, or a map, or a corridor or a sports car, or, well, did we mention pretty much anything? And yes, it may be larger on the inside, although it doesn't have to.
 
@@ -81,8 +81,6 @@ Example:
 * Or perhaps this had been Time Traveler Tom and Time Traveler Tina's plan all along? Maybe they do have a plan to consolidate the Pocket Continuum and get it to replace the Main Continuum? Space·Time will tell...
 
 ### Help thyself
-
-
 
 ### Killing off Bureaucrats
 
