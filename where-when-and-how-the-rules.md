@@ -146,6 +146,10 @@ As usual with Fate, the best way to create a character is _not_ to pick Stunts f
 
 * Because **People pay attention** when I talk to them, whenever I'm discussing with someone, I get +2 to draw their attention towards me – and away from anything else.
 
+* Because **I talk fast**, if I have spotted an enemy about to attack me, I always have time to try and strike a conversation before the combat starts.
+
+* Because **The better part of valor is survival**, if I have spotted an enemy about to attack me, I always have an opportunity to run away before the combat starts.
+
 ## Explaining Away an Observable Contradiction
 
 Recall how Time Traveler Tani and Time Traveler Tom were trying to Explain Away why killing Time Traveler Tom's Grandfather Gerry before he met Grandmother Gina wasn't such an Observable Contradiction?
