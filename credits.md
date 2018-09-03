@@ -25,7 +25,7 @@
   * XIX: Falstaff mit großer Weinkanne und Becher
   * XX: Copper engraving of Doctor Schnabel \[i.e Dr. Beak\], a plague doctor in seventeenth-century Rome, with a satirical macaronic poem \(‘Vos Creditis, als eine Fabel, / quod scribitur vom Doctor Schnabel’\) in octosyllabic rhyming couplets. Public Domain \(source: Wikipedia\).
   * XXI: No image.
-  * Back of cards: David Teller.
+  * Back of cards: David Teller. [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
 
 
 
