@@ -42,7 +42,7 @@ Many things can happen in time without any kind of consequence. Do you wish to t
 This has been formulated as the Law of Observable Contradictions.
 
 * An action by a Time Traveler \(or a group of Time Travelers\) increases Paradox if and only if it causes a contradiction with respect to whatever that Time Traveler has observed in their subjective past.
-* However, if the apparent observable contradiction that may be explained reasonably enough to be waved away will cause little-to-no Paradox increase.
+* However, if the apparent observable contradiction that may be explained reasonably enough to be waved away will cause little-to-no Paradox increase. More details on Explanation will be discussed in chapter Where, When and How: The Rules.
 * Too much Paradox will eventually cause the local Continuum to fold into a Pocket Continuum. That is not good.
 
 Example:
