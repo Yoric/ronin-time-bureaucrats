@@ -14,7 +14,8 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 ## Available Skills
 
-* Awe
+
+
 * Burglary
 * Consensus
 * Empathy
@@ -22,6 +23,7 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 * Fight
 
 * History
+
 * Investigate
 * Misdirection
 * Mobility
@@ -33,8 +35,10 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 * Spelunking
 
 * Shoot
+
 * Stealth
 * Surveillance
+* Theatrics
 * Will
 
 ## Health of The Continuum
