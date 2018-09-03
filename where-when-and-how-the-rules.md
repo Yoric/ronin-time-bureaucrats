@@ -30,8 +30,6 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 * Mobility
 
-* Patching
-
 * Spelunking
 
 * Shoot
@@ -41,6 +39,9 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 * Surveillance
 
 * Theatrics
+
+* Tinkering
+
 * Will
 
 ## Health of The Continuum
