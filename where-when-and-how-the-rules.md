@@ -20,11 +20,10 @@ The Continuum can be damaged by Observable Contradictions. For this reasons,
 
 * These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs.
 
-* Many Paradoxes, no matter how much good will went into creating them, are an attack against the robustness of the Continuum, and may therefore cause damage \(Stress/Consequences\).
+* Observable Contradictions, no matter how much good will went into creating them, are an attack against the robustness of the Continuum, and may therefore cause damage \(Stress/Consequences\).
 
 * The Continuum may be Taken Out, causing creation of a Pocket Continuum. That’s Bad.
 
-* 
 ## Built-in Stunts
 
 Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
@@ -67,6 +66,4 @@ Here, Time Traveler Tom and Time Traveler Tina established the following Explana
 Each Fact established during the Explanation serves as an Advantage \(with possibly Free Invocations – too late for Boosts\) to defend the Continuum. If it makes narrative sense, other characters may create further advantages to further help the Continuum. Roll an Attack as usual.
 
 If the Attack fails, the Explanation becomes a permanent Aspect of these Space·Time coordinates. If the Attack succeeds, the Continuum was damaged, which may cause Consequences.
-
-
 
