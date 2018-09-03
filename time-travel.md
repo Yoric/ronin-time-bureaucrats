@@ -33,6 +33,10 @@ It has been noticed that, regardless of time and space, the so-called Time Plebe
 
 ## Paradoxes and Pocket Continuums
 
+| ![](/assets/Paradoxes.png) |
+| :---: |
+
+
 Many things can happen in time without any kind of consequence. Do you wish to teach the 5th Symphony to Beethoven? Not a problem. Step on a butterfly? Most likely not a problem, either. Give the Mona Lisa a [moustache](https://www.dalipaintings.com/self-portrait-mona-lisa.jsp) while Leonardo Da Vinci is asleep? Chances are that he's going to fix the issue tomorrow morning. Kill baby Hitler or your grandfather? Ah, that might be a problem. Or then, it might not.
 
 This has been formulated as the Law of Observable Contradictions.
