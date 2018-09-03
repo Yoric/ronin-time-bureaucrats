@@ -12,7 +12,10 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 ## Built-in Stunts
 
-\(TBD\)
+Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
+
+* Because I can **Help Myself**, whenever I need to, I can spend 1 Fate Point to receive the help from my Future Self. My Future Self may do anything I would have done. If I am in presence of my Future Self for more than a brief instant, however, this causes damage equivalent to an Observable Contradiction.
+* Because I'm a **Death-Defying Space·Time Traveler**, I can deflect any damage taken by myself to the Continuum.
 
 ## The Continuum
 
