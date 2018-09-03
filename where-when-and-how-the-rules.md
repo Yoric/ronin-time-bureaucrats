@@ -14,17 +14,16 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 ## Available Skills
 
-
-
 * Burglary
 * Consensus
 * Empathy
 
+* Expertise
+
 * Fight
 
-* History
-
 * Investigate
+
 * Misdirection
 * Mobility
 
@@ -37,6 +36,7 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 * Shoot
 
 * Stealth
+
 * Surveillance
 * Theatrics
 * Will
