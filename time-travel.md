@@ -41,7 +41,7 @@ Many things can happen in time without any kind of consequence. Do you wish to t
 
 This has been formulated as the Law of Observable Contradictions.
 
-* An action by a Time Traveler \(or a group of Time Travelers\) increases Paradox if and only if it causes a contradiction with respect to whatever that Time Traveler has observed in their subjective past.
+* An action by a Time Traveler \(or a group of Time Travelers\) increases Paradox if and only if it causes a contradiction with respect to whatever that Time Traveler \(or group of Time Travelers\) has observed in their subjective past.
 * However, if the apparent observable contradiction that may be explained reasonably enough to be waved away will cause little-to-no Paradox increase. More details on Explanation will be discussed in chapter [Where, When and How: The Rules](/where-when-and-how-the-rules.md).
 * Too much Paradox will eventually cause the local Continuum to fold into a Pocket Continuum. That is not good.
 
@@ -82,13 +82,21 @@ Example:
 
 ### Help thyself
 
-One of the perks of traveling in Space·Time is the ability to help oneself throughout the difficulties of life. Consider the latest meeting between Time Traveler Tina and Doctor Devil. Remember how Doctor Devil fired his Devilray of Devilry at Time Traveler Tina, hoping to turn her into a pile of cinders? But no, Time Traveler Tina did not die, for she received the surprise visit of Future Time Traveler Tina, who pushed her away at the last moment, avoiding the certain doom that would otherwise have befallen her.
+One of the perks of traveling in Space·Time is the ability to help oneself throughout the difficulties of life. Consider the latest meeting between Time Traveler Tina and Doctor Devil. Remember how Doctor Devil fired his Devilray of Devilry at Time Traveler Tina, hoping to turn her into a pile of cinders? But no, Time Traveler Tina did not die, for she received the surprise visit of Future Time Traveler Tina, who pushed her away at the last moment, avoiding the certain doom that would otherwise have befallen her!
 
-Remember how Time Traveler Tom was trapped into the Serpentine Schrödinger Sinuisity and could not find his way out, because he did not have the schematics that would let him disarm the quantum clock that laid at its heart? 
+Remember how Time Traveler Tom was trapped into the Serpentine Schrödinger Sinuisity and could not find his way out, because he did not have the schematics that would let him disarm the quantum clock that laid at its heart? Fortunately, Time Traveler Tom opened a drawer, only to find a sealed enveloped at its name, containing all the necessary information, hence saving Time Traveler Tom and the universe. It was later proven that the envelope had been left there by Future Time Traveler Tom for the sake of his Past Self.
+
+The ability of Time Travelers to help themselves through time has been thoroughly studied and formally proven to cause no Paradox, as long as the following conditions are met:
+
+1. The Time Traveler must remain physically able to help their past selves in a manner that does not contradict the observation of Past Self. In particular, the Time Traveler must still be alive.
+2. Future Self and Past Self may remain at most a short instant at the same Space·Time location, as anything else becomes messy.
+3. It may not be used _too often_.
+
+More technical details on Death Defying Space·Time Travelers and their ability to Help Themselves \(and the limitations thereof\) may be found in chapter [Where, When and How: The Rules](/where-when-and-how-the-rules.md).
 
 ### Killing off Bureaucrats
 
-An important consequence of the Axiom of Observable Contradictions is that Time Travellers \(and people aware of Time Travel\) tend to take extreme measures to avoid killing anyone, in particular other Time Travellers. Killing a Time Traveller \(or, if you are a Time Traveller, killing a time-immobile witness\) tends to cause all sorts of unexpected Observable Contradictions, which in turn has pretty good chances of trapping you in a Pocket Continuum from which you might not be able to escape.
+An important consequence of both the Law of Observable Contradictions, the ability to Call for Future Help and also the Law of Deflection of Deadly Damage \(discussed in chapter Where, When and How: The Rules\) is that Time Travellers \(and people aware of Time Travel\) tend to take extreme measures to avoid killing anyone, in particular other Time Travellers. Killing a Time Traveller \(or, if you are a Time Traveller, killing a time-immobile witness\) tends to cause all sorts of unexpected Observable Contradictions, which in turn has pretty good chances of trapping you in a Pocket Continuum from which you might not be able to escape.
 
 Corollaries:
 
