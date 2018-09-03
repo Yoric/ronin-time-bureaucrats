@@ -10,5 +10,5 @@
 * [Who, Where From and With What: The Character Sheets](who-where-from-and-with-what-the-character-sheets.md)
 * [Mission Report: The Yellow Curse of Euthermios](mission-the-polyphonic-choir.md)
 * [Look, over there: Further sources](further-readings.md)
-* Who, Where From and With What: The Character Sheets
+* [Who, Where From and With What: The Character Sheets](who-where-from-and-with-what-the-character-sheets.md)
 

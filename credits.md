@@ -1,9 +1,15 @@
 * **Writing** David Teller \([Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)\)
 * **Cover art, Illustrations \(except Fate Rules\) and Time Deck** David Teller \([Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)\)
 
+* Pictures used in Cultures and Aliens
+
+* * George Hodan - Figure From Lego Pieces. Public Domain \(source: Publicdomainpictures.net\)
 * **Pictures used in Illustrations**
+
   * TBD \(all pictures are believed to be used in a manner compatible with their license\)
+
 * **Pictures used in Time Deck **\(to be completed\)
+
   * 0: Edward Burne-Jones, Tile Design - Theseus and the Minotaur in the Labyrinth. Public Domain \(source: Wikipedia\).
   * I: No image.
   * II: Hyeronymus Bosch, The Garden of Earthly Delights \[detail\]. Public Domain \(source: Wikipedia\).
