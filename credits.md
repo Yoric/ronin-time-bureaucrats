@@ -3,6 +3,7 @@
 * Pictures used in Illustrations and Time Deck
   * TBD \(all pictures are believed to be used in a manner compatible with their license\)
   * Time Deck
+    * 0: Edward Burne-Jones, Tile Design - Theseus and the Minotaur in the Labyrinth. Public Domain \(source: Wikipedia\).
     * IV: Peter Brueghel, The Tower of Babel. Public Domain \(source: Wikipedia\).
     * VI: Public Domain \(source: Wikipedia\).
     * XI: Uncertain, either Levy & Fils or Kuhn. Public Domain \(source: [Wikipedia](#)\)
