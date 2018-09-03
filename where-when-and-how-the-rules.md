@@ -70,7 +70,7 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 * Will
 
-  * Resisting attempts to convince, trick or brainwash you.
+  * Resisting attempts to convince, trick or brainwash you. Also, bravery.
 
 During character creation, pick:
 
