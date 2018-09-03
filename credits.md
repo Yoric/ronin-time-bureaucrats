@@ -11,6 +11,7 @@
   * VIII: Eugène Delacroix — Erich Lessing Culture and Fine Arts Archives via artsy.net. Public Domain \(source: Wikipedia\).
   * XII: editor Austen Henry Layard , drawing by L. Gruner, '_Monuments of Nineveh, Second Series_' plate 5, London, J. Murray, 1853. Public Domain \(source: Wikipedia\).
   * XI: Uncertain, either Levy & Fils or Kuhn. Public Domain \(source: [Wikipedia](#)\)
+  * XIX: Falstaff mit großer Weinkanne und Becher
 
 
 
