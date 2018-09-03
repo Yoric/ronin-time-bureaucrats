@@ -1,5 +1,6 @@
 * **Writing** David Teller \([Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)\)
-* **Cover art, Illustrations and Time Deck** David Teller \([Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)\)
+* **Cover art, Illustrations \(except Fate Rules\) and Time Deck** David Teller \([Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)\)
+
 * **Pictures used in Illustrations**
   * TBD \(all pictures are believed to be used in a manner compatible with their license\)
 * **Pictures used in Time Deck **\(to be completed\)
