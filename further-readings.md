@@ -1,4 +1,14 @@
-# On the telly \(you know, that streaming box that people used to use before they knew better\) 
+# Look, over there: Further sources.
+
+
+
+# Spoiler alerts.
+
+You have been warned.
+
+# 
+
+# On the telly \(you know, that streaming box that people used to use before they knew better\)
 
 * All the seasons of _Doctor Who_, of course, for wibbly-wobbly Time mechanics and hiding aliens in plain sight. Also, because it's fun.
 * The TV series _Continuum_, for what happens when different Continuums collide.
@@ -13,6 +23,12 @@
 * The Terminator, because it's cool.
 * Terminator 2, because it's cool, too.
 * Even Terminator 3, for an Explanation that somehow Bandages the Continuum from all the damage done in Terminator 2.
+
+## On your computer
+
+* _Day of the Tentacle_, just because. Also, fun time paradoxes.
+* The _Monkey Island_ series, just because. Also, more fun time paradoxes.
+* The _Legacy of Kain_/_Blood Omen_ series, for cosmic-level intrigues through Space·Time.
 
 # Role-Playing Games
 

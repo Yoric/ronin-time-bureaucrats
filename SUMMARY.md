@@ -8,6 +8,6 @@
 * [Cultures and Aliens](cultures-and-aliens.md)
 * [Where, When and How: The Rules](where-when-and-how-the-rules.md)
 * [Mission Report: The Yellow Curse of Euthermios](mission-the-polyphonic-choir.md)
-* [Further sources](further-readings.md)
+* [Look, over there: Further sources](further-readings.md)
 * [Credits](credits.md)
 
