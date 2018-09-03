@@ -1,4 +1,4 @@
-# Mission Report
+# Mission Report: The Yellow Curse of Euthermios
 
 > **Spoiler Alert**
 >
