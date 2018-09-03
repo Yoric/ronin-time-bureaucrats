@@ -22,14 +22,15 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 * Fight
 
+* Fortitude
+
 * Investigate
 
 * Misdirection
+
 * Mobility
 
 * Patching
-
-* Physique
 
 * Spelunking
 
@@ -38,6 +39,7 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 * Stealth
 
 * Surveillance
+
 * Theatrics
 * Will
 
