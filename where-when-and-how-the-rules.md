@@ -128,7 +128,11 @@ If the Attack fails, the Explanation becomes a permanent Aspect of these Space·
 
 ## Experience
 
-\(TBD\)
+At the end of every adventure, characters carry away one **Experience**. This Experience may be an object, a lesson learned, a skill mastered, a contact, a memory, ... The player gets to decide exactly what the Experience actually is.
+
+Write down the Experience on the character sheet.
+
+Each Experience is a new Aspect for the character. Experiences may be invoked for free _once per adventure_, or for one Fate Point as other Aspects.
 
 ## Non-Player Characters
 
@@ -139,5 +143,7 @@ Most Non-Player Characters are described by:
 * a few Poor At, for which they roll with -2;
 * a Durability, which measure how much Stress they may take before breaking \(which doesn't mean dying, mind you\).
 
+Whenever there are at least two NPCs opposing the PCs, there are at least two ways to play the NPCs. They can be a **Passerbys** or a **Team**. Passerbys act independently from each other. For instance, in a combat situation, typically, each of them will attack one PC. By opposition, Teams work together. For instance, in a combat situation, the strongest will attack one of the PCs, while the others will run interference, Creating Advantages for their vanguard, until that one may strike at the PC.
 
+With the exact same group of NPCs, you will notice that Teams are much better at actually hurting the PCs than Passerbys. Deciding whether they do this is up to the GM.
 
