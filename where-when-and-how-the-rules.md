@@ -26,7 +26,7 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 * Healing
 
-  * Making people better, physically.
+  * Making people better, physically. Also, poisoning.
 
 * Fight
 
