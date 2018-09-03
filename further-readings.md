@@ -1,10 +1,8 @@
 # Look, over there: Further sources.
 
-
-
 # Spoiler alerts.
 
-You have been warned.
+> You have been warned.
 
 # 
 
