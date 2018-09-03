@@ -72,6 +72,7 @@ During character creation, pick:
 * two skills at which your character is Good \(+3\)
 * three skills at which your character is Fair \(+2\)
 * four skills at which your character is Average \(+1\)
+* everything else is +0
 
 ## Health of The Continuum
 
