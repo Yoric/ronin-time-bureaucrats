@@ -1,4 +1,4 @@
-# Time Travel
+# Today, Tomorrow and Yesteryear: Time Travel
 
 Technologically, Time Travel is quite simple. It involves bombarding a core of `[REDACTED]` with a steady flux of `[REDACTED]-[REDACTED]` until it `[REDACTED]`, then letting it `[REDACTED]` for `[REDACTED]`. Nothing that couldn't have been invented with the materials available during `[REDACTED]`! Now, aiming is a little more complicated. The best technology known to this day  requires a the full `[REDACTED]`of a `[REDACTED]`, and a `[REDACTED]` to improve `[REDACTED]`. As you may imagine, such `[REDACTED]` may only be found `[REDACTED]`, which understandably does tend to limit the number of Continuum Indirections in this Continuum – and from there, the number of Time Travelers!
 
@@ -42,7 +42,7 @@ Many things can happen in time without any kind of consequence. Do you wish to t
 This has been formulated as the Law of Observable Contradictions.
 
 * An action by a Time Traveler \(or a group of Time Travelers\) increases Paradox if and only if it causes a contradiction with respect to whatever that Time Traveler has observed in their subjective past.
-* However, if the apparent observable contradiction that may be explained reasonably enough to be waved away will cause little-to-no Paradox increase. More details on Explanation will be discussed in chapter Where, When and How: The Rules.
+* However, if the apparent observable contradiction that may be explained reasonably enough to be waved away will cause little-to-no Paradox increase. More details on Explanation will be discussed in chapter [Where, When and How: The Rules](/where-when-and-how-the-rules.md).
 * Too much Paradox will eventually cause the local Continuum to fold into a Pocket Continuum. That is not good.
 
 Example:
