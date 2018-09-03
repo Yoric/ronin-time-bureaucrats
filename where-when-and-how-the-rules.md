@@ -54,7 +54,7 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 * Stealth
 
-  * Doing things without people noticing, including their pockets.
+  * Doing things without people noticing, including their pockets. May be used for disguises.
 
 * Tactics
 
@@ -62,7 +62,7 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 * Theatrics
 
-  * Attracting attention, impressing people, also scaring or provoking people, or resisting Empathy.
+  * Attracting attention, impressing people, also scaring or provoking people, or resisting Empathy. May be used for disguises.
 
 * Tinkering
 
