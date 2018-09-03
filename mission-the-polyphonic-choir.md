@@ -1,5 +1,11 @@
 # Mission Report
 
+> **Spoiler Alert**
+>
+> If you don't want to GM, don't read this chapter!
+>
+> You have been warned.
+
 Ronin Time Bureaucracy is not meant to be a plot-driven game. Rather, it is meant to be improv-driven. This mission report is designed as a loose canvas upon which to unleash your Crew. It's more than ok if they step out of the boundaries, start tearing holes in everything you have planned, or go adventuring somewhere else, as long as everybody is having fun – just go with the flow.
 
 Just don't forget to remind them that creating a Pocket Continuum is generally a very bad idea, and that Snafuing the universe is something that should be avoided at any cost. Well, at least for a Crew of beginners.
