@@ -18,13 +18,13 @@ All images are believed to allow reproduction and reuse.
 
 | Card | Additional interpretations |
 | :---: | :--- |
-| ![](/assets/small_odd0.png) | Light, A Continuum Indirection materializing. |
-| ![](/assets/small_even1.png) | The Time Commune |
-| ![](/assets/small_odd1.png) | The Space·Time Fleet, a Time Citadel. |
-| ![](/assets/small_even2.png) | The Most Benevolent Administrators. |
-| ![](/assets/small_odd2.png) | ... |
-| ![](/assets/small_even3.png) | ... |
-| ![](/assets/small_odd3.png) | ... |
+| ![](/assets/small_odd0.png) | Light. A Continuum Indirection materializing. |
+| ![](/assets/small_even1.png) | The Time Commune. A Party. |
+| ![](/assets/small_odd1.png) | The Space·Time Fleet. A Time Citadel. |
+| ![](/assets/small_even2.png) | The Most Benevolent Administrators. The Office of Times & Measures. |
+| ![](/assets/small_odd2.png) | Any kind of Paradox. A Future Sayer. |
+| ![](/assets/small_even3.png) | The Time Brigade. The People's Time Liberation Army. |
+| ![](/assets/small_odd3.png) | Mad Science. |
 | ![](/assets/small_even4.png) | ... |
 | ![](/assets/small_odd4.png) | ... |
 | ![](/assets/small_even5.png) | The Space Fleet, The Space·Time Fleet |
