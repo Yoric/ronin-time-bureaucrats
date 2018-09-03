@@ -1,4 +1,4 @@
-# Where, When and How: The rules
+# Where, When and How: The Rules
 
 ## Starting with Fate Core
 
