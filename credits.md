@@ -6,7 +6,7 @@
   * 0: Edward Burne-Jones, Tile Design - Theseus and the Minotaur in the Labyrinth. Public Domain \(source: Wikipedia\).
   * I: No image.
   * II: Hyeronymus Bosch, The Garden of Earthly Delights \[detail\]. Public Domain \(source: Wikipedia\).
-  * III: Publicity photo of American actress Fay Wray promoting the 1933 feature film King Kong. Believed to be Public Domain \(source: Wikipedia\).
+  * III: Publicity photo of American actress Fay Wray promoting the 1933 feature film _King Kong_. Believed to be Public Domain \(source: Wikipedia\).
   * IV: Peter Brueghel, The Tower of Babel. Public Domain \(source: Wikipedia\).
   * VI: Public Domain \(source: Wikipedia\).
   * VII: English: Mushroom cloud of 'Gadget' over Trinity, seconds after detonation. Public Domain \(source: Wikipedia\).
