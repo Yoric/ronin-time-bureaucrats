@@ -6,8 +6,6 @@ Since then, the Bureaucracy has evolved quite a bit.
 
 ![](/assets/agency.png)
 
-
-
 ### The Administrations
 
 After this period of rush, **Agency for the Continuity of Space and Time **was given its name and official tasks and industry contracts started to kick in and normalize Continuum Indirections and equipment. The standard Continuum Indirection of this period looked like a large metallic sphere standing on three feet, with enough space to accomodate the 3-5 Crew members, dry toilets, and their backpacks. These vehicles were not meant for extended stay, and there was in particular not enough room to sleep. This design proved unpopular and was abandoned by all the other branches of the Bureaucracy.
@@ -19,7 +17,7 @@ After this period of rush, **Agency for the Continuity of Space and Time **was g
 
 Much later, the **Office of Time & Measures**, whose main task was safety inspection and taxation, took a very different approach. The Office of Time & Measures itself was installed in an abandoned administrative building of the First Time Parliament \(formerly, a Babylon Time Station\), and the Continuum Indirections were individual offices of the Office, along with their desk, uncomfortable chair, obsolete computer, and out-of-order photocopier. One of the doors of these Time Offices opened on the Main Office itself, while the other door opened wherever the Continuum Indirection was currently located. From the outside, these Time Offices looked much like prefabs. The Crew of a Time Office is typically two people, although a Time Office can awkwardly accommodate 5 to 10 people.
 
-> **Time Offices**
+> **Time & Measures Traveling Offices**
 >
 > * Boring, deprecated and understaffed.
 > * Communicates with the Main Office.
