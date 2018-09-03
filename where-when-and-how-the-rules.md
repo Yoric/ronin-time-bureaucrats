@@ -122,6 +122,30 @@ Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
 * Because I can **Help Myself**, whenever I need to, I can spend 1 Fate Point to receive the help from my Future Self. My Future Self may do anything I would have done. If I am in presence of my Future Self for more than a brief instant, however, this causes damage equivalent to an Observable Contradiction.
 * Because I'm a **Death-Defying Space·Time Traveler**, I can deflect any damage taken by myself to the Continuum.
 
+## Additional Stunts
+
+As usual with Fate, the best way to create a character is _not_ to pick Stunts from a list, but rather to design the Stunt for that character. That being said, here's a list of stunts that can serve as sources of inspiration.
+
+* Because I'm a **Living Encyclopedia of Space·Time**, I have a +2 to remember historical and geographical facts about this place/period.
+
+* Because I’m **Good at Space·Time Orientation**, I have a +2 to determine where and when I am.
+
+* Because I'm a **Space·Time Communication Specialist**, if I have access to communication material, I have a +2 to hack it into something that will let me communicate with any specific person through Space·Time.
+
+* Because I live a **Split Second Ahead**, whenever I use a Fate Point to reroll an action that lasted only a split second \(such as dodging\), I can also decide to change the nature of my action.
+
+* Because I’m a **Space·Time Surgeon**, I get +2 when rolling to fix the Continuum from the safety of my Time Machine.
+
+* Because I’m good with **Old Junk**, I get +2 when attempting to build or fix modern tech using old parts.
+
+* Because I know how to **Place Messages in a Bottle**, I get +2 when attempting to send a message to the future without any kind of technology.
+
+* I know how to place **Space·Time Ambushes**, which gives me +2 to setup ambushes against Time Travelers.
+
+* Because I tend to **Fit right in**, I get +2 to look and sound like an inhabitant of this Space·Time.
+
+* Because **People pay attention** when I talk to them, whenever I'm discussing with someone, I get +2 to draw their attention towards me – and away from anything else.
+
 ## Explaining Away an Observable Contradiction
 
 Recall how Time Traveler Tani and Time Traveler Tom were trying to Explain Away why killing Time Traveler Tom's Grandfather Gerry before he met Grandmother Gina wasn't such an Observable Contradiction?
