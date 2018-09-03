@@ -18,7 +18,7 @@ So, starting from this line, we're going to assume that you know the rules of Fa
   * Everything related to building consensus without threats. Dealing peacefully with crowds or individuals.
 * Empathy
 
-  * Everything related to understanding people and emotional clues. Also, making people psychologically better.
+  * Everything related to understanding people and emotional clues. Also, making people better, emotionally.
 
 * Expertise
 
@@ -26,7 +26,7 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 * Healing
 
-  * Making people physically better.
+  * Making people better, physically.
 
 * Fight
 
