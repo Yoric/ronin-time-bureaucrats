@@ -16,7 +16,17 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 ## Continuum
 
-\(TBD\)
+The Continuum can be damaged by Observable Contradictions. For this reasons,
+
+* The Continuum has its own Stress Track.
+
+* The Continuum has its own Consequences Track \(Minor/Moderate/Major\).
+
+* These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs.
+
+* Many Paradoxes, no matter how much good will went into creating them, are an attack against the robustness of the Continuum, and may therefore cause damage \(Stress/Consequences\).
+
+* The Continuum may be Taken Out, causing creation of a Pocket Continuum. That’s Bad.
 
 ## Explaining Away an Observable Contradiction
 
