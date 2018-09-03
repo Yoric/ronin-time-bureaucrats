@@ -1,6 +1,6 @@
 # Where, When and How: The rules
 
-## Fate Core
+## Starting with Fate Core
 
 Well, Ronin Time Bureaucrats is, at its core, a Fate Hack. We're not going to copy the rules of Fate here, but there's a great [two-pages comic book summary for these rules at http://www.uptofourplayers.com/fate-core-rules/](http://www.uptofourplayers.com/fate-core-rules/) .
 
@@ -24,8 +24,7 @@ The Continuum can be damaged by Observable Contradictions. For this reasons,
 
 * The Continuum may be Taken Out, causing creation of a Pocket Continuum. That’s Bad.
 
-
-
+* 
 ## Built-in Stunts
 
 Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
@@ -68,4 +67,6 @@ Here, Time Traveler Tom and Time Traveler Tina established the following Explana
 Each Fact established during the Explanation serves as an Advantage \(with possibly Free Invocations – too late for Boosts\) to defend the Continuum. If it makes narrative sense, other characters may create further advantages to further help the Continuum. Roll an Attack as usual.
 
 If the Attack fails, the Explanation becomes a permanent Aspect of these Space·Time coordinates. If the Attack succeeds, the Continuum was damaged, which may cause Consequences.
+
+
 
