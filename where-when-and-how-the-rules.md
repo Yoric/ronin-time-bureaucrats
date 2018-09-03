@@ -15,23 +15,42 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 ## Available Skills
 
 * Consensus
+  * Everything related to building consensus without threats. Dealing peacefully with crowds or individuals.
 * Empathy
+
+  * Everything related to understanding people and emotional clues. Also, making people psychologically better.
 
 * Expertise
 
+  * Anything that you spent long time studying to learn and that is not covered by other Skills. Exactly what depends on your Aspects. If you're a Historian, this will cover your History. If you're a Kung-Fu Monk, this will probably cover both Zen and the Precepts of your Order.
+
+* Healing
+
+  * Making people physically better.
+
 * Fight
+
+  * Close-combat fighting, whether armed or unarmed.
 
 * Fortitude
 
+  * Standing hardships. Also, pure physical feats, such as carrying something heavy.
+
 * Investigate
 
-* Misdirection
+  * Everything related to understanding scenes or physical clues.
 
 * Mobility
 
+  * Everything related to moving around. Typically, running either towards danger or away from it. Also good for guerrilla warfare.
+
 * Spelunking
 
+  * Everything related to exploring a place. Doesn't have to be scary, dark, underground and filled with awful noises, but then again, it can.
+
 * Shoot
+
+  * Distance fighting, typically armed, from throwing shurikens to sniping to adjusting battle-canons.
 
 * Stealth
 
@@ -39,7 +58,11 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 * Theatrics
 
+  * Attracting attention, impressing people, also scaring or provoking people.
+
 * Tinkering
+
+  * Making things work.
 
 * Will
 
