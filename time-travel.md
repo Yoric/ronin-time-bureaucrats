@@ -63,10 +63,10 @@ Example:
 
 ### Pocket Continuums
 
-As it turns out, Paradoxes can very well exist in the universe, although generating a Paradox is seldom in your own interest:
+As it turns out, Observable Contradictions can very well exist in the universe, although generating an Observable Contradiction is seldom in your own interest:
 
-* Paradoxes cause Pocket Continuums.
-* Naturally, a Pocket Continuums will tend to fold upon itself and vanish very quickly, with everything and everyone who happened to be in the Continuum at the time.
+* A large enough Observable Contradictions may cause the creation of a Pocket Continuum.
+* Naturally, a Pocket Continuum will tend to fold upon itself and vanish very quickly, with everything and everyone who happened to be in the Continuum at the time.
 * You may wish to remain in this Continuum, in which your parent was never born, nor were you, but unless you find a very good way to strengthen it, it will quickly implode. You may survive the implosion if you are in your Indirection at the time.
 
 * If you really, really want the Pocket Continuum to survive, you will have to strengthen it. If you can somehow lure many Time Travellers \(perhaps by importing a whole section of the Time Cold War?\) into your Pocket Continuum, it will eventually become the Main Continuum – or perhaps _a_ Main Continuum, experiments on the topic have never been quite conclusive.
@@ -79,6 +79,8 @@ Example:
 * In the Pocket Continuum, Grandfather Gerry was killed by Time Traveler Tom. Time Traveler Tom was never born, but he's a visitor from a different Continuum. Time Traveler Tina was born normally, assuming that nobody killed _her_ Grandfather \(Time Traveler Tima's Grandfather Georges says hello, so, yes, he seems to be alright, also, he wants to know when he's going to have great-grand children, sigh\).
 * The Pocket Continuum is really, really unstable. Very soon, it's going to implode. Let's hope that Time Traveler Tina and Time Traveler Tom can manage to find a way out and back into the Main Continuum!
 * Or perhaps this had been Time Traveler Tom and Time Traveler Tina's plan all along? Maybe they do have a plan to consolidate the Pocket Continuum and get it to replace the Main Continuum? Space·Time will tell...
+
+Note that _small enough_ Observable Contradictions will not immediately cause the creation of a Pocket Continuum.
 
 ### Help thyself
 
@@ -96,7 +98,16 @@ More technical details on Death Defying Space·Time Travelers and their ability 
 
 ### Killing off Bureaucrats
 
-An important consequence of both the Law of Observable Contradictions, the ability to Call for Future Help and also the Law of Deflection of Deadly Damage \(discussed in chapter Where, When and How: The Rules\) is that Time Travellers \(and people aware of Time Travel\) tend to take extreme measures to avoid killing anyone, in particular other Time Travellers. Killing a Time Traveller \(or, if you are a Time Traveller, killing a time-immobile witness\) tends to cause all sorts of unexpected Observable Contradictions, which in turn has pretty good chances of trapping you in a Pocket Continuum from which you might not be able to escape.
+An important consequence of both the Law of Observable Contradictions and the ability to Help Themselves is that Time Travellers \(and people aware of Time Travel\) tend to take extreme measures to avoid killing:
+
+* anyone in their past;
+* anyone who might be a Time Traveler;
+* anyone who might somehow interact with their past;
+* in particular, themselves.
+
+That's because any such death has a tendency to snowball into an Observable Contradiction that may end up being very hard to Explain or Bandage.
+
+* , in particular other Time Travellers. Killing a Time Traveller \(or, if you are a Time Traveller, killing a time-immobile witness\) tends to cause all sorts of unexpected Observable Contradictions, which in turn has pretty good chances of trapping you in a Pocket Continuum from which you might not be able to escape.
 
 Corollaries:
 
