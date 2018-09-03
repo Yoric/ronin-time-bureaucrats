@@ -14,7 +14,7 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 \(TBD\)
 
-## Continuum
+## The Continuum
 
 The Continuum can be damaged by Observable Contradictions. For this reasons,
 
