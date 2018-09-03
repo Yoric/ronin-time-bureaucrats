@@ -4,6 +4,7 @@
   * TBD \(all pictures are believed to be used in a manner compatible with their license\)
 * **Pictures used in Time Deck **\(to be completed\)
   * 0: Edward Burne-Jones, Tile Design - Theseus and the Minotaur in the Labyrinth. Public Domain \(source: Wikipedia\).
+  * II: Hyeronymus Bosch, The Garden of Earthly Delights \[detail\]. Public Domain \(source: Wikipedia\).
   * IV: Peter Brueghel, The Tower of Babel. Public Domain \(source: Wikipedia\).
   * XVII: Terra Cotta Army replica at the Forbidden Gardens in Katy, Texas. Picture: Wikipedia user Vybr8. [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en). \(source: Wikipedia\).
   * VI: Public Domain \(source: Wikipedia\).
