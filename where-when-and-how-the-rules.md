@@ -126,3 +126,18 @@ Each Fact established during the Explanation serves as an Advantage \(with possi
 
 If the Attack fails, the Explanation becomes a permanent Aspect of these Space·Time coordinates. If the Attack succeeds, the Continuum was damaged, which may cause Consequences.
 
+## Experience
+
+\(TBD\)
+
+## Non-Player Characters
+
+Most Non-Player Characters are described by:
+
+* a few Aspects, which work exactly like the Aspects of the Player Characters;
+* a few Good At, for which they roll with +2;
+* a few Poor At, for which they roll with -2;
+* a Durability, which measure how much Stress they may take before breaking \(which doesn't mean dying, mind you\).
+
+
+
