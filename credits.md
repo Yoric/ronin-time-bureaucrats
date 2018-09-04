@@ -46,8 +46,13 @@
     * TBD
   * **Look, over there**
     * TBD
-  * Who did what
+  * **Who did what**
     * TBD
+
+* Many thanks to
+  * The Reddit /r/RPGDesign community.
+  * The Reddit /r/FATErpg community.
+  * The Reddit /r/worldbuilding community.
 
 
 
