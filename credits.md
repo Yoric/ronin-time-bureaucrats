@@ -49,7 +49,8 @@
   * **Who did what**
     * TBD
 
-* Many thanks to
+* **Many thanks to**
+
   * The Reddit /r/RPGDesign community.
   * The Reddit /r/FATErpg community.
   * The Reddit /r/worldbuilding community.
