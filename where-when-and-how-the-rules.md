@@ -147,11 +147,61 @@ For Space·Time Trotsky, I will pick:
 
 * A Great Will, because nothing can get him to change his mind about Imperialist Capitalism or the Shadow that took over the Time Brigade. Also, it will make it harder for Space·Time Stalin to brainwash me. Take that, Space·Time Stalin!
 * Good Mobility, because I've been on the run for a few subjective years already.
-* Good Tactics, because I need to stay one step ahead of the Time Brigade. Also, with Mobility + Tactics, I'm starting to be pretty good at Guerrilla Warfare.
+* Good Tactics, because I need to stay one step ahead of the Time Brigade. Also, with Mobility + Tactics, I'm starting to be pretty good at Guerrilla Warfare. Also, I'm starting to become Space·Time Che Guevara instead of Space·Time Trotsky, but I'm ok with mixing both characters.
 * Fair Stealth, because that's also going to be necessary for my Space·Time Guerrilla.
 * Fair Expertise, which my Space·Time Trotsky Aspect will let me use apply to historico-economic marxist theories. It's not Great, but I can always invoke my Aspect to boost me.
 
 I'll leave everything else to be decided during gameplay. I feel like I have followers, and I feel like I need a Stunt to be a good orator.
+
+### Free Stunts
+
+Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
+
+* Because I can **Help Myself**, whenever I need to, I can spend 1 Fate Point to receive the help from my Future Self. My Future Self may do anything I would have done. If I am in presence of my Future Self for more than a brief instant, however, it becomes pretty much impossible to actually remember exactly how my Future Self behaved to be able to imitate them, so expect Observable Contradictions.
+* Because I'm a **Death-Defying Space·Time Traveler**, I can deflect any damage taken by myself to the Continuum. Given how fragile the Continuum is, it is generally a good idea to Concede the conflict after this.
+
+### Coming up with Space·Time Stunts
+
+Stunts generally look like:
+
+* Because I am/I know/I have \(something\), I get a +2 to \(do something\) whenever \(some condition is met\).
+* Because I am/I know/I have \(something\), I can use \(some Skill\) to \(do something\) instead of using \(some Skill\) whenever \(some condition is met\).
+* Because I am/I know/I have \(something\), once per scene where \(some condition is met\), I can spend one Fate Point to \(do something cool and otherwise impossible\).
+
+Stunts are there to differentiate characters. Consequently, two members of the same Crew **should not have the same Stunt** \(other than the built-in Stunts above\).
+
+As usual with Fate, the best way to create a character is _not_ to pick Stunts from a list, but rather to design the Stunt for that character. That being said, here's a list of stunts that can serve as sources of inspiration:
+
+* Because I'm a **Living Encyclopedia of Space·Time**, I have a +2 to remember historical and geographical facts about this place/period.
+
+* Because I’m **Good at Space·Time Orientation**, I have a +2 to determine where and when I am.
+
+* Because I'm a **Space·Time Communication Specialist**, if I have access to communication material, I have a +2 to hack it into something that will let me communicate with any specific person through Space·Time.
+
+* Because I live a **Split Second Ahead**, whenever I use a Fate Point to reroll an action that lasted only a split second \(such as dodging\), I can also decide to change the nature of my action.
+
+* Because I’m a **Space·Time Surgeon**, I get +2 when rolling to fix the Continuum from the safety of my Time Machine.
+
+* Because I’m good with **Old Junk**, I get +2 when attempting to build or fix modern tech using old parts.
+
+* Because I know how to **Place Messages in a Bottle**, I get +2 when attempting to send a message to the future without any kind of technology.
+
+* I know how to place **Space·Time Ambushes**, which gives me +2 to setup ambushes against Time Travelers.
+
+* Because I tend to **Fit right in**, I get +2 to look and sound like an inhabitant of this Space·Time.
+
+* Because **People pay attention** when I talk to them, whenever I'm discussing with someone, I get +2 to draw their attention towards me – and away from anything else.
+
+* Because **I talk fast**, if I have spotted an enemy about to attack me, I always have time to try and strike a conversation before the combat starts. Of course, this doesn't work as well if I do not have a way to communicate with the enemy.
+
+* Because **The better part of valor is survival**, if I have spotted an enemy about to attack me, I always have an opportunity to run away before the combat starts. Of course, this doesn't work as well if I'm trapped.
+
+Well, none of these seems particularly suited to Space·Time Trotsky. Let's see if I can come up with something better:
+
+* "_Because I am a **Passionate Orator**, whenever I deliver a speech on something that truly matters to me and that I truly, deeply, believe, I can use Will instead of Consensus to convince the crowd_."
+* _"Because I have **Gurerilleros Everywhere**, I can use Tactics to Create an Advantage Local Guerrilla Cell in any city or settlement with oppressed workers."_
+
+My Space·Time Trotsky is now a force to be reckoned with.
 
 ## Crew Creation
 
@@ -239,42 +289,11 @@ The following Aspects come with the Setting. They may be invoked and compelled a
   * Get a damaged Continuum to Concede, creating an implosive Pocket Continuum.
   * Convince Time Travelers to please not shoot.
 
-### Built-in Stunts
-
-Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
-
-* Because I can **Help Myself**, whenever I need to, I can spend 1 Fate Point to receive the help from my Future Self. My Future Self may do anything I would have done. If I am in presence of my Future Self for more than a brief instant, however, it becomes pretty much impossible to actually remember exactly how my Future Self behaved to be able to imitate them, so expect Observable Contradictions.
-* Because I'm a **Death-Defying Space·Time Traveler**, I can deflect any damage taken by myself to the Continuum. Given how fragile the Continuum is, it is generally a good idea to Concede the conflict after this.
+### 
 
 ### Examples of Space·Time traveler Stunts
 
-As usual with Fate, the best way to create a character is _not_ to pick Stunts from a list, but rather to design the Stunt for that character. That being said, here's a list of stunts that can serve as sources of inspiration.
 
-Stunts are there to differentiate characters. Consequently, two members of the same Crew **should not have the same Stunt** \(other than the built-in Stunts above\).
-
-* Because I'm a **Living Encyclopedia of Space·Time**, I have a +2 to remember historical and geographical facts about this place/period.
-
-* Because I’m **Good at Space·Time Orientation**, I have a +2 to determine where and when I am.
-
-* Because I'm a **Space·Time Communication Specialist**, if I have access to communication material, I have a +2 to hack it into something that will let me communicate with any specific person through Space·Time.
-
-* Because I live a **Split Second Ahead**, whenever I use a Fate Point to reroll an action that lasted only a split second \(such as dodging\), I can also decide to change the nature of my action.
-
-* Because I’m a **Space·Time Surgeon**, I get +2 when rolling to fix the Continuum from the safety of my Time Machine.
-
-* Because I’m good with **Old Junk**, I get +2 when attempting to build or fix modern tech using old parts.
-
-* Because I know how to **Place Messages in a Bottle**, I get +2 when attempting to send a message to the future without any kind of technology.
-
-* I know how to place **Space·Time Ambushes**, which gives me +2 to setup ambushes against Time Travelers.
-
-* Because I tend to **Fit right in**, I get +2 to look and sound like an inhabitant of this Space·Time.
-
-* Because **People pay attention** when I talk to them, whenever I'm discussing with someone, I get +2 to draw their attention towards me – and away from anything else.
-
-* Because **I talk fast**, if I have spotted an enemy about to attack me, I always have time to try and strike a conversation before the combat starts. Of course, this doesn't work as well if I do not have a way to communicate with the enemy.
-
-* Because **The better part of valor is survival**, if I have spotted an enemy about to attack me, I always have an opportunity to run away before the combat starts. Of course, this doesn't work as well if I'm trapped.
 
 ### Explaining Away an Observable Contradiction
 
