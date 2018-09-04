@@ -33,7 +33,7 @@
 
 ## Role-Playing Games
 
-* _Nobilis_, by Rebecca Sean Borgstrom, for how easy it is to extinguish all life in the universe by messing up with reality. Also, for how easy it is to reboot the universe without noticing. Also, one possible version of the Time Hierarchy.
+* _Nobilis_, by Rebecca Sean Borgstrom, for how easy it is to extinguish all life in the universe by messing up with reality. Also, for how easy it is to reboot the universe without noticing. Also, either Nobles or Excrucians could be possible versions of the Time Hierarchy.
 * _Amber Diceless Role-Playing Game_, by Erick Wujcik, for guidelines on everything cosmic-scale, in particular confrontations. Also, one possible version of the Time Hierarchy.
 
 
