@@ -149,7 +149,7 @@ Alternatively, you can work to Fix the Continuum. Continuum Consequences need to
   * _Time Travel has been erased_ becomes _Time Travel is coming back_. Most Continuum Indirections are down, possibly including yours. You may have to find a new one before you can do anything with it.
   * _Mankind has been erased_ becomes _Another life-form rules_. Mankind is coming back, one piece of Space·Time at a time. The Time Bureaucracy may even still exist. However, it is now ruled by White Mice from the 15th Dimension.
 
-Once a Consequence is Bandaged, the Continuum may take a second Consequence of the same level without being Taken Out. Oh, joy.
+Once a Consequence is Bandaged, the Continuum may take a second Consequence of the same level without being Taken Out. Oh, more joy.
 
 FIXME: How fast does the Continuum recover?
 
@@ -237,11 +237,11 @@ When the Continuum is being damaged by an Observable Contradiction, each Fact es
 
 When Consequences to the Continuum are being Bandaged, each Fact established during the Explanation serves as an Advantage \(with possibly Free Invocations – too late for Boosts\) to fix the Continuum. If it makes narrative sense, other characters may create further advantages to further help the Continuum. Roll against Fair \(+2\) difficulty to Bandage a Minor Consequence, Great \(+4\) difficulty to Bandage a Great Consequence, Fantastic \(+6\) difficulty to Bandage a Major Consequence.
 
-If the Attack fails, the Explanation becomes a permanent Aspect of these Space·Time coordinates. If the Attack succeeds, the Continuum was damaged, which may cause Consequences.
+If the Explanation succeeded at deflecting the Attack/Bandaging the Consequence, the Explanation becomes a permanent Aspect of this Continuum. Don't forget to write it down on the Continuum's Character Sheet.
 
-### Experience
+### Experience & Plunder
 
-At the end of every adventure, characters carry away one **Experience**. This Experience may be an object, a lesson learned, a skill mastered, a contact, a memory, ... The player gets to decide exactly what the Experience actually is.
+At the end of every adventure, characters carry away one **Experience & Plunder**. This Experience & Plunder may be an object, a lesson learned, a skill mastered, a contact, a memory, ... The player gets to decide exactly what the Experience actually is.
 
 Write down the Experience on the character sheet.
 
