@@ -145,9 +145,9 @@ Continuum Consequences need to be Bandaged before they can recover. Bandaging a 
 
 FIXME: How fast does the Continuum recover?
 
-
-
 ### Setting Aspects
+
+The following Aspects come with the Setting. They may be invoked and compelled as any other Aspect.
 
 * **The Continuum is Fragile**. Examples of compels:
   * Call for a truce between branches of the Bureaucracy, long enough to Explain away an Observable Contradiction or a Consequence.
