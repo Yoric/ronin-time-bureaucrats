@@ -211,6 +211,14 @@ Each character has one Physical Stress track that represent near-misses or wound
 
 When the Stress boxes are not sufficient, characters may take a Consequence to avoid being Taken Out by an attack. Note that, in Space·Time, most threats, even verbal ones, are deadly, so there is only one Consequence slot. That's easy to remember, there's only one slot in your character sheet.
 
+### Fate Refresh
+
+You start with a Fate Refresh of 3. That's how many Fate Points you can put on your character sheet at the start of every session. So, just write 3. You can increase it later.
+
+### Experience & Plunder
+
+You start without any Experience & Plunder, so that box remains empty for the time being.
+
 ### ...and almost ready
 
 Space·Time Trotsky is ready. We still need to finish customizing the setting.
@@ -263,9 +271,9 @@ If the Continuum is Taken Out, that's a Snafu. That's Really, Really Bad. I pers
 
 The Continuum may Concede at any time. This creates an implosive Pocket Continuum, trapping any Time Traveler in the vicinity. That's Bad. On the upside, Stress disappears immediately and Consequences are limited to the Pocket Continuum.
 
-#### Recovery
+### Recovering
 
-The Continuum recovers Stress whenever there is a downtime. Just like that. The downside is that, once there is any Consequence beyond Minor, it's unlikely that you're going to have any kind of downtime. Chances are that you need to Fix Things Now, before they get any worse.
+The Continuum recovers Stress whenever there is a downtime. Just like that. The downside is that, once there is any Consequence beyond Minor, it's unlikely that you're going to have any kind of downtime. Chances are that the GM will compel you into needing to Fix Things Now, before they get any worse.
 
 The easiest way to fix Consequences to the Continuum is actually to let it Concede. It's Bad, and quite possibly deadly for the Crew, but it's not as Bad as a Snafu.
 
@@ -289,11 +297,7 @@ Once a Consequence is Bandaged, the Continuum may take a second Consequence of t
 
 FIXME: How fast does the Continuum recover?
 
-### 
-
-### Examples of Space·Time traveler Stunts
-
-### Explaining Away an Observable Contradiction
+### Explaining Away an Observable Contradiction or a Consequence
 
 Recall how Time Traveler Tani and Time Traveler Tom were trying to Explain Away why killing Time Traveler Tom's Grandfather Gerry before he met Grandmother Gina wasn't such an Observable Contradiction?
 
@@ -333,11 +337,12 @@ When Consequences to the Continuum are being Bandaged, each Fact established dur
 
 If the Explanation succeeded at deflecting the Attack/Bandaging the Consequence, the Explanation becomes a permanent Aspect of this Continuum. Don't forget to write it down on the Continuum's Character Sheet.
 
-### Experience & Plunder
+## Between adventures
 
-At the end of every adventure, characters carry away one **Experience & Plunder**. This Experience & Plunder may be an object, a lesson learned, a skill mastered, a contact, a memory, ... The player gets to decide exactly what the Experience actually is and writes it down on the character sheet.
+At the end of every adventure, the player decides what the character has learnt from this adventure.
 
-Each Experience is a new Aspect for the character. Experiences may be invoked for free _once per adventure_, or for one Fate Point as other Aspects.
+* A character may carry away one **Experience & Plunder**. This Experience & Plunder may be an object, a lesson learned, a skill mastered, a contact, a memory, ... The player gets to decide exactly what the Experience actually is and writes it down on the character sheet. Each Experience is a new Aspect for the character. Experiences may be invoked for free _once per adventure_, or for one Fate Point as other Aspects.
+* Alternatively, a character may increase their **Fate Refresh**, to start future sessions with additional Fate Points.
 
 ## And more
 
