@@ -31,8 +31,8 @@
     * XV: Netherlandish \(possibly Jacob Cornelisz. van Oostsanen\) Laughing Fool ca. 1500 - Oil on panel, 13 13/16 x 9 in Davis Museum at Wellesley College. Public Domain \(source: Wikipedia\).
     * XVI: Unable to find authorship or copyright information. Believed to be Public Domain.
     * XVII: Terra Cotta Army replica at the Forbidden Gardens in Katy, Texas. Picture: Wikipedia user Vybr8. [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en). \(source: Wikipedia\).
-    * XVIII: Mignon Nevada as "Ophelia", glass negative photograph, circa 1910. Public Domain. \(source: Library of Congress, Wikipedia\)
-    * XIX: Falstaff mit großer Weinkanne und Becher
+    * XVIII: Mignon Nevada as "Ophelia", glass negative photograph, circa 1910. Public Domain \(source: Library of Congress, Wikipedia\).
+    * XIX: Eduard von Grützner, Falstaff mit großer Weinkanne und Becher. Public Domain \(source: Wikipedia\).
     * XX: Copper engraving of Doctor Schnabel \[i.e Dr. Beak\], a plague doctor in seventeenth-century Rome, with a satirical macaronic poem \(‘Vos Creditis, als eine Fabel, / quod scribitur vom Doctor Schnabel’\) in octosyllabic rhyming couplets. Public Domain \(source: Wikipedia\).
     * XXI: No image.
     * Back of cards: David Teller. [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
