@@ -123,13 +123,15 @@ The Continuum can be damaged by Observable Contradictions.
 
 * Observable Contradictions, no matter how much good will went into creating them, are an attack against the robustness of the Continuum, and may therefore cause damage \(Stress/Consequences\).
 
-* If the Continuum is Taken Out, that's a Snafu. That's Really, Really Bad. I personally have no clue what's going to happen, but you're welcome to come up with ideas! Also, please hurt the characters. Nobody should want another Snafu. Well, nobody except the 0.001%, or that Mad Scientist over there, and perhaps a few Most Benevolent Administrators, oh, and possibly some members of the Time Hierarchy, or extremists from the Time Purity Patrols, or... Well, anyway, typically antagonists.
+* If the Continuum is Taken Out, that's a Snafu. That's Really, Really Bad. I personally have no clue what's going to happen, but you're welcome to come up with ideas! Also, please hurt the characters – nobody should want another Snafu. Well, nobody except the 0.001%, or that Mad Scientist over there, and perhaps a few Most Benevolent Administrators, oh, and possibly some members of the Time Hierarchy, or some extremists from the Time Purity Patrols, or... Oh, well, it's lucky you're here to fight them.
 
 * The Continuum may Concede at any time. This creates an implosive Pocket Continuum, trapping any Time Traveler in the vicinity. That's Bad. On the upside, Stress disappears immediately and Consequences are limited to the Pocket Continuum.
 
 #### Recovery
 
-Continuum Consequences need to be Bandaged before they can recover. Bandaging a Continuum Consequence requires coming up with an **Explanation** of why the Consequence is now Bandaged, from the safety of the Continuum Indirection \(see below\). Once a Consequence is Bandaged, things get better, but the Consequence is not fully healed. Full healing may take time.
+The easiest way to fix the Continuum is actually to let it Concede. It's Bad, and quite possibly deadly for the Crew, but it's not as Bad as a Snafu.
+
+Alternatively, you can work to Fix the Continuum. Continuum Consequences need to be Bandaged before they can recover. Bandaging a Continuum Consequence requires coming up with an **Explanation** of why the Consequence is now Bandaged, from the safety of the Continuum Indirection \(see below\). Once a Consequence is Bandaged, things get better, but the Consequence is not fully healed. Full healing may take time.
 
 * Example of a Bandaged Moderate Consequence:
 
@@ -142,6 +144,8 @@ Continuum Consequences need to be Bandaged before they can recover. Bandaging a 
   * _The Universe doesn't exist anymore_ becomes _Universe under reconstruction_. Pieces of the Continuum are missing, but Crews of Time Bureaucrats are bringing them back one by one. Or fighting over them.
   * _Time Travel has been erased_ becomes _Time Travel is coming back_. Most Continuum Indirections are down, possibly including yours. You may have to find a new one before you can do anything with it.
   * _Mankind has been erased_ becomes _Another life-form rules_. Mankind is coming back, one piece of Space·Time at a time. The Time Bureaucracy may even still exist. However, it is now ruled by White Mice from the 15th Dimension.
+
+Once a Consequence is Bandaged, the Continuum may take a second Consequence of the same level without being Taken Out. Oh, joy.
 
 FIXME: How fast does the Continuum recover?
 
