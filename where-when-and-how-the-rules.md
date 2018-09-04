@@ -12,9 +12,13 @@ We're not going to copy the rules of Fate here, but:
 
 So, starting from this line, we're going to assume that you know the rules of Fate Core. If you don't, please hop into your Continuum Indirection and rewind Space·Time to read those rules!
 
-## Character Creation
+## Creating a Character
 
 Well, here you are, ready to create your very own Ronin Time Bureaucrat. It's a great day to be alive, isn't it?
+
+You'll need the Character Sheet at the end of this chapter.
+
+### High Concept and Trouble
 
 So, the first thing you need to answer is: _just exactly who is your character_? The easiest is to start from an existing movie/novel/anime/comic book/... character and customize it from there. Some people start from musics, or from word associations. In Ronin Time Bureaucrats, pretty much anything does, so pick your poison.
 
@@ -28,7 +32,7 @@ I'm obviously some kind of rescuer, or at least, I feel like one.
 
 * _Where do I come from?_
 
-Mmmh... Lenin and Betrayal. I come from the Time Brigade. As a rescuer, I believed very strongly in my ideals, and in the necessity of freeing Space·Time from the shackles of Imperialist Capitalism. I believe that I was the youngest Political Officer of my promotion.
+Mmmh... Lenin and Betrayal. I obviously come from the Time Brigade. As a rescuer, I believe very strongly in my ideals, and in the necessity of freeing Space·Time from the shackles of Imperialist Capitalism. Maybe I was the youngest Political Officer of my promotion.
 
 Apparently, I was betrayed. I wonder how I feel about it.
 
@@ -36,32 +40,38 @@ Apparently, I was betrayed. I wonder how I feel about it.
 
 ![](/assets/small_even10.png)
 
-I'm Facing the Darkness. In other words, I'm continuing my fight without the Time Patrol.
+I'm Facing the Darkness. In other words, I'm continuing my fight without the Time Brigade.
 
-This gives me enough for a High Concept: _You can bring me down, but you can't the people down!_
+Wait a second, a True Believer, Facing the Darkness in the Time Brigade and Betrayed? I'm obviously Space·Time Trotsky!
 
-We now need a Trouble. It's probably going to be related both to my being a Wunderkind and to that betrayal.
+This gives me enough for a High Concept: _**Space·Time Trotsky**_. I'll need to discuss this with the GM, but I believe that I should be able to invoke that aspect both to come up with economic theories, write and deliver speeches, and locate supporters. On the other hand, I am probably feared and distrusted by most branches of the Bureaucracy, which makes it a good compel.
 
-* _Why was I betrayed?_
-* 
-This will become your High Concept. Examples of High Concepts:
+I wonder if the other players would go along as my followers or bodyguards. Otherwise, I'm just hiding among them, bidding my time.
 
-* How did your character end up in a Continuum Indirection? Was your character a Bureaucrat who deserted, or did you join the Crew later? If your character was a Bureaucrat, in which branch?
-* If your character deserted, why? If they joined a Crew, why?
+As a Space·Time Trotsky, I should probably pick a matching name. Maybe Lev Davidovitch, or Emmanuel Goldstein, or Snowball.
 
-## Continuum Creation
+I'm also on track for a Trouble: obviously, Space·Time Stalin is after me. Let's refine this.
 
-## Amendments to Fate Core
+* _What does Space·Time Stalin want to do to me_?
 
-### Health
+![](/assets/reversed_small_even1.png)
 
-In Space·Time, most threats are deadly. Unless they have specialized Stunts, characters only have one Consequence slot.
+Innocence? Well, that sounds like brainwashing!
 
-That's easy to remember, there's only one slot in your character sheet.
+So here's my Trouble: _**The Time Brigade intends to brainwash me**_.
 
-### Available Skills
+### Other Aspects
 
-The list of skills is slightly shorter than that of Fate Core.
+Typically, I'll need:
+
+* One Aspect to determine how I joined \(or recruited\) the Crew. This will have to come up during conversation with other Players. For the moment, it's sufficient to determine whether I joined or recruited the Crew.
+* Two Aspects showcasing adventures I've had with Crew members. Again, this will have to come up during conversation with other Players. Also, I don't feel like coming up with these Aspects right now, I'd prefer adding them while playing.
+
+So, we're done for Aspects for the time being.
+
+### Skills
+
+The list of skills is slightly shorter than that of Fate Core:
 
 * Awareness
   * Noticing things. Also, 6th sense.
@@ -123,13 +133,45 @@ The list of skills is slightly shorter than that of Fate Core.
 
   * Resisting attempts to convince, trick or brainwash you. Also, bravery.
 
-During character creation, pick:
+A starting character gets:
 
-* one skill at which your character is Great \(+4\)
-* two skills at which your character is Good \(+3\)
-* three skills at which your character is Fair \(+2\)
-* four skills at which your character is Average \(+1\)
+* one Skill at which your character is Great \(+4\);
+* two Skills at which your character is Good \(+3\);
+* three Skills at which your character is Fair \(+2\);
+* four Skills at which your character is Average \(+1\);
 * everything else is +0
+
+As with Aspects, not all Skills need to be picked up during character creation.
+
+For Space·Time Trotsky, I will pick:
+
+* A Great Will, because nothing can get him to change his mind about Imperialist Capitalism or the Shadow that took over the Time Brigade. Also, it will make brainwashing harder.
+* Good Mobility, because I've been on the run for a few subjective years already.
+* Good Tactics, because I need to stay one step ahead of the Time Brigade. Also, with Mobility + Tactics, I'm starting to be pretty good at Guerrilla Warfare.
+* Fair Stealth, because that's also going to be necessary for my Space·Time Guerrilla.
+* At least some Expertise, which my Space·Time Trotsky aspect will let me use apply to historico-economic marxist theories.
+
+I'll leave everything else
+
+I feel like I have followers, and I might also be a good orator. I'll see later if I can get a Stunt to improve this.
+
+## Crew Creation
+
+### The Continuum
+
+### The Indirection
+
+## Amendments to Fate Core
+
+### Health
+
+In Space·Time, most threats are deadly. Unless they have specialized Stunts, characters only have one Consequence slot.
+
+That's easy to remember, there's only one slot in your character sheet.
+
+### Available Skills
+
+
 
 ### Health of The Continuum
 
