@@ -32,6 +32,8 @@ I'm obviously some kind of rescuer, or at least, I feel like one.
 
 * _Where do I come from?_
 
+![](/assets/reversed_small_even3.png)
+
 Mmmh... Lenin and Betrayal. I obviously come from the Time Brigade. As a rescuer, I believe very strongly in my ideals, and in the necessity of freeing Space·Time from the shackles of Imperialist Capitalism. Maybe I was the youngest Political Officer of my promotion.
 
 Apparently, I was betrayed. I wonder how I feel about it.
@@ -245,8 +247,6 @@ The table should come up with at least one additional High Concept to get the ba
 If you want help from the Time Deck, as usual, you just need to ask.
 
 * _Why is everybody busy_?
-
-
 
 ### Health
 
