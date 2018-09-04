@@ -10,4 +10,5 @@
 * [Mission Report: The Yellow Curse of Euthermios](mission-the-polyphonic-choir.md)
 * [Look, over there: Further sources](further-readings.md)
 * [Who did what: Credits](credits.md)
+* [Who, Why and With Whom: Character sheets](who-why-and-with-whom-character-sheets.md)
 

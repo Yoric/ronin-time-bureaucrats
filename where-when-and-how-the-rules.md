@@ -393,11 +393,7 @@ Whenever there are at least two NPCs opposing the PCs, there are at least two wa
 
 With the exact same group of NPCs, you will notice that Teams are much better at actually hurting the PCs than Passerbys. Deciding whether they do this is up to the GM.
 
-## The Character Sheet
+## 
 
-![](/assets/Character sheet.png)
 
-## The Continuum Sheet
-
-![](/assets/Continuum Sheet.png)
 
