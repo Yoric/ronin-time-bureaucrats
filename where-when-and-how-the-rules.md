@@ -8,7 +8,7 @@ We're not going to copy the rules of Fate here, but:
 
 * the rules are Pay-what-you-want, so you can simply [grab them at Evil Hat's \(https://www.evilhat.com/home/fate-core-downloads/\)](https://www.evilhat.com/home/fate-core-downloads/);
 * the fine crew at Up To Four Players composed a great [two-pages webcomic introducing pretty much all the rules \(http://www.uptofourplayers.com/fate-core-rules/\)](http://www.uptofourplayers.com/fate-core-rules/);
-* Geek & Sundry dedicated an awesome video session showing [how Fate plays \(https://www.youtube.com/watch?v=NOFXtAHg7vU\)](https://www.youtube.com/watch?v=NOFXtAHg7vU).
+* Geek & Sundry dedicated an awesome video session to showing [how Fate plays \(https://www.youtube.com/watch?v=NOFXtAHg7vU\)](https://www.youtube.com/watch?v=NOFXtAHg7vU).
 
 So, starting from this line, we're going to assume that you know the rules of Fate Core. If you don't, please hop into your Continuum Indirection and rewind Space·Time to read those rules!
 
@@ -17,6 +17,8 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 ### Health
 
 In Space·Time, most threats are deadly. Unless they have specialized Stunts, characters only have one Consequence slot.
+
+That's easy to remember, there's only one slot in your character sheet.
 
 ### Available Skills
 
