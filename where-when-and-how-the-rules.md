@@ -199,9 +199,15 @@ As usual with Fate, the best way to create a character is _not_ to pick Stunts f
 Well, none of these seems particularly suited to Space·Time Trotsky. Let's see if I can come up with something better:
 
 * "_Because I am a **Passionate Orator**, whenever I deliver a speech on something that truly matters to me and that I truly, deeply, believe, I can use Will instead of Consensus to convince the crowd_."
-* _"Because I have **Gurerilleros Everywhere**, I can use Tactics to Create an Advantage Local Guerrilla Cell in any city or settlement with oppressed workers."_
+* _"Because I have **Gurerilleros Everywhere**, I can use Tactics to Create an Advantage Local Guerrilla Cell in any city or settlement with oppressed workers. This works only once per city/settlement."_
 
 My Space·Time Trotsky is now a force to be reckoned with.
+
+### Health
+
+In Space·Time, most threats are deadly. Unless they have specialized Stunts, characters only have one Consequence slot.
+
+That's easy to remember, there's only one slot in your character sheet.
 
 ## Crew Creation
 
@@ -211,11 +217,7 @@ My Space·Time Trotsky is now a force to be reckoned with.
 
 ## Amendments to Fate Core
 
-### Health
-
-In Space·Time, most threats are deadly. Unless they have specialized Stunts, characters only have one Consequence slot.
-
-That's easy to remember, there's only one slot in your character sheet.
+### 
 
 ### Available Skills
 
@@ -292,8 +294,6 @@ The following Aspects come with the Setting. They may be invoked and compelled a
 ### 
 
 ### Examples of Space·Time traveler Stunts
-
-
 
 ### Explaining Away an Observable Contradiction
 
