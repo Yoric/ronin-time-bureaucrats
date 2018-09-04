@@ -1,6 +1,6 @@
 * **Writing** David Teller \([Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)\)
 
-* **Unless otherwise specified, cover art, Illustrations and Time Deck** David Teller \([Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)\)
+* **Unless otherwise specified, all illustrations, including cover art and Time Deck** David Teller \([Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)\)
 
 * **Pictures used**
 
