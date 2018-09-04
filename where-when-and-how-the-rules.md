@@ -123,7 +123,9 @@ The Continuum can be damaged by Observable Contradictions. For this reasons,
 
 * The Continuum may be Taken Out, causing creation of a Pocket Continuum. That’s Bad. However, when the Continuum is Taken Out, any Stress and Consequences disappear immediately.
 
-* From the point of view of recovery, every story is a Conflict against the Continuum. Consequently, **the Continuum does not recover Stress during a story**.
+* From the point of view of recovery, every scenario is a Conflict against the Continuum. Consequently, **Continuum Stress is recovered at the end of the scenario**, not before.
+
+* Continuum Consequences need to be Bandaged before they can recover. Bandaging a Continuum Consequence typically involves either fixing the issue in-game or coming up with an **Explanation** for why the Consequence is solved \(see below\) from the safety of the Continuum Indirection.
 
 ### Built-in Stunts
 
@@ -166,7 +168,7 @@ Recall how Time Traveler Tani and Time Traveler Tom were trying to Explain Away 
 
 The mechanism is called **Explaining Away** a Contradiction. It's how you defend the Continuum against whenever an Observable Contradiction attacks it. It's also, later, how you Bandage the Consequences of an Observable Contradiction.
 
-All the players who wish to participate should offer a possible explanation and roll \(**what skill? To be determined**\) against a Good \(+3\) difficulty. The highest winner picks the story, establishing a temporary Fact, which may not be contradicted in this story.
+All the players who wish to participate should offer a possible explanation and roll the relevant skill against a Good \(+3\) difficulty. The highest winner picks the story, establishing a temporary Fact, which may not be contradicted in this story.
 
 1. All the players who wish to participate should offer the second part of the explanation and roll against the Success Level of the previous highest success. Highest winner picks the second part of the story, establishing a second Fact \(same rules\).
 
@@ -174,13 +176,15 @@ All the players who wish to participate should offer a possible explanation and 
 
 Note:
 
+* Let the player pick the relevant skill to roll. For instance, one may argue that either Awareness, Empathy, Theatrics or Tactics may give them an intuition of what other people will do, Awareness, Investigate or Tinkering may give them an intuition of how technology will evolve, etc.
+
 * On a Tie, the Fact just established provides a Boost to the player for the rest of the Explanation
 
 * On Success/Success with Style, this Fact provides Free Invocations which may be used either while coming up with the Explanation or later, when confronting this Explanation against the Paradox.
 
 * If everybody fails, the players may wish to continue the Explanation may continue, in which case there will be a Free Invocation _against_ the Continuum.
 
-* If your Fact may need the help of your Future Self, you may, as usual, pay one Fate Point to use your Aspect Time Traveler and get that help.
+* If your Fact may need the help of your Future Self, you may, as usual, use **Help Myself** and pay one Fate Point to use your Aspect Time Traveler and get that help.
 
 This establishes an **Explanation**.
 
@@ -192,7 +196,9 @@ Here, Time Traveler Tom and Time Traveler Tina established the following Explana
 
 * Grandmother Greta always told Mother Maria that Grandfather Gerry was a violent man, so Mother Maria never attempted to get in touch with him.
 
-Each Fact established during the Explanation serves as an Advantage \(with possibly Free Invocations – too late for Boosts\) to defend the Continuum. If it makes narrative sense, other characters may create further advantages to further help the Continuum. Roll an Attack as usual.
+When the Continuum is being damaged by an Observable Contradiction, each Fact established during the Explanation serves as an Advantage \(with possibly Free Invocations – too late for Boosts\) to defend the Continuum. If it makes narrative sense, other characters may create further advantages to further help the Continuum. Roll an Attack and determine damage as usual.
+
+When Consequences to the Continuum are being Bandaged, each Fact established during the Explanation serves as an Advantage \(with possibly Free Invocations – too late for Boosts\) to fix the Continuum. If it makes narrative sense, other characters may create further advantages to further help the Continuum. Roll against Fair \(+2\) difficulty to Bandage a Minor Consequence, Great \(+4\) difficulty to Bandage a Great Consequence, Fantastic \(+6\) difficulty to Bandage a Major Consequence.
 
 If the Attack fails, the Explanation becomes a permanent Aspect of these Space·Time coordinates. If the Attack succeeds, the Continuum was damaged, which may cause Consequences.
 
