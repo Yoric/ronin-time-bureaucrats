@@ -335,13 +335,11 @@ FIXME: How fast does the Continuum recover?
 
 Recall how Time Traveler Tani and Time Traveler Tom were trying to Explain Away why killing Time Traveler Tom's Grandfather Gerry before he met Grandmother Gina wasn't such an Observable Contradiction?
 
-The mechanism is called **Explaining Away** a Contradiction. It's how you defend the Continuum against whenever an Observable Contradiction attacks it. It's also, later, how you Bandage the Consequences of an Observable Contradiction.
+The mechanism is called **Explaining Away** a Contradiction. It's how you defend the Continuum against whenever an Observable Contradiction attacks it. It's also, later, how you Bandage the Consequences of an Observable Contradiction. It's intended to be a funny mechanism for coming up with weird by somewhat plausible explanations of why a paradox isn't _quite as bad as it appears_.
 
-It's intended to be a funny mechanism for coming up with weird by somewhat plausible explanations of why a paradox isn't _quite as bad as it appears_. All the players who wish to participate should offer a possible explanation and roll the relevant skill against a Good \(+3\) difficulty. The highest winner picks the story, establishing a temporary Fact, which may not be contradicted in this story.
-
-1. All the players who wish to participate should offer the second part of the explanation and roll against the Success Level of the previous highest success. Highest winner picks the second part of the story, establishing a second Fact \(same rules\).
-
-2. Continue until nobody wins and/or players run out of ideas.
+1. All the players who wish to participate should offer a possible explanation and roll the relevant skill against a Good \(+3\) difficulty. The highest winner picks the story, establishing a temporary Fact, which may not be contradicted in this story.
+2. All the players who wish to participate should offer the second part of the explanation and roll against the Success Level of the previous highest success. Highest winner picks the second part of the story, establishing a second Fact \(same rules\)
+3. Continue until nobody wins and/or players run out of ideas.
 
 Note:
 
