@@ -40,6 +40,7 @@
     * George Hodan - Figure From Lego Pieces. Public Domain \(source: Publicdomainpictures.net\)
     * TBD
   * **Where, When and How**
+    * Character Sheet, Continuum Sheet, Crew Sheet: David Teller. [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
     * TBD
   * **Mission Report: The Yellow Curse of Euthermios**
     * TBD
