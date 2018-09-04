@@ -24,7 +24,7 @@ In Ronin Time Bureaucrat, you can even use the Time Deck, so let's try that.
 
 ![](/assets/reversed_small_even6.png)
 
-I'm obviously some kind of rescuer.
+I'm obviously some kind of rescuer, or at least, I feel like one.
 
 * _Where do I come from?_
 
@@ -42,8 +42,8 @@ This gives me enough for a High Concept: _You can bring me down, but you can't t
 
 We now need a Trouble. It's probably going to be related both to my being a Wunderkind and to that betrayal.
 
-
-
+* _Why was I betrayed?_
+* 
 This will become your High Concept. Examples of High Concepts:
 
 * How did your character end up in a Continuum Indirection? Was your character a Bureaucrat who deserted, or did you join the Crew later? If your character was a Bureaucrat, in which branch?
