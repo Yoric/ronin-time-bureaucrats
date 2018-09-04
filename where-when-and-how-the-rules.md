@@ -245,7 +245,7 @@ At the end of every adventure, characters carry away one **Experience & Plunder*
 
 Each Experience is a new Aspect for the character. Experiences may be invoked for free _once per adventure_, or for one Fate Point as other Aspects.
 
-## Clarifications to Fate Core
+## And more
 
 ### Non-Player Characters
 
@@ -263,4 +263,8 @@ With the exact same group of NPCs, you will notice that Teams are much better at
 ## The Character Sheet
 
 ![](/assets/Character sheet.png)
+
+## The Continuum Sheet
+
+![](/assets/Continuum Sheet.png)
 
