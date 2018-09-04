@@ -145,15 +145,13 @@ As with Aspects, not all Skills need to be picked up during character creation.
 
 For Space·Time Trotsky, I will pick:
 
-* A Great Will, because nothing can get him to change his mind about Imperialist Capitalism or the Shadow that took over the Time Brigade. Also, it will make brainwashing harder.
+* A Great Will, because nothing can get him to change his mind about Imperialist Capitalism or the Shadow that took over the Time Brigade. Also, it will make it harder for Space·Time Stalin to brainwash me. Take that, Space·Time Stalin!
 * Good Mobility, because I've been on the run for a few subjective years already.
 * Good Tactics, because I need to stay one step ahead of the Time Brigade. Also, with Mobility + Tactics, I'm starting to be pretty good at Guerrilla Warfare.
 * Fair Stealth, because that's also going to be necessary for my Space·Time Guerrilla.
-* At least some Expertise, which my Space·Time Trotsky aspect will let me use apply to historico-economic marxist theories.
+* Fair Expertise, which my Space·Time Trotsky Aspect will let me use apply to historico-economic marxist theories. It's not Great, but I can always invoke my Aspect to boost me.
 
-I'll leave everything else
-
-I feel like I have followers, and I might also be a good orator. I'll see later if I can get a Stunt to improve this.
+I'll leave everything else to be decided during gameplay. I feel like I have followers, and I feel like I need a Stunt to be a good orator.
 
 ## Crew Creation
 
@@ -170,8 +168,6 @@ In Space·Time, most threats are deadly. Unless they have specialized Stunts, ch
 That's easy to remember, there's only one slot in your character sheet.
 
 ### Available Skills
-
-
 
 ### Health of The Continuum
 
