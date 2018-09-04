@@ -129,9 +129,9 @@ The Continuum can be damaged by Observable Contradictions.
 
 #### Recovery
 
-The Continuum recovers Stress whenever there is a downtime. Just like that. The downside is that, once there is a Consequence, it's unlikely that you're going to have any kind of downtime
+The Continuum recovers Stress whenever there is a downtime. Just like that. The downside is that, once there is any Consequence beyond Minor, it's unlikely that you're going to have any kind of downtime. Chances are that you need to Fix Things Now, before they get any worse.
 
-The easiest way to fix the Continuum is actually to let it Concede. It's Bad, and quite possibly deadly for the Crew, but it's not as Bad as a Snafu.
+The easiest way to fix Consequences to the Continuum is actually to let it Concede. It's Bad, and quite possibly deadly for the Crew, but it's not as Bad as a Snafu.
 
 Alternatively, you can work to Fix the Continuum. Continuum Consequences need to be Bandaged before they can recover. Bandaging a Continuum Consequence requires coming up with an **Explanation** of why the Consequence is now Bandaged, from the safety of the Continuum Indirection \(see below\). Once a Consequence is Bandaged, things get better, but the Consequence is not fully healed. Full healing may take time.
 
