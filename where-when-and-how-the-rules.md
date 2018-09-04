@@ -94,7 +94,7 @@ During character creation, pick:
 
 ### Health of The Continuum
 
-The Continuum can be damaged by Observable Contradictions.
+The Continuum get its own character sheet, oh joy! That's largely because the Continuum can be damaged by Observable Contradictions.
 
 * The Continuum has its own Stress Track. Inducing Stress means that the Continuum has been lucky so far and not actually damaged. If you wish, Stress may show up, as minor manifestations: pictures fading, books rewriting themselves, etc.
 
