@@ -48,7 +48,7 @@ In Space·Time, most threats are deadly. Unless they have specialized Stunts, ch
 
 * Mobility
 
-  * Everything related to moving around. Typically, running either towards danger or away from it. Also good for guerrilla warfare.
+  * Everything related to moving around. Typically, running either towards danger or away from it. Once you know how to use a vehicle, or a horse, or anything that can get you somewhere, that's how you use it. Also good for guerrilla warfare.
 
 * Spelunking
 
@@ -72,7 +72,7 @@ In Space·Time, most threats are deadly. Unless they have specialized Stunts, ch
 
 * Tinkering
 
-  * Making things work. Making things stop to work, too, if you prefer.
+  * Making things work. Making things stop to work, too, if you prefer. That's also how you learn to use any kind of apparatus, including vehicles, including animals.
 
 * Will
 
@@ -214,6 +214,4 @@ With the exact same group of NPCs, you will notice that Teams are much better at
 ## The Character Sheet
 
 ![](/assets/Character sheet.png)
-
-
 
