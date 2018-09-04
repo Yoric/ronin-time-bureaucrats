@@ -40,9 +40,11 @@ I'm Facing the Darkness. In other words, I'm continuing my fight without the Tim
 
 This gives me enough for a High Concept: _You can bring me down, but you can't the people down!_
 
+We now need a Trouble. It's probably going to be related both to my being a Wunderkind and to that betrayal.
 
 
-This will become your High Concept. Examples of High Concepts: 
+
+This will become your High Concept. Examples of High Concepts:
 
 * How did your character end up in a Continuum Indirection? Was your character a Bureaucrat who deserted, or did you join the Crew later? If your character was a Bureaucrat, in which branch?
 * If your character deserted, why? If they joined a Crew, why?
