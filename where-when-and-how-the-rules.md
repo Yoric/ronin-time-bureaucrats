@@ -225,18 +225,28 @@ Space·Time Trotsky is ready. We still need to finish customizing the setting.
 
 ## Crew & Indirection
 
+\(TBD\)
+
 ## The Continuum
 
 The Continuum itself has a character sheet, with Aspects and Stress/Consequence Tracks.
 
 ### Aspects
 
-The following Aspects come with the Setting. They may be invoked and compelled as any other Aspect.
+The following Aspect comes with the Setting. It may be invoked and compelled as any other Aspect.
 
-* **The Continuum is Fragile**. Examples of compels:
+* Trouble: **The Continuum is Fragile**. Examples of compels:
   * Call for a truce between branches of the Bureaucracy, long enough to Explain away an Observable Contradiction or a Consequence.
   * Get a damaged Continuum to Concede, creating an implosive Pocket Continuum.
   * Convince Time Travelers to please not shoot.
+
+The table should come up with at least one additional High Concept to get the ball rolling: why is everybody busy?
+
+If you want help from the Time Deck, as usual, you just need to ask.
+
+* _Why is everybody busy_?
+
+
 
 ### Health
 
