@@ -337,7 +337,7 @@ Recall how Time Traveler Tani and Time Traveler Tom were trying to Explain Away 
 
 The mechanism is called **Explaining Away** a Contradiction. It's how you defend the Continuum against whenever an Observable Contradiction attacks it. It's also, later, how you Bandage the Consequences of an Observable Contradiction.
 
-All the players who wish to participate should offer a possible explanation and roll the relevant skill against a Good \(+3\) difficulty. The highest winner picks the story, establishing a temporary Fact, which may not be contradicted in this story.
+It's intended to be a funny mechanism for coming up with weird by somewhat plausible explanations of why a paradox isn't _quite as bad as it appears_. All the players who wish to participate should offer a possible explanation and roll the relevant skill against a Good \(+3\) difficulty. The highest winner picks the story, establishing a temporary Fact, which may not be contradicted in this story.
 
 1. All the players who wish to participate should offer the second part of the explanation and roll against the Success Level of the previous highest success. Highest winner picks the second part of the story, establishing a second Fact \(same rules\).
 
@@ -345,7 +345,7 @@ All the players who wish to participate should offer a possible explanation and 
 
 Note:
 
-* Let the player pick the relevant skill to roll. For instance, one may argue that either Awareness, Empathy, Theatrics or Tactics may give them an intuition of what other people will do, Awareness, Investigate or Tinkering may give them an intuition of how technology will evolve, etc.
+* Let the player pick the relevant skill to roll. For instance, one may argue that either Awareness, Empathy, Theatrics or Tactics may give them an intuition of what other people will do, Awareness, Investigate or Tinkering may give them an intuition of how technology will evolve, Fight or Shoot combined with Help Thyself will let them take part in a future conflict, etc.
 
 * On a Tie, the Fact just established provides a Boost to the player for the rest of the Explanation
 
