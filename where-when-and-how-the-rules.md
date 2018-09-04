@@ -12,11 +12,15 @@ We're not going to copy the rules of Fate here, but:
 
 So, starting from this line, we're going to assume that you know the rules of Fate Core. If you don't, please hop into your Continuum Indirection and rewind Space·Time to read those rules!
 
-## Health
+## Amendments to Fate Core
+
+### Health
 
 In Space·Time, most threats are deadly. Unless they have specialized Stunts, characters only have one Consequence slot.
 
-## Available Skills
+### Available Skills
+
+The list of skills is slightly shorter than that of Fate Core.
 
 * Awareness
   * Noticing things. Also, 6th sense.
@@ -86,7 +90,7 @@ During character creation, pick:
 * four skills at which your character is Average \(+1\)
 * everything else is +0
 
-## Health of The Continuum
+### Health of The Continuum
 
 The Continuum can be damaged by Observable Contradictions. For this reasons,
 
@@ -119,14 +123,14 @@ The Continuum can be damaged by Observable Contradictions. For this reasons,
 
 * The Continuum may be Taken Out, causing creation of a Pocket Continuum. That’s Bad. However, when the Continuum is Taken Out, any Stress and Consequences disappear immediately.
 
-## Built-in Stunts
+### Built-in Stunts
 
 Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
 
 * Because I can **Help Myself**, whenever I need to, I can spend 1 Fate Point to receive the help from my Future Self. My Future Self may do anything I would have done. If I am in presence of my Future Self for more than a brief instant, however, this causes damage equivalent to an Observable Contradiction.
 * Because I'm a **Death-Defying Space·Time Traveler**, I can deflect any damage taken by myself to the Continuum.
 
-## Additional Stunts
+### Additional Stunts
 
 As usual with Fate, the best way to create a character is _not_ to pick Stunts from a list, but rather to design the Stunt for that character. That being said, here's a list of stunts that can serve as sources of inspiration.
 
@@ -154,7 +158,7 @@ As usual with Fate, the best way to create a character is _not_ to pick Stunts f
 
 * Because **The better part of valor is survival**, if I have spotted an enemy about to attack me, I always have an opportunity to run away before the combat starts. Of course, this doesn't work as well if I'm trapped.
 
-## Explaining Away an Observable Contradiction
+### Explaining Away an Observable Contradiction
 
 Recall how Time Traveler Tani and Time Traveler Tom were trying to Explain Away why killing Time Traveler Tom's Grandfather Gerry before he met Grandmother Gina wasn't such an Observable Contradiction?
 
@@ -190,7 +194,7 @@ Each Fact established during the Explanation serves as an Advantage \(with possi
 
 If the Attack fails, the Explanation becomes a permanent Aspect of these Space·Time coordinates. If the Attack succeeds, the Continuum was damaged, which may cause Consequences.
 
-## Experience
+### Experience
 
 At the end of every adventure, characters carry away one **Experience**. This Experience may be an object, a lesson learned, a skill mastered, a contact, a memory, ... The player gets to decide exactly what the Experience actually is.
 
@@ -198,7 +202,9 @@ Write down the Experience on the character sheet.
 
 Each Experience is a new Aspect for the character. Experiences may be invoked for free _once per adventure_, or for one Fate Point as other Aspects.
 
-## Non-Player Characters
+## Clarifications to Fate Core
+
+### Non-Player Characters
 
 Most Non-Player Characters are described by:
 
