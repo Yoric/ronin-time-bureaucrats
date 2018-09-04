@@ -100,22 +100,30 @@ The Continuum can be damaged by Observable Contradictions. For this reasons,
 
   * Examples of Minor Consequence:
 
-    * The layout of Time Indirections has changed. You may have trouble finding things you have stashed, or using the new cockpit. Variants: the clothing of Time Travelers has changed.
+    * _The layout of Time Indirections has changed_. You may have trouble finding things you have stashed, or using the new cockpit. Variants: the clothing of Time Travelers has changed.
 
-    * Immunization shots are not so good anymore. You may find yourself getting sick from diseases to which you were previously immune.
+    * _Immunization shots are not so good anymore_. You may find yourself getting sick from diseases to which you were previously immune.
 
   * Example of Moderate Consequence:
 
-    * The Bureaucracy won't answer. It may have been erased, or maybe the communications technology just doesn't work so well anymore.
-    * Random Time Travelers \(including you?\) have been erased from memories. Doing things is harder when people have trouble remembering that you exist.
+    * _The Bureaucracy won't answer_. It may have been erased, or maybe the communications technology just doesn't work so well anymore.
+    * _Random Time Travelers have been erased from memories_. Doing things is harder when people have trouble remembering that you exist.
 
   * Example of Major Consequence:
 
-    * The Universe doesn't exist anymore. Expect any object within your reach to vanish at the worst possible time.
+    * _The Universe doesn't exist anymore_. Expect any object within your reach to vanish at the worst possible time.
 
-    * Time Travel has been erased. Expect your Time Indirection to stop working.
+    * _Time Travel has been erased_. Expect your Time Indirection to stop working.
 
-    * Mankind has been erased.
+    * _Mankind has been erased_. Expect people around you to vanish mid-sentence. Possibly including you, temporarily.
+
+* Consequences need to be Bandaged before they can recover. Bandaging a Continuum Consequence requires coming up with an **Explanation** of why the Consequence is now Bandaged, from the safety of the Continuum Indirection. Once a Consequence is Bandaged, things get better, but the Consequence is not fully healed. Full healing will take time.
+
+  * Example of a Bandaged Moderate Consequence:
+
+    * _The Bureaucracy won't answer_ becomes _Trouble on the waves_ or _Bureaucracy offices are closed for repairs_. The Bureaucracy is still there, but getting a call through won't be easy.
+
+    * _Random Time Travelers have been erased from memories_ becomes _Passing for a Time Traveler has become easy_. People now remember Time Travelers, but they 
 
 * These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs.
 
@@ -123,9 +131,17 @@ The Continuum can be damaged by Observable Contradictions. For this reasons,
 
 * The Continuum may be Taken Out, causing creation of a Pocket Continuum. That’s Bad. However, when the Continuum is Taken Out, any Stress and Consequences disappear immediately.
 
-* From the point of view of recovery, every scenario is a Conflict against the Continuum. Consequently, **Continuum Stress is recovered at the end of the scenario**, not before.
+* From the point of view of recovery, every scenario is a Conflict against the Continuum. Consequently:
+
+  * **Continuum Stress is recovered at the end of the scenario**, not before.
+
+  * **Minor Consequences are recovered at the end of the scenario**, not before.
+
+  * Once a Major Consequence is Bandaged, it may be recovered at the end of the next session
 
 * Continuum Consequences need to be Bandaged before they can recover. Bandaging a Continuum Consequence typically involves either fixing the issue in-game or coming up with an **Explanation** for why the Consequence is solved \(see below\) from the safety of the Continuum Indirection.
+
+* Once a Consequence is Bandaged
 
 ### Built-in Stunts
 
@@ -137,6 +153,8 @@ Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
 ### Additional Stunts
 
 As usual with Fate, the best way to create a character is _not_ to pick Stunts from a list, but rather to design the Stunt for that character. That being said, here's a list of stunts that can serve as sources of inspiration.
+
+Stunts are there to differentiate characters. Consequently, two members of the same Crew **should not have the same Stunt** \(other than the built-in Stunts above\).
 
 * Because I'm a **Living Encyclopedia of Space·Time**, I have a +2 to remember historical and geographical facts about this place/period.
 
