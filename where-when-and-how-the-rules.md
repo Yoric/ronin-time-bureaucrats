@@ -241,9 +241,7 @@ If the Explanation succeeded at deflecting the Attack/Bandaging the Consequence,
 
 ### Experience & Plunder
 
-At the end of every adventure, characters carry away one **Experience & Plunder**. This Experience & Plunder may be an object, a lesson learned, a skill mastered, a contact, a memory, ... The player gets to decide exactly what the Experience actually is.
-
-Write down the Experience on the character sheet.
+At the end of every adventure, characters carry away one **Experience & Plunder**. This Experience & Plunder may be an object, a lesson learned, a skill mastered, a contact, a memory, ... The player gets to decide exactly what the Experience actually is and writes it down on the character sheet.
 
 Each Experience is a new Aspect for the character. Experiences may be invoked for free _once per adventure_, or for one Fate Point as other Aspects.
 
