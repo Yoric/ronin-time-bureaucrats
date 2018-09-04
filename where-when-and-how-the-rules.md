@@ -215,15 +215,13 @@ When the Stress boxes are not sufficient, characters may take a Consequence to a
 
 Space·Time Trotsky is ready. We still need to finish customizing the setting.
 
-## Global Creation
+## Crew & Indirection
 
-### Crew & Indirection
+## The Continuum
 
+The Continuum itself has a character sheet, with Aspects and Stress/Consequence Tracks.
 
-
-### The Continuum
-
-The Continuum itself has a character sheet, with Aspects and Health.
+### Aspects
 
 The following Aspects come with the Setting. They may be invoked and compelled as any other Aspect.
 
@@ -232,40 +230,38 @@ The following Aspects come with the Setting. They may be invoked and compelled a
   * Get a damaged Continuum to Concede, creating an implosive Pocket Continuum.
   * Convince Time Travelers to please not shoot.
 
-### Health of The Continuum
+### Health
 
-The Continuum get its own character sheet, oh joy! That's largely because the Continuum can be damaged by Observable Contradictions.
+The Continuum may be attacked by Observable Contradictions. Just like any character, it may Concede \(which is Bad\) or be Taken Out \(which is Very, Very Bad\). On the upside, it may also be healed.
 
-* The Continuum has its own Stress Track. Inducing Stress means that the Continuum has been lucky so far and not actually damaged. If you wish, Stress may show up, as minor manifestations: pictures fading, books rewriting themselves, etc.
+The Continuum has its own Stress Track. It represents Observable Contradictions to the Continuum that may simply be shrugged away. If you wish, Stress may show up, as minor manifestations: pictures fading, books rewriting themselves, etc. Stress Boxes may be ticked to avoid being Taken Out by Contradiction Damage.
 
-* The Continuum has its own Consequences Track \(Minor/Moderate/Major\). As for any character, Consequence damage does show up. Each Consequence is an Aspect that alters the Continuum and may be Compelled against any Time Traveler in the vicinity. You are encouraged to come up with possible stories that explain how things got that bad.
+The Continuum has its own Consequences Track \(Minor/Moderate/Major\). As for any character, Consequence damage does show up. Each Consequence is an Aspect that alters the Continuum and may be Compelled against any Time Traveler in the vicinity. You are encouraged to come up with possible justifications that explain how things got that bad. Again, Consequences may be taken to avoid being Taken Out by Contradiction Damage.
 
-  * Examples of Minor Consequence:
+* Examples of Minor Consequence:
 
-    * _The layout of Time Indirections has changed_. You may have trouble finding things you have stashed, or using the new cockpit. Variants: the clothing of Time Travelers has changed, making it harder for them to walk, or run, or find stuff in their pockets.
+  * _The layout of Time Indirections has changed_. You may have trouble finding things you have stashed, or using the new cockpit. Variants: the clothing of Time Travelers has changed, making it harder for them to walk, or run, or find stuff in their pockets.
 
-    * _Immunization shots are not so good anymore_. You may find yourself getting sick from diseases to which you were previously immune.
+  * _Immunization shots are not so good anymore_. You may find yourself getting sick from diseases to which you were previously immune.
 
-  * Example of Moderate Consequence:
+* Example of Moderate Consequence:
 
-    * _The Bureaucracy won't answer_. It may have been erased, or maybe the communications technology just doesn't work so well anymore.
-    * _Random Time Travelers have been erased from memories_. Doing things is harder when people have trouble remembering that you exist.
+  * _The Bureaucracy won't answer_. It may have been erased, or maybe the communications technology just doesn't work so well anymore.
+  * _Random Time Travelers have been erased from memories_. Doing things is harder when people have trouble remembering that you exist.
 
-  * Example of Major Consequence:
+* Example of Major Consequence:
 
-    * _The Universe doesn't exist anymore_. Expect any object within your reach to vanish at the worst possible time.
+  * _The Universe doesn't exist anymore_. Expect any object within your reach to vanish at the worst possible time.
 
-    * _Time Travel has been erased_. Expect the GM to compel your Continuum Indirection to stop working now and then.
+  * _Time Travel has been erased_. Expect the GM to compel your Continuum Indirection to stop working now and then.
 
-    * _Mankind has been erased_. Expect people around you to vanish mid-sentence. Possibly including you, temporarily.
+  * _Mankind has been erased_. Expect people around you to vanish mid-sentence. Possibly including you, temporarily.
 
-* These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs. Consequently, NPCs may be busy both damaging the Continuum and Bandaging it. In fact, attempting to prevent or bandage damage to the Continuum is one of the rare occasions during which pretty much all Time Travelers will show a somewhat united front and suspend backstabbing long enough to avoid Something Very Bad.
+These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs. Consequently, NPCs may be busy both damaging the Continuum and Bandaging it. In fact, attempting to prevent or bandage damage to the Continuum is one of the rare occasions during which pretty much all Time Travelers will show a somewhat united front and suspend backstabbing long enough to avoid Something Very Bad.
 
-* Observable Contradictions, no matter how much good will went into creating them, are an attack against the robustness of the Continuum, and may therefore cause damage \(Stress/Consequences\).
+If the Continuum is Taken Out, that's a Snafu. That's Really, Really Bad. I personally have no clue what's going to happen, but you're welcome to come up with ideas! Also, please hurt the characters – nobody should want another Snafu. Well, nobody except the 0.001%, or that Mad Scientist over there, and perhaps a few Most Benevolent Administrators, oh, and possibly some members of the Time Hierarchy, or some extremists from the Time Purity Patrols, or... Oh, well, it's lucky you're here to fight them, right?
 
-* If the Continuum is Taken Out, that's a Snafu. That's Really, Really Bad. I personally have no clue what's going to happen, but you're welcome to come up with ideas! Also, please hurt the characters – nobody should want another Snafu. Well, nobody except the 0.001%, or that Mad Scientist over there, and perhaps a few Most Benevolent Administrators, oh, and possibly some members of the Time Hierarchy, or some extremists from the Time Purity Patrols, or... Oh, well, it's lucky you're here to fight them.
-
-* The Continuum may Concede at any time. This creates an implosive Pocket Continuum, trapping any Time Traveler in the vicinity. That's Bad. On the upside, Stress disappears immediately and Consequences are limited to the Pocket Continuum.
+The Continuum may Concede at any time. This creates an implosive Pocket Continuum, trapping any Time Traveler in the vicinity. That's Bad. On the upside, Stress disappears immediately and Consequences are limited to the Pocket Continuum.
 
 #### Recovery
 
@@ -292,8 +288,6 @@ Alternatively, you can work to Fix the Continuum. Continuum Consequences need to
 Once a Consequence is Bandaged, the Continuum may take a second Consequence of the same level without being Taken Out. Oh, more joy.
 
 FIXME: How fast does the Continuum recover?
-
-
 
 ### 
 
