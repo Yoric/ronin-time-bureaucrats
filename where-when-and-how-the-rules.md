@@ -32,7 +32,7 @@ In Space·Time, most threats are deadly. Unless they have specialized Stunts, ch
 
 * Fight
 
-  * Close-combat fighting, whether armed or unarmed.
+  * Close-combat fighting, whether armed or unarmed. Used both for attacking and for defending.
 
 * Fortitude
 
@@ -48,7 +48,7 @@ In Space·Time, most threats are deadly. Unless they have specialized Stunts, ch
 
 * Mobility
 
-  * Everything related to moving around. Typically, running either towards danger or away from it. Once you know how to use a vehicle, or a horse, or anything that can get you somewhere, that's how you use it. Also good for guerrilla warfare.
+  * Everything related to moving around. Typically, running either towards danger or away from it, including running for cover when someone is shooting at you. Once you know how to use a vehicle, or a horse, or anything that can get you somewhere, that's how you use it. Also good for guerrilla warfare.
 
 * Spelunking
 
@@ -56,7 +56,7 @@ In Space·Time, most threats are deadly. Unless they have specialized Stunts, ch
 
 * Shoot
 
-  * Distance fighting, typically armed, from throwing shurikens to sniping to adjusting battle-canons.
+  * Distance fighting, typically armed, from throwing shurikens to sniping to adjusting battle-canons. Used for attacking, providing cover fire, shooting down the lights, throwing baseballs, etc.
 
 * Stealth
 
