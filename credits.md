@@ -19,7 +19,7 @@
     * II: Hyeronymus Bosch, The Garden of Earthly Delights \[detail\]. Public Domain \(source: Wikipedia\).
     * III: Publicity photo of American actress Fay Wray promoting the 1933 feature film _King Kong_. Believed to be Public Domain \(source: Wikipedia\).
     * IV: Peter Brueghel, The Tower of Babel. Public Domain \(source: Wikipedia\).
-    * VI: Public Domain \(source: Wikipedia\).
+    * VI: Grigory Goldstein, Lenin gave a famous speech to a crowd of Soviet troops in Sverdlov Square, Moscow, in 1919. In the foreground was Leon Trotsky and Lev Kamenev. During Joseph Stalin's government, the photograph was edited. Public Domain \(source: Wikipedia\).
     * VII: English: Mushroom cloud of 'Gadget' over Trinity, seconds after detonation. Public Domain \(source: Wikipedia\).
     * VIII: Eugène Delacroix — Erich Lessing Culture and Fine Arts Archives via artsy.net. Public Domain \(source: Wikipedia\).
     * IX: Bartolo di Fredi – Collegiate Church of San Gimignano, Italy. from the Old Testament cycle: The Israelites safely cross the Red Sea, but Pharaoh and his troops are drowned. Public Domain \(source: Wikipedia\).
