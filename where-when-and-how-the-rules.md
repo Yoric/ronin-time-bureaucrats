@@ -2,7 +2,7 @@
 
 ## Starting with Fate Core
 
-Ok, time to confess it: Ronin Time Bureaucrats does not come with its own ruleset. There are so many good systems around, why invent a new one? So, rather than doing so, let's pick Fate Core, a simple ruleset designed to get out of the way and let us go on our merry adventures through Space·Time. We'll add the [Time Deck](/the-time-deck.md) and add some setting-specific flavour.
+Ok, time to confess it: Ronin Time Bureaucrats does not come with its own ruleset. There are so many good systems around, why invent a new one? So, rather than doing so, let's pick Fate Core, a simple ruleset designed to get out of the way and let us go on our merry adventures through Space·Time. We'll add the [Time Deck](/the-time-deck.md) and just a little bit of Space·Time flavour.
 
 We're not going to copy the rules of Fate here, but:
 
@@ -11,6 +11,43 @@ We're not going to copy the rules of Fate here, but:
 * Geek & Sundry dedicated an awesome video session to showing [how Fate plays \(https://www.youtube.com/watch?v=NOFXtAHg7vU\)](https://www.youtube.com/watch?v=NOFXtAHg7vU).
 
 So, starting from this line, we're going to assume that you know the rules of Fate Core. If you don't, please hop into your Continuum Indirection and rewind Space·Time to read those rules!
+
+## Character Creation
+
+Well, here you are, ready to create your very own Ronin Time Bureaucrat. It's a great day to be alive, isn't it?
+
+So, the first thing you need to answer is: _just exactly who is your character_? The easiest is to start from an existing movie/novel/anime/comic book/... character and customize it from there. Some people start from musics, or from word associations. In Ronin Time Bureaucrats, pretty much anything does, so pick your poison.
+
+In Ronin Time Bureaucrat, you can even use the Time Deck, so let's try that.
+
+* _Who am I?_
+
+![](/assets/reversed_small_even6.png)
+
+I'm obviously some kind of rescuer.
+
+* _Where do I come from?_
+
+Mmmh... Lenin and Betrayal. I come from the Time Brigade. As a rescuer, I believed very strongly in my ideals, and in the necessity of freeing Space·Time from the shackles of Imperialist Capitalism. I believe that I was the youngest Political Officer of my promotion.
+
+Apparently, I was betrayed. I wonder how I feel about it.
+
+* _How do I feel about it?_
+
+![](/assets/small_even10.png)
+
+I'm Facing the Darkness. In other words, I'm continuing my fight without the Time Patrol.
+
+This gives me enough for a High Concept: _You can bring me down, but you can't the people down!_
+
+
+
+This will become your High Concept. Examples of High Concepts: 
+
+* How did your character end up in a Continuum Indirection? Was your character a Bureaucrat who deserted, or did you join the Crew later? If your character was a Bureaucrat, in which branch?
+* If your character deserted, why? If they joined a Crew, why?
+
+## Continuum Creation
 
 ## Amendments to Fate Core
 
