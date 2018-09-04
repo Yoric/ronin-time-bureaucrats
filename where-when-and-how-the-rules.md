@@ -30,10 +30,6 @@ In Space·Time, most threats are deadly. Unless they have specialized Stunts, ch
 
   * Anything that you spent long time studying to learn and that is not covered by other Skills. Exactly what depends on your Aspects. If you're a Historian, this will cover your History. If you're a Kung-Fu Monk, this will probably cover both Zen and the Precepts of your Order.
 
-* Healing
-
-  * Making people better, physically. Also, poisoning.
-
 * Fight
 
   * Close-combat fighting, whether armed or unarmed.
@@ -41,6 +37,10 @@ In Space·Time, most threats are deadly. Unless they have specialized Stunts, ch
 * Fortitude
 
   * Standing hardships. Also, pure physical feats, such as carrying something heavy.
+
+* Healing
+
+  * Making people better, through physical treatment or chemistry. Also, making people worse, through physical treatment or chemistry. Your call.
 
 * Investigate
 
