@@ -64,7 +64,7 @@ In Space·Time, most threats are deadly. Unless they have specialized Stunts, ch
 
 * Tactics
 
-  * Planning things ahead for you and other people.
+  * Planning things ahead for you and other people. Often used to create advantages before or during confrontations.
 
 * Theatrics
 
