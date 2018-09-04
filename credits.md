@@ -12,7 +12,7 @@
 
     * TBD
 
-  * **Time Deck **\(to be completed\)
+  * **Time Deck**
 
   * * 0: Edward Burne-Jones, Tile Design - Theseus and the Minotaur in the Labyrinth. Public Domain \(source: Wikipedia\).
     * I: No image.
