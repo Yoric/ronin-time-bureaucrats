@@ -162,6 +162,8 @@ Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
 
 ### Coming up with Space·Time Stunts
 
+Each character may start with up to three Stunts.
+
 Stunts generally look like:
 
 * Because I am/I know/I have \(something\), I get a +2 to \(do something\) whenever \(some condition is met\).
@@ -201,25 +203,34 @@ Well, none of these seems particularly suited to Space·Time Trotsky. Let's see 
 * "_Because I am a **Passionate Orator**, whenever I deliver a speech on something that truly matters to me and that I truly, deeply, believe, I can use Will instead of Consensus to convince the crowd_."
 * _"Because I have **Gurerilleros Everywhere**, I can use Tactics to Create an Advantage Local Guerrilla Cell in any city or settlement with oppressed workers. This works only once per city/settlement."_
 
-My Space·Time Trotsky is now a force to be reckoned with.
+My Space·Time Trotsky is now a force to be reckoned with. I will leave the last Stunt to be decided during play.
 
 ### Health
 
-In Space·Time, most threats are deadly. Unless they have specialized Stunts, characters only have one Consequence slot.
+Each character has one Physical Stress track that represent near-misses or wounds that may simply be shrugged away in physical conflicts and one Mental Stress track that represent near-misses or attacks that may simply be shrugged away in a conflict of wills and wits. By default, each character gets three Physical Stress and three Mental Stress boxes that may be ticked to avoid being Taken Out by an attack. Some Stunts may add a fourth box.
 
-That's easy to remember, there's only one slot in your character sheet.
+When the Stress boxes are not sufficient, characters may take a Consequence to avoid being Taken Out by an attack. Note that, in Space·Time, most threats, even verbal ones, are deadly, so there is only one Consequence slot. That's easy to remember, there's only one slot in your character sheet.
 
-## Crew Creation
+### ...and almost ready
+
+Space·Time Trotsky is ready. We still need to finish customizing the setting.
+
+## Global Creation
+
+### Crew & Indirection
+
+
 
 ### The Continuum
 
-### The Indirection
+The Continuum itself has a character sheet, with Aspects and Health.
 
-## Amendments to Fate Core
+The following Aspects come with the Setting. They may be invoked and compelled as any other Aspect.
 
-### 
-
-### Available Skills
+* **The Continuum is Fragile**. Examples of compels:
+  * Call for a truce between branches of the Bureaucracy, long enough to Explain away an Observable Contradiction or a Consequence.
+  * Get a damaged Continuum to Concede, creating an implosive Pocket Continuum.
+  * Convince Time Travelers to please not shoot.
 
 ### Health of The Continuum
 
@@ -282,14 +293,7 @@ Once a Consequence is Bandaged, the Continuum may take a second Consequence of t
 
 FIXME: How fast does the Continuum recover?
 
-### Setting Aspects
 
-The following Aspects come with the Setting. They may be invoked and compelled as any other Aspect.
-
-* **The Continuum is Fragile**. Examples of compels:
-  * Call for a truce between branches of the Bureaucracy, long enough to Explain away an Observable Contradiction or a Consequence.
-  * Get a damaged Continuum to Concede, creating an implosive Pocket Continuum.
-  * Convince Time Travelers to please not shoot.
 
 ### 
 
