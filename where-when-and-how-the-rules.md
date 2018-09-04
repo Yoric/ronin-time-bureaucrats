@@ -248,6 +248,30 @@ If you want help from the Time Deck, as usual, you just need to ask.
 
 * _Why is everybody busy_?
 
+![](/assets/reversed_small_even10.png)
+
+Apparently, there's a problem with everybody's equipment.
+
+* _What caused that_?
+
+![](/assets/reversed_small_even5.png)
+
+Oh, apparently, someone made Great Progress. So, there was a breakthrough in, say, Continuum Indirection technologies. Everybody is playing catch-up.
+
+* _Who made the breakthrough_?
+
+![](/assets/reversed_small_odd8.png)
+
+Apparently, someone who was planning for the future. Someone who was dug for a very, very long time. It would fit in nicely with Most Benevolent Administrators.
+
+Let's imagine a Most Benevolent Administrator buried for about five-thousand years under Mars, with an army of slaves. It was recently dug up, most likely by the Acquisition Department of the Time Museum, because that's what they do. During these five-thousand years, the Most Benevolent Administrator has come up with a new technology that would somehow revolutionize Continuum Indirections.
+
+Everybody's trying to get into the action!
+
+So, here's our High Concept: _**Everybody's scare of being last to grab the Buried Space·Time of Mars**_.
+
+Including Space·Time Trotsky, of course.
+
 ### Health
 
 The Continuum may be attacked by Observable Contradictions. Just like any character, it may Concede \(which is Bad\) or be Taken Out \(which is Very, Very Bad\). On the upside, it may also be healed.
