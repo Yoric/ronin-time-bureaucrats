@@ -169,7 +169,7 @@ Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
 * Because I can **Help Myself**, whenever I need to, I can spend 1 Fate Point to receive the help from my Future Self. My Future Self may do anything I would have done. If I am in presence of my Future Self for more than a brief instant, however, it becomes pretty much impossible to actually remember exactly how my Future Self behaved to be able to imitate them, so expect Observable Contradictions.
 * Because I'm a **Death-Defying Space·Time Traveler**, I can deflect any damage taken by myself to the Continuum. Given how fragile the Continuum is, it is generally a good idea to Concede the conflict after this.
 
-### Additional Stunts
+### Examples of Space·Time traveler Stunts
 
 As usual with Fate, the best way to create a character is _not_ to pick Stunts from a list, but rather to design the Stunt for that character. That being said, here's a list of stunts that can serve as sources of inspiration.
 
