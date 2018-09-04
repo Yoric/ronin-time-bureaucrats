@@ -167,7 +167,7 @@ The following Aspects come with the Setting. They may be invoked and compelled a
 Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
 
 * Because I can **Help Myself**, whenever I need to, I can spend 1 Fate Point to receive the help from my Future Self. My Future Self may do anything I would have done. If I am in presence of my Future Self for more than a brief instant, however, this causes damage equivalent to an Observable Contradiction.
-* Because I'm a **Death-Defying Space·Time Traveler**, I can deflect any damage taken by myself to the Continuum. Given how fragile the Continuum is, it is generally a good idea to Concede the fight after this.
+* Because I'm a **Death-Defying Space·Time Traveler**, I can deflect any damage taken by myself to the Continuum. Given how fragile the Continuum is, it is generally a good idea to Concede the conflict after this.
 
 ### Additional Stunts
 
