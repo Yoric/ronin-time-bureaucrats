@@ -233,7 +233,7 @@ Space·Time Trotsky is ready. We still need to finish customizing the setting.
 
 The Continuum itself has a character sheet, with Aspects and Stress/Consequence Tracks.
 
-### Aspects
+### Continuum Aspects
 
 The following Aspect comes with the Setting. It may be invoked and compelled as any other Aspect.
 
@@ -272,7 +272,7 @@ So, here's our High Concept: _**Everybody's scared of being last to grab the Bur
 
 Including Space·Time Trotsky, of course.
 
-### Health
+### Continuum Health
 
 The Continuum may be attacked by Observable Contradictions. Just like any character, it may Concede \(which is Bad\) or be Taken Out \(which is Very, Very Bad\). On the upside, it may also be healed.
 
