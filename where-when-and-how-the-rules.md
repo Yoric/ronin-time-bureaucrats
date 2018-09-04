@@ -117,31 +117,45 @@ The Continuum can be damaged by Observable Contradictions. For this reasons,
 
     * _Mankind has been erased_. Expect people around you to vanish mid-sentence. Possibly including you, temporarily.
 
-* Consequences need to be Bandaged before they can recover. Bandaging a Continuum Consequence requires coming up with an **Explanation** of why the Consequence is now Bandaged, from the safety of the Continuum Indirection. Once a Consequence is Bandaged, things get better, but the Consequence is not fully healed. Full healing will take time.
+* Consequences need to be Bandaged before they can recover. Bandaging a Continuum Consequence requires coming up with an **Explanation** of why the Consequence is now Bandaged, from the safety of the Continuum Indirection. Once a Consequence is Bandaged, things get better, but the Consequence is not fully healed. Full healing may take time.
 
   * Example of a Bandaged Moderate Consequence:
 
     * _The Bureaucracy won't answer_ becomes _Trouble on the waves_ or _Bureaucracy offices are closed for repairs_. The Bureaucracy is still there, but getting a call through won't be easy.
 
-    * _Random Time Travelers have been erased from memories_ becomes _Passing for a Time Traveler has become easy_. People now remember Time Travelers, but they
+    * _Random Time Travelers have been erased from memories_ becomes _Passing for a Time Traveler has become easy_. People now remember forgetting Time Travelers and branches of the Bureaucracy are taking advantage to infiltrate each other.
 
-* These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs. Consequently, NPCs may be busy both damaging the Continuum and Bandaging it.
+  * Example of a Bandaged Major Consequence:
+
+    * _The Universe doesn't exist anymore_ becomes _Universe under reconstruction_.
+
+* These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs. Consequently, NPCs may be busy both damaging the Continuum and Bandaging it. In fact, attempting to prevent or bandage damage to the Continuum is one of the rare occasions during which pretty much all Time Travelers will show a somewhat united front and suspend backstabbing long enough to avoid Something Very Bad.
 
 * Observable Contradictions, no matter how much good will went into creating them, are an attack against the robustness of the Continuum, and may therefore cause damage \(Stress/Consequences\).
 
-* The Continuum may be Taken Out, causing creation of a Pocket Continuum. That’s Bad. However, when the Continuum is Taken Out, any Stress and Consequences disappear immediately.
+* The Continuum may Concede at any time. This creates a Pocket Continuum, trapping any Time Traveler in the vicinity into the implosion. That's Bad. On the upside, Stress disappears immediately and Consequences are limited to the Pocket Continuum.
 
-* From the point of view of recovery, every scenario is a Conflict against the Continuum. Consequently:
+* If the Continuum is Taken Out, that's a Snafu. That's Really, Really Bad. I personally have no clue what's going to happen, but you're welcome to come up with ideas! Also, please hurt the characters. Nobody should want another Snafu. Well, nobody except the 0.001%, or that Mad Scientist over there, and perhaps a few Most Benevolent Administrators, oh, and possibly some members of the Time Hierarchy, or extremists from the Time Purity Patrols, or... Well, anyway, typically antagonists.
 
-  * **Continuum Stress is recovered at the end of the scenario**, not before.
+* Fortunately, the Continuum recovers quickly – faster than the PCs:
+
+  * Continuum Stress is recovered at the end of conflicts.
+
+* * **Continuum Stress is recovered at the end of the scenario**, not before.
 
   * **Minor Consequences are recovered at the end of the scenario**, not before.
 
-  * Once a Major Consequence is Bandaged, it may be recovered at the end of the next session
-
+  * Once a Major Consequence is Bandaged, it may be recovered **at the end of the next scenario**.
 * Continuum Consequences need to be Bandaged before they can recover. Bandaging a Continuum Consequence typically involves either fixing the issue in-game or coming up with an **Explanation** for why the Consequence is solved \(see below\) from the safety of the Continuum Indirection.
 
 * Once a Consequence is Bandaged
+
+### Setting Aspects
+
+* **The Continuum is Fragile**. Examples of compels:
+  * Call for a truce between branches of the Bureaucracy, long enough to Explain away an Observable Contradiction or a Consequence.
+  * Get a damaged Continuum to Concede, creating an implosive Pocket Continuum.
+  * Convince Time Travelers to please not shoot.
 
 ### Built-in Stunts
 
