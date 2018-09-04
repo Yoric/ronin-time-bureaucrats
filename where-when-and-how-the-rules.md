@@ -305,7 +305,7 @@ If the Continuum is Taken Out, that's a Snafu. That's Really, Really Bad. I pers
 
 The Continuum may Concede at any time. This creates an implosive Pocket Continuum, trapping any Time Traveler in the vicinity. That's Bad. On the upside, Stress disappears immediately and Consequences are limited to the Pocket Continuum.
 
-### Recovering
+### Continuum Recovery
 
 The Continuum recovers Stress whenever there is a downtime. Just like that. The downside is that, once there is any Consequence beyond Minor, it's unlikely that you're going to have any kind of downtime. Chances are that the GM will compel you into needing to Fix Things Now, before they get any worse.
 
