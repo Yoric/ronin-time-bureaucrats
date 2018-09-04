@@ -268,7 +268,7 @@ Let's imagine a Most Benevolent Administrator buried for about five-thousand yea
 
 Everybody's trying to get into the action!
 
-So, here's our High Concept: _**Everybody's scare of being last to grab the Buried Space·Time of Mars**_.
+So, here's our High Concept: _**Everybody's scared of being last to grab the Buried Space·Time of Mars**_.
 
 Including Space·Time Trotsky, of course.
 
