@@ -94,9 +94,9 @@ During character creation, pick:
 
 ### Health of The Continuum
 
-The Continuum can be damaged by Observable Contradictions. For this reasons,
+The Continuum can be damaged by Observable Contradictions.
 
-* The Continuum has its own Stress Track. Inducing Stress means that the Continuum has been lucky so far and not actually damaged. However, Stress may show up. A good example is pictures fading, books rewriting themselves, etc.
+* The Continuum has its own Stress Track. Inducing Stress means that the Continuum has been lucky so far and not actually damaged. If you wish, Stress may show up, as minor manifestations: pictures fading, books rewriting themselves, etc.
 
 * The Continuum has its own Consequences Track \(Minor/Moderate/Major\). As for any character, Consequence damage does show up. Each Consequence is an Aspect that alters the Continuum and may be Compelled against any Time Traveler in the vicinity. You are encouraged to come up with possible stories that explain how things got that bad.
 
@@ -115,42 +115,37 @@ The Continuum can be damaged by Observable Contradictions. For this reasons,
 
     * _The Universe doesn't exist anymore_. Expect any object within your reach to vanish at the worst possible time.
 
-    * _Time Travel has been erased_. Expect your Time Indirection to stop working.
+    * _Time Travel has been erased_. Expect the GM to compel your Continuum Indirection to stop working now and then.
 
     * _Mankind has been erased_. Expect people around you to vanish mid-sentence. Possibly including you, temporarily.
-
-* Consequences need to be Bandaged before they can recover. Bandaging a Continuum Consequence requires coming up with an **Explanation** of why the Consequence is now Bandaged, from the safety of the Continuum Indirection. Once a Consequence is Bandaged, things get better, but the Consequence is not fully healed. Full healing may take time.
-
-  * Example of a Bandaged Moderate Consequence:
-
-    * _The Bureaucracy won't answer_ becomes _Trouble on the waves_ or _Bureaucracy offices are closed for repairs_. The Bureaucracy is still there, but getting a call through won't be easy.
-
-    * _Random Time Travelers have been erased from memories_ becomes _Passing for a Time Traveler has become easy_. People now remember forgetting Time Travelers and branches of the Bureaucracy are taking advantage to infiltrate each other.
-
-  * Example of a Bandaged Major Consequence:
-
-    * _The Universe doesn't exist anymore_ becomes _Universe under reconstruction_.
 
 * These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs. Consequently, NPCs may be busy both damaging the Continuum and Bandaging it. In fact, attempting to prevent or bandage damage to the Continuum is one of the rare occasions during which pretty much all Time Travelers will show a somewhat united front and suspend backstabbing long enough to avoid Something Very Bad.
 
 * Observable Contradictions, no matter how much good will went into creating them, are an attack against the robustness of the Continuum, and may therefore cause damage \(Stress/Consequences\).
 
-* The Continuum may Concede at any time. This creates a Pocket Continuum, trapping any Time Traveler in the vicinity into the implosion. That's Bad. On the upside, Stress disappears immediately and Consequences are limited to the Pocket Continuum.
-
 * If the Continuum is Taken Out, that's a Snafu. That's Really, Really Bad. I personally have no clue what's going to happen, but you're welcome to come up with ideas! Also, please hurt the characters. Nobody should want another Snafu. Well, nobody except the 0.001%, or that Mad Scientist over there, and perhaps a few Most Benevolent Administrators, oh, and possibly some members of the Time Hierarchy, or extremists from the Time Purity Patrols, or... Well, anyway, typically antagonists.
 
-* Fortunately, the Continuum recovers quickly – faster than the PCs:
+* The Continuum may Concede at any time. This creates an implosive Pocket Continuum, trapping any Time Traveler in the vicinity. That's Bad. On the upside, Stress disappears immediately and Consequences are limited to the Pocket Continuum.
 
-  * Continuum Stress is recovered at the end of conflicts.
+#### Recovery
 
-* * **Continuum Stress is recovered at the end of the scenario**, not before.
+Continuum Consequences need to be Bandaged before they can recover. Bandaging a Continuum Consequence requires coming up with an **Explanation** of why the Consequence is now Bandaged, from the safety of the Continuum Indirection \(see below\). Once a Consequence is Bandaged, things get better, but the Consequence is not fully healed. Full healing may take time.
 
-  * **Minor Consequences are recovered at the end of the scenario**, not before.
+* Example of a Bandaged Moderate Consequence:
 
-  * Once a Major Consequence is Bandaged, it may be recovered **at the end of the next scenario**.
-* Continuum Consequences need to be Bandaged before they can recover. Bandaging a Continuum Consequence typically involves either fixing the issue in-game or coming up with an **Explanation** for why the Consequence is solved \(see below\) from the safety of the Continuum Indirection.
+  * _The Bureaucracy won't answer_ becomes _Trouble on the waves_ or _Bureaucracy offices are closed for repairs_. The Bureaucracy is still there, but getting a call through won't be easy.
 
-* Once a Consequence is Bandaged
+  * _Random Time Travelers have been erased from memories_ becomes _Passing for a Time Traveler has become easy_. People now remember forgetting Time Travelers and branches of the Bureaucracy are taking advantage to infiltrate each other.
+
+* Example of a Bandaged Major Consequence:
+
+  * _The Universe doesn't exist anymore_ becomes _Universe under reconstruction_. Pieces of the Continuum are missing, but Crews of Time Bureaucrats are bringing them back one by one. Or fighting over them.
+  * _Time Travel has been erased_ becomes _Time Travel is coming back_. Most Continuum Indirections are down, possibly including yours. You may have to find a new one before you can do anything with it.
+  * _Mankind has been erased_ becomes _Another life-form rules_. Mankind is coming back, one piece of Space·Time at a time. The Time Bureaucracy may even still exist. However, it is now ruled by White Mice from the 15th Dimension.
+
+FIXME: How fast does the Continuum recover?
+
+
 
 ### Setting Aspects
 
