@@ -123,9 +123,9 @@ The Continuum can be damaged by Observable Contradictions. For this reasons,
 
     * _The Bureaucracy won't answer_ becomes _Trouble on the waves_ or _Bureaucracy offices are closed for repairs_. The Bureaucracy is still there, but getting a call through won't be easy.
 
-    * _Random Time Travelers have been erased from memories_ becomes _Passing for a Time Traveler has become easy_. People now remember Time Travelers, but they 
+    * _Random Time Travelers have been erased from memories_ becomes _Passing for a Time Traveler has become easy_. People now remember Time Travelers, but they
 
-* These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs.
+* These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs. Consequently, NPCs may be busy both damaging the Continuum and Bandaging it.
 
 * Observable Contradictions, no matter how much good will went into creating them, are an attack against the robustness of the Continuum, and may therefore cause damage \(Stress/Consequences\).
 
