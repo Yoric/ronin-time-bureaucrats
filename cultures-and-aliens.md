@@ -44,7 +44,9 @@ The **Most Benevolent Administrators** are believed to be leftovers of a dead br
 
 Most Benevolent Administrators are generally Poets and Philosophers, able of deep reflections on the nature of the human psyche, among others. They are also extremely perceptive and their writings are eloquent as very few human beings can be. Surprisingly, they often use these skills, combined, for the perceived benefits of others. Wherever a Most Benevolent Administrator shows up – which may be pretty much anywhere in Space·Time – expect that within a few months, people will be inventing Social Security and Universities and Parliaments, building Cathedrals, Towers of Babel and Starships and Utopias. Sadly, very few civilizations can survive such a level of ascension, and the rule of a Most Benevolent Administrator most often ends with bloody revolutions, invasions, cataclysms or self-immolation.
 
-Most Benevolent Administrators are rather peaceful, and will not incite a civilization to war when it could be using its own life essence to produce immortal pieces of art. The only known exception is when two Most Benevolent Administrators show up in the same Space·Time – this always ends up in a savage war ito the last man standing, for obscure philosophical or religious reasons.
+Most Benevolent Administrators are rather peaceful, and will not incite a civilization to war when it could be using its own life essence to produce immortal pieces of art. The only known exception is when two Most Benevolent Administrators show up in the same Space·Time – this always ends up in a savage war to the last man breathing, for obscure philosophical or religious reasons.
+
+Most Benevolent Administrators are not known to reproduce or travel in Space·Time themselves, although it has been theorized that some sufficiently advanced civilizations inspired by Most Benevolent Administrators may be seeding fresh Most Benevolent Administrators across time and space.
 
 ## The Brick Nation
 
