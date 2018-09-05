@@ -4,7 +4,9 @@
 
 Ok, time to confess it: Ronin Time Bureaucrats does not come with its own ruleset. There are so many good systems around, why invent a new one?
 
-![](/assets/Rules.png)
+| ![](/assets/Rules.png) |
+| :---: |
+
 
 So, rather than doing so, let's pick Fate Core, a simple ruleset designed to get out of the way and let us improv our merry adventures through Space·Time. We'll add the [Time Deck](/the-time-deck.md) and just a little bit of Space·Time flavour.
 
@@ -50,11 +52,11 @@ I'm Facing the Darkness. In other words, I'm continuing my fight without the Tim
 
 Wait a second, a True Believer, Facing the Darkness in the Time Brigade and Betrayed? I'm obviously Space·Time Trotsky!
 
-This gives me enough for a High Concept: _**Space·Time Trotsky**_. I'll need to discuss this with the GM, but I believe that I should be able to invoke that aspect both to come up with economic theories, write and deliver speeches, and locate supporters. On the other hand, I am probably feared and distrusted by most branches of the Bureaucracy, which makes it a good compel.
+This gives me enough for a High Concept: _**Space·Time Guerrilla Trotsky**_. I'll need to discuss this with the GM, but I believe that I should be able to invoke that aspect both to come up with economic theories, write and deliver speeches, and locate supporters. On the other hand, I am probably feared and distrusted by most branches of the Bureaucracy and hunted down by local authorities, which makes it a good compel.
 
 I wonder if the other players would go along as my followers or bodyguards. Otherwise, I'm just hiding among them, bidding my time.
 
-As a Space·Time Trotsky, I should probably pick a matching name. Maybe Lev Davidovitch, or Emmanuel Goldstein, or Snowball.
+As a Space·Time Guerrilla Trotsky, I should probably pick a matching name. Maybe I'll pick in history Lev Davidovitch, or in literature Emmanuel Goldstein, or Snowball.
 
 I'm also on track for a Trouble: obviously, Space·Time Stalin is after me. Let's refine this.
 
@@ -153,9 +155,9 @@ For Space·Time Trotsky, I will pick:
 
 * A Great Will, because nothing can get him to change his mind about Imperialist Capitalism or the Shadow that took over the Time Brigade. Also, it will make it harder for Space·Time Stalin to brainwash me. Take that, Space·Time Stalin!
 * Good Mobility, because I've been on the run for a few subjective years already.
-* Good Tactics, because I need to stay one step ahead of the Time Brigade. Also, with Mobility + Tactics, I'm starting to be pretty good at Guerrilla Warfare. Also, I'm starting to become Space·Time Che Guevara instead of Space·Time Trotsky, but I'm ok with mixing both characters.
+* Good Tactics, because I need to stay one step ahead of the Time Brigade. Also, with Mobility + Tactics, I'm starting to be pretty good at Guerrilla Warfare.
 * Fair Stealth, because that's also going to be necessary for my Space·Time Guerrilla.
-* Fair Expertise, which my Space·Time Trotsky Aspect will let me use apply to historico-economic marxist theories. It's not Great, but I can always invoke my Aspect to boost me.
+* Fair Expertise, which my Space·Time Guerrilla Trotsky Aspect will let me use apply to historico-economic marxist theories. It's not Great, but I can always invoke my Aspect to boost me.
 
 I'll leave everything else to be decided during gameplay. I feel like I have followers, and I feel like I need a Stunt to be a good orator.
 
@@ -223,15 +225,11 @@ You start with a Fate Refresh of 3. That's how many Fate Points you can put on y
 
 ### Experience & Plunder
 
-You start without any Experience & Plunder, so that box remains empty for the time being.
+You start without any Experience & Plunder, so that box remains empty for the time being. You won't need to care about Experience & Plunder until the end of the scenario, so the details are at the end of this chapter.
 
 ### ...and almost ready
 
 Space·Time Trotsky is ready. We still need to finish customizing the setting.
-
-## Crew & Indirection
-
-\(TBD\)
 
 ## The Continuum
 
@@ -372,6 +370,12 @@ When the Continuum is being damaged by an Observable Contradiction, each Fact es
 When Consequences to the Continuum are being Bandaged, each Fact established during the Explanation serves as an Advantage \(with possibly Free Invocations – too late for Boosts\) to fix the Continuum. If it makes narrative sense, other characters may create further advantages to further help the Continuum. Roll against Fair \(+2\) difficulty to Bandage a Minor Consequence, Great \(+4\) difficulty to Bandage a Great Consequence, Fantastic \(+6\) difficulty to Bandage a Major Consequence.
 
 If the Explanation succeeded at deflecting the Attack/Bandaging the Consequence, the Explanation becomes a permanent Aspect of this Continuum. Don't forget to write it down on the Continuum's Character Sheet.
+
+## Crew & Indirection
+
+There is also a Character Sheet for the Crew and its Indirection. Are you a band of merry companions? A mercenary company forged in the fire of Mercury? Time bank robbers? Is your Indirection larger in the inside? Well, that's where you turn this all into Aspects and Stunts.
+
+That's also where the Indirection can gets damaged.
 
 ## Between adventures
 
