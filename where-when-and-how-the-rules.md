@@ -2,13 +2,13 @@
 
 ## Starting with Fate Core
 
-Ok, time to confess it: Ronin Time Bureaucrats does not come with its own ruleset. There are so many good systems around, why invent a new one?
+Ok, time to confess it: Ronin Time Bureaucrats does not come with its own ruleset.
 
 | ![](/assets/Rules.png) |
 | :---: |
 
 
-So, rather than doing so, let's pick Fate Core, a simple ruleset designed to get out of the way and let us improv our merry adventures through Space·Time. We'll add the [Time Deck](/the-time-deck.md) and just a little bit of Space·Time flavour.
+There are so many good systems around, why invent a new one? So, rather than doing so, let's pick Fate Core, a simple ruleset designed to get out of the way and let us improv our merry adventures through Space·Time. We'll add the [Time Deck](/the-time-deck.md) and just a little bit of Space·Time flavour.
 
 We're not going to copy the rules of Fate Core here, but:
 
@@ -17,6 +17,8 @@ We're not going to copy the rules of Fate Core here, but:
 * Geek & Sundry dedicated an awesome video session to showing [how Fate plays \(https://www.youtube.com/watch?v=NOFXtAHg7vU\)](https://www.youtube.com/watch?v=NOFXtAHg7vU).
 
 So, starting from this line, we're going to assume that you know the rules of Fate Core. If you don't, please hop into your Continuum Indirection and rewind Space·Time to read those rules!
+
+As usual with Ronin Time Bureaucrats, if you disagree with these rules, don't hesitate to come up with your own – or to wing it!
 
 ## Creating a Character
 
