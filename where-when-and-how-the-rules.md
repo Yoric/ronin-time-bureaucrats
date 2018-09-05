@@ -246,11 +246,11 @@ The following Aspect comes with the Setting. It may be invoked and compelled as 
   * Get a damaged Continuum to Concede, creating an implosive Pocket Continuum.
   * Convince Time Travelers to please not shoot.
 
-The table should come up with at least one additional High Concept to get the ball rolling: why is everybody busy?
+An important thing to remember is that **The Continuum is Always on Crisis**. So, let's pick a **Current Crisis.**
 
 If you want help from the Time Deck, as usual, you just need to ask.
 
-* _Why is everybody busy_?
+* _What's the current crisis_?
 
 ![](/assets/reversed_small_even10.png)
 
@@ -274,7 +274,33 @@ Everybody's trying to get into the action!
 
 So, here's our High Concept: _**Everybody's scared of being last to grab the Buried Space·Time Treasure of Mars**_.
 
-Including Space·Time Trotsky, of course.
+Including Space·Time Guerrilla Trotsky, of course.
+
+#### And More
+
+Of course, if there's a **Current Crisis**, there's a **Latest Crisis**, which is still on everybody's mind.
+
+* _What's the previous crisis_?
+
+### ![](/assets/small_odd7.png)
+
+Oops. Madness was afoot.
+
+* _Who was mad_?
+
+![](/assets/small_even10.png)
+
+Apparently, people who were facing the Darkness went crazy. That sounds like an entire branch of the Time Bureaucracy. Before we pick one, let's find out how this crisis was resolved.
+
+* _How was the crisis resolved_?
+
+![](/assets/reversed_small_odd3.png)
+
+Apparently, it was resolved through some pretty energetic show of strength. Could it be that someone blew up a mothership of the Space·Time Fleet? Or perhaps the Space·Time Fleet had to carpet-bomb an entire planet?
+
+* _Who was destroyed_?
+
+
 
 ### Continuum Health
 
