@@ -278,7 +278,12 @@ Including Space·Time Guerrilla Trotsky, of course.
 
 #### And More
 
-Of course, if there's a **Current Crisis**, there's a **Latest Crisis**, which is still on everybody's mind.
+Of course, if there's a **Current Crisis**, there's a **Latest Crisis**, which is still on everybody's mind.  
+
+
+As with regular characters, you may decide to come up with a crisis right now, or to decide it during play. You may have ideas, or you may ask the Time Deck.
+
+Let's say we ask the Time Deck.
 
 * _What's the previous crisis_?
 
@@ -300,7 +305,13 @@ Apparently, it was resolved through some pretty energetic show of strength. Coul
 
 * _Who was destroyed_?
 
+![](/assets/reversed_small_even2.png)
 
+The Tower of Babel!
+
+So, let's put this together as _**If the Tower of Babel hadn't been destroyed, Humanity would have gone mad**_. The Crew may or may not know the details of this, but everybody knows that this had to happen, so it's still in everybody's mind.
+
+As usual with Fate Core and Ronin Time Bureaucrats, the players are free to invoke this Aspect for any reason, including giving themselves a role in that crisis. As usual, they may do it at any time during play.
 
 ### Continuum Health
 
