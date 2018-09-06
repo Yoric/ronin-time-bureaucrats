@@ -126,7 +126,7 @@ How bad have you been? How much evil did you do in your time? Are you a rapist? 
 
 Someday, you may disappear, only to be replaced with an identical clone, who thinks and acts just like you, and might actually _be_ you, for all that anyone knows. The blood on your hand may be replaced with a synthetic imitation. The screams of your victims may be turned into recordings. Your victims themselves may turn out to be non-sentient imitations. Your crimes may turn out to be simulations. Files and histories may be turned into fakes _with the exact same content_.
 
-For all you know, you might already be innocent. You might even be the clone. And nobody will ever find out.
+For all you know, you might already be innocent. You might even be the clone. And nobody will ever find out, specially you.
 
 ### The Private Sector
 
