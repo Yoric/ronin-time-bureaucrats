@@ -225,17 +225,19 @@ When the Stress boxes are not sufficient, characters may take a Consequence to a
 
 You start with a Fate Refresh of 3. That's how many Fate Points you can put on your character sheet at the start of every session. So, just write 3. You can increase it later.
 
-### Experience & Plunder
-
-You start without any Experience & Plunder, so that box remains empty for the time being. You won't need to care about Experience & Plunder until the end of the scenario, so the details are at the end of this chapter.
-
 ### ...and almost ready
 
-Space·Time Trotsky is ready. We still need to finish customizing the setting.
+Space·Time Trotsky is basically ready. 
 
-## The Continuum
+In theory, once all characters are ready, the adventure can start. The following steps are optional, if you're in a hurry, but they can be fun. As for most of character creation, they can also be postponed to during the adventure.
 
-The Continuum itself has a character sheet, with Aspects and Stress/Consequence Tracks.
+## The Continuum \(optional/may be done later\)
+
+In Ronin Time Bureaucrats, the Continuum behaves pretty much like a NPC:
+
+* It has Aspects, which the players typically describe what kind of adventure they want to play. As usual, these Aspects may be Invoked or Compelled by players and the GM.
+* It has a Stress Track and a Consequence Track. In other words, it may be damaged by sufficiently bad Observable Contradictions.
+* It doesn't really have Stunts or Skills, as this wouldn't really make sense.
 
 ### Continuum Aspects
 
