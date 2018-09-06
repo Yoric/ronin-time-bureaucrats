@@ -117,16 +117,22 @@ Also, whatever you do, if you leave the ship, [don't dress in red](https://tvtro
 > **Time Federation Science Vessels**
 >
 > * What's the job of all these people?
-> * Unlimited replication and time off.
+> * Holodecks, unlimited time off, unlimited replicators.
 > * Convenient but not always reliable transporters.
 
-While the Time Federation is forever limited by its Prime Directive, some wanted to go further, and managed to create a covert operations branch called the **Time Adjustment Foundation**. And further is exactly where it goes.
+While the Time Federation is forever limited by its Prime Directive, the militarist branches managed to get away with murder, kidnapping and torture by finessing paradoxes. Some cadres of the Time Federation wanted the ability to counter-attack, and managed to create a covert operations branch called the **Time Adjustment Foundation**. And further is exactly where it goes.
 
 How bad have you been? How much evil did you do in your time? Are you a rapist? A serial killer? A slaver? Better even, a genocidal dictator? Fear not, Space·Time is so complicated that justice won't be done. There are so many timelines and so many opportunities to cause Observable Contradictions that punishing you would be counter-productive. On the other hand, if you are bad enough, or at least if files and histories report you as sufficiently evil, the **Time Adjustment Foundation** might well be after you and your deeds. _Because Evil must not remain unundone_!
 
-Someday, you may disappear, only to be replaced with an identical clone, who thinks and acts just like you, and might actually _be_ you, for all that anyone knows. The blood on your hand may be replaced with a synthetic imitation. The screams of your victims may be turned into recordings. Your victims themselves may turn out to be non-sentient imitations. Your crimes may turn out to be simulations. Files and histories may be turned into fakes _with the exact same content_.
+Someday, while you're looking away, things may change. The blood on your hand may be replaced with a synthetic imitation. The screams of your victims may be turned into recordings. Your victims themselves may turn out to be non-sentient imitations. Your crimes may turn out to be simulations. Files and histories may be turned into fakes _with the exact same content_.
 
-For all you know, you might already be innocent. You might even be the clone. And nobody will ever find out, specially you.
+For all you know, you might already be innocent. But nobody will ever find out, especially you.
+
+> **Time Adjustment Foundation**
+>
+> * Evil must not remain undone.
+> * Victims will be much happier in Time Reservations.
+> * Cloaked Spaceships and armies of Replicants following pre-recorded scripts.
 
 ### The Private Sector
 
