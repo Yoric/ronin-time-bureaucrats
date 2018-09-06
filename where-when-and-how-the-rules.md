@@ -153,7 +153,7 @@ A starting character gets:
 
 As with Aspects, not all Skills need to be picked up during character creation.
 
-For Space·Time Trotsky, I will pick:
+For Space·Time Guerrilla Trotsky, I will pick:
 
 * A Great Will, because nothing can get him to change his mind about Imperialist Capitalism or the Shadow that took over the Time Brigade. Also, it will make it harder for Space·Time Stalin to brainwash me. Take that, Space·Time Stalin!
 * Good Mobility, because I've been on the run for a few subjective years already.
