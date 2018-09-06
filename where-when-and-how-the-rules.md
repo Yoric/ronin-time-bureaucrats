@@ -66,9 +66,9 @@ I'm also on track for a Trouble: obviously, Space·Time Stalin is after me. Let'
 
 ![](/assets/reversed_small_even1.png)
 
-Innocence? Well, that sounds like brainwashing!
+Innocence? Well, that sounds like brainwashing! Mmmh... I could say that the Time Brigade is after me to brainwash me, but that sounds a bit redundant. Maybe they have already brainwashed me and it didn't stick? That should be more interesting!
 
-So here's my Trouble: _**The Time Brigade intends to brainwash me**_.
+So here's my Trouble: _**My brainwashing didn't stick. Now, Time Brigade wants to finish the job**_.
 
 ### Other Aspects
 
@@ -278,8 +278,7 @@ Including Space·Time Guerrilla Trotsky, of course.
 
 #### And More
 
-Of course, if there's a **Current Crisis**, there's a **Latest Crisis**, which is still on everybody's mind.  
-
+Of course, if there's a **Current Crisis**, there's a **Latest Crisis**, which is still on everybody's mind.
 
 As with regular characters, you may decide to come up with a crisis right now, or to decide it during play. You may have ideas, or you may ask the Time Deck.
 
