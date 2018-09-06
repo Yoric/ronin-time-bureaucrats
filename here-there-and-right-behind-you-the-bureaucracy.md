@@ -75,6 +75,7 @@ The Crew of People's Time Liberation Citadels is typically composed of one Polit
 > * Nobody goes anywhere without the say-so of the Political Officer.
 >
 > **Random Educated Citizen**
+>
 > * I will give my life for the Party. Yours, too.
 > * I used to be like you before I understood.
 > * Limitless numbers.
@@ -107,7 +108,7 @@ By opposition, the **Acquisition Department of the Museum of Time** is quite ben
 
 ### The Governments
 
-The ambitious **Time Federation**, has ordered hundreds of Spacecraft Indirections, designed to travel the \(somewhat\) slow way across the universe, orbit around planets, and teleport Bureaucrats from and to the surface. Unfortunately, teleportation has been known to be subject to GM \(Gamma Mesons, of course\) Interference at the most inconvenient times.
+Who has never dreamt of boarding a large Space·Time Ship, boldly go when nobody has gone before, discover old and future civilizations and endlessly debate whether the Prime Space·Time Directive – initially designed to avoid Observable Contradictions – applies in that Octant? Well, the **Time Federation** certainly has. Created from the failure of the Space·Time Fleet, and reusing an important number of its capital ships, it tries to carry an ideal of peace and non-intervention throughout Space·Time. Get ready to dress in pajama, orbit around planets with a Crew of several hundreds, beam down to the surface, or up back to the Continuum Indirection. Also, whatever you do, don't pick red for your clothes.
 
 ### The Private Sector
 
