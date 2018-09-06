@@ -134,7 +134,7 @@ For all you know, you might already be innocent. But nobody will ever find out.
 >
 > * Evil must not remain undone.
 > * Victims will be much happier in Time Reservations.
-> * Cloaked Spaceships and armies of Replicants following pre-recorded scripts.
+> * Cloaked Spaceships, armies of Replicants and life-long scripts.
 
 ### The Private Sector
 
