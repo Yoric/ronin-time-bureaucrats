@@ -6,9 +6,11 @@ Since then, the Bureaucracy has evolved quite a bit.
 
 ![](/assets/agency.png)
 
+> In the rest of this chapter, we will try and cover some of the main branches of the Bureaucracy. However, with the entirety of Space·Time as a playground, it is clear that the Bureaucracy has evolved in numerous unpredictable manners. In other words, GMs and players, don't hesitate to come up with new branches and splinter groups. They certainly exist, somewhere in the Continuum.
+
 ### The Administrations
 
-After this period of rush, **Agency for the Continuity of Space and Time **was given its name and official tasks and industry contracts started to kick in and normalize Continuum Indirections and equipment. The standard Continuum Indirection of this period looked like a large metallic sphere standing on three feet, with enough space to accomodate the 3-5 Crew members, dry toilets, and their backpacks. These vehicles were not meant for extended stay, and there was in particular not enough room to sleep. This design proved unpopular and was abandoned by all the other branches of the Bureaucracy.
+After the Snafu, **Agency for the Continuity of Space and Time **was given its name and official tasks and industry contracts started to kick in and normalize Continuum Indirections and equipment. The standard Continuum Indirection of this period looked like a large metallic sphere standing on three feet, with enough space to accomodate the 3-5 Crew members, dry toilets, and their backpacks. These vehicles were not meant for extended stay, and there was in particular not enough room to sleep. This design proved unpopular and was abandoned by all the other branches of the Bureaucracy.
 
 > **Time Bowls**
 >
