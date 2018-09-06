@@ -339,7 +339,7 @@ The Continuum has its own Consequences Track \(Minor/Moderate/Major\). As for an
 
 These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs. Consequently, NPCs may be busy both damaging the Continuum and Bandaging it. In fact, attempting to prevent or bandage damage to the Continuum is one of the rare occasions during which pretty much all Time Travelers will show a somewhat united front and suspend backstabbing long enough to avoid Something Very Bad.
 
-If the Continuum is Taken Out, that's a Snafu. That's Really, Really Bad. I personally have no clue what's going to happen, but you're welcome to come up with ideas! Also, please hurt the characters – nobody should want another Snafu. Well, nobody except the 0.001%, or that Mad Scientist over there, and perhaps a few Most Benevolent Administrators, oh, and possibly some members of the Time Hierarchy, or some extremists from the Time Purity Patrols, or... Oh, well, it's lucky you're here to fight them, right?
+If the Continuum is Taken Out, that's a Snafu. That's Really, Really Bad. I personally have no clue what's going to happen, but you're welcome to come up with ideas! Also, please hurt everybody involved – nobody should want another Snafu. Well, nobody except the 0.001%, or that Mad Scientist over there, and perhaps a few Most Benevolent Administrators, oh, and possibly some members of the Time Hierarchy, or some extremists from the Time Purity Patrols, or... Oh, well, it's lucky you're here to fight them, right?
 
 The Continuum may Concede at any time. This creates an implosive Pocket Continuum, trapping any Time Traveler in the vicinity. That's Bad. On the upside, Stress disappears immediately and Consequences are limited to the Pocket Continuum.
 
