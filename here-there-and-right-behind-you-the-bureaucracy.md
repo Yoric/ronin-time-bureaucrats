@@ -108,7 +108,7 @@ By opposition, the **Acquisition Department of the Museum of Time** is quite ben
 
 ### The Governments
 
-Who has never dreamt of boarding a large Space·Time Ship, boldly go when nobody has gone before, discover old and future civilizations and endlessly debate whether the Prime Space·Time Directive – initially designed to avoid Observable Contradictions – applies in that Octant? Well, the **Time Federation** certainly has. Created from the failure of the Space·Time Fleet, and reusing an important number of its capital ships, it tries to carry an ideal of peace and non-intervention throughout Space·Time. Get ready to dress in pajama, orbit around planets with a Crew of several hundreds, beam down to the surface, or up back to the Continuum Indirection. Also, whatever you do, don't pick red for your clothes.
+
 
 ### The Private Sector
 
