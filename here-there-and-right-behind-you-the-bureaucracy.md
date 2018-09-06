@@ -126,9 +126,9 @@ While the Time Federation is forever limited by its Prime Directive, the militar
 
 How bad have you been? How much evil did you do in your time? Are you a rapist? A serial killer? A slaver? Better even, a genocidal dictator? Fear not, Space·Time is so complicated that justice won't be done. There are so many timelines and so many opportunities to cause Observable Contradictions that punishing you would be counter-productive. On the other hand, if you are bad enough, or at least if files and histories report you as sufficiently evil, the **Time Adjustment Foundation** might well be after you and your deeds. _Because Evil must not remain unundone_!
 
-Someday, while you're looking away, things may change. The blood on your hand may be replaced with a synthetic imitation. The screams of your victims may be turned into recordings. Your victims themselves may turn out to be non-sentient imitations. Your crimes may turn out to be simulations. Files and histories may be turned into fakes _with the exact same content_.
+Someday, while you're looking away, things may change. The blood on your hand may be replaced with a synthetic imitation. The screams of your victims may be turned into recordings. Your victims themselves may turn out to be non-sentient recordings of their own lives. Your crimes may turn out to be simulations. Files and histories may be turned into fakes _with the exact same content_. You, yourself, might be whisked away and replaced with a recording of your life, while you are punished, in some remote future far from contradictions.
 
-For all you know, you might already be innocent. But nobody will ever find out, especially you.
+For all you know, you might already be innocent. But nobody will ever find out.
 
 > **Time Adjustment Foundation**
 >
