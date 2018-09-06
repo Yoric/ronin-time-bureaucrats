@@ -14,7 +14,7 @@ Throughout its existence and despite all these reinventions, the Bureaucracy has
 
 This is a conflict of surprisingly little violence, made of subtle manipulations and grand gestures, of infiltrations, desertions, propaganda, and paradoxes. A Cold War more than a battlefield.
 
-Welcome to Time·Space!
+Welcome to Space·Time!
 
 ## Ronin Time Bureaucrats
 
