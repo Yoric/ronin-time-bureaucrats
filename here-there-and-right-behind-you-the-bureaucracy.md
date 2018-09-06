@@ -142,3 +142,7 @@ The opulent agents of the **Time Hanse** could never manage to travel without th
 
 Contractually, the shady **Union of Time Investigators** \(or "Private I", as they are apparently called in hip circles\) must have their office above or behind Chinese Restaurants. To simplify things, their Indirection generally contains both the office and the Chinese Restaurant, and upon landing, will try to integrate to an existing building. Such Indirections have been known to accidentally trap clients busy eating at the Restaurant, but so far, nobody has complained.
 
+The **Time After Time After Time Corporation** provides customized Heavens or Hells for your Dear Departed, for a price.
+
+**Time Will Tell, Incorporated**, uses Time as an interrogation device.
+
