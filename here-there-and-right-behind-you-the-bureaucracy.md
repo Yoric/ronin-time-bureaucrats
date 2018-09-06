@@ -120,7 +120,11 @@ Also, whatever you do, if you leave the ship, [don't dress in red](https://tvtro
 > * Unlimited replication and time off.
 > * Convenient but not always reliable transporters.
 
+How bad have you been? How much evil did you do in your time? Are you a rapist? A serial killer? A slaver? Better even, a genocidal dictator? Fear not, Space·Time is so complicated that justice won't be done. There are so many timelines and so many opportunities to cause Observable Contradictions that punishing you would be counter-productive. On the other hand, if you are bad enough, or at least if files and histories report you as sufficiently evil, the **Time Adjustment Foundation** might well be after you and your deeds. _Because Evil cannot remain unundone_!
 
+Someday, you may disappear, only to be replaced with an identical clone, who thinks and acts just like you, and might actually _be_ you, for all that anyone knows. The blood on your hand will be replaced with a synthetic imitation. The screams of your victims will be turned into recordings. Your victims themselves will turn out to be non-sentient imitations. Your crimes will turn out to be simulations. Files and histories will be turned into fakes _with the exact same content_.
+
+For all you know, you might already be innocent. You might even be the clone. And nobody will ever find out.
 
 ### The Private Sector
 
