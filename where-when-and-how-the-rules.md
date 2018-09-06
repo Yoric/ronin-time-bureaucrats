@@ -227,7 +227,7 @@ You start with a Fate Refresh of 3. That's how many Fate Points you can put on y
 
 ### ...and almost ready
 
-Space·Time Trotsky is basically ready. 
+Space·Time Trotsky is basically ready.
 
 In theory, once all characters are ready, the adventure can start. The following steps are optional, if you're in a hurry, but they can be fun. As for most of character creation, they can also be postponed to during the adventure.
 
@@ -239,6 +239,8 @@ In Ronin Time Bureaucrats, the Continuum behaves pretty much like a NPC:
 * It has a Stress Track and a Consequence Track. In other words, it may be damaged by sufficiently bad Observable Contradictions.
 * It doesn't really have Stunts or Skills, as this wouldn't really make sense.
 
+The Continuum is played by all players + GM together, and should be created as such.
+
 ### Continuum Aspects
 
 The following Aspect comes with the Setting. It may be invoked and compelled as any other Aspect.
@@ -248,7 +250,7 @@ The following Aspect comes with the Setting. It may be invoked and compelled as 
   * Get a damaged Continuum to Concede, creating an implosive Pocket Continuum.
   * Convince Time Travelers to please not shoot.
 
-An important thing to remember is that **The Continuum is Always on Crisis**. So, let's pick a **Current Crisis.**
+Other Aspects are defined exactly like those of PCs. Typical Aspects cover current, past or future events or crisis, but you're welcome to come up with other Aspects. It's generally a good idea to come up with the High Concept immediately, but it's not quite as urgent as for the PCs, so you can delay all these Aspects to later, if you're in a hurry to play.
 
 If you want help from the Time Deck, as usual, you just need to ask.
 
@@ -278,13 +280,7 @@ So, here's our High Concept: _**Everybody's scared of being last to grab the Bur
 
 Including Space·Time Guerrilla Trotsky, of course.
 
-#### And More
-
-Of course, if there's a **Current Crisis**, there's a **Latest Crisis**, which is still on everybody's mind.
-
-As with regular characters, you may decide to come up with a crisis right now, or to decide it during play. You may have ideas, or you may ask the Time Deck.
-
-Let's say we ask the Time Deck.
+Let's come up with a second Aspect, which is going to describe a previous crisis. Let's say we ask the Time Deck.
 
 * _What's the previous crisis_?
 
@@ -310,7 +306,7 @@ Apparently, it was resolved through some pretty energetic show of strength. Coul
 
 The Tower of Babel!
 
-So, let's put this together as _**If the Tower of Babel hadn't been destroyed, Humanity would have gone mad**_. The Crew may or may not know the details of this, but everybody knows that this had to happen, so it's still in everybody's mind.
+So, let's put this together as _**If the Tower of Babel hadn't been destroyed, the entire Bureaucracy would have gone mad**_. The Crew may or may not know the details of this, but everybody knows that this had to happen, so it's still in everybody's mind.
 
 As usual with Fate Core and Ronin Time Bureaucrats, the players are free to invoke this Aspect for any reason, including giving themselves a role in that crisis. As usual, they may do it at any time during play.
 
