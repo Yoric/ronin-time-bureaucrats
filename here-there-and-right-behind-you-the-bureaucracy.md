@@ -23,7 +23,7 @@ Much later, the **Office of Time & Measures**, whose main task was safety inspec
 > * Communicates with the Main Office.
 > * Enough paperwork to drown an army.
 
-### The Militarists
+### The Militarist Branches
 
 Ignoring the recommendations of the scientists in charge of Time Travel, the **Space·Time Fleet** was designed by the same contractors that had served the Space Fleet, and with the clear goal of Shock & Awe: reaching Space·Time coordinates with an orbital ship \(to avoid the difficulties of traveling at ground-level\), then dropping combat-ready Space·Time Marines with a combination of dropships and shock capsules, depending on just how much Awe and enemy-flattening was deemed necessary. The design of the orbital ships was itself based on that of airplane carriers \(for the large ones\) and combat deployment helicopters \(for the smaller ones\).
 
@@ -82,7 +82,7 @@ The Crew of People's Time Liberation Citadels is typically composed of one Polit
 > * Good at: Swarming the enemy, acting as Extras.
 > * Bad at: Taking initiatives, anything requiring special skills.
 
-### The Academics
+### The Academic Branches
 
 Almost since its opening, the **Time Library** has determined that it needed its own Continuum Indirections, and that the main use of these Continuum Indirections would be to visit libraries all over Space·Time. Indeed, the first mission entrusted by the Time Library to a Crew of Librarians was to visit the Great Library of Alexandria during its destruction, join the rioters, and take the opportunity to grab as many books as possible. While this Crew quickly discovered that there was no riot about to destroy the Great Library and that they would have to cause one themselves if they were to be able to fulfill this mission, the modus operandi has been, by and large, conserved: sneak into a library holding precious documents, replace them with fakes, then run. For this purpose, the Time Library employs small Crews – typically only two or three Librarians – wearing hand-held Continuum Indirections that let them simply walk from any library in Space·Time to any other one through temporary L-Dimensional corridors. In a pinch, a large enough bookshop will do. Such techniques and technologies are shared by agents of the **Time Museum**.
 
@@ -106,16 +106,13 @@ By opposition, the **Acquisition Department of the Museum of Time** is quite ben
 > * If you hold the Map just like this, you can half-see the outline of a corridor through Space·Time that's about to close in about 5 seconds.
 > * This belongs in The Museum.
 
-### The Governments
+### The Governmental Branches
 
 After the debacle of the Space·Time Fleet and the loss of many of its Continuum Indirections to imploded Pocket Continuums, the idea of a large Space·Time force was very nearly shelved, and its remaining ships docked. Some of the surviving cadres of the Space·Time Fleet, however, took advantage of this lack of purpose, and came up with an idea to salvage some of the huge costs sunk into the fleet itself. Most of the onboard weaponry was dismantled, many soldiers were retrained or replaced by scientists, and the **Time Federation** was born, with a new purpose: boldly go when noone has gone before, discover old and future civilizations and endlessly debate whether the Prime Space·Time Directive – initially designed to avoid Observable Contradictions – applies in that Octant of the Continuum.
 
 Since its inception, the Time Federation has carried throughout Space·Time an ideal of peace, coexistence and non-intervention. If, as many do, you dream of joining the Time Federation, get ready to be one in a Crew of several hundreds, dress in a pajama, beam down to the surface or back up to your orbiting Continuum Indirection, experience unique-but-recurring technical glitches that send you to conveniently mirrored universes, and impress the entire universe with your Galactic Ethical Diplomacy.
 
 Also, whatever you do, if you leave the ship, [don't dress in red](https://tvtropes.org/pmwiki/pmwiki.php/Main/RedShirt).
-
-  
-
 
 ### The Private Sector
 
