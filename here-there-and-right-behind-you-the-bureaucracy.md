@@ -114,6 +114,14 @@ Since its inception, the Time Federation has carried throughout Space·Time an i
 
 Also, whatever you do, if you leave the ship, [don't dress in red](https://tvtropes.org/pmwiki/pmwiki.php/Main/RedShirt).
 
+> **Time Federation Science Vessels**
+>
+> * What's the job of all these people?
+> * Unlimited replication and time off.
+> * Convenient but not always reliable transporters.
+
+
+
 ### The Private Sector
 
 The opulent agents of the **Time Hanse** could never manage to travel without their riches. After a few attempts at designing something more portable, they gave up and used city-sized Indirections, full with employees, factories and hangars.
