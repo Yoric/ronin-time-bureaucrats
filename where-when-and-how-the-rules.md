@@ -412,22 +412,7 @@ There is also a Character Sheet for the Crew and its Indirection. Are you a band
 
 That's also where the Indirection can gets damaged.
 
-
-
-## And more
-
-### Non-Player Characters
-
-Most Non-Player Characters are described by:
-
-* a few Aspects, which work exactly like the Aspects of the Player Characters;
-* a few Good At, for which they roll with +2;
-* a few Poor At, for which they roll with -2;
-* a Durability, which measure how much Stress they may take before breaking \(which doesn't mean dying, mind you\).
-
-Whenever there are at least two NPCs opposing the PCs, there are at least two ways to play the NPCs. They can be a **Passerbys** or a **Team**. Passerbys act independently from each other. For instance, in a combat situation, typically, each of them will attack one PC. By opposition, Teams work together. For instance, in a combat situation, the strongest will attack one of the PCs, while the others will run interference, Creating Advantages for their vanguard, until that one may strike at the PC.
-
-With the exact same group of NPCs, you will notice that Teams are much better at actually hurting the PCs than Passerbys. Deciding whether they do this is up to the GM.
+## 
 
 ## 
 

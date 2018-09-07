@@ -20,14 +20,26 @@ Here are a few examples with seasoned players:
 * GM: "Ok, you'll be able to replenish this easily once you can return to the Continuum Interaction."
 * GM: "Tom, 3 more Damage for you, too."
 * Tom's Player: Also needs to cross out a Minor Consequence. "I'm hit again."
-*  In the meantime, tell me about something that you'll need very soon.
+* In the meantime, tell me about something that you'll need very soon.
 
 * Player: I open the door.
+
 * GM: Has no clue
 
-
-
 ## Everything can be a character
+
+## Non-Player Characters
+
+Most Non-Player Characters are described by:
+
+* a few Aspects, which work exactly like the Aspects of the Player Characters;
+* a few Good At, for which they roll with +2;
+* a few Poor At, for which they roll with -2;
+* a Durability, which measure how much Stress they may take before breaking \(which doesn't mean dying, mind you\).
+
+Whenever there are at least two NPCs opposing the PCs, there are at least two ways to play the NPCs. They can be a **Passerbys** or a **Team**. Passerbys act independently from each other. For instance, in a combat situation, typically, each of them will attack one PC. By opposition, Teams work together. For instance, in a combat situation, the strongest will attack one of the PCs, while the others will run interference, Creating Advantages for their vanguard, until that one may strike at the PC.
+
+With the exact same group of NPCs, you will notice that Teams are much better at actually hurting the PCs than Passerbys. Deciding whether they do this is up to the GM.
 
 
 
