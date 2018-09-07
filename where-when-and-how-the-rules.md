@@ -16,7 +16,7 @@ We're not going to copy the rules of Fate Core here, but:
 * the fine crew at Up To Four Players composed a great [two-pages webcomic introducing pretty much all the rules \(http://www.uptofourplayers.com/fate-core-rules/\)](http://www.uptofourplayers.com/fate-core-rules/);
 * Geek & Sundry dedicated an awesome video session to showing [how Fate plays \(https://www.youtube.com/watch?v=NOFXtAHg7vU\)](https://www.youtube.com/watch?v=NOFXtAHg7vU).
 
-So, starting from this line, we're going to assume that you know the rules of Fate Core. If you don't, please hop into your Continuum Indirection and rewind Space·Time to read those rules!
+So, starting from this line, we're going to assume that you know the rules of Fate Core. If you don't, please hop into your Continuum Indirection and rewind Space·Time to read those rules! The rest of this chapter is mostly examples of how these rules apply to Space·Time. The only really new rule is that of Explanations.
 
 As usual with Ronin Time Bureaucrats, if you disagree with these rules, don't hesitate to come up with your own – or to wing it!
 
@@ -361,19 +361,16 @@ The Continuum recovers Stress as soon as it's not being attacked, that is when t
     * _Random Time Travelers have been erased from memories_ becomes _Passing for a Time Traveler has become easy_. People now remember forgetting Time Travelers and branches of the Bureaucracy are taking advantage to infiltrate each other.
 
 * Recovering from a Major Consequence also requires some form of Bandaging the Consequence. Once this is done, it may take several Scenarios. It may even be the topic of a Campaign.
-  * 
 
-The simplest way to Bandage a Consequence is to come up with an Explanation of why things are going better.
+  * Example of a Bandaged Major Consequence:
 
-* Example of a Bandaged Major Consequence:
+    * _The Universe doesn't exist anymore_ becomes _Universe under reconstruction_. Pieces of the Continuum are missing, but Crews of Time Bureaucrats are bringing them back one at a time. Or fighting over them.
 
-  * _The Universe doesn't exist anymore_ becomes _Universe under reconstruction_. Pieces of the Continuum are missing, but Crews of Time Bureaucrats are bringing them back one by one. Or fighting over them.
-  * _Time Travel has been erased_ becomes _Time Travel is coming back_. Most Continuum Indirections are down, possibly including yours. You may have to find a new one before you can do anything with it.
-  * _Mankind has been erased_ becomes _Another life-form rules_. Mankind is coming back, one piece of Space·Time at a time. The Time Bureaucracy may even still exist. However, it is now ruled by White Mice from the 15th Dimension.
+    * _Time Travel has been erased_ becomes _Time Travel is coming back_. Most Continuum Indirections are down, possibly including yours. You may have to find a new one before you can do anything about it.
 
-Once a Consequence is Bandaged, the Continuum may take a second Consequence of the same level without being Taken Out. Oh, more joy.
+    * _Mankind has been erased_ becomes _Another life-form rules_. Mankind is coming back, one piece of Space·Time at a time. The Time Bureaucracy may even still exist. However, it is now ruled by White Mice from the 15th Dimension.
 
-FIXME: How fast does the Continuum recover?
+The simplest way to Bandage a Consequence is to come up with an Explanation of why things are going better. Alternatively, if the players have other ideas, feel free to explore them! Once a Consequence is Bandaged, the Continuum may take a second Consequence of the same level without being Taken Out. Oh, more joy.
 
 ### Explaining Away an Observable Contradiction or a Consequence
 
