@@ -374,6 +374,10 @@ The simplest way to Bandage a Consequence is to come up with an Explanation of w
 
 ## Attack of the Observable Contradictions
 
+So you killed your grandfather, or Adolf Hitler, or destroyed all mammals on Earth before Mankind had a chance to get started. How bad can it be? Well, it can be pretty bad.
+
+Your Observable Contradiction is a NPC and it has exactly one goal: attack the Continuum. The Continuum is now in Conflict, with the Observable Contradiction attacking it at every possible opportunity. And since the Continuum is a non-violent chap, it won't even counter-attack.
+
 \(TBD\)
 
 ## Coming up with Explanations
