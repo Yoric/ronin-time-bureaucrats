@@ -1,4 +1,4 @@
-![](/assets/Character sheet.png)
+![](/assets/Character sheet.png)![](/assets/Indirection sheet.png)
 
-![](/assets/Continuum Sheet.png)
+![](/assets/Continuum sheet.png)
 
