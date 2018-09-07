@@ -223,7 +223,9 @@ My Space·Time Trotsky is now a force to be reckoned with. I will leave the last
 
 Each character has one Physical Stress track that represent near-misses or wounds that may simply be shrugged away in physical conflicts and one Mental Stress track that represent near-misses or attacks that may simply be shrugged away in a conflict of wills and wits. By default, each character gets three Physical Stress and three Mental Stress boxes that may be ticked to avoid being Taken Out by an attack. Some Stunts may add a fourth box.
 
-When the Stress boxes are not sufficient, characters may take a Consequence to avoid being Taken Out by an attack. Note that, in Space·Time, most threats, even verbal ones, are deadly, so there is only one Consequence slot. That's easy to remember, there's only one slot in your character sheet.
+When the Stress boxes are not sufficient, characters may take a Consequence to avoid being Taken Out by an attack.
+
+Recall that a player may decide to Concede at any time and decide what happens to their character. That's _way_ better than being Taken Out!
 
 ### Fate Refresh
 
@@ -316,7 +318,7 @@ As usual with Fate Core and Ronin Time Bureaucrats, the players are free to invo
 
 ### Continuum Health
 
-The Continuum may be attacked by Observable Contradictions. Just like any character, it may Concede \(which is Bad\) or be Taken Out \(which is Very, Very Bad\). On the upside, it may also be healed.
+The Continuum may be attacked by Observable Contradictions. Just like any character, it may Concede \(which is ok for the Continuum, but bad for the characters\) or be Taken Out \(which is Very, Very Bad for everyone\). On the upside, it may also be healed.
 
 The Continuum has its own Stress Track. It represents Observable Contradictions to the Continuum that may simply be shrugged away. If you wish, Stress may show up, as minor manifestations: pictures fading, books rewriting themselves, etc. Stress Boxes may be ticked to avoid being Taken Out by Contradiction Damage.
 
@@ -345,15 +347,21 @@ These Tracks are shared by all Time Travellers present at a given Space·Time, w
 
 If the Continuum is Taken Out, that's a Snafu. That's Really, Really Bad. I personally have no clue what's going to happen, but you're welcome to come up with ideas! Also, please hurt everybody involved – nobody should want another Snafu. Well, nobody except the 0.001%, or that Mad Scientist over there, and perhaps a few Most Benevolent Administrators, oh, and possibly some members of the Time Hierarchy, or some extremists from the Time Purity Patrols, or... Oh, well, it's lucky you're here to fight them, right?
 
-The Continuum may Concede at any time. This creates an implosive Pocket Continuum, trapping any Time Traveler in the vicinity. That's Bad. On the upside, Stress disappears immediately and Consequences are limited to the Pocket Continuum.
+The Continuum may Concede at any time. It may even be Compelled to Concede, by anyone around the table. This creates an implosive Pocket Continuum, trapping any Time Traveler in the vicinity. That's Bad. On the upside, Stress disappears immediately and Consequences are limited to the Pocket Continuum.
 
-### Continuum Recovery
+The Continuum recovers Stress as soon as it's not being attacked, that is when there are no ongoing Observable Contradictions trying to Take it Out. Recovering from Consequences is slower:
 
-The Continuum recovers Stress whenever there is a downtime. Just like that. The downside is that, once there is any Consequence beyond Minor, it's unlikely that you're going to have any kind of downtime. Chances are that the GM will compel you into needing to Fix Things Now, before they get any worse.
+* Recovering from a Minor Consequence only takes a quiet moment.
+* Recovering from a Moderate Consequence requires some form of Bandaging the Consequence. Once this is done, recovery will typically take one Scenario. It may even be the topic of that Scenario.
+  * Example of a Bandaged Moderate Consequence:
 
-The easiest way to fix Consequences to the Continuum is actually to let it Concede. It's Bad, and quite possibly deadly for the Crew, but it's not as Bad as a Snafu.
+    * _The Bureaucracy won't answer_ becomes _Trouble on the waves_ or _Bureaucracy offices are closed for repairs_. The Bureaucracy is still there, but getting a call through won't be easy.
 
-Alternatively, you can work to Fix the Continuum. Continuum Consequences need to be Bandaged before they can recover. Bandaging a Continuum Consequence requires coming up with an **Explanation** of why the Consequence is now Bandaged, from the safety of the Continuum Indirection \(see below\). Once a Consequence is Bandaged, things get better, but the Consequence is not fully healed. Full healing may take time.
+    * _Random Time Travelers have been erased from memories_ becomes _Passing for a Time Traveler has become easy_. People now remember forgetting Time Travelers and branches of the Bureaucracy are taking advantage to infiltrate each other.
+* Recovering from a Major Consequence also requires some form of Bandaging the Consequence. Once this is done, it may take several Scenarios. It may even be the topic of a Campaign.
+  * 
+
+The simplest way to Bandage a Consequence is to come up with an Explanation of why things are going better.
 
 * Minor Consequences heal pretty much immediately once they have been Bandaged.
 

@@ -6,7 +6,7 @@
 * [Here, There and Right Behind You: The Bureaucracy](here-there-and-right-behind-you-the-bureaucracy.md)
 * [Tools of the Trade: The Time Deck](the-time-deck.md)
 * [What's that Thing: Cultures and Aliens](cultures-and-aliens.md)
-* [Where, When and How: Creating a Crew](where-when-and-how-the-rules.md)
+* [Where, When and How: The Rules](where-when-and-how-the-rules.md)
 * [One and the Universe: Secrets of Ronin Time Bureaucrats](one-and-the-universe-secrets-of-ronin-time-bureaucrats.md)
 * [Mission Report: The Yellow Curse of Euthermios](mission-the-polyphonic-choir.md)
 * [Look, over there: Further sources](further-readings.md)
