@@ -10,6 +10,8 @@ Ok, time to confess it: Ronin Time Bureaucrats does not come with its own rulese
 
 There are so many good systems around, why invent a new one? So, rather than doing so, let's pick Fate Core, a simple ruleset designed to get out of the way and let us improv our merry adventures through Space·Time. We'll add the [Time Deck](/the-time-deck.md) and just a little bit of Space·Time flavour.
 
+As usual with Ronin Time Bureaucrats, if you disagree with these rules, don't hesitate to come up with your own – or to wing it!
+
 We're not going to copy the full rules of Fate Core here, but:
 
 * the rules are Pay-what-you-want, starting at $0/0€, so you can simply [grab them at Evil Hat's \(https://www.evilhat.com/home/fate-core-downloads/\)](https://www.evilhat.com/home/fate-core-downloads/);
@@ -20,23 +22,15 @@ Well, full rules or not, to introduce us to Fate Core, we have a special guest: 
 
 ![](/assets/Comic0-0-0.png)
 
-
-
-So, starting from this line, we're going to assume that you know the rules of Fate Core. If you don't, please hop into your Continuum Indirection and rewind Space·Time to read those rules! The rest of this chapter is mostly examples of how these rules apply to Space·Time. The only really new rule is that of **Explanations**.
-
-As usual with Ronin Time Bureaucrats, if you disagree with these rules, don't hesitate to come up with your own – or to wing it!
-
-\(placeholder for the comic book\)
-
 ## Creating a Character
 
 Well, here you are, ready to create your very own Ronin Time Bureaucrat. It's a great day to be alive, isn't it?
 
 You'll need the Character Sheet at the end of this chapter.
 
-### High Concept and Trouble
+### High Concept and Trouble![](/assets/Comic0-1-0.png)
 
-So, the first thing you need to answer is: _just exactly who is your character_? Some people prefer starting from an existing movie/novel/anime/comic book/... character and customize it from there. Some people start from musics, or from word associations. In Ronin Time Bureaucrats, pretty much anything does, so pick your poison.
+Hold a second Janus! How do we come up with a High Concept? We do this by answering this question: _just exactly who is your character_? Some people prefer starting from an existing movie/novel/anime/comic book/... character and customize it from there. Some people start from musics, or from word associations. In Ronin Time Bureaucrats, pretty much anything does, so pick your poison.
 
 If you feel like it, you can even use the Time Deck. Let's try that!
 
@@ -66,7 +60,7 @@ This gives me enough for a High Concept: _**Space·Time Guerrilla Trotsky**_. I'
 
 I wonder if the other players would go along as my followers or bodyguards. Otherwise, I'm just hiding among them, bidding my time.
 
-As a Space·Time Guerrilla Trotsky, I should probably pick a matching name. Maybe I'll pick in history Lev Davidovitch, or in literature Emmanuel Goldstein, or Snowball.
+As a Space·Time Guerrilla Trotsky, I should probably pick a matching name. Maybe I'll pick in history Lev Davidovitch, or in literature Emmanuel Goldstein, or Snowball. Let's pick _Snowball_.
 
 I'm also on track for a Trouble: obviously, Space·Time Stalin is after me. Let's refine this.
 
@@ -78,14 +72,14 @@ Innocence? Well, that sounds like brainwashing! Mmmh... I could say that the Tim
 
 So here's my Trouble: _**My brainwashing didn't stick. Now, Time Brigade wants to finish the job**_.
 
-### Other Aspects
+![](/assets/Comic0-0-1.png)
 
-Typically, I'll need:
+Similarly, a few examples of how Snowball could be Compelled:
 
-* One Aspect to determine how I joined \(or recruited\) the Crew. This will have to come up during conversation with other Players. For the moment, it's sufficient to determine whether I joined or recruited the Crew.
-* Two Aspects showcasing adventures I've had with Crew members. Again, this will have to come up during conversation with other Players. Also, I don't feel like coming up with these Aspects right now, I'd prefer adding them while playing.
-
-So, we're done for Aspects for the time being.
+* Because local authorities don't like to see guerrilleros in their backyard, you have been assigned a personal secretary who won't leave you even one second, and whose job is clearly to watch you. \(compel on **Space·Time Guerrilla Trotsky**\);
+* Because the workers are eagerly expecting you to help them and the authorities know that, pretty much everybody is watching you in the city \(compel on **Space·Time Guerrilla Trotsky**\);
+* Because you have been partially brainwashed, you remember that Space·Time Bleria is a friend, but you're not sure whether he's a friend from before the brainwashing or from after \(compel on _**My brainwashing didn't stick. Now, Time Brigade wants to finish the job**_\);
+* ...
 
 ### Skills
 
