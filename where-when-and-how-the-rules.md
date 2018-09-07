@@ -376,31 +376,29 @@ The simplest way to Bandage a Consequence is to come up with an Explanation of w
 
 \(TBD\)
 
-## Why did something happen?
+## Coming up with Explanations
 
-Recall how Time Traveler Tani and Time Traveler Tom were trying to Explain away why killing Time Traveler Tom's Grandfather Gerry before he met Grandmother Gina wasn't such an Observable Contradiction? Well, whenever players are trying to come up with a good reason why something has happened, they can start an **Explanation**. Explanations are a mechanism for putting together very odd chain of causality and making sure that they end up explaining an event – and making sure that it has happened. You may use it both on events that _may_ or _should_ have happened \(for instance, to negate an Observable Contradiction\) and on events that _did_ happen \(in Ronin Time Bureaucrats, it's a perfectly valid way to perform investigations or scientific research\).
+Recall how Time Traveler Tani and Time Traveler Tom were trying to Explain away why killing Time Traveler Tom's Grandfather Gerry before he met Grandmother Gina wasn't such an Observable Contradiction? Well, whenever players are trying to come up with a good reason why something has happened, they can start an **Explanation**. Explanations are a mechanism for putting together very odd chain of causality and making sure that they end up explaining an event – and making sure that it has happened. You may use it both on events that _may_ or _should_ have happened \(for instance, to negate an Observable Contradiction\) and on events that _did_ happen \(in Ronin Time Bureaucrats, it's a perfectly valid way to perform investigations or scientific research\).
 
 Explanations always come in three parts, picked by the players.
 
 1. All the players who wish to participate should mention which of their Aspects is being Compelled. Yep, it's a Compel, so each player gets one Fate Point.
-2. Each player picks a skill and rolls against a Good \(+3\) difficulty. The highest winner starts the story \(not necessarily from the beginning\), establishing a temporary Fact, which may not be contradicted in this story. That Fact must be derived from the Aspect compelled and the Skill used. If there is no winner, no Fact gets established. On a Tie, register 1 victory at a Cost. On a Success, register 1 victory. On a Success with Style, register two victories.
+2. Each player picks a skill and rolls against a Good \(+3\) difficulty. The highest winner starts the story \(not necessarily from the beginning\), establishing a temporary Fact, which may not be contradicted in this story. That Fact must be derived from the Aspect compelled and the Skill used. If there is no winner, no Fact gets established. On a Tie, register 1 victory at a Cost. On a Success, register 1 victory. On a Success with Style, register two victories. As usual, Fate Points may be spent, including the use of Help Thyself.
 3. All the players who still wish to participate should offer the second part of the explanation and roll against the Success Level _of the previous highest success_. Highest winner picks the second part of the story, establishing a second Fact. Same rules apply.
 4. All the players who still wish to participate should offer the final part of the explanation and roll against the Success Level _of the previous highest success_. Highest winner picks the second part of the story, establishing a final Fact. Same rules apply.
-5. If at least three victories were scored, an Explanation is coming. Each player picks a skill and rolls. Highest score gets to determine the Explanation. It must involve all the Facts established previously and the skill just rolled. If less than three victories were scored, the event
+5. If at least three victories were scored, an Explanation is coming. Each player picks a skill and rolls. Highest score gets to determine the Explanation. It must involve all the Facts established previously and the skill just rolled. This Explanation, no matter how handwavy, becomes _an Established Fact of the Continuum_. If less than three victories were scored, the event remains uncertain and/or unexplained.
 
-Note:
+> **Note**
+>
+> Explanations are one of the reasons why a GM of Ronin Time Bureaucrats should not spend too much time coming with sophisticated plots. The rules are _designed_ to let the players derail any story.
 
-* Let the player pick the relevant skill to roll. For instance, one may argue that either Awareness, Empathy, Theatrics or Tactics may give them an intuition of what other people will do, Awareness, Investigate or Tinkering may give them an intuition of how technology will evolve, Fight or Shoot combined with Help Thyself will let them take part in a future conflict, etc.
+If the Explanation suffices to dispel an Observable Contradiction \(or a Consequence, etc.\), that's good!
 
-* On a Tie, the Fact just established provides a Boost to the player for the rest of the Explanation
+If the Explanation actually introduces a new Observable Contradiction, not so good!
 
-* On Success/Success with Style, this Fact provides Free Invocations which may be used either while coming up with the Explanation or later, when confronting this Explanation against the Paradox.
+If less than three victories were scored, there is no Established Fact, so any Observable Contradiction \(or Consequence, etc.\) that should have been handwaved away remains present. Also, if this is an Observable Contradiction, the attempt to Explain it away was an interaction with the Observable Contradiction, so the Observable Contradiction gets their Attack on the Continuum.
 
-* If everybody fails, the players may wish to continue the Explanation may continue, in which case there will be a Free Invocation _against_ the Continuum.
 
-* If your Fact may need the help of your Future Self, you may, as usual, use **Help Myself** and pay one Fate Point to use your Aspect Time Traveler and get that help.
-
-This establishes an **Explanation**.
 
 Here, Time Traveler Tom and Time Traveler Tina established the following Explanation:
 
@@ -410,11 +408,7 @@ Here, Time Traveler Tom and Time Traveler Tina established the following Explana
 
 * Grandmother Greta always told Mother Maria that Grandfather Gerry was a violent man, so Mother Maria never attempted to get in touch with him.
 
-When the Continuum is being damaged by an Observable Contradiction, each Fact established during the Explanation serves as an Advantage \(with possibly Free Invocations – too late for Boosts\) to defend the Continuum. If it makes narrative sense, other characters may create further advantages to further help the Continuum. Roll an Attack and determine damage as usual.
 
-When Consequences to the Continuum are being Bandaged, each Fact established during the Explanation serves as an Advantage \(with possibly Free Invocations – too late for Boosts\) to fix the Continuum. If it makes narrative sense, other characters may create further advantages to further help the Continuum. Roll against Fair \(+2\) difficulty to Bandage a Minor Consequence, Great \(+4\) difficulty to Bandage a Great Consequence, Fantastic \(+6\) difficulty to Bandage a Major Consequence.
-
-If the Explanation succeeded at deflecting the Attack/Bandaging the Consequence, the Explanation becomes a permanent Aspect of this Continuum. Don't forget to write it down on the Continuum's Character Sheet.
 
 ## Crew & Indirection
 
