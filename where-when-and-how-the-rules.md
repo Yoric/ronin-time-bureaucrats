@@ -72,6 +72,16 @@ Innocence? Well, that sounds like brainwashing! Mmmh... I could say that the Tim
 
 So here's my Trouble: _**My brainwashing didn't stick. Now, Time Brigade wants to finish the job**_.
 
+### Not just your character!
+
+Recall that both your Continuum Indirection and the Continuum itself also have a High Concept, a Trouble, etc.
+
+They are created pretty much like your character's – the only exception is that the Continuum's Trouble is always _**The Continuum is Fragile**_.
+
+
+
+### Compels
+
 ![](/assets/Comic0-0-1.png)
 
 Similarly, a few examples of how Snowball could be Compelled:
@@ -81,9 +91,16 @@ Similarly, a few examples of how Snowball could be Compelled:
 * Because you have been partially brainwashed, you remember that Space·Time Bleria is a friend, but you're not sure whether he's a friend from before the brainwashing or from after \(compel on _**My brainwashing didn't stick. Now, Time Brigade wants to finish the job**_\);
 * ...
 
+The Continuum may just as well be Compelled:
+
+* Because this Paradox is so bad, the Continuum is splitting into a Pocket Continuum and a Main Continuum \(compel on **The Continuum is Fragile**\);
+* Because everybody present realizes that the Continuum is about to split, the Time Brigade offers a Truce \(compel/invocation on **The Continuum is Fragile**\); 
+
 ### Skills
 
-The list of skills is slightly shorter than that of Fate Core:
+![](/assets/Comic0-1-1.png)
+
+The list of Skills is slightly shorter than in out-of-the-box Fate Core:
 
 * Awareness
   * Noticing things. Also, 6th sense.
@@ -157,7 +174,7 @@ A starting character gets:
 
 As with Aspects, not all Skills need to be picked up during character creation.
 
-For Space·Time Guerrilla Trotsky, I will pick:
+For Snowball, I will pick:
 
 * A Great Will, because nothing can get him to change his mind about Imperialist Capitalism or the Shadow that took over the Time Brigade. Also, it will make it harder for Space·Time Stalin to brainwash me. Take that, Space·Time Stalin!
 * Good Mobility, because I've been on the run for a few subjective years already.
@@ -221,13 +238,25 @@ Well, none of these seems particularly suited to Space·Time Trotsky. Let's see 
 
 My Space·Time Trotsky is now a force to be reckoned with. I will leave the last Stunt to be decided during play.
 
-### Health
+### Rolling the dice
 
-Each character has one Physical Stress track that represent near-misses or wounds that may simply be shrugged away in physical conflicts and one Mental Stress track that represent near-misses or attacks that may simply be shrugged away in a conflict of wills and wits. By default, each character gets three Physical Stress and three Mental Stress boxes that may be ticked to avoid being Taken Out by an attack. Some Stunts may add a fourth box.
+![](/assets/Comic0-0-2.png)
 
-When the Stress boxes are not sufficient, characters may take a Consequence to avoid being Taken Out by an attack.
+You can find a copy of the scale of difficulties on both the Continuum Sheet and the Indirection Sheet.
 
-Recall that a player may decide to Concede at any time and decide what happens to their character. That's _way_ better than being Taken Out!
+![](/assets/Comic0-1-2.png)
+
+Yes, we very much can!![](/assets/Comic1-0-0.png)
+
+
+
+### Conflict
+
+![](/assets/Comic1-1-0.png)
+
+### ![](/assets/Comic1-0-1.png)
+
+Recall that you can take Damage, your Indirection can take Damage and the Continuum can take Damage.
 
 ### Fate Refresh
 
