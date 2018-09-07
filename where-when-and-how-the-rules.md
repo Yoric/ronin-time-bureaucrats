@@ -10,6 +10,10 @@ Ok, time to confess it: Ronin Time Bureaucrats does not come with its own rulese
 
 There are so many good systems around, why invent a new one? So, rather than doing so, let's pick Fate Core, a simple ruleset designed to get out of the way and let us improv our merry adventures through Space·Time. We'll add the [Time Deck](/the-time-deck.md) and just a little bit of Space·Time flavour.
 
+To introduce us to Fate Core, we have invited Janus, God of Portals.
+
+
+
 We're not going to copy the rules of Fate Core here, but:
 
 * the rules are Pay-what-you-want, starting at $0/0€, so you can simply [grab them at Evil Hat's \(https://www.evilhat.com/home/fate-core-downloads/\)](https://www.evilhat.com/home/fate-core-downloads/);
