@@ -11,5 +11,5 @@
 * [Mission Report: The Yellow Curse of Euthermios](mission-the-polyphonic-choir.md)
 * [Look, over there: Further sources](further-readings.md)
 * [Who did what: Credits](credits.md)
-* [One and the Universe: Secrets of Ronin Time Bureaucrats](one-and-the-universe-secrets-of-ronin-time-bureaucrats.md)
+* [Who, Where From and With What: The Character Sheets](who-where-from-and-with-what-the-character-sheets.md)
 
