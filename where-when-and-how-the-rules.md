@@ -353,23 +353,17 @@ The Continuum recovers Stress as soon as it's not being attacked, that is when t
 
 * Recovering from a Minor Consequence only takes a quiet moment.
 * Recovering from a Moderate Consequence requires some form of Bandaging the Consequence. Once this is done, recovery will typically take one Scenario. It may even be the topic of that Scenario.
+
   * Example of a Bandaged Moderate Consequence:
 
     * _The Bureaucracy won't answer_ becomes _Trouble on the waves_ or _Bureaucracy offices are closed for repairs_. The Bureaucracy is still there, but getting a call through won't be easy.
 
     * _Random Time Travelers have been erased from memories_ becomes _Passing for a Time Traveler has become easy_. People now remember forgetting Time Travelers and branches of the Bureaucracy are taking advantage to infiltrate each other.
+
 * Recovering from a Major Consequence also requires some form of Bandaging the Consequence. Once this is done, it may take several Scenarios. It may even be the topic of a Campaign.
   * 
 
 The simplest way to Bandage a Consequence is to come up with an Explanation of why things are going better.
-
-* Minor Consequences heal pretty much immediately once they have been Bandaged.
-
-* Example of a Bandaged Moderate Consequence:
-
-  * _The Bureaucracy won't answer_ becomes _Trouble on the waves_ or _Bureaucracy offices are closed for repairs_. The Bureaucracy is still there, but getting a call through won't be easy.
-
-  * _Random Time Travelers have been erased from memories_ becomes _Passing for a Time Traveler has become easy_. People now remember forgetting Time Travelers and branches of the Bureaucracy are taking advantage to infiltrate each other.
 
 * Example of a Bandaged Major Consequence:
 
