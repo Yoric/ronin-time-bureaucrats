@@ -16,7 +16,7 @@ We're not going to copy the rules of Fate Core here, but:
 * the fine crew at Up To Four Players composed a great [two-pages webcomic introducing pretty much all the rules \(http://www.uptofourplayers.com/fate-core-rules/\)](http://www.uptofourplayers.com/fate-core-rules/);
 * Geek & Sundry dedicated an awesome video session to showing [how Fate plays \(https://www.youtube.com/watch?v=NOFXtAHg7vU\)](https://www.youtube.com/watch?v=NOFXtAHg7vU).
 
-So, starting from this line, we're going to assume that you know the rules of Fate Core. If you don't, please hop into your Continuum Indirection and rewind Space·Time to read those rules! The rest of this chapter is mostly examples of how these rules apply to Space·Time. The only really new rule is that of Explanations.
+So, starting from this line, we're going to assume that you know the rules of Fate Core. If you don't, please hop into your Continuum Indirection and rewind Space·Time to read those rules! The rest of this chapter is mostly examples of how these rules apply to Space·Time. The only really new rule is that of **Explanations**.
 
 As usual with Ronin Time Bureaucrats, if you disagree with these rules, don't hesitate to come up with your own – or to wing it!
 
@@ -372,15 +372,21 @@ The Continuum recovers Stress as soon as it's not being attacked, that is when t
 
 The simplest way to Bandage a Consequence is to come up with an Explanation of why things are going better. Alternatively, if the players have other ideas, feel free to explore them! Once a Consequence is Bandaged, the Continuum may take a second Consequence of the same level without being Taken Out. Oh, more joy.
 
-### Explaining Away an Observable Contradiction or a Consequence
+## Attack of the Observable Contradictions
 
-Recall how Time Traveler Tani and Time Traveler Tom were trying to Explain Away why killing Time Traveler Tom's Grandfather Gerry before he met Grandmother Gina wasn't such an Observable Contradiction?
+\(TBD\)
 
-The mechanism is called **Explaining Away** a Contradiction. It's how you defend the Continuum against whenever an Observable Contradiction attacks it. It's also, later, how you Bandage the Consequences of an Observable Contradiction. It's intended to be a funny mechanism for coming up with weird by somewhat plausible explanations of why a paradox isn't _quite as bad as it appears_.
+## Why did something happen?
 
-1. All the players who wish to participate should offer a possible explanation and roll the relevant skill against a Good \(+3\) difficulty. The highest winner picks the story, establishing a temporary Fact, which may not be contradicted in this story.
-2. All the players who wish to participate should offer the second part of the explanation and roll against the Success Level of the previous highest success. Highest winner picks the second part of the story, establishing a second Fact \(same rules\)
-3. Continue until nobody wins and/or players run out of ideas.
+Recall how Time Traveler Tani and Time Traveler Tom were trying to Explain away why killing Time Traveler Tom's Grandfather Gerry before he met Grandmother Gina wasn't such an Observable Contradiction? Well, whenever players are trying to come up with a good reason why something has happened, they can start an **Explanation**. Explanations are a mechanism for putting together very odd chain of causality and making sure that they end up explaining an event – and making sure that it has happened. You may use it both on events that _may_ or _should_ have happened \(for instance, to negate an Observable Contradiction\) and on events that _did_ happen \(in Ronin Time Bureaucrats, it's a perfectly valid way to perform investigations or scientific research\).
+
+Explanations always come in three parts, picked by the players.
+
+1. All the players who wish to participate should mention which of their Aspects is being Compelled. Yep, it's a Compel, so each player gets one Fate Point.
+2. Each player picks a skill and rolls against a Good \(+3\) difficulty. The highest winner starts the story \(not necessarily from the beginning\), establishing a temporary Fact, which may not be contradicted in this story. That Fact must be derived from the Aspect compelled and the Skill used. If there is no winner, no Fact gets established. On a Tie, register 1 victory at a Cost. On a Success, register 1 victory. On a Success with Style, register two victories.
+3. All the players who still wish to participate should offer the second part of the explanation and roll against the Success Level _of the previous highest success_. Highest winner picks the second part of the story, establishing a second Fact. Same rules apply.
+4. All the players who still wish to participate should offer the final part of the explanation and roll against the Success Level _of the previous highest success_. Highest winner picks the second part of the story, establishing a final Fact. Same rules apply.
+5. If at least three victories were scored, an Explanation is coming. Each player picks a skill and rolls. Highest score gets to determine the Explanation. It must involve all the Facts established previously and the skill just rolled. If less than three victories were scored, the event
 
 Note:
 
