@@ -28,9 +28,9 @@ You'll need the Character Sheet at the end of this chapter.
 
 ### High Concept and Trouble
 
-So, the first thing you need to answer is: _just exactly who is your character_? The easiest is to start from an existing movie/novel/anime/comic book/... character and customize it from there. Some people start from musics, or from word associations. In Ronin Time Bureaucrats, pretty much anything does, so pick your poison.
+So, the first thing you need to answer is: _just exactly who is your character_? Some people prefer starting from an existing movie/novel/anime/comic book/... character and customize it from there. Some people start from musics, or from word associations. In Ronin Time Bureaucrats, pretty much anything does, so pick your poison.
 
-In Ronin Time Bureaucrat, you can even use the Time Deck, so let's try that.
+If you feel like it, you can even use the Time Deck. Let's try that!
 
 * _Who am I?_
 
