@@ -1,7 +1,5 @@
 # Where, When and How: The Rules
 
-## Starting with Fate Core
-
 Ok, time to confess it: Ronin Time Bureaucrats does not come with its own ruleset.
 
 | ![](/assets/Rules.png) |
@@ -12,7 +10,7 @@ There are so many good systems around, why invent a new one? So, rather than doi
 
 As usual with Ronin Time Bureaucrats, if you disagree with these rules, don't hesitate to come up with your own – or to wing it!
 
-We're not going to copy the full rules of Fate Core here, but:
+We're not going to copy the full detailed rules of Fate Core here, but:
 
 * the rules are Pay-what-you-want, starting at $0/0€, so you can simply [grab them at Evil Hat's \(https://www.evilhat.com/home/fate-core-downloads/\)](https://www.evilhat.com/home/fate-core-downloads/);
 * the fine crew at Up To Four Players composed a great [two-pages webcomic introducing pretty much all the rules \(http://www.uptofourplayers.com/fate-core-rules/\)](http://www.uptofourplayers.com/fate-core-rules/);
@@ -72,13 +70,75 @@ Innocence? Well, that sounds like brainwashing! Mmmh... I could say that the Tim
 
 So here's my Trouble: _**My brainwashing didn't stick. Now, Time Brigade wants to finish the job**_.
 
-### Not just your character!
+### Don't forget the Continuum!
 
-Recall that both your Continuum Indirection and the Continuum itself also have a High Concept, a Trouble, etc.
+Yes, the Continuum also has Aspects. If even has Stress and Consequences, as we'll see later.
 
-They are created pretty much like your character's – the only exception is that the Continuum's Trouble is always _**The Continuum is Fragile**_.
+The Continuum's Aspects are created pretty much like your character's – the only exception is that the Continuum's Trouble is always _**The Continuum is Fragile**_.
 
+As with characters, if you have a book, movie, story or music in mind, you can pretty much use it as is for a High Concept. Or, if you want help from the Time Deck, as usual, you just need to ask.
 
+* _What's the current crisis_?
+
+![](/assets/reversed_small_even10.png)
+
+Apparently, there's a problem with everybody's equipment.
+
+* _What caused that_?
+
+![](/assets/reversed_small_even5.png)
+
+Oh, apparently, someone made Great Progress. So, there was a breakthrough in, say, Continuum Indirection technologies. Everybody is playing catch-up.
+
+* _Who made the breakthrough_?
+
+![](/assets/reversed_small_odd8.png)
+
+Apparently, someone who was planning for the future. Someone who was dug for a very, very long time. It would fit in nicely with Most Benevolent Administrators.
+
+Let's imagine a Most Benevolent Administrator buried for about five-thousand years under Mars, with an army of slaves. It was recently dug up, most likely by the Acquisition Department of the Time Museum, because that's what they do. During these five-thousand years, the Most Benevolent Administrator has come up with a new technology that would somehow revolutionize Continuum Indirections.
+
+Everybody's trying to get into the action!
+
+So, here's our High Concept: _**Everybody's scared of being last to grab the Buried Space·Time Treasure of Mars**_.
+
+Including Space·Time Guerrilla Trotsky, of course.
+
+Let's come up with a second Aspect, which is going to describe a previous crisis. Let's say we ask the Time Deck.
+
+* _What's the previous crisis_?
+
+### ![](/assets/small_odd7.png)
+
+Oops. Madness was afoot.
+
+* _Who was mad_?
+
+![](/assets/small_even10.png)
+
+Apparently, people who were facing the Darkness went crazy. That sounds like an entire branch of the Time Bureaucracy. Before we pick one, let's find out how this crisis was resolved.
+
+* _How was the crisis resolved_?
+
+![](/assets/reversed_small_odd3.png)
+
+Apparently, it was resolved through some pretty energetic show of strength. Could it be that someone blew up a mothership of the Space·Time Fleet? Or perhaps the Space·Time Fleet had to carpet-bomb an entire planet?
+
+* _Who was destroyed_?
+
+![](/assets/reversed_small_even2.png)
+
+The Tower of Babel!
+
+So, let's put this together as a third Aspect _**If the Tower of Babel hadn't been destroyed, the entire Bureaucracy would have gone mad**_. The Crew may or may not know the details of this, but everybody knows that this had to happen, so it's still in everybody's mind.
+
+As usual with Fate Core and Ronin Time Bureaucrats, the players are free to invoke this Aspect for any reason, including giving themselves a role in that crisis. As usual, they may do it at any time during play.
+
+### ... and the Continuum Indirection
+
+Again, the Continuum Indirection has its own Aspects. Is it larger on the inside than on the outside? Does it require a Crew of 500? Is it politically-minded?
+
+To come up with these answers, discuss among players and/or use the Time Deck! 
 
 ### Compels
 
@@ -184,6 +244,8 @@ For Snowball, I will pick:
 
 I'll leave everything else to be decided during gameplay. I feel like I have followers, and I feel like I need a Stunt to be a good orator.
 
+Neither the Continuum nor Continuum Indirections have Skills.
+
 ### Free Stunts
 
 Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
@@ -238,6 +300,10 @@ Well, none of these seems particularly suited to Space·Time Trotsky. Let's see 
 
 My Space·Time Trotsky is now a force to be reckoned with. I will leave the last Stunt to be decided during play.
 
+Continuum Indirections also have Stunts. The Continuum doesn't.
+
+
+
 ### Rolling the dice
 
 ![](/assets/Comic0-0-2.png)
@@ -248,125 +314,34 @@ You can find a copy of the scale of difficulties on both the Continuum Sheet and
 
 Yes, we very much can!![](/assets/Comic1-0-0.png)
 
-
-
 ### Conflict
 
 ![](/assets/Comic1-1-0.png)
 
+So you killed your grandfather, or Adolf Hitler, or destroyed all mammals on Earth before Mankind had a chance to get started. How bad can it be? Well, it can be pretty bad.
+
+Your Observable Contradiction is a NPC and it has exactly one goal: attack the Continuum. The Continuum is now in Conflict, with the Observable Contradiction attacking it at every possible opportunity. And since the Continuum is a non-violent chap, it won't even counter-attack.
+
+\(TBD\)
+
 ### ![](/assets/Comic1-0-1.png)
 
-Recall that you can take Damage, your Indirection can take Damage and the Continuum can take Damage.
+Of course, just as you can take Damage, your Indirection can take Damage and the Continuum can take Damage.
 
-### Fate Refresh
+In particular, each Consequence to the Continuum is an Aspect that alters the Continuum and may be Compelled against any Time Traveler in the vicinity, not just you. You are encouraged to come up with possible justifications that explain how things got that bad.
 
-You start with a Fate Refresh of 3. That's how many Fate Points you can put on your character sheet at the start of every session. So, just write 3. You can increase it later.
-
-### ...and almost ready
-
-Space·Time Trotsky is basically ready.
-
-In theory, once all characters are ready, the adventure can start. The following steps are optional, if you're in a hurry, but they can be fun. As for most of character creation, they can also be postponed to during the adventure.
-
-## The Continuum \(optional/may be done later\)
-
-In Ronin Time Bureaucrats, the Continuum behaves pretty much like a NPC:
-
-* It has Aspects, which the players typically describe what kind of adventure they want to play. As usual, these Aspects may be Invoked or Compelled by players and the GM.
-* It has a Stress Track and a Consequence Track. In other words, it may be damaged by sufficiently bad Observable Contradictions.
-* It doesn't really have Stunts or Skills, as this wouldn't really make sense.
-
-The Continuum is played by all players + GM together, and should be created as such.
-
-### Continuum Aspects
-
-The following Aspect comes with the Setting. It may be invoked and compelled as any other Aspect.
-
-* Trouble: **The Continuum is Fragile**. Examples of compels:
-  * Call for a truce between branches of the Bureaucracy, long enough to Explain away an Observable Contradiction or a Consequence.
-  * Get a damaged Continuum to Concede, creating an implosive Pocket Continuum.
-  * Convince Time Travelers to please not shoot.
-
-Other Aspects are defined exactly like those of PCs. Typical Aspects cover current, past or future events or crisis, but you're welcome to come up with other Aspects. It's generally a good idea to come up with the High Concept immediately, but it's not quite as urgent as for the PCs, so you can delay all these Aspects to later, if you're in a hurry to play.
-
-If you want help from the Time Deck, as usual, you just need to ask.
-
-* _What's the current crisis_?
-
-![](/assets/reversed_small_even10.png)
-
-Apparently, there's a problem with everybody's equipment.
-
-* _What caused that_?
-
-![](/assets/reversed_small_even5.png)
-
-Oh, apparently, someone made Great Progress. So, there was a breakthrough in, say, Continuum Indirection technologies. Everybody is playing catch-up.
-
-* _Who made the breakthrough_?
-
-![](/assets/reversed_small_odd8.png)
-
-Apparently, someone who was planning for the future. Someone who was dug for a very, very long time. It would fit in nicely with Most Benevolent Administrators.
-
-Let's imagine a Most Benevolent Administrator buried for about five-thousand years under Mars, with an army of slaves. It was recently dug up, most likely by the Acquisition Department of the Time Museum, because that's what they do. During these five-thousand years, the Most Benevolent Administrator has come up with a new technology that would somehow revolutionize Continuum Indirections.
-
-Everybody's trying to get into the action!
-
-So, here's our High Concept: _**Everybody's scared of being last to grab the Buried Space·Time Treasure of Mars**_.
-
-Including Space·Time Guerrilla Trotsky, of course.
-
-Let's come up with a second Aspect, which is going to describe a previous crisis. Let's say we ask the Time Deck.
-
-* _What's the previous crisis_?
-
-### ![](/assets/small_odd7.png)
-
-Oops. Madness was afoot.
-
-* _Who was mad_?
-
-![](/assets/small_even10.png)
-
-Apparently, people who were facing the Darkness went crazy. That sounds like an entire branch of the Time Bureaucracy. Before we pick one, let's find out how this crisis was resolved.
-
-* _How was the crisis resolved_?
-
-![](/assets/reversed_small_odd3.png)
-
-Apparently, it was resolved through some pretty energetic show of strength. Could it be that someone blew up a mothership of the Space·Time Fleet? Or perhaps the Space·Time Fleet had to carpet-bomb an entire planet?
-
-* _Who was destroyed_?
-
-![](/assets/reversed_small_even2.png)
-
-The Tower of Babel!
-
-So, let's put this together as _**If the Tower of Babel hadn't been destroyed, the entire Bureaucracy would have gone mad**_. The Crew may or may not know the details of this, but everybody knows that this had to happen, so it's still in everybody's mind.
-
-As usual with Fate Core and Ronin Time Bureaucrats, the players are free to invoke this Aspect for any reason, including giving themselves a role in that crisis. As usual, they may do it at any time during play.
-
-### Continuum Health
-
-The Continuum may be attacked by Observable Contradictions. Just like any character, it may Concede \(which is ok for the Continuum, but bad for the characters\) or be Taken Out \(which is Very, Very Bad for everyone\). On the upside, it may also be healed.
-
-The Continuum has its own Stress Track. It represents Observable Contradictions to the Continuum that may simply be shrugged away. If you wish, Stress may show up, as minor manifestations: pictures fading, books rewriting themselves, etc. Stress Boxes may be ticked to avoid being Taken Out by Contradiction Damage.
-
-The Continuum has its own Consequences Track \(Minor/Moderate/Major\). As for any character, Consequence damage does show up. Each Consequence is an Aspect that alters the Continuum and may be Compelled against any Time Traveler in the vicinity. You are encouraged to come up with possible justifications that explain how things got that bad. Again, Consequences may be taken to avoid being Taken Out by Contradiction Damage.
-
-* Examples of Minor Consequence:
+* Examples of Minor Consequence to the Continuum:
 
   * _The layout of Time Indirections has changed_. You may have trouble finding things you have stashed, or using the new cockpit. Variants: the clothing of Time Travelers has changed, making it harder for them to walk, or run, or find stuff in their pockets.
 
   * _Immunization shots are not so good anymore_. You may find yourself getting sick from diseases to which you were previously immune.
 
-* Example of Moderate Consequence:
+* Example of Moderate Consequence to the Continuum:
 
   * _The Bureaucracy won't answer_. It may have been erased, or maybe the communications technology just doesn't work so well anymore.
   * _Random Time Travelers have been erased from memories_. Doing things is harder when people have trouble remembering that you exist.
 
-* Example of Major Consequence:
+* Example of Major Consequence to the Continuum:
 
   * _The Universe doesn't exist anymore_. Expect any object within your reach to vanish at the worst possible time.
 
@@ -374,13 +349,19 @@ The Continuum has its own Consequences Track \(Minor/Moderate/Major\). As for an
 
   * _Mankind has been erased_. Expect people around you to vanish mid-sentence. Possibly including you, temporarily.
 
-These Tracks are shared by all Time Travellers present at a given Space·Time, whether PCs or NPCs. Consequently, NPCs may be busy both damaging the Continuum and Bandaging it. In fact, attempting to prevent or bandage damage to the Continuum is one of the rare occasions during which pretty much all Time Travelers will show a somewhat united front and suspend backstabbing long enough to avoid Something Very Bad.
+### Being Taken Out vs. Conceding
+
+![](/assets/Comic1-1-1.png)
 
 If the Continuum is Taken Out, that's a Snafu. That's Really, Really Bad. I personally have no clue what's going to happen, but you're welcome to come up with ideas! Also, please hurt everybody involved – nobody should want another Snafu. Well, nobody except the 0.001%, or that Mad Scientist over there, and perhaps a few Most Benevolent Administrators, oh, and possibly some members of the Time Hierarchy, or some extremists from the Time Purity Patrols, or... Oh, well, it's lucky you're here to fight them, right?
 
 The Continuum may Concede at any time. It may even be Compelled to Concede, by anyone around the table. This creates an implosive Pocket Continuum, trapping any Time Traveler in the vicinity. That's Bad. On the upside, Stress disappears immediately and Consequences are limited to the Pocket Continuum.
 
-The Continuum recovers Stress as soon as it's not being attacked, that is when there are no ongoing Observable Contradictions trying to Take it Out. Recovering from Consequences is slower:
+### Recovery
+
+![](/assets/Comic1-0-2.png)
+
+In particular, the Continuum recovers Stress as soon as it's not being attacked, that is when there are no ongoing Observable Contradictions trying to Take it Out. Recovering from Consequences is slower:
 
 * Recovering from a Minor Consequence only takes a quiet moment.
 * Recovering from a Moderate Consequence requires some form of Bandaging the Consequence. Once this is done, recovery will typically take one Scenario. It may even be the topic of that Scenario.
@@ -403,15 +384,11 @@ The Continuum recovers Stress as soon as it's not being attacked, that is when t
 
 The simplest way to Bandage a Consequence is to come up with an Explanation of why things are going better. Alternatively, if the players have other ideas, feel free to explore them! Once a Consequence is Bandaged, the Continuum may take a second Consequence of the same level without being Taken Out. Oh, more joy.
 
-## Attack of the Observable Contradictions
+### Contests
 
-So you killed your grandfather, or Adolf Hitler, or destroyed all mammals on Earth before Mankind had a chance to get started. How bad can it be? Well, it can be pretty bad.
+![](/assets/Comic1-1-2.png)
 
-Your Observable Contradiction is a NPC and it has exactly one goal: attack the Continuum. The Continuum is now in Conflict, with the Observable Contradiction attacking it at every possible opportunity. And since the Continuum is a non-violent chap, it won't even counter-attack.
-
-\(TBD\)
-
-## Coming up with Explanations
+Actually, before playing, let's detail a little these Explanations. They'll come in handy. Also, they are the only mechanism of Ronin Time Bureaucrats that is not a straight application of the rules of Fate Core.
 
 Recall how Time Traveler Tani and Time Traveler Tom were trying to Explain away why killing Time Traveler Tom's Grandfather Gerry before he met Grandmother Gina wasn't such an Observable Contradiction? Well, whenever players are trying to come up with a good reason why something has happened, they can start an **Explanation**. Explanations are a mechanism for putting together very odd chain of causality and making sure that they end up explaining an event – and making sure that it has happened. You may use it both on events that _may_ or _should_ have happened \(for instance, to negate an Observable Contradiction\) and on events that _did_ happen \(in Ronin Time Bureaucrats, it's a perfectly valid way to perform investigations or scientific research\).
 
@@ -441,11 +418,7 @@ If the Explanation actually introduces a new Observable Contradiction, not so go
 
 If less than three victories were scored, there is no Established Fact, so any Observable Contradiction \(or Consequence, etc.\) that should have been handwaved away remains present. Also, if this is an Observable Contradiction, the attempt to Explain it away was an interaction with the Observable Contradiction, so the Observable Contradiction gets their Attack on the Continuum.
 
-## Crew & Indirection
-
-There is also a Character Sheet for the Crew and its Indirection. Are you a band of merry companions? A mercenary company forged in the fire of Mercury? Time bank robbers? Is your Indirection larger in the inside? Well, that's where you turn this all into Aspects and Stunts.
-
-That's also where the Indirection can gets damaged.
+## 
 
 ## 
 
