@@ -12,8 +12,6 @@ There are so many good systems around, why invent a new one? So, rather than doi
 
 To introduce us to Fate Core, we have invited Janus, God of Portals.
 
-
-
 We're not going to copy the rules of Fate Core here, but:
 
 * the rules are Pay-what-you-want, starting at $0/0€, so you can simply [grab them at Evil Hat's \(https://www.evilhat.com/home/fate-core-downloads/\)](https://www.evilhat.com/home/fate-core-downloads/);
