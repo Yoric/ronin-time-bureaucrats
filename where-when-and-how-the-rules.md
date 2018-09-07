@@ -10,13 +10,17 @@ Ok, time to confess it: Ronin Time Bureaucrats does not come with its own rulese
 
 There are so many good systems around, why invent a new one? So, rather than doing so, let's pick Fate Core, a simple ruleset designed to get out of the way and let us improv our merry adventures through Space·Time. We'll add the [Time Deck](/the-time-deck.md) and just a little bit of Space·Time flavour.
 
-To introduce us to Fate Core, we have invited Janus, God of Portals.
-
-We're not going to copy the rules of Fate Core here, but:
+We're not going to copy the full rules of Fate Core here, but:
 
 * the rules are Pay-what-you-want, starting at $0/0€, so you can simply [grab them at Evil Hat's \(https://www.evilhat.com/home/fate-core-downloads/\)](https://www.evilhat.com/home/fate-core-downloads/);
 * the fine crew at Up To Four Players composed a great [two-pages webcomic introducing pretty much all the rules \(http://www.uptofourplayers.com/fate-core-rules/\)](http://www.uptofourplayers.com/fate-core-rules/);
 * Geek & Sundry dedicated an awesome video session to showing [how Fate plays \(https://www.youtube.com/watch?v=NOFXtAHg7vU\)](https://www.youtube.com/watch?v=NOFXtAHg7vU).
+
+Well, full rules or not, to introduce us to Fate Core, we have a special guest: Janus, God of Portals.
+
+![](/assets/Comic0-0-0.png)
+
+
 
 So, starting from this line, we're going to assume that you know the rules of Fate Core. If you don't, please hop into your Continuum Indirection and rewind Space·Time to read those rules! The rest of this chapter is mostly examples of how these rules apply to Space·Time. The only really new rule is that of **Explanations**.
 
