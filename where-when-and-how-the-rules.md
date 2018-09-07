@@ -392,15 +392,7 @@ Explanations always come in three parts, picked by the players.
 >
 > Explanations are one of the reasons why a GM of Ronin Time Bureaucrats should not spend too much time coming with sophisticated plots. The rules are _designed_ to let the players derail any story.
 
-If the Explanation suffices to dispel an Observable Contradiction \(or a Consequence, etc.\), that's good!
-
-If the Explanation actually introduces a new Observable Contradiction, not so good!
-
-If less than three victories were scored, there is no Established Fact, so any Observable Contradiction \(or Consequence, etc.\) that should have been handwaved away remains present. Also, if this is an Observable Contradiction, the attempt to Explain it away was an interaction with the Observable Contradiction, so the Observable Contradiction gets their Attack on the Continuum.
-
-
-
-Here, Time Traveler Tom and Time Traveler Tina established the following Explanation:
+Here's an example Explanation:
 
 * Grandmother Greta was a drunk who had no clue who Time Traveler Tom’s grandfather really was.
 
@@ -408,7 +400,11 @@ Here, Time Traveler Tom and Time Traveler Tina established the following Explana
 
 * Grandmother Greta always told Mother Maria that Grandfather Gerry was a violent man, so Mother Maria never attempted to get in touch with him.
 
+If the Explanation suffices to dispel an Observable Contradiction \(or a Consequence, etc.\), that's good!
 
+If the Explanation actually introduces a new Observable Contradiction, not so good!
+
+If less than three victories were scored, there is no Established Fact, so any Observable Contradiction \(or Consequence, etc.\) that should have been handwaved away remains present. Also, if this is an Observable Contradiction, the attempt to Explain it away was an interaction with the Observable Contradiction, so the Observable Contradiction gets their Attack on the Continuum.
 
 ## Crew & Indirection
 
@@ -416,12 +412,7 @@ There is also a Character Sheet for the Crew and its Indirection. Are you a band
 
 That's also where the Indirection can gets damaged.
 
-## Between adventures
 
-At the end of every adventure, the player decides what the character has learnt from this adventure.
-
-* A character may carry away one **Experience & Plunder**. This Experience & Plunder may be an object, a lesson learned, a skill mastered, a contact, a memory, ... The player gets to decide exactly what the Experience actually is and writes it down on the character sheet. Each Experience is a new Aspect for the character. Experiences may be invoked for free _once per adventure_, or for one Fate Point as other Aspects.
-* Alternatively, a character may increase their **Fate Refresh**, to start future sessions with additional Fate Points.
 
 ## And more
 
