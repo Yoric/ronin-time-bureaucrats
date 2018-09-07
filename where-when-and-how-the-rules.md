@@ -143,6 +143,8 @@ The list of skills is slightly shorter than that of Fate Core:
 
   * Resisting attempts to convince, trick or brainwash you. Also, bravery.
 
+You can find this list copied on the Continuum Sheet and the Indirection Sheet.
+
 A starting character gets:
 
 * one Skill at which your character is Great \(+4\);
@@ -169,6 +171,8 @@ Every Time Traveler \(both PC and NPC\) gets the following Stunts for free:
 
 * Because I can **Help Myself**, whenever I need to, I can spend 1 Fate Point to receive the help from my Future Self. My Future Self may do anything I would have done. If I am in presence of my Future Self for more than a brief instant, however, it becomes pretty much impossible to actually remember exactly how my Future Self behaved to be able to imitate them, so expect Observable Contradictions.
 * Because I'm a **Death-Defying Space·Time Traveler**, I can deflect any damage taken by myself to the Continuum. Given how fragile the Continuum is, it is generally a good idea to Concede the conflict after this.
+
+These stunts are copied on the Continuum Sheet. You don't need to write them down.
 
 ### Coming up with Space·Time Stunts
 
@@ -211,7 +215,7 @@ As usual with Fate, the best way to create a character is _not_ to pick Stunts f
 Well, none of these seems particularly suited to Space·Time Trotsky. Let's see if I can come up with something better:
 
 * "_Because I am a **Passionate Orator**, whenever I deliver a speech on something that truly matters to me and that I truly, deeply, believe, I can use Will instead of Consensus to convince the crowd_."
-* _"Because I have **Gurerilleros Everywhere**, I can use Tactics to Create an Advantage Local Guerrilla Cell in any city or settlement with oppressed workers. This works only once per city/settlement."_
+* _"Because I have **Guerilleros Everywhere**, I can use Tactics to Create an Advantage Local Guerrilla Cell in any city or settlement with oppressed workers. This works only once per city/settlement."_
 
 My Space·Time Trotsky is now a force to be reckoned with. I will leave the last Stunt to be decided during play.
 
