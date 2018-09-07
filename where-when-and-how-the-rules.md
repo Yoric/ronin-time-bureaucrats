@@ -215,7 +215,7 @@ As usual with Fate, the best way to create a character is _not_ to pick Stunts f
 Well, none of these seems particularly suited to Space·Time Trotsky. Let's see if I can come up with something better:
 
 * "_Because I am a **Passionate Orator**, whenever I deliver a speech on something that truly matters to me and that I truly, deeply, believe, I can use Will instead of Consensus to convince the crowd_."
-* _"Because I have **Guerilleros Everywhere**, I can use Tactics to Create an Advantage Local Guerrilla Cell in any city or settlement with oppressed workers. This works only once per city/settlement."_
+* _"Because I have **Guerilleros Everywhere**, I can use Tactics to Create an Advantage **Local Guerrilla Cell** in any city or settlement with oppressed workers. This works only once per city/settlement per scenario."_
 
 My Space·Time Trotsky is now a force to be reckoned with. I will leave the last Stunt to be decided during play.
 
