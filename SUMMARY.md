@@ -11,4 +11,5 @@
 * [Look, over there: Further sources](further-readings.md)
 * [Who did what: Credits](credits.md)
 * [Who, Where From and With What: The Character Sheets](who-where-from-and-with-what-the-character-sheets.md)
+* [Where, When and How Recap: The Tutorial](where-when-and-how-recap-the-tutorial.md)
 
