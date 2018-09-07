@@ -20,6 +20,8 @@ So, starting from this line, we're going to assume that you know the rules of Fa
 
 As usual with Ronin Time Bureaucrats, if you disagree with these rules, don't hesitate to come up with your own – or to wing it!
 
+\(placeholder for the comic book\)
+
 ## Creating a Character
 
 Well, here you are, ready to create your very own Ronin Time Bureaucrat. It's a great day to be alive, isn't it?
