@@ -142,6 +142,10 @@ By opposition, the **Acquisition Department of the Museum of Time** is quite ben
 
 \(TBD\)
 
+#### Foundation for a Time Encyclopaedia
+
+\(TBD\)
+
 ### The Governmental Branches
 
 #### Time Federation
@@ -162,7 +166,7 @@ Also, whatever you do, if you leave the ship, [don't dress in red](https://tvtro
 
 While the Time Federation is forever limited by its Prime Directive, the militarist branches managed to get away with murder, kidnapping and torture by finessing paradoxes. Some cadres of the Time Federation wanted the ability to counter-attack, and managed to create a covert operations branch called the **Time Adjustment Foundation**. And further is exactly where it goes.
 
-How bad have you been? How much evil did you do in your time? Are you a rapist? A serial killer? A slaver? Better even, a genocidal dictator? Fear not, Space·Time is so complicated that justice won't be done. There are so many timelines and so many opportunities to cause Observable Contradictions that punishing you would be counter-productive. On the other hand, if you are bad enough, or at least if files and histories report you as sufficiently evil, the **Time Adjustment Foundation** might well be after you and your deeds. _Because Evil must not remain unundone_!
+How bad have you been? How much evil did you do in your time? Are you a rapist? A serial killer? A slaver? Better even, a genocidal dictator? Fear not, Space·Time is so complicated that justice won't be done. There are so many timelines and so many opportunities to cause Observable Contradictions that punishing you would be counter-productive. On the other hand, if you are bad enough, or at least if files and histories report you as sufficiently evil, the **Time Adjustment Foundation** might well be after you and your deeds.
 
 Someday, while you're looking away, things may change. The blood on your hand may be replaced with a synthetic imitation. The screams of your victims may be turned into recordings. Your victims themselves may turn out to be non-sentient recordings of their own lives. Your crimes may turn out to be simulations. Files and histories may be turned into fakes _with the exact same content_. You, yourself, might be whisked away and replaced with a recording of your life, while you are punished, in some remote future far from contradictions.
 
@@ -170,15 +174,27 @@ For all you know, you might already be innocent. But nobody will ever find out.
 
 > **Time Adjustment Foundation**
 >
-> * Evil must not remain undone.
+> * Evil MUST NOT remain unundone.
 > * Victims will be much happier in Time Reservations.
 > * Cloaked Spaceships, armies of Replicants and life-long scripts.
 
+#### Time Parliament
+
+\(TBD\)
+
+#### Second Time Parliament
+
+\(TBD\)
+
+#### Time Commune
+
+\(TBD\)
+
+#### Post-Humanism Propagation Movement
+
+\(TBD\)
+
 ### The Private Sector
-
-The opulent agents of the **Time Hanse** could never manage to travel without their riches. After a few attempts at designing something more portable, they gave up and used city-sized Indirections, full with employees, factories and hangars.
-
-Contractually, the shady **Union of Time Investigators** \(or "Private I", as they are apparently called in hip circles\) must have their office above or behind Chinese Restaurants. To simplify things, their Indirection generally contains both the office and the Chinese Restaurant, and upon landing, will try to integrate to an existing building. Such Indirections have been known to accidentally trap clients busy eating at the Restaurant, but so far, nobody has complained.
 
 #### Time After Time After After Time Corporation
 
@@ -199,4 +215,36 @@ We'll digitize their psyche while they're asleep, and they'll never know. We'll 
 At some point, one of the copies will break. They always do. And when they do, you will know about it. It's that simple.
 
 Just sign here. **Time Will Tell** is a **Time After Time After Time Corporation** Company.
+
+#### Time Smugglers
+
+\(TBD\)
+
+#### Union of Time Investigators
+
+\(TBD\)
+
+Contractually, the shady **Union of Time Investigators** \(or "Private I", as they are apparently called in hip circles\) must have their office above or behind Chinese Restaurants. To simplify things, their Indirection generally contains both the office and the Chinese Restaurant, and upon landing, will try to integrate to an existing building. Such Indirections have been known to accidentally trap clients busy eating at the Restaurant, but so far, nobody has complained.
+
+#### 
+
+#### Time Hanse
+
+The opulent agents of the **Time Hanse** could never manage to travel without their riches. After a few attempts at designing something more portable, they gave up and used city-sized Indirections, full with employees, factories and hangars.
+
+\(TBD\)
+
+#### Thieves of Time
+
+\(TBD\)
+
+#### Time Only Knows, Weelky
+
+\(formerly known as Time Magazine, until an IP dispute\)
+
+\(TBD\)
+
+#### Timeadoo Vacation Agency
+
+\(TBD\)
 
