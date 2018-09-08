@@ -43,6 +43,7 @@
     * Character Sheet, Continuum Sheet, Crew Sheet: David Teller. [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
     * The God Janus by Sebastian Münster, 1550. Believed to be Public Domain.
     * Death and the miser. Oil painting by Frans II van Francken, photograph by Wellcome Library, London. Licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.en) license.
+    * Judith Leyster, A Card Player. Public Domain \(source: Wikipedia\).
   * **Mission Report: The Yellow Curse of Euthermios**
     * TBD
   * **Look, over there**
