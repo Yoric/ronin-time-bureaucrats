@@ -208,7 +208,7 @@ Once you sign with Time After Time After Time Corporation, we will assemble a te
 
 We offer a comprehensive choice of culturally-appropriate Heavens and Hells for most beliefs throughout the past, present and future history of mankind.
 
-Time After Time After Time Corporation, where we take care of the dead, for as many eternities as it takes!
+Time After Time After Time Corporation, where we take care of the dead, for as many forevers as it takes!
 
 #### Time Will Tell, Incorporated
 
