@@ -41,7 +41,7 @@
     * TBD
   * **Where, When and How**
     * Character Sheet, Continuum Sheet, Crew Sheet: David Teller. [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
-    * TBD
+    * The God Janus by Sebastian Münster, 1550. Believed to be Public Domain.
   * **Mission Report: The Yellow Curse of Euthermios**
     * TBD
   * **Look, over there**
