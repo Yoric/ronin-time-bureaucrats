@@ -138,7 +138,7 @@ As usual with Fate Core and Ronin Time Bureaucrats, the players are free to invo
 
 Again, the Continuum Indirection has its own Aspects. Is it larger on the inside than on the outside? Does it require a Crew of 500? Is it politically-minded?
 
-To come up with these answers, discuss among players and/or use the Time Deck! 
+To come up with these answers, discuss among players and/or use the Time Deck!
 
 ### Compels
 
@@ -236,15 +236,21 @@ As with Aspects, not all Skills need to be picked up during character creation.
 
 For Snowball, I will pick:
 
-* A Great Will, because nothing can get him to change his mind about Imperialist Capitalism or the Shadow that took over the Time Brigade. Also, it will make it harder for Space·Time Stalin to brainwash me. Take that, Space·Time Stalin!
-* Good Mobility, because I've been on the run for a few subjective years already.
-* Good Tactics, because I need to stay one step ahead of the Time Brigade. Also, with Mobility + Tactics, I'm starting to be pretty good at Guerrilla Warfare.
-* Fair Stealth, because that's also going to be necessary for my Space·Time Guerrilla.
-* Fair Expertise, which my Space·Time Guerrilla Trotsky Aspect will let me use apply to historico-economic marxist theories. It's not Great, but I can always invoke my Aspect to boost me.
+* A Great **Will**, because nothing can get him to change his mind about Imperialist Capitalism or the Shadow that took over the Time Brigade. Also, it will make it harder for Space·Time Stalin to brainwash me. Take that, Space·Time Stalin!
+* Good **Mobility**, because I've been on the run for a few subjective years already.
+* Good **Tactics**, because I need to stay one step ahead of the Time Brigade. Also, with Mobility + Tactics, I'm starting to be pretty good at Guerrilla Warfare.
+* Fair **Stealth**, because that's also going to be necessary for my Space·Time Guerrilla.
+* Fair **Expertise**, which my Space·Time Guerrilla Trotsky Aspect will let me use apply to historico-economic marxist theories. It's not Great, but I can always invoke my Aspect to boost me.
 
-I'll leave everything else to be decided during gameplay. I feel like I have followers, and I feel like I need a Stunt to be a good orator.
+I'll leave everything else to be decided during gameplay. Mmmh... I want to be a good orator and I need followers. Let's see if I can use Stunts to back this with my dice.
 
 Neither the Continuum nor Continuum Indirections have Skills.
+
+> **Not your usual Skills**
+>
+> Recall that Fate Core simulates _stories_, not the setting? This means, for instance, that this set of Skills should be sufficient, even if you decide to add extraordinary elements to the game, such as psionics, magic, etc.
+>
+> For instance, if psionics \(or a magic spell, or a mutation, etc.\) lets a character do something that is basically harming someone at a distance, you should simply use Skill **Shoot**. Yes, it may be a telekinetic mindblast, or a flame brought to you from the deepest pits of Hell
 
 ### Free Stunts
 
@@ -301,8 +307,6 @@ Well, none of these seems particularly suited to Space·Time Trotsky. Let's see 
 My Space·Time Trotsky is now a force to be reckoned with. I will leave the last Stunt to be decided during play.
 
 Continuum Indirections also have Stunts. The Continuum doesn't.
-
-
 
 ### Rolling the dice
 
