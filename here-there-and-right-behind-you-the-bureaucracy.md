@@ -100,7 +100,7 @@ The Crew of People's Time Liberation Citadels is typically composed of one Polit
 
 #### Time Purity Patrol
 
-Note: KKK in Space. 
+Note: KKK in Space.
 
 \(TBD\)
 
@@ -196,11 +196,7 @@ Well, it's simple, really: every question has an answer, and somewhere in SpaceÂ
 
 We'll digitize their psyche while they're asleep, and they'll never know. We'll upload thousands, millions of copies of that psyche to our patented InterrogationSpheres \(tm\), where they'll wake up in Heaven, or Hell, or in dreamland logic or in their power fantasies, or pretty much everywhere else.
 
-At some point, one of the copies will break. They always do.
-
-And when they do, you will know about it. It's that simple.
+At some point, one of the copies will break. They always do. And when they do, you will know about it. It's that simple.
 
 Just sign here. **Time Will Tell** is a **Time After Time After Time Corporation** Company.
-
-
 
