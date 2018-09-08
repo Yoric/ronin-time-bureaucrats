@@ -44,6 +44,7 @@
     * The God Janus by Sebastian Münster, 1550. Believed to be Public Domain.
     * Death and the miser. Oil painting by Frans II van Francken, photograph by Wellcome Library, London. Licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.en) license.
     * Judith Leyster, A Card Player. Public Domain \(source: Wikipedia\).
+    * Sphinx. Pyxide attique à figures rouges, 2e moitié du Ve av. J.-C. Provenance : Nola \(Italie\). Photographer: Marie-Lan Nguyen. Licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution 2.5 Generic](https://creativecommons.org/licenses/by/2.5/deed.en) license.
   * **Mission Report: The Yellow Curse of Euthermios**
     * TBD
   * **Look, over there**
