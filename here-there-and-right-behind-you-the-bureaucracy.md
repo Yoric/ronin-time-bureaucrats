@@ -6,7 +6,7 @@ Since then, the Bureaucracy has evolved quite a bit.
 
 ![](/assets/agency.png)
 
-> In the rest of this chapter, we will try and cover some of the main branches of the Bureaucracy. However, with the entirety of Space·Time as a playground, it is clear that the Bureaucracy has evolved in numerous unpredictable manners. In other words, GMs and players, don't hesitate to come up with new branches and splinter groups. They certainly exist, somewhere in the Continuum.
+> In the rest of this chapter, we will try and cover some of the main branches of the Bureaucracy. However, with the entirety of Space·Time as a playground, it is clear that the Bureaucracy has evolved in numerous unpredictable manners. In other words, GMs and players, don't hesitate to come up with new branches and splinter groups – as often as you want. They certainly exist, somewhere in the Continuum.
 
 ### The Administrations
 
